@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 96cc4e9c52ed122e8c6fbbc7cd91f38c4ad98333
+source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
 workflow-type: tm+mt
-source-wordcount: '528'
-ht-degree: 15%
+source-wordcount: '522'
+ht-degree: 16%
 
 ---
 
@@ -83,7 +83,6 @@ ht-degree: 15%
       + [Vorschau Ihrer E-Mail- und Anti-Spam-Analyse](/help/designing-content/email-designer/preview-your-email.md)
       + [Arbeiten mit vorhandenen Inhalten](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Erstellen von Inhalten mit Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
-      + [Bilder mit dem Creative Cloud SDK bearbeiten](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
    + [Produktlisten in transaktionalen E-Mails konfigurieren](/help/designing-content/product-listings-in-transactional-email.md)
 + Prozesse und Daten verwalten {#managing-processes-and-data}
    + [Workflow erstellen](/help/managing-processes-and-data/create-workflow.md)
