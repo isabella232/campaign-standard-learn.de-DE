@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
+source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 16%
+source-wordcount: '488'
+ht-degree: 17%
 
 ---
 
@@ -99,17 +99,6 @@ ht-degree: 16%
 + Entwickeln{#developing}
    + Custom Resources {#custom-resources-develop}
       + [Erstellen benutzerdefinierter Ressourcen](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-+ Integrating {#integrating}
-   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
-      + [Einleitung](/help/integrating/microsoft-dynamics-365-connector/introduction.md)
-      + [Single-Sign-On (SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
-      + [Mirrorseiten-URL](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
-      + [Microsoft Dynamics 365 konfigurieren](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-      + [Adobe IO konfigurieren](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
-      + [Unifi konfigurieren - Einführung](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-      + [Unifi-Aufträge - Übersicht](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-      + [Unifi-Berufe - Aufschub und Aufstieg](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-      + [Unifi - Operationalisierung und Überwachung](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + Verwalten{#administrating}
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
    + Control Panel {#control-panel}
