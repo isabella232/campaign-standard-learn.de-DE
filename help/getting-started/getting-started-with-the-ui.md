@@ -1,29 +1,29 @@
 ---
 title: 'Erste Schritte mit der Benutzeroberfläche '
-description: In diesem Video erhalten Sie einen Überblick über die Benutzeroberfläche von Adobe Campaign Standard und die wichtigsten Funktionen und Funktionen.
+description: In diesem Video erhalten Sie einen Überblick über die Benutzeroberfläche des Adobe Campaign Standards und die wichtigsten Funktionen und Funktionen.
 feature: User Interface
-topics: null
+topics: Getting started
 kt: 3882
+thumbnail: null
 doc-type: feature video
 activity: understand
-team: WWFRE
+team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 381e1873293b8e7ab9331529acc0a3a1d42b7486
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 20%
 
 ---
 
 
 # Erste Schritte mit der Benutzeroberfläche
 
-In diesem Video erhalten Sie einen Überblick über Adobe Campaign Standard.
-
-Sie werden:
-
-* Die wichtigsten Funktionen und Funktionen von Adobe Campaign Standard verstehen
-* Navigation im System
-* Die Menüs der Startseite
+In diesem Video erhalten Sie einen Überblick über die Benutzeroberfläche des Adobe Campaign Standards und erfahren, wie Sie zu wichtigen Funktionen und Kernfunktionen navigieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
+
+## Zusätzliche Ressourcen
+
+* [Über die Benutzeroberfläche](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [Benutzeroberfläche](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
