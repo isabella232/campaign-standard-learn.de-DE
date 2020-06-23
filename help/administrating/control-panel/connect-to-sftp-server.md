@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Um auf die SFTP-Verwaltung in der Systemsteuerung zuzugreifen, gehen Sie zu:
 
 Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
 
-* [!!UICONTROL Whitelisting] der IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen
+* [!!UICONTROL ermöglicht die Auflistung] der IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen
 * Private/öffentliche Schlüsselpaare, die bei Adobe Campaign registriert werden müssen
 * Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen, benötigen Sie auch die SFTP-Client-Software
 
