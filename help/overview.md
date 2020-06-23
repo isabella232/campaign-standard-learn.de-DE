@@ -3,7 +3,7 @@ title: Adobe Campaign Standard-Lernprogramme - Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Funktionen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
+source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 21%
@@ -17,15 +17,17 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Systemsteuerung Generieren und Installieren von GPG-Schlüsseln](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+* **[Systemsteuerung - Generieren und Installieren von GPG-Schlüsseln](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
    *Erfahren Sie, wie Sie ein neues öffentliches/privates GPG-Schlüsselpaar auf einer bestimmten Instanz erstellen und installieren und wie Sie einen öffentlichen Schlüssel in Ihre Adobe Campaign-Instanz importieren und installieren.*
 
-* **[Externe API-Aktivität](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
+* **[Externe API-Aktivität](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+
    *Erfahren Sie, wie Sie einen Workflow mit der Aktivität für externe API konfigurieren und ausführen.*
 
-* **[Austausch von Profilen - Testen von E-Mail-Nachrichten mit zielgerichteten Profilen](/help/communication-channels/email/profile-substitution.md)**   <br>
-   *Erfahren Sie, wie Sie einen Testversand zur Überprüfung mit der genauen Darstellung der Nachricht senden, die das Profil erhalten wird.*
+* **[Austausch von Profilen - Testen von E-Mail-Nachrichten mit zielgerichteten Profilen](/help/communication-channels/email/profile-substitution.md)**
 
+   *Erfahren Sie, wie Sie einen Testversand zur Überprüfung mit der genauen Darstellung der Nachricht senden, die das Profil erhalten wird.*
 
 ## Personalauswahl
 
