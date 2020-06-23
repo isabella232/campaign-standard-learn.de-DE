@@ -1,21 +1,24 @@
 ---
-title: Adobe Campaign-Standardschulungen - Übersicht
-description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
+title: Adobe Campaign Standard-Lernprogramme - Übersicht
+description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Funktionen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 4ef870e79a3479004dae4c22816338e8fe4563dd
+source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 22%
+source-wordcount: '302'
+ht-degree: 21%
 
 ---
 
 
 # Übersicht
 
-Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Funktionen von Adobe Campaign Standard.
 
 ## Neue Funktionen
+
+* **[Systemsteuerung Generieren und Installieren von GPG-Schlüsseln](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+   *Erfahren Sie, wie Sie ein neues öffentliches/privates GPG-Schlüsselpaar auf einer bestimmten Instanz erstellen und installieren und wie Sie einen öffentlichen Schlüssel in Ihre Adobe Campaign-Instanz importieren und installieren.*
 
 * **[Externe API-Aktivität](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
    *Erfahren Sie, wie Sie einen Workflow mit der Aktivität für externe API konfigurieren und ausführen.*
@@ -23,27 +26,22 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 * **[Austausch von Profilen - Testen von E-Mail-Nachrichten mit zielgerichteten Profilen](/help/communication-channels/email/profile-substitution.md)**   <br>
    *Erfahren Sie, wie Sie einen Testversand zur Überprüfung mit der genauen Darstellung der Nachricht senden, die das Profil erhalten wird.*
 
-* **[Systemsteuerung - Google TXT-Datensatzverwaltung](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
-   *Erfahren Sie, wie Sie allen Subdomänen, die zum Senden von E-Mails an GMAIL-Adressen verwendet werden, über die Systemsteuerung der Kampagne Google TXT-Site-Überprüfungsdatensätze hinzufügen.*
-
-* **[Übung: Erste Schritte mit Push-Benachrichtigungen für Android](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)**   <br>
-   *Dieses Lernprogramm führt Sie durch die Schritte, die beim Senden von Push-Benachrichtigungen von Adobe Campaign und beim Empfangen dieser Benachrichtigungen in Ihrer Android-App erforderlich sind.*
 
 ## Personalauswahl
 
 <table>
 <tr>
   <td>
-    <a href="./communication-channels/mobile/in-app/in-app-message-overview.md"> 
-      <img alt="In-App-Nachrichten (Tutorial)" src="./assets/in_app_messaging.png"/>
+    <a href="./communication-channels/email/profile-substitution.md"> 
+      <img alt="Austausch von Profilen - Testen von E-Mail-Nachrichten mit zielgerichteten Profilen (Video)" src="./assets/substitution_tab.png"/>
     </a>
     <div>
-      <a href="./communication-channels/mobile/in-app/in-app-message-overview.md">
-    <strong>In-App-Nachrichten (Tutorial)</strong>
+      <a href="./communication-channels/email/profile-substitution.md">
+    <strong>Austausch von Profilen - Testen von E-Mail-Nachrichten mit zielgerichteten Profilen (Video)</strong>
     </a>
     </div>
     <p>
-    <em>In-App-Nachrichten sind Kanal, mit denen Sie eine Meldung anzeigen können, wenn der Benutzer in einer Mobilanwendung aktiv ist.</em>
+    <em>Erfahren Sie, wie Sie einen Testversand zur Überprüfung mit der genauen Darstellung der Nachricht senden, die das Profil erhalten wird.</em>
     <p>
   </td>
    <td>
@@ -60,16 +58,16 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     <p>
   </td>
   <td>
-    <a href="./designing-content/product-listings-in-transactional-email.md">
-      <img alt="Personalisieren von E-Mails mit dynamischen Inhaltsblöcken (Video)" src="./assets/acs_product_listings.png" />
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <img alt="Übung: Erste Schritte mit Push-Benachrichtigungen für Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="./designing-content/product-listings-in-transactional-email.md">
-    <strong>Produktlisten (Tutorial)</strong>
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <strong>Übung: Erste Schritte mit Push-Benachrichtigungen für Android</strong>
     </a>
     </div>
     <p>
-    <em>Erstellen Sie transaktionale E-Mails mit einer Liste von Produkten und Angeboten. </em>
+    <em>Dieses Lernprogramm führt Sie durch die Schritte, die beim Senden von Push-Benachrichtigungen von Adobe Campaign und beim Empfangen dieser Benachrichtigungen in Ihrer Android-App erforderlich sind. </em>
     <p>
   </td>
 </tr>
