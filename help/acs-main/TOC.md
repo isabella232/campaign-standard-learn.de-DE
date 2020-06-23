@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign-Standardschulungen
+user-guide-title: Adobe Campaign Standard-Lernprogramme
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 17%
+source-wordcount: '495'
+ht-degree: 16%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 17%
 + [Übersicht](/help/overview.md)
 + Erste Schritte{#getting-started}
    + [Übersicht](/help/getting-started/getting-started-overview.md)
-   + [Einführung in Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
+   + [Einführung in den Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Funktionsübersicht](/help/getting-started/functional-overview.md)
    + [Erste Schritte mit der Benutzeroberfläche](/help/getting-started/getting-started-with-the-ui.md)
    + [Konfigurieren einer Liste](/help/getting-started/configure-a-list.md)
@@ -70,7 +70,7 @@ ht-degree: 17%
          + [Nutzer der Zielgruppe auf der Basis ihres Campaign-Profils](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Erstellen eines In-App-Versands in einem Workflow](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Bericht auf Ihrem In-App-Versand](/help/communication-channels/mobile/in-app/in-app-reporting.md)
-      + [Mobilanwendung mit dem Adobe Experience Platform SDK konfigurieren](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+      + [Mobilanwendung mit Adobe Experience Platform SDK konfigurieren](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Briefpost](/help/communication-channels/direct-mail/directmail.md)
    + Landingpages {#landing-pages}
       + [Erstellen und Bearbeiten einer Landingpage](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
@@ -104,16 +104,17 @@ ht-degree: 17%
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
    + Control Panel {#control-panel}
       + [Übersicht über die Systemsteuerung](/help/administrating/control-panel/control-panel-overview.md)
-      + [Überwachen der Serverkapazität, Positivlisten von IP-Adressen und Hinzufügen von SSH-Schlüsseln](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+      + [Überwachen der Serverkapazität, Auflisten von IP-Adressen und Hinzufügen von SSH-Schlüsseln](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Erstellen eines SSH-Schlüssels](/help/administrating/control-panel/generate-ssh-key.md)
       + [Herstellen einer Verbindung mit einem SFTP-Server](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Subdomänen übertragen](/help/administrating/control-panel/subdomain-delegation.md)
       + [SSL-Zertifikate hinzufügen](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Verwalten von SSL-Zertifikaten](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Verwaltung von Google TXT-Einträgen](/help/administrating/control-panel/google-txt-record-management.md)
+      + [Generieren und Installieren von GPG-Schlüsseln](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [Probleme beim Schießen](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
-      + [Grundlagen zum Data Connector für die Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+      + [Informationen zum Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Benutzerdefinierte Ressourcen zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Erlebnis-Ereignis zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Zuordnen von Seed-Tabellendaten](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
