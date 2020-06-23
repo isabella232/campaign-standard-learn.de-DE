@@ -1,6 +1,6 @@
 ---
 title: Probleme beim Aufnehmen der Systemsteuerung
-description: Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung nach Instanz- und Whitelist-IP-Adressen überwachen und verwalten.
+description: Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung nach Instanz und zulassungsliste-IP-Adressen überwachen und verwalten.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,9 +8,9 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '358'
 ht-degree: 3%
 
 ---
@@ -62,7 +62,7 @@ Der Administrator muss den Profil für jede Instanz, die er verwalten möchte, d
 
 Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
 
-* [!UICONTROL Whitelisting] der IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen
+* [!UICONTROL die Auflistung] der IP-Adresse zulassen, von der Sie eine Verbindung zum SFTP-Server herstellen
 * Private/öffentliche Schlüsselpaare, die bei Adobe Campaign registriert werden müssen
 * Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen, benötigen Sie auch die SFTP-Clientsoftware
 
