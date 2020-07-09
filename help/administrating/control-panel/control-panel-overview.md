@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '417'
 ht-degree: 6%
 
 ---
@@ -60,7 +60,7 @@ Im folgenden Video wird erläutert, wie Sie einer Instanz einer Kampagne einen A
 
 * **Verwalten von SFTP-Servern**
 
-   *Erfahren Sie, wie Sie die Serverkapazität und die zulassungsliste von IP-Adressen überwachen und SSH-Schlüssel hinzufügen können*
+   *Erfahren Sie, wie Sie die Serverkapazität und die zulassungsliste-IP-Adressen überwachen und SSH-Schlüssel hinzufügen können:*
 
    * [Überwachen der Serverkapazität, Auflisten von IP-Adressen und Hinzufügen von SSH-Schlüsseln](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Erstellen eines SSH-Schlüssels](/help/administrating/control-panel/generate-ssh-key.md)
@@ -78,9 +78,13 @@ Im folgenden Video wird erläutert, wie Sie einer Instanz einer Kampagne einen A
 
    *Erfahren Sie, wie Sie allen Subdomänen, die zum Senden von E-Mails an GMAIL-Adressen verwendet werden, über die Systemsteuerung der Kampagne Google TXT-Site-Überprüfungsdatensätze hinzufügen.*
 
-* **[Generieren und Installieren von GPG-Schlüsseln](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **GPG-Schlüsselverwaltung**
 
-   *Erfahren Sie, wie Sie ein neues öffentliches/privates GPG-Schlüsselpaar auf einer bestimmten Instanz erstellen und installieren und wie Sie einen öffentlichen Schlüssel in Ihre Adobe Campaign-Instanz importieren und installieren.*
+   *Erfahren Sie, wie Sie ein Public-Private-Key-Paar für die Verschlüsselung ausländischer Kampagnen auf einer angegebenen Instanz erstellen und installieren sowie einen öffentlichen Schlüssel für die Entschlüsselung eingehender Daten importieren und auf einer Kampagne installieren:*
+
+   * [Generieren und Installieren von GPG-Schlüsseln für die Datenverschlüsselung](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Verschlüsseln von Daten mit einem GPG-Schlüssel](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [Entschlüsseln von Daten](./gpg-key-management/decrypting-data.md)
 
 * **[Probleme beim Schießen](/help/administrating/control-panel/trouble-shooting.md)**
 
