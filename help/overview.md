@@ -3,9 +3,9 @@ title: Adobe Campaign Standard-Lernprogramme - Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Funktionen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '308'
 ht-degree: 21%
 
 ---
@@ -17,9 +17,9 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Systemsteuerung - Generieren und Installieren von GPG-Schlüsseln](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[GPG-Schlüsselverwaltung](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Erfahren Sie, wie Sie ein neues öffentliches/privates GPG-Schlüsselpaar auf einer bestimmten Instanz erstellen und installieren und wie Sie einen öffentlichen Schlüssel in Ihre Adobe Campaign-Instanz importieren und installieren.*
+   *Erfahren Sie, wie Sie ein Public-Private-Key-Paar für die Verschlüsselung ausländischer Kampagnen auf einer angegebenen Instanz erstellen und installieren sowie einen öffentlichen Schlüssel für die Entschlüsselung eingehender Daten importieren und auf einer Kampagne installieren.*
 
 * **[Externe API-Aktivität](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
