@@ -1,6 +1,6 @@
 ---
-title: Probleme beim Aufnehmen der Systemsteuerung
-description: Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung nach Instanz und zulassungsliste-IP-Adressen überwachen und verwalten.
+title: Probleme beim Aufschießen des Control Panels
+description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz und Zulassungsliste-IP-Adressen überwachen und verwalten.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -16,9 +16,9 @@ ht-degree: 3%
 ---
 
 
-# Probleme beim Aufnehmen der [!UICONTROL-Systemsteuerung]
+# Probleme beim Aufnehmen des [!UICONTROL-Control Panels]
 
-Erfahren Sie, wie Sie Probleme mit der Systemsteuerung beheben können.
+Erfahren Sie, wie Sie Probleme bei der Verwendung des Control Panels beheben können.
 
 ## Anmelden und Homepage
 
@@ -29,7 +29,7 @@ Probleme bei der Anmeldung und Homepage.
 **Vorgehensweise:**
 Der Benutzer muss seinen [!DNL IMS Org ID] (xxx) finden. Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem [!UICONTROL Profil] des Produkts hinzufügen [!DNL “Campaign-xxx-Admins”] . Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise selbst als *[!UICONTROL Benutzer]* hinzufügen.
 
-### Symptom: Links in der [!UICONTROL Adobe Experience Cloud-Startseite] zum Zugriff auf die [!UICONTROL Systemsteuerung] werden für Benutzer nicht angezeigt
+### Symptom: Links in der [!UICONTROL Adobe Experience Cloud-Startseite] für den Zugriff auf [!UICONTROL Control Panel] werden für Benutzer nicht angezeigt
 
 **Ursache:**
 Benutzer sehen die Links erst dann als Benutzer zum [!UICONTROL Profil des Produkts] `Campaign-xxx-Administrators/Admin`
@@ -37,7 +37,7 @@ Benutzer sehen die Links erst dann als Benutzer zum [!UICONTROL Profil des Produ
 **Vorgehensweise:**
 Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem [!UICONTROL Profil] des Produkts hinzufügen *[!DNL Campaign-xxx-Admins]* . Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise selbst als *[!UICONTROL Benutzer]* hinzufügen.
 
-### Symptom: Eine Instanz wird nicht in der [!UICONTROL Systemsteuerung aufgeführt]
+### Symptom: Eine Instanz wird nicht im [!UICONTROL Control Panel aufgeführt]
 
 **Ursache:**
 In der Regel muss der Benutzer als *[!UICONTROL Benutzer]* -Profil `!DNL Campaign-xxx-Administrators/Admin` für die fehlende Instanz hinzugefügt werden
@@ -51,11 +51,11 @@ Der Administrator muss den Profil für jede Instanz, die er verwalten möchte, d
 *Prüfung[!DNL IMS Org ID](00:26 Min.)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Hinzufügen eines Administrators zum[!UICONTROL Produkt-Profil]*[!DNL administrators]*, um die[!UICONTROL Systemsteuerung]verwenden zu können (01:03 Min.)*
+*Hinzufügen eines Administrators zum[!UICONTROL Produkt-Profil]*[!DNL administrators]*, um[!UICONTROL Control Panel]verwenden zu können (01:03 Min.)*
 
 ### Hilfreiche Dokumentation
 
-* [Entdecken Sie die [!UICONTROL Systemsteuerung]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [Entdecken Sie den [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
 * [[!UICONTROL Berechtigungen für das Control Panel verwalten]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## Verbindung zum SFTP-Server herstellen (Client oder API)
