@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
+source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '357'
 ht-degree: 3%
 
 ---
 
 
-# Probleme beim Aufnehmen des [!UICONTROL-Control Panels]
+# Probleme beim Schießen des [!UICONTROL Control Panels]
 
 Erfahren Sie, wie Sie Probleme bei der Verwendung des Control Panels beheben können.
 
