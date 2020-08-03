@@ -21,7 +21,8 @@ ht-degree: 4%
 >[!NOTE]
 >
 >Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert.
->Wenden Sie sich an den [!UICONTROL Adobe-Kundendienst] , wenn Sie diese Funktion implementieren möchten.
+>
+>Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
 
 Erfahren Sie, wie Sie verschiedene Datentypen zwischen Adobe Campaign Standard und Adobe Experience Platform zuordnen.
 
