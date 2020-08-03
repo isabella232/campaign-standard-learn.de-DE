@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 18%
+ht-degree: 24%
 
 ---
 
@@ -25,4 +25,4 @@ In den folgenden Videos wird beschrieben, wie Sie ein Paar mit öffentlichem/pri
 
 ## Zusätzliche Ressourcen
 
-* [GPG-Schlüsselverwaltung (Dokumentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-Schlüsselverwaltung (Dokumentation)](https://docs.adobe.com/content/help/de-DE/control-panel/using/instances-settings/gpg-keys-management.html)
