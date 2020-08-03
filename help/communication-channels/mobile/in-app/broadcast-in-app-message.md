@@ -1,6 +1,6 @@
 ---
 title: 'In-App-Broadcast-Nachricht senden '
-description: Mit der Vorlage "In-App-Nachricht senden"können Sie alle Benutzer Ihrer mobilen App mit Adobe Campaign Standard (ACS) Zielgruppe durchführen
+description: Mit der Vorlage "In-App-Nachricht übertragen"können Sie alle Benutzer Ihrer mobilen App mit Adobe Campaign Standard (ACS) Zielgruppe durchführen
 feature: In-App
 topics: Mobile
 kt: 2497
