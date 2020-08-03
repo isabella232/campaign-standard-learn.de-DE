@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Target users based on their [!DNL Campaign] profile
 
-Sie können bekannte App-Benutzer (diejenigen, die sich mit PII bei der App angemeldet haben) mit Nachrichten, die mit CRM-Profil-Attributen personalisiert wurden, in Adobe Campaign Standard Zielgruppe haben. Diese Vorlage ist besonders hilfreich, um Anwendungsfälle für die Orchestrierung von Kanälen zu unterstützen, bei denen Sie bereits auf andere Kanal wie E-Mail oder Push abgestellt haben und die Benutzer anhand ihrer Antwort mit einer [!UICONTROL In-App] -Nachricht interagieren möchten.
+Sie können bekannte App-Benutzer (diejenigen, die sich mit PII bei der App angemeldet haben) mit Nachrichten, die mit CRM-Profil-Attributen personalisiert wurden, in Adobe Campaign Standard Zielgruppe werden. Diese Vorlage ist besonders hilfreich, um Anwendungsfälle für die Orchestrierung von Kanälen zu unterstützen, bei denen Sie bereits auf andere Kanal wie E-Mail oder Push abgestellt haben und die Benutzer anhand ihrer Antwort mit einer [!UICONTROL In-App] -Nachricht interagieren möchten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
