@@ -1,6 +1,6 @@
 ---
-title: Ändern benutzerdefinierter Ressourcen bei der Einrichtung von Adobe Campaign Standard (ACS) für Datenschutzanforderungen
-description: Beim Einrichten von Adobe Campaign Standard (ACS) für die Verarbeitung von Datenschutzanforderungen müssen Sie sicherstellen, dass alle benutzerspezifischen Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
+title: Ändern benutzerdefinierter Ressourcen beim Einrichten von Adobe Campaign Standard (ACS) für Datenschutzanforderungen
+description: Beim Einrichten von Adobe Campaign Standard (ACS) für die Verarbeitung von Datenschutzanforderungen müssen Sie sicherstellen, dass benutzerspezifische Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
 feature: GDPR, CCPA
 topic: null
 kt: 1243
@@ -18,14 +18,15 @@ ht-degree: 6%
 
 # Benutzerdefinierte Ressourcen für Datenschutzanforderungen ändern
 
-Beim Einrichten von Adobe Campaign Standard zur Bearbeitung von Datenschutzanforderungen müssen Sie sicherstellen, dass alle benutzerspezifischen Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
+Beim Einrichten von Adobe Campaign Standard für die Verarbeitung von Datenschutzanforderungen müssen Sie sicherstellen, dass benutzerspezifische Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >
 >**Ausschluss vom Verkauf personenbezogener Daten (CCPA)**
->Ab Version 19.4 wird ein CCPA-Ausschluss-Feld in der Benutzeroberfläche und in der API sofort bereitgestellt. Damit 19.3 diese Informationen nutzen kann, müssen Sie dieses >Feld in Adobe Campaign Standard erstellen. Please see the [detailed documentation](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#ccpa) for more information.
+>
+>Ab Version 19.4 wird ein CCPA-Ausschluss-Feld in der Benutzeroberfläche und in der API sofort bereitgestellt. Um diese Informationen in Version 19.3 nutzen zu können, müssen Sie dieses Feld in Adobe Campaign Standard erstellen. Please see the [detailed documentation](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#ccpa) for more information.
 >
 > Sie können Ihre Version überprüfen, indem Sie auf das ? oben rechts auf der Benutzeroberfläche und wählen Sie Info.
 
