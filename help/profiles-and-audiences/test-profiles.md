@@ -16,7 +16,7 @@ ht-degree: 72%
 ---
 
 
-# Erstellen eines Test-Profils {#creating-a-test-profile}
+# Create a test profile {#creating-a-test-profile}
 
 Testprofile ermöglichen es, zusätzliche Empfänger anzusprechen, die nicht den definierten Zielgruppenkriterien entsprechen. Sie werden Audiences hinzugefügt, um beispielsweise Missbrauch bei der Nutzung Ihrer Empfängerliste aufzudecken oder den korrekten Erhalt der Sendungen zu kontrollieren.
 
