@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '358'
 ht-degree: 3%
 
 ---
 
 
-# Probleme beim Schießen des [!UICONTROL Control Panels]
+# Probleme beim Aufnehmen des [!UICONTROL-Control Panels]
 
 Erfahren Sie, wie Sie Probleme bei der Verwendung des Control Panels beheben können.
 
@@ -29,7 +29,7 @@ Probleme bei der Anmeldung und Homepage.
 **Vorgehensweise:**
 Der Benutzer muss seinen [!DNL IMS Org ID] (xxx) finden. Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem [!UICONTROL Profil] des Produkts hinzufügen [!DNL “Campaign-xxx-Admins”] . Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise selbst als *[!UICONTROL Benutzer]* hinzufügen.
 
-### Symptom: Links in der [!UICONTROL Adobe Experience Cloud-Startseite] für den Zugriff auf [!UICONTROL Control Panel] werden für Benutzer nicht angezeigt
+### Symptom: Links im [!UICONTROL Adobe Experience Cloud Home] für den Zugriff auf den [!UICONTROL Control Panel] werden nicht angezeigt
 
 **Ursache:**
 Benutzer sehen die Links erst dann als Benutzer zum [!UICONTROL Profil des Produkts] `Campaign-xxx-Administrators/Admin`
