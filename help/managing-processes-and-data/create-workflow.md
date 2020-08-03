@@ -23,7 +23,7 @@ Workflows können in unterschiedlichsten Kontexten zum Einsatz kommen:
 * Zielgruppenbestimmung für Audiences oder zum Versand von Nachrichten.
 * Daten-Management (ETL) zum Bearbeiten von Daten
 * Import von Daten in die Campaign-Datenbank
-* Technische Prozesse wie Datenbankbereinigung (Cleanup), Abruf von Trackinginformationen etc.
+* Technische Prozesse wie Datenbankbereinigung (Cleanup), Abruf von Tracking-Informationen etc.
 
 In diesem Video erfahren Sie, wie Sie einen Workflow in Adobe Campaign Standard erstellen und bearbeiten.
 
