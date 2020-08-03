@@ -1,6 +1,6 @@
 ---
 title: Herstellen einer Verbindung mit einem SFTP-Server
-description: In diesem Video wird beschrieben, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung mit dem SFTP-Server herstellen und dabei die Schlüssel verwenden, die Sie in der Systemsteuerung gespeichert haben.
+description: In diesem Video wird beschrieben, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung mit dem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden.
 feature: Control Panel
 topics: null
 kt: 2924
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie auf die SFTP-Verwaltung zugreifen und eine Verbindung zu einem SFTP-Server herstellen können.
 
-## Zugriff auf [!UICONTROL SFTP-Verwaltung der Systemsteuerung]
+## Zugriff auf [!UICONTROL Control Panel] -SFTP-Verwaltung
 
-Um auf die SFTP-Verwaltung in der Systemsteuerung zuzugreifen, gehen Sie zu:
+Um auf das SFTP-Management in Control Panel zuzugreifen, gehen Sie zu:
 
-* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > [!UICONTROL Lösungsauswahl]: [!UICONTROL Kampagne] > **[!UICONTROL Systemsteuerung]** > **SFTP** -Karte
+* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > [!UICONTROL Lösungsauswahl]: [!UICONTROL Kampagne] > **[!UICONTROL Control Panel]** -Karte > **SFTP** -Karte
 
    oder
 * Direkt von der URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
@@ -37,7 +37,7 @@ Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
 * Private/öffentliche Schlüsselpaare, die bei Adobe Campaign registriert werden müssen
 * Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen, benötigen Sie auch die SFTP-Client-Software
 
-In diesem Video wird beschrieben, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung mit dem SFTP-Server herstellen und dabei die Schlüssel verwenden, die Sie in der Systemsteuerung gespeichert haben.
+In diesem Video wird beschrieben, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung mit dem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
 *Verbindung zu einem SFTP-Server herstellen (02:04 Min.)*
