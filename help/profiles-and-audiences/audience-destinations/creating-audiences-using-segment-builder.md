@@ -21,11 +21,12 @@ ht-degree: 1%
 >[!NOTE]
 >
 >Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert. [!UICONTROL Audiencen-Ziele] basieren auf der Adobe Experience Platform und erfordern eine bestimmte Konfiguration.
->Wenden Sie sich an den [!UICONTROL Adobe-Kundendienst] , wenn Sie diese Funktion implementieren möchten.
+>
+>Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
 
-Mit Adobe Campaign Standard können Sie Audiencen mithilfe von Daten aus dem Adobe Experience Cloud [Real-Time Customer Profil](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) erstellen, indem Sie den Adobe Experience Platform [!UICONTROL Unified Segment Builder]verwenden.
+Mit Adobe Campaign Standard können Sie Audiencen mithilfe von Daten aus dem Adobe Experience Cloud [Real-Time Customer Profil](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) mithilfe von Adobe Experience Platform [!UICONTROL Unified Segment Builder]erstellen.
 
-Sie können über das [!UICONTROL Audiencen-] Modul direkt in Adobe Campaign Standard auf den Segmentaufbau  zugreifen. Auf diese Weise können Sie diese Audiencen direkt in der Ansicht [!UICONTROL Audiencen] Liste verwalten, in der Sie eine neue Adobe Experience Platform-Audience direkt über die Adobe Campaign-Oberfläche bearbeiten oder erstellen können
+Sie können über das [!UICONTROL Audiencen-] Modul direkt in Adobe Campaign Standard auf den Segmentaufbau  zugreifen. Auf diese Weise können Sie diese Audiencen direkt in der Ansicht [!UICONTROL Audiencen] -Liste verwalten, in der Sie eine neue Adobe Experience Platform-Audience direkt über die Adobe Campaign-Oberfläche bearbeiten oder erstellen können
 
 Im folgenden Video wird erläutert, wie eine neue Audience mit dem [!UICONTROL einheitlichen Segmentaufbau] in Adobe Campaign Standard erstellt wird.
 
