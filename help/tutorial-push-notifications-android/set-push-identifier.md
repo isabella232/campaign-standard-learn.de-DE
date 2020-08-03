@@ -100,4 +100,5 @@ Navigieren Sie zu **[!UICONTROL Administration->Kanal->Mobile App(AEP SDK)]**. Ã
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[HINWEIS]
+>
 >Wenn das Registrierungstoken auf der Registerkarte &quot;Abonnenten [!UICONTROL von] Mobilanwendungen&quot;nicht angezeigt wird, beenden Sie hier den Vorgang, bevor Sie fortfahren.
