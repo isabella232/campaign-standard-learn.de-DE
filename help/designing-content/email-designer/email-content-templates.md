@@ -1,6 +1,6 @@
 ---
 title: Einführung in E-Mail-Inhaltsvorlagen
-description: Adobe Campaign Standard-Angebot 18 sind standardmäßig anpassbar, reaktionsfähige E-Mail-Vorlagen.  Diese Vorlagen wurden speziell für Adobe Campaign Standard erstellt und sind einfach zu manipulieren und zu ändern. Sie sind eine großartige Grundlage für die Erstellung von E-Mails.
+description: Adobe Campaign Standard Angebots 18 sind standardmäßig anpassbar, reaktionsfähige E-Mail-Vorlagen.  Diese Vorlagen wurden speziell für den Adobe Campaign Standard erstellt und sind leicht zu manipulieren und zu ändern. Sie sind eine großartige Grundlage für die Erstellung von E-Mails.
 feature: Email Designer
 topics: null
 kt: 1442
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Einführung in E-Mail-Inhaltsvorlagen {#introduction-to-the-email-content-templates}
 
-Adobe Campaign Standard-Angebot 18 sind standardmäßig anpassbar, reaktionsfähige E-Mail-Vorlagen. Diese Vorlagen wurden speziell für Adobe Campaign Standard erstellt und sind einfach zu manipulieren und zu ändern. Sie sind eine großartige Grundlage für die Erstellung von E-Mails.
+Adobe Campaign Standard Angebots 18 sind standardmäßig anpassbar, reaktionsfähige E-Mail-Vorlagen. Diese Vorlagen wurden speziell für den Adobe Campaign Standard erstellt und sind leicht zu manipulieren und zu ändern. Sie sind eine großartige Grundlage für die Erstellung von E-Mails.
 
 In diesem Video werden die Vorlagen vorgestellt und die Erstellung einer eigenen Vorlage erläutert.
 
