@@ -25,7 +25,7 @@ Adobe Campaign hat zwei Typen oder Profil:
 
 Profil, die nach einem oder mehreren gemeinsamen Kriterien gruppiert sind, werden als **Audiencen** bezeichnet.
 
-In diesem Video wird erläutert, wie Sie zu vorhandenen Profilen navigieren und wie Profil und Audiencen in Adobe Campaign Standard erstellt werden.
+In diesem Video wird erläutert, wie Sie zu vorhandenen Profilen navigieren und wie Sie in Adobe Campaign Standard Profil und Audiencen erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
