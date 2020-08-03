@@ -1,6 +1,6 @@
 ---
 title: Einführung in In-App-Nachrichten
-description: Mit dem In-App-Nachrichten-Kanal (Adobe Campaign Standard, ACS) können Sie dem Benutzer kontextrelevante In-App-Nachrichten präsentieren, die auf das Echtzeitverhalten eines Kunden innerhalb der Mobilanwendung reagieren.
+description: Mit dem In-App-Nachrichten-Kanal (Adobe Campaign Standard, ACS) können Sie dem Benutzer kontextuell relevante In-App-Nachrichten als Reaktion auf das Echtzeit-Verhalten des Kunden in der Mobilanwendung präsentieren.
 feature: In-App
 topics: Mobile
 kt: 1911
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '784'
-ht-degree: 10%
+ht-degree: 14%
 
 ---
 
@@ -27,21 +27,21 @@ In diesem Lernprogramm werden die Schritte erläutert, die zum Einrichten der mo
 1. Make sure you can access the **[!UICONTROL In-App]** channel. Wenn Sie keinen Zugriff auf diesen Kanal haben, kontaktieren Sie das für Ihr Konto zuständige Team.
 1. Verify that your **user** has the necessary **permissions** in Adobe Campaign Standard and [!UICONTROL Launch].
 
-   1. Stellen Sie in Adobe Campaign Standard sicher, dass der IMS-Benutzer zur [!UICONTROL Standard-Benutzer] - und [!UICONTROL Administratorgruppe] gehört.\
-      Dieser Schritt ermöglicht es dem Benutzer, sich bei Adobe Campaign Standard anzumelden, zur Experience Platform SDK-Seite für mobile Apps zu navigieren und die Eigenschaften für mobile Apps, die Sie in [!UICONTROL Launch]erstellt haben, Ansicht.
-   1. Stellen Sie bei [!UICONTROL Launch]sicher, dass Ihr IMS-Benutzer Teil eines [!UICONTROL Launch] -Profils ist.\
-      Dieser Schritt ermöglicht es dem Benutzer, sich bei [!UICONTROL Launch] anzumelden, um die Eigenschaften zu erstellen und Ansicht. Weitere Informationen zu Produkt-Profilen in [!UICONTROL Launch]finden Sie unter [Erstellen Sie Ihr Profil](https://docs.adobelaunch.com/launch-reference/administration/user-permissions#3-create-your-product-profile). Im Profil &quot;product&quot;sollten keine Berechtigungen für die Firma oder die Eigenschaften festgelegt sein, der Benutzer sollte sich aber dennoch anmelden können.
+   1. In Adobe Campaign Standard, ensure that the IMS user is part of the [!UICONTROL Standard User] and [!UICONTROL Administrator] groups.\
+      This step allows the user to log in to Adobe Campaign Standard, navigate to the Experience Platform SDK mobile app page, and view the mobile app properties that you created in [!UICONTROL Launch].
+   1. In [!UICONTROL Launch], ensure that your IMS user is part of a [!UICONTROL Launch] product profile.\
+      This step allows the user to log in to [!UICONTROL Launch] to create and view the properties. For more information about product profiles in [!UICONTROL Launch], see [Create your product profile](https://docs.adobelaunch.com/launch-reference/administration/user-permissions#3-create-your-product-profile). Im Produktprofil sollten keine Berechtigungen für das Unternehmen oder die Eigenschaften festgelegt sein, aber der Benutzer sollte sich trotzdem anmelden können.
 
-1. Starten der Adobe Experience Platform:
+1. In Adobe Experience Platform Launch:
 
-   1. Erstellen Sie die mobile Anwendung, indem Sie eine mobile Eigenschaft erstellen und Ihre mobile App mit dem Experience Platform SDK instrumentieren.
+   1. Erstellen Sie die Mobilanwendung, indem Sie eine mobile Eigenschaft erstellen und Ihre mobile App mit dem Experience Platform SDK instrumentieren.
    1. Install the **Adobe Campaign Standard** extension for your mobile application.
 
 For more on extensions, refer to the [Configure Campaign Standard extension in Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) in [!UICONTROL Adobe Launch ]documentation.
 
 ## Schritte zum Einrichten von [!UICONTROL In-App] -Nachrichten {#steps-to-set-up}
 
-1. [Konfigurieren einer mobilen Anwendung mit dem Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
+1. [Mobilanwendungen mithilfe von Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)konfigurieren
 
 1. [Konfigurieren Sie Ereignis](/help/communication-channels/mobile/in-app/configure-events.md).
 
@@ -73,7 +73,7 @@ Sobald Ihr Versand veröffentlicht wurde, können Sie einen [Bericht über Ihren
 
 * [In-App-Bericht](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)
 * [Einrichten einer mobilen Eigenschaft](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Konfigurieren einer mobilen Anwendung mit Adobe Experience Platform SDKs](https://helpx.adobe.com/de/campaign/kb/configuring-app-sdk.html)
+* [Konfiguration einer Mobile App mithilfe von Adobe Experience Platform SDKs](https://helpx.adobe.com/de/campaign/kb/configuring-app-sdk.html)
 * [In-App-Nachricht vorbereiten und senden](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
 * [In-App-Nachricht anpassen](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
 * [In-App-Nachricht in einem Workflow senden](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html)
