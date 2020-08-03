@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
 
-# Senden eines Tests, Vorbereiten und Senden einer E-Mail
+# Testversand, Vorbereiten und Senden einer E-Mail
 
 In diesem Video wird erläutert, wie Sie eine Test-E-Mail senden, einen E-Mail-Versand in Adobe Campaign Standard (ACS) vorbereiten und dann senden können.
 
