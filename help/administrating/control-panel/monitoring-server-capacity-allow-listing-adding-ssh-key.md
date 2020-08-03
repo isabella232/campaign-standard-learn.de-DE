@@ -1,6 +1,6 @@
 ---
 title: Überwachen der Serverkapazität, Auflisten von IP-Adressen und Hinzufügen von SSH-Schlüsseln
-description: Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung instanzweise überwachen und verwalten und zulassungsliste IP-Adressen hinzufügen.
+description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung instanzweise überwachen und verwalten und Zulassungslisten IP-Adressen hinzufügen.
 feature: Control Panel
 topics: null
 kt: 3266
@@ -18,20 +18,20 @@ ht-degree: 1%
 
 # Überwachen der Serverkapazität, [!UICONTROL Zulassen der Auflistung] von IP-Adressen und Hinzufügen von SSH-Schlüsseln
 
-Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung instanzweise überwachen und verwalten und [!UICONTROL Listen-IP-Adressen]zulassen.
+Der Control Panel ermöglicht es Ihnen, Ihre SFTP-Datenspeicherung nach Instanz zu überwachen und zu verwalten und [!UICONTROL ListenIP-Adressen]zuzulassen.
 
-## Zugriff auf [!UICONTROL Subdomänenverwaltung in der Systemsteuerung]
+## Zugriff auf [!UICONTROL Control Panel] Subdomänenverwaltung
 
-Um auf die Subdomänenverwaltung in der [!UICONTROL Systemsteuerung]zuzugreifen, gehen Sie zu:
+Um auf die Subdomänenverwaltung in [!UICONTROL Control Panel]zuzugreifen, gehen Sie zu:
 
-* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > [!UICONTROL Lösungsauswahl]: [!UICONTROL Kampagne] > **[!UICONTROL Systemsteuerung]** > **[!UICONTROL Subdomänen- und Zertifikatkarte]**
+* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > [!UICONTROL Lösungsauswahl]: [!UICONTROL Kampagne] > **[!UICONTROL Control Panel]** -Karte > **[!UICONTROL Subdomänen- und Zertifikatkarte]**
 
    oder
 * Direkt von der URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Überwachen der Serverkapazität, [!UICONTROL zulassungsliste] -IP-Adressen und Hinzufügen von SSH-Schlüsseln
+## Überwachen der Serverkapazität, [!UICONTROL Zulassungslisten] -IP-Adressen und Hinzufügen von SSH-Schlüsseln
 
-In diesem Video wird erläutert, wie Sie auf die [!UICONTROL Adobe Campaign-Systemsteuerung]zugreifen, die Datenspeicherung von SFTP-Servern überwachen, eine IP-Adresse [!UICONTROL zulassungsliste] vornehmen und einen SSH-Schlüssel hinzufügen können.
+In diesem Video wird erläutert, wie Sie auf den [!UICONTROL Adobe Campaign-Control Panel]zugreifen, die Datenspeicherung der SFTP-Server überwachen, eine IP-Adresse [!UICONTROL Zulassungsliste] erstellen und einen SSH-Schlüssel hinzufügen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
 
@@ -39,7 +39,7 @@ In diesem Video wird erläutert, wie Sie auf die [!UICONTROL Adobe Campaign-Syst
 
 **Instanzen:** Es werden nur die Instanzen aufgelistet, für die Sie Administratorrechte haben.
 
-**Auftragsprotokolle:** Es werden nur Aufträge aufgelistet, die in der [!UICONTROL Systemsteuerung] ausgeführt wurden. Die Aufträge, die außerhalb der [!UICONTROL Systemsteuerung] ausgeführt wurden, sind nicht enthalten (z. B. Workflows Ausführung usw.)
+**Auftragsprotokolle:** Es werden nur Aufträge aufgelistet, die im [!UICONTROL Control Panel] ausgeführt wurden. Aufträge, die außerhalb von [!UICONTROL Control Panel] ausgeführt wurden, sind nicht enthalten (z. B. Workflows ausgeführt werden usw.)
 
 Die Protokolle enthalten nur die Aufträge, die von den Administratoren Ihres Unternehmens ausgeführt werden. Wenn es mehrere Orgs gibt, werden die Protokolle anderer Orgs nicht in den Auftragsprotokollen angezeigt.
 
