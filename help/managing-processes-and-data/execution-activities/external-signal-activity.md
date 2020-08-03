@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '341'
-ht-degree: 24%
+ht-degree: 19%
 
 ---
 
@@ -27,13 +27,11 @@ This also includes a new **Test** Activity where you can run tests on this funct
 Im folgenden Video werden die Konfigurationsschritte erläutert, die erforderlich sind, um
 
 1. **Erhalten Sie externe Parameter** von einem externen System, z. B. einem Content-Management-System (CRM):
-
    * Deklarieren der Parameter in der Aktivität &quot;Externes Signal&quot;
    * Konfigurieren Sie den API-Aufruf, um die Parameter zu definieren und die Workflow-Aktivität &quot;Externes Signal&quot;auszulösen. Weitere Informationen zum Konfigurieren eines API-Aufrufs finden Sie unter [Auslösen einer Signal-Aktivität](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
 
 1. **Anpassen eines Workflows mit externen Parametern** (Ereignis-Variablen):
-
-   Nachdem der Workflow ausgelöst wurde, werden die Parameter in die Ereignisvariablen des Workflows aufgenommen und können im Workflow verwendet werden. Informationen zu allen Aktivitäten, die mit Ereignis-Variablen angepasst werden können, finden Sie in der [Dokumentation](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) :
+Sobald der Workflow ausgelöst wurde, werden die Parameter in die Ereignis-Variablen des Workflows eingebunden und können im Workflow verwendet werden. Informationen zu allen Aktivitäten, die mit Ereignis-Variablen angepasst werden können, finden Sie in der [Dokumentation](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) :
 
    * Konfigurieren der Test-Aktivität (neu in 19.2)
    * Audience und Aktivität von E-Mail-Versänden konfigurieren
