@@ -1,6 +1,6 @@
 ---
 title: Verwaltung von Google TXT-Einträgen
-description: Sie können Google TXT-Site-Überprüfungsdatensätze zu allen Subdomänen hinzufügen, die zum Senden von E-Mails an GMAIL-Adressen über die Kampagne Control Panel (Systemsteuerung) verwendet werden.
+description: Sie können Google TXT Site Verification Record zu allen Subdomänen hinzufügen, die zum Senden von E-Mails an GMAIL-Adressen über den Kampagne Control Panel verwendet werden.
 feature: Google TXT record management
 topics: Control Panel
 kt: 4744
@@ -20,7 +20,7 @@ ht-degree: 24%
 
 To ensure high inbox rates and low spam rates, some services like [!DNL Google] require that you add a TXT record to your domain setting to verify that you own the domain. TXT-Einträge sind eine Art von DNS-Einträgen, die der Bereitstellung von Textinformationen über eine Domain dienen und von externen Quellen gelesen werden können.
 
-Im folgenden Video wird beschrieben, wie Sie [!DNL Google] TXT-Site-Überprüfungsdatensätze zu allen Subdomänen hinzufügen können, die zum Senden von E-Mails an GMAIL-Adressen mit der [!UICONTROL Kampagne Control Panel]verwendet werden.
+Im folgenden Video wird beschrieben, wie Sie [!DNL Google] TXT-Site-Überprüfungsdatensätze zu allen Subdomänen hinzufügen können, die zum Senden von E-Mails an GMAIL-Adressen mit [!UICONTROL Kampagne Control Panel]verwendet werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
 
