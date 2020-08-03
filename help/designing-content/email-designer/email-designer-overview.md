@@ -20,7 +20,7 @@ ht-degree: 18%
 
 Der [!UICONTROL E-Mail-Designer] ermöglicht die schnelle und mühelose visuelle Erstellung individueller, personalisierter E-Mails, ohne dass eine einzelne Codezeile zur Skalierung der E-Mail-Erstellung erforderlich ist. Sie können damit E-Mail-Inhalte und E-Mail-Inhaltsvorlagen erstellen. Der Editor ist kompatibel mit einfachen E-Mails, Transaktions-E-Mails, A/B-Test-E-Mails, mehrsprachigen E-Mails und wiederkehrenden E-Mails.
 
-In diesem Video erhalten Sie einen Überblick über die Funktionalität und Verwendung des Adobe Campaign Standard- [!UICONTROL E-Mail-Designers].
+In diesem Video erhalten Sie einen Überblick über die Funktionalität und Verwendung des Adobe Campaign Standard [!UICONTROL E-Mail-Designers].
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
