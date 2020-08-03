@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign Standard-Lernprogramme
+user-guide-title: Adobe Campaign Standard Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -11,8 +11,8 @@ getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 17%
+source-wordcount: '529'
+ht-degree: 18%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 17%
    + [Erstellen von Profilen und Audiencen - Übersicht](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Profil erstellen](/help/profiles-and-audiences/creating-a-profile.md)
    + [Erstellen eines Test-Profils](/help/profiles-and-audiences/test-profiles.md)
-   + [Profile mit einem Workflow importieren](/help/managing-processes-and-data/importing-profiles.md)
+   + [Importieren von Profilen mit einem Workflow](/help/managing-processes-and-data/importing-profiles.md)
    + [Verwalten von Diensten und Abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (BETA){#audience-destinations}
       + [Übersicht](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -49,15 +49,16 @@ ht-degree: 17%
       + [E-Mail erstellen](/help/communication-channels/email/create-email-from-homepage.md)
       + [Senden eines Tests, Vorbereiten und Senden einer E-Mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Mehrsprachige E-Mail- oder SMS-Versand erstellen](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Vorhandene E-Mails, SMS-Versand oder Vorlagen in mehrsprachige Formulare konvertieren](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Konvertieren einer vorhandenen E-Mail-, SMS-Versand- oder Vorlage in eine mehrsprachige](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
       + [E-Mail-Nachrichten mit zielgerichteten Profilen testen](/help/communication-channels/email/profile-substitution.md)
-      + [Prüfen Sie E-Mail-Versand und -Berichte](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
+      + [E-Mail-Versand und Berichte prüfen](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [E-Mails über einen Workflow erstellen und senden](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
    + Mobile {#mobile}
       + SMS{#sms}
          + [SMS-Versand erstellen](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Vorhandene E-Mails, SMS-Versand oder Vorlagen in mehrsprachige Formulare konvertieren](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Mehrsprachige E-Mail- oder SMS-Versand erstellen](/help/communication-channels/create-multilingual-deliveries.md)
+         + [Konvertieren einer vorhandenen E-Mail-, SMS-Versand- oder Vorlage in eine mehrsprachige](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push-Benachrichtigungen {#push}
          + [Push-Benachrichtigung erstellen](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Mehrsprachige Push-Benachrichtigung erstellen](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -86,6 +87,7 @@ ht-degree: 17%
    + [Produktlisten in transaktionalen E-Mails konfigurieren](/help/designing-content/product-listings-in-transactional-email.md)
 + Prozesse und Daten verwalten {#managing-processes-and-data}
    + [Workflow erstellen](/help/managing-processes-and-data/create-workflow.md)
+   + [Importieren von Profilen mit einem Workflow](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [Aktivität externer Signale](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
@@ -99,9 +101,9 @@ ht-degree: 17%
    + Custom Resources {#custom-resources-develop}
       + [Erstellen benutzerdefinierter Ressourcen](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Verwalten{#administrating}
-   + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
+   + [Benutzerzugriffsrechte verwalten](/help/administrating/managing-user-access-rights.md)
    + Control Panel {#control-panel}
-      + [Übersicht über die Systemsteuerung](/help/administrating/control-panel/control-panel-overview.md)
+      + [Übersicht über Control Panel](/help/administrating/control-panel/control-panel-overview.md)
       + [Überwachen der Serverkapazität, Auflisten von IP-Adressen und Hinzufügen von SSH-Schlüsseln](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Erstellen eines SSH-Schlüssels](/help/administrating/control-panel/generate-ssh-key.md)
       + [Herstellen einer Verbindung mit einem SFTP-Server](/help/administrating/control-panel/connect-to-sftp-server.md)
@@ -131,3 +133,5 @@ ht-degree: 17%
    + [Benutzerdefinierte Ressourcen für Datenschutzanforderungen ändern](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Manuelles Erstellen und Verfolgen von Datenschutzanforderungen](/help/privacy/create-and-track-privacy-requests.md)
    + [Ausführen von Datenschutzanfragen](/help/privacy/execute-privacy-requests.md)
++ [Best Practice für die Bereitstellung von Adobe Campaignen](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
