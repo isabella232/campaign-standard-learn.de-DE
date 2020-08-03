@@ -1,12 +1,12 @@
 ---
-title: Adobe Campaign Standard-Lernprogramme - Übersicht
+title: Adobe Campaign Standard Tutorials - Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Funktionen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 21%
+source-wordcount: '280'
+ht-degree: 23%
 
 ---
 
@@ -24,10 +24,6 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 * **[Externe API-Aktivität](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *Erfahren Sie, wie Sie einen Workflow mit der Aktivität für externe API konfigurieren und ausführen.*
-
-* **[Austausch von Profilen - Testen von E-Mail-Nachrichten mit zielgerichteten Profilen](/help/communication-channels/email/profile-substitution.md)**
-
-   *Erfahren Sie, wie Sie einen Testversand zur Überprüfung mit der genauen Darstellung der Nachricht senden, die das Profil erhalten wird.*
 
 ## Personalauswahl
 
