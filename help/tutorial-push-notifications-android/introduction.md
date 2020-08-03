@@ -27,7 +27,7 @@ In diesem Lernprogramm werden Sie durch die Schritte geführt, die beim Senden v
    * [Videoschulung](https://video.tv.adobe.com/v/26224?quality=12&captions=ger)
    * [Dokumentation](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
-* Stellen Sie sicher, dass der Status der entsprechenden Eigenschaft in Adobe Campaign Standard auf konfiguriert ist.
+* Vergewissern Sie sich, dass der Status der entsprechenden Eigenschaft in Adobe Campaign Standard auf konfiguriert ist.
 * [Verwenden Sie ein aktives Google Firebase-Konto](https://firebase.google.com)
 * [Neueste Version von Android Studio installiert](https://developer.android.com/studio)
 
