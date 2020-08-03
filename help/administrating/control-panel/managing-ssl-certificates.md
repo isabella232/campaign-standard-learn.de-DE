@@ -20,11 +20,11 @@ ht-degree: 43%
 
 Im Control Panel haben Sie die Möglichkeit, die Adobe Campaign zugewiesenen Sub-Domains zu verwalten. Sie können sich Ihre Sub-Domains anzeigen lassen und eine Verlängerung der Zertifikate beantragen.
 
-## Zugriff auf [!UICONTROL Subdomänenverwaltung] [!UICONTROL in der Systemsteuerung]
+## Zugriff auf [!UICONTROL Control Panel] - [!UICONTROL Subdomänenverwaltung]
 
-Um auf die [!UICONTROL Subdomänenverwaltung] in der [!UICONTROL Systemsteuerung]zuzugreifen, gehen Sie zu:
+Um auf die [!UICONTROL Subdomänenverwaltung] in [!UICONTROL Control Panel]zuzugreifen, gehen Sie zu:
 
-* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > [!UICONTROL Lösungsauswahl]: [!UICONTROL Kampagne] > **[!UICONTROL Systemsteuerung]** > **[!UICONTROL Subdomänen- und Zertifikatkarte]**
+* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > [!UICONTROL Lösungsauswahl]: [!UICONTROL Kampagne] > **[!UICONTROL Control Panel]** -Karte > **[!UICONTROL Subdomänen- und Zertifikatkarte]**
 
    oder
 * Direkt von der URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
