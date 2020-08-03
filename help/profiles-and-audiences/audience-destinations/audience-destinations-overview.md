@@ -1,6 +1,6 @@
 ---
 title: Audiencen-Ziele - Übersicht
-description: Adobe Experience Platform-(AEP-)Audiencen in Adobe Campaign Standard (ACS) nutzen
+description: Nutzung von AEP-Audiencen (Adobe Experience Platform) in Adobe Campaign Standard (ACS)
 feature: Audience Destinations
 topics: ACOP
 kt: 2755
@@ -18,17 +18,18 @@ ht-degree: 1%
 
 # [!UICONTROL Audiencen-Ziele] (BETA) - Übersicht
 
-## Adobe Experience Platform-Audiencen in Adobe Campaign Standard nutzen
+## Nutzung von Audiencen der Adobe Experience Platform im Adobe Campaign Standard
 
 >[!NOTE]
 >
 >Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert. [!UICONTROL Audiencen-Ziele] basieren auf der Adobe Experience Platform und erfordern eine bestimmte Konfiguration.
->Wenden Sie sich an den [!UICONTROL Adobe-Kundendienst] , wenn Sie diese Funktion implementieren möchten.
+>
+>Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
 
 
 In diesem Lernprogramm wird erläutert, wie Sie zentralisierte und konsolidierte Profil-Daten aus der Adobe Experience Platform für Marketing-Kampagnen in Adobe Campaign Standard nutzen können.
 
-Mit dem [!UICONTROL Audiencen] -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus der [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) erstellen, die im [Echtzeit-Kundendienstmodul](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)gespeichert sind.
+Mit dem [!UICONTROL Audiencen] -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus der [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) erstellen, die im [Echtzeit-Customer-Profil](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)gespeichert sind.
 
 Die folgenden Videoschulungen führen Sie durch die verschiedenen Schritte:
 
@@ -38,5 +39,5 @@ Die folgenden Videoschulungen führen Sie durch die verschiedenen Schritte:
 
 ## Zusätzliche Ressourcen
 
-*[Einführung zum Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[Einführung in die Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 
