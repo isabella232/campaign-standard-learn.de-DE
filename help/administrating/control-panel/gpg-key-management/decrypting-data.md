@@ -19,7 +19,7 @@ ht-degree: 16%
 
 # Entschlüsseln von Daten
 
-Mit Control Panel können Sie externe Daten, die in Ihre Adobe Campaign-Instanzen gelangen, mit einem öffentlichen/privaten Schlüsselpaar entschlüsseln.
+Über die Systemsteuerung können Sie externe Daten, die in Ihre Adobe Campaign-Instanzen gelangen, mit einem öffentlichen/privaten Schlüsselpaar entschlüsseln.
 Erfahren Sie, wie Sie einen öffentlichen Schlüssel erstellen, importieren und auf einer Kampagne-Instanz für die Entschlüsselung eingehender Daten installieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
