@@ -22,7 +22,7 @@ ht-degree: 18%
 + [Übersicht](/help/overview.md)
 + Erste Schritte{#getting-started}
    + [Übersicht](/help/getting-started/getting-started-overview.md)
-   + [Einführung in den Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
+   + [Einführung in Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Funktionsübersicht](/help/getting-started/functional-overview.md)
    + [Erste Schritte mit der Benutzeroberfläche](/help/getting-started/getting-started-with-the-ui.md)
    + [Konfigurieren einer Liste](/help/getting-started/configure-a-list.md)
@@ -103,7 +103,7 @@ ht-degree: 18%
 + Verwalten{#administrating}
    + [Benutzerzugriffsrechte verwalten](/help/administrating/managing-user-access-rights.md)
    + Control Panel {#control-panel}
-      + [Übersicht über Control Panel](/help/administrating/control-panel/control-panel-overview.md)
+      + [Übersicht über die Systemsteuerung](/help/administrating/control-panel/control-panel-overview.md)
       + [Überwachen der Serverkapazität, Auflisten von IP-Adressen und Hinzufügen von SSH-Schlüsseln](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Erstellen eines SSH-Schlüssels](/help/administrating/control-panel/generate-ssh-key.md)
       + [Herstellen einer Verbindung mit einem SFTP-Server](/help/administrating/control-panel/connect-to-sftp-server.md)
@@ -118,7 +118,7 @@ ht-degree: 18%
          + [Entschlüsseln von Daten](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Probleme beim Schießen](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
-      + [Informationen zum Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+      + [Erläuterungen zum Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Benutzerdefinierte Ressourcen zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Erlebnis-Ereignis zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Zuordnen von Seed-Tabellendaten](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
