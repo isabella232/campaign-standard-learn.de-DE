@@ -18,7 +18,7 @@ ht-degree: 26%
 
 # E-Mail-Versand und Berichte prüfen
 
-In diesem Video wird erläutert, wie ein personalisierter E-Mail-Versand überprüft und verschiedene Berichte untersucht werden, die in Adobe Campaign Standard verfügbar sind.
+In diesem Video wird erläutert, wie ein personalisierter E-Mail-Versand überprüft und verschiedene Berichte, die in Adobe Campaign Standard verfügbar sind, untersucht werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
 
