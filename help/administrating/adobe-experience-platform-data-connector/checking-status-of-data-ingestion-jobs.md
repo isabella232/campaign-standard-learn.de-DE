@@ -24,7 +24,7 @@ ht-degree: 8%
 >
 >Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
 
-Erfahren Sie, wie Sie den Status eines Datenerfassungsauftrags überprüfen und ob die Daten vom Adobe Campaign Standard in die Adobe Experience Platform aufgenommen wurden.
+Erfahren Sie, wie Sie den Status eines Datenerfassungsauftrags überprüfen und ob die Daten von Adobe Campaign Standard nach Adobe Experience Platform aufgenommen wurden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
