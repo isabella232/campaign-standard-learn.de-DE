@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte mit Adobe Campaign Standard
-description: In diesem Video erhalten Sie einen Überblick über die Benutzeroberfläche des Adobe Campaign Standards und die wichtigsten Funktionen und Funktionen.
+description: In diesem Video erhalten Sie einen Überblick über die Adobe Campaign Standard-Benutzeroberfläche und die wichtigsten Funktionen und Funktionen.
 feature: User Interface
 topics: null
 kt: null
@@ -22,9 +22,9 @@ Adobe Campaign Standard ist ein leistungsstarkes Tool zum kanalübergreifenden K
 
 Steuern Sie den gesamten Prozess des Erstellens, Ausführens und Trackings kanalübergreifender Kampagnen und senden Sie Nachrichten, die entsprechend dem Profil, dem Verhalten, den Vorlieben und den Bedürfnissen der Kunden personalisiert werden. Sie können den gesamten Marketingprozess auf einfache Weise orchestrieren, modellieren und automatisieren und in andere Adoben integrieren.
 
-Es stehen verschiedene Übungsvideos zur Verfügung, die Ihnen beim Einstieg in den Adobe Campaign Standard helfen:
+Es stehen verschiedene Übungsvideos zur Verfügung, die Ihnen beim Einstieg in Adobe Campaign Standard helfen:
 
-* [Einführung in den Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
+* [Einführung in Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [Funktionsübersicht](/help/getting-started/functional-overview.md)
 * [Erste Schritte mit der Benutzeroberfläche](/help/getting-started/getting-started-with-the-ui.md)
 * [Konfigurieren einer Liste](/help/getting-started/configure-a-list.md)
