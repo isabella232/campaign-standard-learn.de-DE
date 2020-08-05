@@ -1,6 +1,6 @@
 ---
 title: Einführung in den Berichte
-description: In diesem Video erhalten Sie einen Überblick über die Berichte-Funktionen von Adobe Campaign Standard
+description: In diesem Video erhalten Sie einen Überblick über die Funktionen des Berichte von Adobe Campaign Standard
 feature: Dynamic Reports
 topics: null
 kt: 3974
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Einführung in den Berichte
 
-In diesem Video erhalten Sie einen Überblick über die Berichte-Funktionen von Adobe Campaign Standard
+In diesem Video erhalten Sie einen Überblick über die Funktionen des Berichte von Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 
