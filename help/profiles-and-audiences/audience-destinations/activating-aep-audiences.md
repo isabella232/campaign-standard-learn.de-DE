@@ -16,11 +16,11 @@ ht-degree: 1%
 ---
 
 
-# Aktivieren von Adobe Experience Platform-Audiencen in einer Workflow- [!UICONTROL Adobe Experience Platform in Audiencen] in einem Marketing-Workflow
+# Aktivieren von Adobe Experience Platform-Audiencen in Workflow- [!UICONTROL Adobe Experience Platform-Audiencen] in einem Marketing-Workflow
 
 >[!NOTE]
 >
->Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert. [!UICONTROL Audiencen-Ziele] basieren auf der Adobe Experience Platform und erfordern eine bestimmte Konfiguration.
+>Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert. [!UICONTROL Audiencen-Ziele] basieren auf Adobe Experience Platform und erfordern eine bestimmte Konfiguration.
 >
 >Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
 
@@ -37,6 +37,6 @@ Dokumentation:
 
 Video-Ressource:
 
-* [Erstellen einer neuen Audience in Adobe Campaign Standard mit dem einheitlichen Segmentaufbau](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Erstellen einer neuen Audience in Adobe Campaign Standard mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Ändern der Zielgruppendimension eines Versands für eine Plattform-Audience](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
