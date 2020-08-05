@@ -1,6 +1,6 @@
 ---
 title: Einführung in In-App-Nachrichten
-description: Mit dem In-App-Nachrichten-Kanal (Adobe Campaign Standard, ACS) können Sie dem Benutzer kontextuell relevante In-App-Nachrichten als Reaktion auf das Echtzeit-Verhalten des Kunden in der Mobilanwendung präsentieren.
+description: Mit dem Adobe Campaign Standard (ACS) In-App Messaging-Kanal können Sie dem Benutzer kontextuell relevante In-App-Nachrichten als Reaktion auf das Echtzeitverhalten eines Kunden in der Mobilanwendung präsentieren.
 feature: In-App
 topics: Mobile
 kt: 1911
@@ -20,7 +20,7 @@ ht-degree: 14%
 
 The [!UICONTROL In-App Messaging] channel allows you to display a message when the user is active within the mobile application. This channel requires mobile applications to be integrated with [!UICONTROL Adobe Experience Platform SDK].
 
-In diesem Lernprogramm werden die Schritte erläutert, die zum Einrichten der mobilen Eigenschaften, der [!UICONTROL Start] -Erweiterung für den [!UICONTROL In-App-Nachrichten] -Kanal sowie zum Vorbereiten, Anpassen und Senden von [!UICONTROL In-App] -Nachrichten in Adobe Campaign Standard erforderlich sind. Über die Links gelangen Sie zu den Videoschulungen zu den einzelnen Themen.
+In diesem Lernprogramm werden die Schritte erläutert, die zum Einrichten der mobilen Eigenschaften, zum [!UICONTROL Starten] des [!UICONTROL In-App-Nachrichten] -Kanals sowie zum Vorbereiten, Anpassen und Senden von [!UICONTROL In-App] -Nachrichten in Adobe Campaign Standard erforderlich sind. Über die Links gelangen Sie zu den Videoschulungen zu den einzelnen Themen.
 
 ## Voraussetzungen {#prerequisites}
 
@@ -41,7 +41,7 @@ For more on extensions, refer to the [Configure Campaign Standard extension in A
 
 ## Schritte zum Einrichten von [!UICONTROL In-App] -Nachrichten {#steps-to-set-up}
 
-1. [Mobilanwendungen mithilfe von Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)konfigurieren
+1. [Mobilanwendungen mit dem Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)konfigurieren
 
 1. [Konfigurieren Sie Ereignis](/help/communication-channels/mobile/in-app/configure-events.md).
 
