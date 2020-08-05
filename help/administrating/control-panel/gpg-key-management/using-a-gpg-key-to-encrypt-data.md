@@ -1,6 +1,6 @@
 ---
 title: 'Verschlüsseln von Daten mit einem GPG-Schlüssel '
-description: Erfahren Sie, wie Sie Daten mit einem auf dem Control Panel installierten GPG-Schlüssel exportieren.
+description: Erfahren Sie, wie Sie Daten mit einer GPG-Taste exportieren, die auf der Systemsteuerung installiert ist.
 feature: Control Panel
 topics: GPG key Management
 kt: 5688
@@ -19,7 +19,7 @@ ht-degree: 18%
 
 # Verschlüsseln von Daten mit einem GPG-Schlüssel
 
-Erfahren Sie, wie Sie Daten mit einem auf dem Control Panel installierten GPG-Schlüssel exportieren.
+Erfahren Sie, wie Sie Daten mit einer GPG-Taste exportieren, die auf der Systemsteuerung installiert ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
 
