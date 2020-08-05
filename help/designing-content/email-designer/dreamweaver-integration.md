@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Inhalten mit Adobe Dreamweaver
-description: In diesem Video wird erläutert, was zur Aktivierung der Dreamweaver-Integration erforderlich ist und wie Inhalte für den Adobe Campaign Standard mit Dreamweaver erstellt und bearbeitet werden können.
+description: In diesem Video wird erläutert, was zur Aktivierung der Dreamweaver-Integration erforderlich ist und wie Inhalte für Adobe Campaign Standard mit Dreamweaver erstellt und bearbeitet werden können.
 feature: Email Designer
 kt: 1420
 doc-type: feature video
@@ -17,7 +17,7 @@ ht-degree: 11%
 
 # Erstellen von Inhalten mit Adobe Dreamweaver
 
-Die Integration von Adobe Campaign Standards mit Adobe Dreamweaver ermöglicht Ihnen, den Inhalt einer E-Mail direkt über die Dreamweaver-Oberfläche zu bearbeiten:
+Die Adobe Campaign Standard-Integration mit Adobe Dreamweaver ermöglicht Ihnen, den Inhalt einer E-Mail direkt über die Dreamweaver-Oberfläche zu bearbeiten:
 
 * Bidirektionale Echtzeit-Synchronisierung des Inhalts
 * Hochladen lokaler Bilder in Adobe Campaign über Dreamweaver
@@ -27,7 +27,7 @@ Die Integration von Adobe Campaign Standards mit Adobe Dreamweaver ermöglicht I
 >
 >Für diese Funktion ist die Dreamweaver-Erweiterung **[!UICONTROL Adobe Campaign Integration]** erforderlich. Sie können die Erweiterung von [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search)herunterladen. Weitere Informationen zur Installation finden Sie unter [Kampagne Extension for Dreamweaver](https://helpx.adobe.com/de/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
-In diesem Video wird erläutert, was zur Aktivierung der Dreamweaver-Integration erforderlich ist und wie Inhalte für den Adobe Campaign Standard mit Dreamweaver erstellt und bearbeitet werden können.
+In diesem Video wird erläutert, was zur Aktivierung der Dreamweaver-Integration erforderlich ist und wie Inhalte für Adobe Campaign Standard mit Dreamweaver erstellt und bearbeitet werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
 *Nutzung der Dreamweaver-Integration in Adobe Campaign (02:37 Min.)*
