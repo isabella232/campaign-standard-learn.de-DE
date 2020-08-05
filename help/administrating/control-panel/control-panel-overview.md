@@ -1,6 +1,6 @@
 ---
 title: Control Panel
-description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz und Zulassungsliste-IP-Adressen überwachen und verwalten.
+description: Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung nach Instanz und Zulassungsliste-IP-Adressen überwachen und verwalten.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -20,18 +20,18 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Die Begriffe &quot;[!UICONTROL Whitelist]&quot;und &quot;[!UICONTROL schwarze Liste]&quot;wurden in den Unterlagen zum Adobe Campaign durch &quot;[!UICONTROL Zulassungsliste]&quot;und &quot;[!UICONTROL Blockierungsliste]&quot;ersetzt. Einige Vorkommen dieser Begriffe befinden sich möglicherweise noch in der Produktoberfläche, in Optionsnamen, im internen Code sowie in den Übungsvideos. Sie werden in den kommenden Control Paneln ersetzt.
+>Die Begriffe &quot;[!UICONTROL Whitelist]&quot;und &quot;[!UICONTROL schwarze Liste]&quot;wurden in den Unterlagen zum Adobe Campaign durch &quot;[!UICONTROL Zulassungsliste]&quot;und &quot;[!UICONTROL Blockierungsliste]&quot;ersetzt. Einige Vorkommen dieser Begriffe befinden sich möglicherweise noch in der Produktoberfläche, in Optionsnamen, im internen Code sowie in den Übungsvideos. Sie werden in den kommenden Versionen der Systemsteuerung ersetzt.
 
-Der [!UICONTROL Control Panel] ermöglicht es Adobe Campaign-Administratoren, wichtige Assets zu überwachen und administrative Aufgaben durchzuführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz oder [!UICONTROL Zulassungsliste] -IP-Adressen.
+Die [!UICONTROL Systemsteuerung] ermöglicht es Adobe Campaign-Administratoren, wichtige Assets zu überwachen und administrative Aufgaben durchzuführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz oder [!UICONTROL Zulassungsliste] -IP-Adressen.
 
 ## Accessing [!UICONTROL Control Panel]
 
-Um auf den Control Panel zuzugreifen, gehen Sie zu Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Um auf die Systemsteuerung zuzugreifen, gehen Sie zu Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud-Startseite]** > **[!UICONTROL Schnellzugriff]**
 
    oder
-* **[!UICONTROL Experience Cloud-Startseite]** > [!UICONTROL Lösungsauswahl]: **Kampagne** > **[!UICONTROL Control Panel]-Karte **
+* **[!UICONTROL Experience Cloud-Startseite]** > [!UICONTROL Lösungsauswahl]: **Kampagne** > **[!UICONTROL Bedienfeldkarte]**
 
    oder
 
@@ -50,13 +50,13 @@ Du musst dein [!DNL IMS org ID]wissen. Im folgenden Video wird beschrieben, wo S
 
 ### Administratorrechte
 
-Für den Zugriff auf den [!UICONTROL Control Panel]sind Administratorrechte erforderlich.
+Für den Zugriff auf die [!UICONTROL Systemsteuerung]sind Administratorrechte erforderlich.
 Im folgenden Video wird erläutert, wie Sie einer Instanz einer Kampagne einen Administrator hinzufügen
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Hinzufügen eines Administrators zum Profil &quot;[!UICONTROL Administratoren]&quot;zur Verwendung von[!UICONTROL Control Panel](01:03 Min.)*
+*Hinzufügen eines Administrators zum Profil &quot;[!UICONTROL Administratoren]&quot;zur Verwendung der[!UICONTROL Systemsteuerung](01:03 Min.)*
 
-## Control Panel Tutorials
+## Tutorials der Systemsteuerung
 
 * **Verwalten von SFTP-Servern**
 
@@ -76,7 +76,7 @@ Im folgenden Video wird erläutert, wie Sie einer Instanz einer Kampagne einen A
    *Erfahren Sie, wie Sie den Status der SSL-Zertifikate Ihrer Subdomänen sowie Erneuerungen anfordern können.*
 * **[Verwaltung von Google TXT-Einträgen](/help/administrating/control-panel/google-txt-record-management.md)**
 
-   *Erfahren Sie, wie Sie Google TXT-Site-Überprüfungsdatensätze zu allen Subdomänen hinzufügen, die zum Senden von E-Mails an GMAIL-Adressen über den Kampagne-Control Panel verwendet werden.*
+   *Erfahren Sie, wie Sie allen Subdomänen, die zum Senden von E-Mails an GMAIL-Adressen verwendet werden, über die Systemsteuerung der Kampagne Google TXT-Site-Überprüfungsdatensätze hinzufügen.*
 
 * **GPG-Schlüsselverwaltung**
 
@@ -88,9 +88,9 @@ Im folgenden Video wird erläutert, wie Sie einer Instanz einer Kampagne einen A
 
 * **[Probleme beim Schießen](/help/administrating/control-panel/trouble-shooting.md)**
 
-   *Informationen zur Fehlerbehebung beim Control Panel*
+   *Informationen zur Fehlerbehebung in der Systemsteuerung*
 
 ## Zusätzliche Ressourcen
 
-* [Control Panel Help Center](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
+* [Hilfe-Center für Systemsteuerung](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
 
