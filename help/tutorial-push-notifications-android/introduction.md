@@ -23,7 +23,7 @@ In diesem Lernprogramm werden Sie durch die Schritte geführt, die beim Senden v
 
 ## Voraussetzungen
 
-* Sie sollten die Eigenschaft launch mit Adobe Campaign Standard Extension konfiguriert haben. Bitte befolgen Sie die unten aufgeführte Online-Hilfe.
+* Sie sollten die Eigenschaft launch mit der Adobe Campaign Standard Extension konfiguriert haben. Bitte befolgen Sie die unten aufgeführte Online-Hilfe.
    * [Videoschulung](https://video.tv.adobe.com/v/26224?quality=12&captions=ger)
    * [Dokumentation](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
