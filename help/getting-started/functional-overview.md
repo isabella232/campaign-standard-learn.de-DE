@@ -1,6 +1,6 @@
 ---
 title: Funktionsübersicht
-description: In diesem Video erhalten Sie einen Überblick über die Funktionen des Adobe Campaign Standards (ACS).
+description: In diesem Video erhalten Sie einen Überblick über die Funktionen von Adobe Campaign Standard (ACS).
 feature: Profiles and Audiences
 topics: Getting Started
 kt: 3971
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Funktionsübersicht
 
-In diesem Video erhalten Sie einen Überblick über die Funktionen des Adobe Campaign Standards.
+In diesem Video erhalten Sie einen Überblick über die Adobe Campaign Standard-Funktionalität.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
