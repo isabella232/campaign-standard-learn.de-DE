@@ -31,4 +31,4 @@ Die folgenden Videos zeigen die erforderlichen Schritte zum Konfigurieren einer 
 ## Zusätzliche Ressourcen
 
 * [Einrichten einer mobilen Eigenschaft (Dokumentation zum Starten der Adobe)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Mobilanwendung mithilfe von Adobe Experience Platform SDKs konfigurieren (Dokumentation)](https://helpx.adobe.com/de/campaign/kb/configuring-app-sdk.html)
+* [Mobilanwendung mit Adobe Experience Platform SDKs konfigurieren (Dokumentation)](https://helpx.adobe.com/de/campaign/kb/configuring-app-sdk.html)
