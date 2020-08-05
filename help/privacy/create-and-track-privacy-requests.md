@@ -1,6 +1,6 @@
 ---
 title: Manuelles Erstellen und Verfolgen von Datenschutzanforderungen über die Adobe Campaign-Benutzeroberfläche
-description: Mit Adobe Campaign können Sie PII-Datenanforderungen in Übereinstimmung mit Datenschutzgesetzen wie GDPR und CCPA erstellen und löschen. In diesen Videos wird gezeigt, wie Sie Datenschutzanforderungen manuell erstellen und deren Entwicklung in der Benutzeroberfläche von Adobe Campaign Standard verfolgen können.
+description: Mit Adobe Campaign können Sie PII-Datenanforderungen in Übereinstimmung mit Datenschutzgesetzen wie GDPR und CCPA erstellen und löschen. In diesen Videos wird gezeigt, wie Sie Datenschutzanforderungen manuell erstellen und deren Entwicklung in der Adobe Campaign Standard-Benutzeroberfläche verfolgen können.
 feature: GDPR, CCPA
 topic: null
 kt: 1242
@@ -20,7 +20,7 @@ ht-degree: 10%
 
 Mit Adobe Campaign können Sie PII-Datenanforderungen in Übereinstimmung mit Datenschutzgesetzen wie GDPR und CCPA erstellen und löschen.
 
-In diesen Videos wird gezeigt, wie Sie Datenschutzanforderungen manuell erstellen und deren Entwicklung in der Benutzeroberfläche von Adobe Campaign Standard verfolgen können.
+In diesen Videos wird gezeigt, wie Sie Datenschutzanforderungen manuell erstellen und deren Entwicklung in der Adobe Campaign Standard-Benutzeroberfläche verfolgen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
