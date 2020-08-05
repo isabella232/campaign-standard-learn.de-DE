@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Schritt 1: Erstellen der [!DNL Android] App und Konfigurieren für die Verwendung [!DNL Firebase Cloud Messaging]
 
-In diesem Teil erstellen Sie eine [!DNL Android] App zum Empfangen von [!UICONTROL Push-Benachrichtigungen] von Adobe Campaign Standard. Um die Push-Benachrichtigungen zu erhalten, muss die App bei Google registriert sein [!DNL Firebase Cloud Service].
+In diesem Teil erstellen Sie eine [!DNL Android] App zum Empfangen von [!UICONTROL Push-Benachrichtigungen] , die von Adobe Campaign Standard gesendet werden. Um die Push-Benachrichtigungen zu erhalten, muss die App bei Google registriert sein [!DNL Firebase Cloud Service].
 
 1. Melden Sie sich bei Ihrem [!DNL Firebase] Konto an.
 
@@ -83,4 +83,4 @@ Wenn alles gut läuft, sollte eine SUCCESS-Meldung angezeigt werden.
 
 ![push-Kanal-settings](assets/push-channel-settings.PNG)
 
-Zusammenfassend haben wir eine [!DNL Android App] und verbunden die [!DNL Android App] mit [!DNL Firebase]. Anschließend haben wir die mobile App in Adobe Campaign mit der verbunden, [!DNL Android App] indem wir den Serverschlüssel der [!DNL Android] App in den Adobe Campaign Standard in die mobile App eingefügt haben.
+Zusammenfassend haben wir eine [!DNL Android App] und verbunden die [!DNL Android App] mit [!DNL Firebase]. Anschließend wurde die mobile App in Adobe Campaign mit der verbunden, [!DNL Android App] indem der Serverschlüssel der [!DNL Android] App in die mobile App in Adobe Campaign Standard eingefügt wurde.
