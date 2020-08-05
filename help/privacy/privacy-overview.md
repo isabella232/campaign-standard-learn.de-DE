@@ -1,6 +1,6 @@
 ---
-title: Datenschutzanforderungen mit dem Adobe Campaign Standard (ACS) - Übersicht
-description: Das Lernprogramm erläutert, wie Pprivacy-Anforderungen über die ACS-Schnittstelle (Adobe Campaign Standard) erstellt werden.
+title: Datenschutzanfragen beim Adobe Campaign Standard (ACS) - Überblick
+description: In dem Lernprogramm wird erläutert, wie Pprivacy-Anforderungen über die Oberfläche von Adobe Campaign Standard (ACS) erstellt werden.
 feature: GDPR, CCAP
 topic: Privacy
 kt: 1480
@@ -16,7 +16,7 @@ ht-degree: 18%
 ---
 
 
-# Datenschutzanforderungen mit der Benutzeroberfläche des Adobe Campaign Standards
+# Datenschutzanforderungen mit der Adobe Campaign Standard-Benutzeroberfläche
 
 Adobe Campaign Angebots Data Controllers drei Methoden zum Ausführen von Datenschutzaufrufen und Löschen von Anfragen von PII-Daten unter Einhaltung von Datenschutzvorschriften wie GDPR (Allgemeine Datenschutzverordnung) und CCPA (California Consumer Privacy Act):
 
@@ -34,7 +34,7 @@ Adobe Campaign Angebots Data Controllers drei Methoden zum Ausführen von Datens
 >
 >**Ausschluss vom Verkauf personenbezogener Daten (CCPA)**
 >
->Ab Version 19.4 wird ein CCPA-Ausschluss-Feld in der Benutzeroberfläche und in der API sofort bereitgestellt. Damit 19.3 diese Informationen nutzen kann, müssen Sie dieses Feld in Adobe Campaign Standard erstellen. Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#ccpa) .
+>Ab Version 19.4 wird ein CCPA-Ausschluss-Feld in der Benutzeroberfläche und in der API sofort bereitgestellt. Um diese Informationen in Version 19.3 nutzen zu können, müssen Sie dieses Feld in Adobe Campaign Standard erstellen. Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#ccpa) .
 >
 > Sie können Ihre Version überprüfen, indem Sie auf das ? oben rechts auf der Benutzeroberfläche und wählen Sie Info.
 
@@ -54,5 +54,5 @@ Adobe Campaign Angebots Data Controllers drei Methoden zum Ausführen von Datens
 
 * [Allgemeine Datenschutzrichtlinien für die Kampagne](https://helpx.adobe.com/de/campaign/kb/campaign-privacy-overview.html)
 * [CCPA für ACS](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#ccpa)
-* [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
-* [Dokumentation zur Adobe Campaign Standard-REST-API](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
+* [Datenschutzdienst für Adobe Experience Platform](https://adobe.io/apis/cloudplatform/gdpr.html)
+* [Dokumentation zur Adobe Campaign Standard REST API](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
