@@ -59,7 +59,7 @@ Die folgenden drei Kategorien werden je nach Instrumentierung der mobilen App un
 
 >[!NOTE]
 >
->[!UICONTROL Analytics-Ereignisse] benötigen eine Adobe Analytics-Lizenz. Sobald Sie die [[!DNL Analytics] Erweiterung konfiguriert](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) haben und [Analytics zu Ihrer App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)hinzugefügt haben, sind diese Ereignis in der [!UICONTROL In-App] -Konfiguration in ACS verfügbar.
+>[!UICONTROL Für Analytics-Ereignis] ist eine Adobe Analytics-Lizenz erforderlich. Sobald Sie die [[!DNL Analytics] Erweiterung konfiguriert](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) haben und [Analytics zu Ihrer App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)hinzugefügt haben, sind diese Ereignis in der [!UICONTROL In-App] -Konfiguration in ACS verfügbar.
 
 ## Zusätzliche Ressourcen
 
