@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -24,7 +24,7 @@ In diesem Teil werden wir den Code zur Registrierung des User Profil, Identity, 
 
 Fügen Sie den folgenden Code in MainApp ein
 
-```java{.line-numbers}
+```java
 import [!DNL android].app.Application;
 import android.util.Log;
 
