@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Die Zeichenfolge **[!DNL pushidentifier]** enthält das Gerätetoken für [!DNL 
 
 Fügen Sie den folgenden Code ein in [!DNL MainActivity]:
 
-```java{.line-numbers}
+```java
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -100,5 +100,4 @@ Navigieren Sie zu **[!UICONTROL Administration->Kanal->Mobile App(AEP SDK)]**. �
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[HINWEIS]
->
 >Wenn das Registrierungstoken auf der Registerkarte &quot;Abonnenten [!UICONTROL von] Mobilanwendungen&quot;nicht angezeigt wird, beenden Sie hier den Vorgang, bevor Sie fortfahren.
