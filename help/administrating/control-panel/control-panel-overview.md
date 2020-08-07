@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '395'
 ht-degree: 6%
 
 ---
@@ -54,31 +54,29 @@ Für den Zugriff auf die [!UICONTROL Systemsteuerung]sind Administratorrechte er
 Im folgenden Video wird erläutert, wie Sie einer Instanz einer Kampagne einen Administrator hinzufügen
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Hinzufügen eines Administrators zum Profil &quot;[!UICONTROL Administratoren]&quot;zur Verwendung der[!UICONTROL Systemsteuerung](01:03 Min.)*
+*How to add an administrator to the product profile &quot;[!UICONTROL Administrators]&quot; to be able to use[!UICONTROL Control Panel](01:03 min)*
 
-## Tutorials der Systemsteuerung
+## Control Panel Tutorials
 
-* **Verwalten von SFTP-Servern**
+* **Managing SFTP Servers**
 
-   *Erfahren Sie, wie Sie die Serverkapazität und die IP-Adressen der Zulassungslisten überwachen und SSH-Schlüssel hinzufügen können:*
+   *Learn how to monitor the server capacity, allow list IP addresses, and add SSH keys:*
 
-   * [Überwachen der Serverkapazität, Auflisten von IP-Adressen und Hinzufügen von SSH-Schlüsseln](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   * [Erstellen eines SSH-Schlüssels](/help/administrating/control-panel/generate-ssh-key.md)
-   * [Herstellen einer Verbindung zu einem SFTP-Server](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[Subdomänen übertragen](/help/administrating/control-panel/subdomain-delegation.md)**
+   * [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   * [Generating a SSH Key](/help/administrating/control-panel/generate-ssh-key.md)
+   * [Connecting to a SFTP Server](/help/administrating/control-panel/connect-to-sftp-server.md)
+* **[Delegating Subdomains](/help/administrating/control-panel/subdomain-delegation.md)**
 
-   *Erfahren Sie, wie Sie eine Subdomäne vollständig an Adobe Campaign delegieren*
-* **[SSL-Zertifikate hinzufügen](/help/administrating/control-panel/adding-ssl-certificates.md)**
+   *Learn how to fully delegate a subdomain to Adobe Campaign*
+* **[Adding SSL Certificates](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
-   *Erfahren Sie, wie Sie SSL-Zertifikate hinzufügen können, um Ihre Subdomänen zu schützen.*
-* **[Verwalten von SSL-Zertifikaten](/help/administrating/control-panel/managing-ssl-certificates.md)**
+   *Learn how you can add a SSL certificates to secure your subdomains.*
 
-   *Erfahren Sie, wie Sie den Status der SSL-Zertifikate Ihrer Subdomänen sowie Erneuerungen anfordern können.*
 * **[Verwaltung von Google TXT-Einträgen](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Erfahren Sie, wie Sie allen Subdomänen, die zum Senden von E-Mails an GMAIL-Adressen verwendet werden, über die Systemsteuerung der Kampagne Google TXT-Site-Überprüfungsdatensätze hinzufügen.*
 
-* **GPG-Schlüsselverwaltung**
+* **GPG key management**
 
    *Erfahren Sie, wie Sie ein Public-Private-Key-Paar für die Verschlüsselung ausländischer Kampagnen auf einer angegebenen Instanz erstellen und installieren sowie einen öffentlichen Schlüssel für die Entschlüsselung eingehender Daten importieren und auf einer Kampagne installieren:*
 
