@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren und Ausführen eines Workflows mit der Aktivität "Externe API"
-description: Die externe API-Aktivität ist eine Data Management-Aktivität. Sie können einen externen REST-API-Endpunkt aufrufen. Ziel dieser Aktivität ist es, Personalisierungsdaten von einem Drittanbietersystem in Ihre Kampagne zu übertragen.
+description: Die Aktivität "Externe API" ist eine Datenverwaltungsaktivität. Damit können Sie einen externen REST-API-Endpunkt aufrufen. Ziel dieser Aktivität ist es, Personalisierungsdaten von einem Drittanbietersystem in Ihre Kampagne zu übertragen.
 feature: External API activity
 topics: null
 kt: 2764
@@ -11,33 +11,33 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# Konfigurieren und Ausführen eines Workflows mit der [!UICONTROL External API-Aktivität]
+# Konfigurieren und Ausführen eines Workflows mit der [!UICONTROL Aktivität &quot;Externe API&quot;]
 
-Die [!UICONTROL externe API-Aktivität] ist eine [!UICONTROL Data Management-Aktivität]. Sie können einen externen REST-API-Endpunkt aufrufen. Ziel dieser Aktivität ist es, Personalisierungsdaten von einem Drittanbietersystem in Ihre Kampagne zu übertragen.
+Die [!UICONTROL Aktivität &quot;Externe API&quot;] ist eine [!UICONTROL Datenverwaltungsaktivität]. Damit können Sie einen externen REST-API-Endpunkt aufrufen. Ziel dieser Aktivität ist es, Personalisierungsdaten von einem Drittanbietersystem in Ihre Kampagne zu übertragen.
 
-Beispiele für Anwendungsfälle:
+Beispiele für Anwendungsfälle sind:
 
-* Die neuesten Spielepläne für ein Ereignis zur Personalisierung von Inhalten
-* Abrufen der neuesten Angebote
+* Abrufen der neuesten Aufstellungen am Spieltag für ein Sportereignis, um Inhalte zu personalisieren
+* Abrufen des neuesten Angebotspakets
 * Verbindung zu einem Coupon-Generierungssystem
 * Überprüfen des Wetters in lokalen Regionen und Verwenden des Wetters zur Personalisierung der Inhalte
 
-In diesem Video wird die Verwendung der [!UICONTROL externen API-Aktivität]veranschaulicht.
+In diesem Video wird die Verwendung der [!UICONTROL Aktivität &quot;Externe API&quot;] veranschaulicht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL Externe API-Aktivität](06:48 Min.)*
+*[!UICONTROL Aktivität &quot;Externe API&quot;](06:48 min)*
 
 >[!NOTE]
 >
->Bitte beachten Sie, dass die Aktivität zum Abrufen von Kampagne-weiten Daten (letzte Angebote, aktuelle Ergebnisse usw.) und nicht zum Abrufen spezifischer Informationen für jedes Profil gedacht ist, da dies zu einer Übertragung großer Datenmengen führen kann. Sollte dies dennoch erforderlich sein, wird empfohlen, die Aktivität Datei übertragen zu verwenden.
+>Bitte beachten Sie, dass die Aktivität zum Abrufen von Daten aus der gesamten Kampagne (letzte Angebotspakete, aktuelle Bewertungen usw.) und nicht zum Abrufen spezifischer Informationen für jedes Profil gedacht ist, da dies zu einer Übertragung großer Datenmengen führen kann. Sollte dies dennoch erforderlich sein, wird empfohlen, die Aktivität &quot;Datei übertragen&quot; zu verwenden.
 
 ## Zusätzliche Ressourcen
 
-* [Externe API (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Externe API (Dokumentation)](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
 
