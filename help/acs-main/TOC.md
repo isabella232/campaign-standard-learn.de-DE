@@ -11,8 +11,8 @@ getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard
 translation-type: tm+mt
 source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 100%
+source-wordcount: '514'
+ht-degree: 94%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 100%
    + [Erstellen von Profilen und Audiences – Übersicht](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Erstellen eines Profils](/help/profiles-and-audiences/creating-a-profile.md)
    + [Erstellen eines Testprofils](/help/profiles-and-audiences/test-profiles.md)
-   + [Importieren von Profilen mit einem Workflow](/help/managing-processes-and-data/importing-profiles.md)
+   + [Importing profiles with a workflow](/help/managing-processes-and-data/importing-profiles.md)
    + [Verwalten von Diensten und Abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (BETA){#audience-destinations}
       + [Übersicht](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -49,7 +49,7 @@ ht-degree: 100%
       + [Erstellen einer E-Mail](/help/communication-channels/email/create-email-from-homepage.md)
       + [Testversand, Vorbereiten und Senden einer E-Mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Erstellen eines mehrsprachigen E-Mail- oder SMS-Versands](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Vorlagen in mehrsprachige Sendungen](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Konvertieren einer vorhandenen E-Mail-, SMS-Versand- oder Vorlage in eine mehrsprachige](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B-Tests](/help/communication-channels/email/a-b-testing.md)
       + [Testen von E-Mail-Nachrichten mit Zielgruppenprofilen](/help/communication-channels/email/profile-substitution.md)
       + [Prüfen von E-Mail-Versand und -Berichten](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -130,3 +130,5 @@ ht-degree: 100%
    + [Ändern von benutzerdefinierten Ressourcen für Datenschutzanfragen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Manuelles Erstellen und Verfolgen von Datenschutzanfragen](/help/privacy/create-and-track-privacy-requests.md)
    + [Ausführen von Datenschutzanfragen](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
