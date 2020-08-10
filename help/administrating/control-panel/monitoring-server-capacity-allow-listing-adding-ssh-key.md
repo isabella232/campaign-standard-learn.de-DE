@@ -1,6 +1,6 @@
 ---
-title: Überwachen der Serverkapazität, Auflisten von IP-Adressen und Hinzufügen von SSH-Schlüsseln
-description: Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung instanzweise überwachen und verwalten und Zulassungslisten IP-Adressen hinzufügen.
+title: Überwachen der Server-Kapazität, Hinzufügen von IP-Adressen zur Zulassungsliste und Hinzufügen von SSH-Schlüsseln
+description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz überwachen und verwalten und IP-Adressen auf die Zulassungslisten setzen.
 feature: Control Panel
 topics: null
 kt: 3266
@@ -11,44 +11,44 @@ translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Überwachen der Serverkapazität, [!UICONTROL Zulassen der Auflistung] von IP-Adressen und Hinzufügen von SSH-Schlüsseln
+# Überwachen der Server-Kapazität, Hinzufügen von IP-Adressen zur [!UICONTROL Zulassungsliste] und Hinzufügen von SSH-Schlüsseln
 
-Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung instanzweise überwachen und verwalten und [!UICONTROL Listen-IP-Adressen]zulassen.
+Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz überwachen und verwalten und IP-Adressen auf [!UICONTROL Zulassungslisten] setzen.
 
-## Zugriff auf [!UICONTROL Subdomänenverwaltung in der Systemsteuerung]
+## Aufrufen der Subdomain-Verwaltung in [!UICONTROL Control Panel]
 
-Um auf die Subdomänenverwaltung in der [!UICONTROL Systemsteuerung]zuzugreifen, gehen Sie zu:
+Um die Subdomain-Verwaltung in [!UICONTROL Control Panel]aufzurufen, gehen Sie zu:
 
-* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > [!UICONTROL Lösungsauswahl]: [!UICONTROL Kampagne] > **[!UICONTROL Systemsteuerung]** > **[!UICONTROL Subdomänen- und Zertifikatkarte]**
+* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > [!UICONTROL Lösungsauswahl]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]**-Karte > **[!UICONTROL Subdomains &amp; Zertifikate]**-Karte.
 
    oder
-* Direkt von der URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
+* Direkt über die URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Überwachen der Serverkapazität, [!UICONTROL Zulassungslisten] -IP-Adressen und Hinzufügen von SSH-Schlüsseln
+## Überwachen der Serverkapazität, Hinzufügen von IP-Adressen zur [!UICONTROL Zulassungsliste] und Hinzufügen von SSH-Schlüsseln
 
-In diesem Video wird erläutert, wie Sie auf die [!UICONTROL Adobe Campaign-Systemsteuerung]zugreifen, die Datenspeicherung der SFTP-Server überwachen, eine IP-Adresse [!UICONTROL Zulassungsliste] vornehmen und einen SSH-Schlüssel hinzufügen können.
+In diesem Video wird erläutert, wie Sie auf das [!UICONTROL Adobe Campaign Control Panel]zugreifen, die Datenspeicherung der SFTP-Server überwachen, eine IP-Adresse auf die [!UICONTROL Zulassungsliste] setzen und einen SSH-Schlüssel hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
 
-### Oberflächenbeschreibungen
+### Beschreibung der Benutzeroberfläche
 
 **Instanzen:** Es werden nur die Instanzen aufgelistet, für die Sie Administratorrechte haben.
 
-**Auftragsprotokolle:** Es werden nur Aufträge aufgelistet, die in der [!UICONTROL Systemsteuerung] ausgeführt wurden. Die Aufträge, die außerhalb der [!UICONTROL Systemsteuerung] ausgeführt wurden, sind nicht enthalten (z. B. Workflows Ausführung usw.)
+**Vorgangslogs:** Es werden nur Vorgänge aufgelistet, die im [!UICONTROL Control Panel] ausgeführt wurden. Vorgänge, die außerhalb von [!UICONTROL Control Panel] ausgeführt wurden, sind nicht enthalten (z. B. Workflows, die gerade ausgeführt werden).
 
-Die Protokolle enthalten nur die Aufträge, die von den Administratoren Ihres Unternehmens ausgeführt werden. Wenn es mehrere Orgs gibt, werden die Protokolle anderer Orgs nicht in den Auftragsprotokollen angezeigt.
+Die Logs enthalten nur die Vorgänge, die von den Administratoren Ihrer Organisation ausgeführt werden. Wenn es mehrere Organisationen gibt, werden die Protokolle anderer Organisationen nicht in den Vorgangslogs angezeigt.
 
-**Registerkarte &quot;Datenspeicherung&quot;:** Die Kopfzeile zeigt die drei am häufigsten verwendeten Server an. Wenn Sie über mehr als 3 Server verfügen, sehen Sie den Rest auf der Registerkarte &quot; [!UICONTROL Datenspeicherung] &quot;.
+**Registerkarte &quot;Datenspeicherung&quot;:** Die Kopfzeile zeigt die drei am häufigsten verwendeten Server an. Wenn Sie über mehr als 3 Server verfügen, sehen Sie die restlichen Server auf der Registerkarte [!UICONTROL Datenspeicherung].
 
-**Warning message:**
+**Nachricht der Warnung:**
 
-* Orange - Server wird zu 80 % verwendet
-* Red - Server wird zu 90 % verwendet
+* Orange – Server ist zu 80 % ausgelastet
+* Rot – Server ist zu 90% ausgelastet
 
 ## Zusätzliche Ressourcen
 
