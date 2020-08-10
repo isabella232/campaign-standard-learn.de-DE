@@ -1,6 +1,6 @@
 ---
-title: Probleme beim Aufnehmen der Systemsteuerung
-description: Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung nach Instanz und Zulassungsliste-IP-Adressen überwachen und verwalten.
+title: Fehlerbehebung beim Control Panel
+description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz überwachen und verwalten und IP-Adressen auf die Zulassungsliste setzen.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -10,63 +10,63 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 3%
+source-wordcount: '357'
+ht-degree: 98%
 
 ---
 
 
-# Probleme beim Aufnehmen der [!UICONTROL-Systemsteuerung]
+# Trouble shooting the [!UICONTROL Control Panel]
 
-Erfahren Sie, wie Sie Probleme mit der Systemsteuerung beheben können.
+Erfahren Sie, wie Sie Probleme bei der Verwendung des Control Panels beheben können.
 
 ## Anmelden und Homepage
 
 Probleme bei der Anmeldung und Homepage.
 
-### Symptom: Anmeldung bei Adobe Experience Cloud nicht möglich
+### Symptom: Anmeldung bei Adobe Experience Cloud nicht möglich.
 
 **Vorgehensweise:**
-Der Benutzer muss seinen [!DNL IMS Org ID] (xxx) finden. Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem [!UICONTROL Profil] des Produkts hinzufügen [!DNL “Campaign-xxx-Admins”] . Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise selbst als *[!UICONTROL Benutzer]* hinzufügen.
+Der Benutzer muss seine [!DNL IMS Org ID] (xxx) finden. Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem [!UICONTROL Produktprofil] [!DNL “Campaign-xxx-Admins”] hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise selbst als *[!UICONTROL Benutzer]* hinzufügen.
 
-### Symptom: Links auf der [!UICONTROL Adobe Experience Cloud-Startseite] zum Zugriff auf die [!UICONTROL Systemsteuerung] werden für Benutzer nicht angezeigt
+### Symptom: Links auf der [!UICONTROL Adobe Experience Cloud-Startseite] zum Zugriff auf das [!UICONTROL Control Panel] werden einem Benutzer nicht angezeigt.
 
 **Ursache:**
-Benutzer sehen die Links erst dann als Benutzer zum [!UICONTROL Profil des Produkts] `Campaign-xxx-Administrators/Admin`
+Benutzer sehen die Links erst, wenn sie als Benutzer zum [!UICONTROL Produktprofil] `Campaign-xxx-Administrators/Admin` hinzugefügt werden.
 
 **Vorgehensweise:**
-Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem [!UICONTROL Profil] des Produkts hinzufügen *[!DNL Campaign-xxx-Admins]* . Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise selbst als *[!UICONTROL Benutzer]* hinzufügen.
+Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem [!UICONTROL Produktprofil] *[!DNL Campaign-xxx-Admins]* hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise selbst als *[!UICONTROL Benutzer]* hinzufügen.
 
-### Symptom: Eine Instanz wird nicht in der [!UICONTROL Systemsteuerung aufgeführt]
+### Symptom: Eine Instanz wird nicht im [!UICONTROL Control Panel] aufgeführt.
 
 **Ursache:**
-In der Regel muss der Benutzer als *[!UICONTROL Benutzer]* -Profil `!DNL Campaign-xxx-Administrators/Admin` für die fehlende Instanz hinzugefügt werden
+Höchstwahrscheinlich muss der Benutzer als *[!UICONTROL Benutzer]* zum Produktprofil `!DNL Campaign-xxx-Administrators/Admin` für die fehlende Instanz hinzugefügt werden.
 
 **Vorgehensweise:**
-Der Administrator muss den Profil für jede Instanz, die er verwalten möchte, dem Produkt- hinzufügen. `Campaign-xxx-Admins` Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise selbst als *[!UICONTROL Benutzer]* hinzufügen.
+Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Produktprofil `Campaign-xxx-Admins` hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise selbst als *[!UICONTROL Benutzer]* hinzufügen.
 
 ### Hilfreiche Videos
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Prüfung[!DNL IMS Org ID](00:26 Min.)*
+*[!DNL IMS Org ID]prüfen (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Hinzufügen eines Administrators zum[!UICONTROL Produkt-Profil]*[!DNL administrators]*, um die[!UICONTROL Systemsteuerung]verwenden zu können (01:03 Min.)*
+*Hinzufügen eines Administrators zum[!UICONTROL Produktprofil]*[!DNL administrators]*, um das[!UICONTROL Control Panel]zu verwenden (01:03 min)*
 
 ### Hilfreiche Dokumentation
 
-* [Entdecken Sie die [!UICONTROL Systemsteuerung]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [[!UICONTROL Berechtigungen für das Control Panel verwalten]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [[!UICONTROL Control Panel]](https://helpx.adobe.com/de/campaign/kb/control-panel-overview.html)
+* [[!UICONTROL Verwalten von Berechtigungen für das Control Panel]](https://helpx.adobe.com/de/campaign/kb/control-panel-access.html)
 
-## Verbindung zum SFTP-Server herstellen (Client oder API)
+## Herstellen einer Verbindung zum SFTP-Server (Client oder API)
 
 Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
 
-* [!UICONTROL die Auflistung] der IP-Adresse zulassen, von der Sie eine Verbindung zum SFTP-Server herstellen
-* Private/öffentliche Schlüsselpaare, die bei Adobe Campaign registriert werden müssen
-* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen, benötigen Sie auch die SFTP-Clientsoftware
+* Die IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen, muss auf der [!UICONTROL Zulassungsliste] stehen.
+* Ein öffentlich-privates Schlüsselpaar, das bei Adobe Campaign registriert sein muss.
+* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen, benötigen Sie auch die SFTP-Clientsoftware.
 
 ### Hilfreiche Dokumentation
 
-* [Anmeldung bei Ihrem SFTP-Server](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [Anmeldung bei Ihrem SFTP-Server](https://helpx.adobe.com/de/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
