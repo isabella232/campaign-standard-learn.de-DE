@@ -1,6 +1,6 @@
 ---
 title: Control Panel
-description: Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung nach Instanz und Zulassungsliste-IP-Adressen überwachen und verwalten.
+description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz überwachen und verwalten und IP-Adressen auf Zulassungslisten setzen.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -20,75 +20,75 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Die Begriffe &quot;[!UICONTROL Whitelist]&quot;und &quot;[!UICONTROL schwarze Liste]&quot;wurden in den Unterlagen zum Adobe Campaign durch &quot;[!UICONTROL Zulassungsliste]&quot;und &quot;[!UICONTROL Blockierungsliste]&quot;ersetzt. Einige Vorkommen dieser Begriffe befinden sich möglicherweise noch in der Produktoberfläche, in Optionsnamen, im internen Code sowie in den Übungsvideos. Sie werden in den kommenden Versionen der Systemsteuerung ersetzt.
+>Die Begriffe [!UICONTROL Whitelist] und [!UICONTROL Blacklist] wurden in den Unterlagen zu Adobe Campaign durch [!UICONTROL Zulassungsliste] und [!UICONTROL Blockierungsliste] ersetzt. Einige Vorkommen dieser Begriffe sind möglicherweise noch in der Produktbenutzeroberfläche, in Optionsnamen, im internen Code sowie in den Übungsvideos zu finden. Sie werden in den kommenden Control Panel-Versionen ersetzt.
 
-Die [!UICONTROL Systemsteuerung] ermöglicht es Adobe Campaign-Administratoren, wichtige Assets zu überwachen und administrative Aufgaben durchzuführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz oder [!UICONTROL Zulassungsliste] -IP-Adressen.
+Das [!UICONTROL Control Panel] ermöglicht es Adobe Campaign-Administratoren, wichtige Kreativelemente zu überwachen und administrative Aufgaben durchzuführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz oder Adressen auf der [!UICONTROL Zulassungsliste].
 
-## Accessing [!UICONTROL Control Panel]
+## Zugriff auf das [!UICONTROL Control Panel]
 
-Um auf die Systemsteuerung zuzugreifen, gehen Sie zu Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Gehen Sie zur Startseite von Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com), um auf das Control Panel zuzugreifen:
 
 * **[!UICONTROL Experience Cloud-Startseite]** > **[!UICONTROL Schnellzugriff]**
 
    oder
-* **[!UICONTROL Experience Cloud-Startseite]** > [!UICONTROL Lösungsauswahl]: **Kampagne** > **[!UICONTROL Bedienfeldkarte]**
+* **[!UICONTROL Experience Cloud-Startseite]** > [!UICONTROL Lösungsauswahl]: **Campaign** > **[!UICONTROL Control Panel]-Karte **
 
    oder
 
-* Direkt von der URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+* Direkt über die URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
 
 ## Voraussetzungen
 
-Bevor Sie beginnen, müssen Sie die folgenden Voraussetzungen erfüllen:
+Erfüllen Sie zunächst die folgenden Voraussetzungen:
 
-### Bestätigen [!DNL IMS Org ID]
+### Bestätigen der [!DNL IMS Org ID]
 
-Du musst dein [!DNL IMS org ID]wissen. Im folgenden Video wird beschrieben, wo Sie die Instanz suchen können [!DNL IMS org ID].
+Sie müssen Ihre [!DNL IMS org ID] kennen. Im folgenden Video wird beschrieben, wo Sie die [!DNL IMS org ID] Ihrer Instanz finden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Prüfung[!DNL IMS Org ID](00:26 Min.)*
+*[!DNL IMS Org ID]prüfen (00:26 min)*
 
 ### Administratorrechte
 
-Für den Zugriff auf die [!UICONTROL Systemsteuerung]sind Administratorrechte erforderlich.
-Im folgenden Video wird erläutert, wie Sie einer Instanz einer Kampagne einen Administrator hinzufügen
+Für den Zugriff auf das [!UICONTROL Control Panel] sind Administratorrechte erforderlich.
+Im folgenden Video wird erläutert, wie Sie einer Campaign-Instanz einen Administrator hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*How to add an administrator to the product profile &quot;[!UICONTROL Administrators]&quot; to be able to use[!UICONTROL Control Panel](01:03 min)*
+*Hinzufügen eines Administrators zum Produktprofil &quot;[!UICONTROL Administratoren]&quot;, um das[!UICONTROL Control Panel]zu verwenden (01:03 min)*
 
-## Control Panel Tutorials
+## Control Panel – Tutorials
 
-* **Managing SFTP Servers**
+* **Verwalten von SFTP-Servern**
 
-   *Learn how to monitor the server capacity, allow list IP addresses, and add SSH keys:*
+   *Erfahren Sie, wie Sie die Server-Kapazität und die IP-Adressen der Zulassungslisten überwachen und SSH-Schlüssel hinzufügen:*
 
-   * [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   * [Generating a SSH Key](/help/administrating/control-panel/generate-ssh-key.md)
-   * [Connecting to a SFTP Server](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[Delegating Subdomains](/help/administrating/control-panel/subdomain-delegation.md)**
+   * [Überwachen der Server-Kapazität, Hinzufügen von IP-Adressen zur Zulassungsliste und Hinzufügen von SSH-Schlüsseln](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   * [Erstellen eines SSH-Schlüssels](/help/administrating/control-panel/generate-ssh-key.md)
+   * [Herstellen einer Verbindung zu einem SFTP-Server](/help/administrating/control-panel/connect-to-sftp-server.md)
+* **[Zuweisen von Subdomains](/help/administrating/control-panel/subdomain-delegation.md)**
 
-   *Learn how to fully delegate a subdomain to Adobe Campaign*
-* **[Adding SSL Certificates](/help/administrating/control-panel/adding-ssl-certificates.md)**
+   *Erfahren Sie, wie Sie Adobe Campaign eine Subdomain vollständig zuweisen.*
+* **[Hinzufügen von SSL-Zertifikaten](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
-   *Learn how you can add a SSL certificates to secure your subdomains.*
+   *Erfahren Sie, wie Sie SSL-Zertifikate hinzufügen können, um Ihre Subdomains zu sichern.*
 
 * **[Verwaltung von Google TXT-Einträgen](/help/administrating/control-panel/google-txt-record-management.md)**
 
-   *Erfahren Sie, wie Sie allen Subdomänen, die zum Senden von E-Mails an GMAIL-Adressen verwendet werden, über die Systemsteuerung der Kampagne Google TXT-Site-Überprüfungsdatensätze hinzufügen.*
+   *Erfahren Sie, wie Sie allen Subdomains, die zum Senden von E-Mails an GMAIL-Adressen über das Campaign Control Panel verwendet werden, einen Eintrag der TXT-Websiteüberprüfung von Google hinzufügen.*
 
-* **GPG key management**
+* **GPG-Schlüsselverwaltung**
 
-   *Erfahren Sie, wie Sie ein Public-Private-Key-Paar für die Verschlüsselung ausländischer Kampagnen auf einer angegebenen Instanz erstellen und installieren sowie einen öffentlichen Schlüssel für die Entschlüsselung eingehender Daten importieren und auf einer Kampagne installieren:*
+   *Erfahren Sie, wie Sie ein öffentlich-privates Schlüsselpaar in einer Campaign-Instanz für die Verschlüsselung ausgehender Daten generieren und installieren sowie einen öffentlichen Schlüssel in einer Campaign-Instanz für die Entschlüsselung eingehender Daten importieren und installieren:*
 
    * [Generieren und Installieren von GPG-Schlüsseln für die Datenverschlüsselung](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
    * [Verschlüsseln von Daten mit einem GPG-Schlüssel](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
    * [Entschlüsseln von Daten](./gpg-key-management/decrypting-data.md)
 
-* **[Probleme beim Schießen](/help/administrating/control-panel/trouble-shooting.md)**
+* **[Fehlerbehebung](/help/administrating/control-panel/trouble-shooting.md)**
 
-   *Informationen zur Fehlerbehebung in der Systemsteuerung*
+   *Fehlerbehebung beim Control Panel*
 
 ## Zusätzliche Ressourcen
 
-* [Hilfe-Center für Systemsteuerung](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
+* [Control Panel – Hilfezentrum](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
 
