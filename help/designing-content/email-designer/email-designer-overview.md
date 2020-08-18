@@ -3,15 +3,15 @@ title: Übersicht über Email Designer
 description: In diesem Video werden die allgemeinen Funktionen des E-Mail-Designers und das Entwerfen einer E-Mail von Grund auf erläutert.Auf dieser Seite werden alle verfügbaren Funktionsvideos für den Adobe Campaign-E-Mail-Designer Liste.
 feature: Email Designer
 topics: Content Creation
-kt: 2391
+kt: null
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 18%
+source-wordcount: '143'
+ht-degree: 29%
 
 ---
 
@@ -24,18 +24,13 @@ In diesem Video erhalten Sie einen Überblick über die Funktionalität und Verw
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
-## Getting Started with the [!UICONTROL Email Designer]
-
-In diesem Video werden die allgemeinen Funktionen des [!UICONTROL E-Mail-Designers] und das Design einer E-Mail von Grund auf erläutert.
-
->[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
-
 ## Tutorials
 
 Die folgenden detaillierten Lernprogramme stehen zur Verfügung:
 
+* [Erste Schritte mit dem E-Mail-Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Inhaltsvorlagen ](/help/designing-content/email-designer/email-content-templates.md)
-* [Konfigurieren der mobilen Ansicht](/help/designing-content/email-designer/configure-the-mobile-view.md)
+* [Konfigurieren der Ansicht auf einem Mobilgerät](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [Sehen Sie sich die E-Mail in der Vorschau an](/help/designing-content/email-designer/preview-your-email.md)
-* [Arbeiten mit vorhandenen Inhalten](/help/designing-content/email-designer/working-with-existing-content.md)
+* [Verwenden existierender Inhalte](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Erstellen von Inhalten mit Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
