@@ -1,5 +1,5 @@
 ---
-title: Produktlisten in transaktionalen E-Mails konfigurieren
+title: Konfigurieren von Produktlisten in Transaktions-E-Mails
 description: In den Videos werden die Schritte erläutert, die zum Konfigurieren von Produktauflistungen in transaktionalen E-Mails in Adobe Campaign Standard (ACS) erforderlich sind.
 feature: Transactional Emails
 topics: Content Creation
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '180'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ Sie können eine Targeting-E-Mail mit einer Liste von Produkten konfigurieren, d
 
 In den folgenden Videos werden die Schritte erläutert, die zum Konfigurieren von [!UICONTROL Produktauflistungen] in [!UICONTROL Transaktionsmailings]erforderlich sind.
 
->[HINWEIS]
+>[!NOTE]
 >
 >Diese Funktion wird derzeit in den Videos als Schleife bezeichnet.
 
