@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -99,5 +99,6 @@ Navigieren Sie zu **[!UICONTROL Administration->Kanal->Mobile App(AEP SDK)]**. Ã
 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
->[HINWEIS]
+>[!NOTE]
+>
 >Wenn das Registrierungstoken auf der Registerkarte &quot;Abonnenten [!UICONTROL von] Mobilanwendungen&quot;nicht angezeigt wird, beenden Sie hier den Vorgang, bevor Sie fortfahren.
