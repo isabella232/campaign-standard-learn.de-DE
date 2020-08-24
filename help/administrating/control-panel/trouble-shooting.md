@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
+source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 98%
@@ -40,7 +40,7 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 ### Symptom: Eine Instanz wird nicht im [!UICONTROL Control Panel] aufgeführt.
 
 **Ursache:**
-Höchstwahrscheinlich muss der Benutzer als *[!UICONTROL Benutzer]* zum Produktprofil `!DNL Campaign-xxx-Administrators/Admin` für die fehlende Instanz hinzugefügt werden.
+Höchstwahrscheinlich muss der Benutzer als *[!UICONTROL Benutzer]* zum Produktprofil `Campaign-xxx-Administrators/Admin` für die fehlende Instanz hinzugefügt werden.
 
 **Vorgehensweise:**
 Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Produktprofil `Campaign-xxx-Admins` hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise selbst als *[!UICONTROL Benutzer]* hinzufügen.
