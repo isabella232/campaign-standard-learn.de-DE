@@ -18,8 +18,7 @@ ht-degree: 40%
 
 # Erstellen von [!UICONTROL Ermüdungsregeln]
 
-[!UICONTROL Mit Ermüdungsregeln können Marketer globale, kanalübergreifende Geschäftsregeln festlegen, mit denen Profile, die bereits zu oft angesprochen wurden, automatisch von Kampagnen ausgeschlossen werden.
-]
+[!UICONTROL Mit Ermüdungsregeln] können Marketer globale, kanalübergreifende Geschäftsregeln festlegen, mit denen Profile, die bereits zu oft angesprochen wurden, automatisch von Kampagnen ausgeschlossen werden.
 To create [!UICONTROL fatigue rules], you need to define a maximum number of messages per profile and select a period for which the rule will apply. Bei der Versandvorbereitung werden Profile vom Versand ausgeschlossen, wenn sie bereits eine bestimmte Anzahl an Nachrichten erhalten haben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12)
