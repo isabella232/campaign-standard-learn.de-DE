@@ -33,7 +33,7 @@ Um die SFTP-Verwaltung im Control Panel aufzurufen, gehen Sie zu:
 
 Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
 
-* Die IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen, muss auf der [!!UICONTROL Zulassungsliste] stehen.
+* Die IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen, muss auf der [!UICONTROL Zulassungsliste] stehen.
 * Ein öffentlich-privates Schlüsselpaar, das bei Adobe Campaign registriert sein muss.
 * Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen, benötigen Sie auch die SFTP-Clientsoftware.
 
