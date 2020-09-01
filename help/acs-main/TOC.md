@@ -8,8 +8,9 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
+type: Tutorial
 translation-type: tm+mt
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
+source-git-commit: 5d176b2df0da17dd66c6b2990b9da051296fd508
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 98%
@@ -109,9 +110,9 @@ ht-degree: 98%
       + [Herstellen einer Verbindung zu einem SFTP-Server](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Zuweisen von Subdomains](/help/administrating/control-panel/subdomain-delegation.md)
       + [Hinzufügen von SSL-Zertifikaten](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [Verwalten von Google TXT-Einträgen](/help/administrating/control-panel/google-txt-record-management.md)
-      + GPG-Schlüsselverwaltung{#gpg-key-management}
-         + [GPG-Schlüsselverwaltung – Übersicht](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
+      + [Verwaltung von Google TXT-Einträgen](/help/administrating/control-panel/google-txt-record-management.md)
+      + Verwaltung von GPG-Schlüsseln {#gpg-key-management}
+         + [Verwaltung von GPG-Schlüsseln – Übersicht](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
          + [Generieren und Installieren von GPG-Schlüsseln für die Datenverschlüsselung](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
          + [Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [Entschlüsseln von Daten](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
