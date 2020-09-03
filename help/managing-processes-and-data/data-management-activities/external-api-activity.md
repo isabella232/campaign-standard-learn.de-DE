@@ -31,7 +31,7 @@ In diesem Video wird die Verwendung der [!UICONTROL Aktivität &quot;Externe API
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL Aktivität &quot;Externe API&quot;](06:48 min)*
+*[!UICONTROL Aktivität &quot;Externe API&quot;] (06:48 min)*
 
 >[!NOTE]
 >
