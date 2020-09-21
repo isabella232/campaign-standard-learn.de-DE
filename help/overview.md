@@ -3,10 +3,10 @@ title: Adobe Campaign Standard – Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 100%
+source-wordcount: '320'
+ht-degree: 62%
 
 ---
 
@@ -17,17 +17,17 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[GPG-Schlüsselverwaltung](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Hinzufügen von Kontrollgruppen zu einem Versand](/help/communication-channels/email/control-groups.md)**
 
-   *Erfahren Sie, wie Sie ein öffentlich-privates Schlüsselpaar in einer Campaign-Instanz für die Verschlüsselung ausgehender Daten generieren und installieren sowie einen öffentlichen Schlüssel in einer Campaign-Instanz für die Entschlüsselung eingehender Daten importieren und installieren.*
+   *Erfahren Sie, wie Sie beim Definieren der Zielgruppe Ihres Versands eine[!UICONTROL Kontrollgruppe]erstellen.*
 
-* **[Aktivität &quot;Externe API&quot;](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[Prognostizierte Optimierung der Sendezeit](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Erfahren Sie, wie Sie einen Workflow mit der Aktivität &quot;Externe API&quot; konfigurieren und ausführen.*
+   *Verstehen Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe Campaign und dem Journey AI-Modell erforderlich sind. Erfahren Sie, wie Sie Ansichten zum Senden von Zeitwerten auf der Ebene der einzelnen Profil erstellen und wie Sie E-Mail-Versand mit einer Versandzeitformel ausführen.*
 
-* **[Profilersetzung – Testen von E-Mail-Nachrichten mit Zielgruppenprofilen](/help/communication-channels/email/profile-substitution.md)**
+* **[Bewertung der voraussichtlichen Interaktion](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-   *Erfahren Sie, wie Sie einen Testversand zur Überprüfung mit der genauen Darstellung der Nachricht durchführen können, die das Profil empfangen wird.*
+   *Erfahren Sie, wie Sie Interaktionsbewertungen auf der Ebene der einzelnen Profil Ansicht können, wie Sie Bewertungen für eingebundene Benutzer verwenden und erschöpfte Benutzer unterdrücken, und wie Sie Typologieregeln zur Verwaltung der Kundenmüdigkeit erstellen.*
 
 ## Favoriten unserer Mitarbeiter
 
@@ -47,16 +47,16 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     <p>
   </td>
    <td>
-    <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="Email Designer (Videos)" src="./assets/email_designer_tutorial.png" />
+    <a href="./administrating/control-panel/control-panel-overview.md">
+      <img alt="Systemsteuerung (Videos)" src="./assets/control-panel.png" />
     </a>
     <div>
-      <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>Email Designer (Videos)</strong>
+    <a href="./administrating/control-panel/control-panel-overview.md">
+    <strong>Systemsteuerung (Videos)</strong>
     </a>
     </div>
     <p>
-    <em>Email Designer ermöglicht die schnelle und mühelose visuelle Erstellung personalisierter E-Mails.</em>
+    <em> Erhöhen Sie Ihre Effizienz als Administrator, indem Sie die Einstellungen verwalten und die Nutzung Ihrer Instanzen mit der Systemsteuerung verfolgen.</em>
     <p>
   </td>
   <td>
