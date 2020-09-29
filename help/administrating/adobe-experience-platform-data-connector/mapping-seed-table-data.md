@@ -1,5 +1,5 @@
 ---
-title: Zuordnen von Seed-Tabellendaten
+title: Zuordnen von Testtabellendaten
 description: Erfahren Sie, wie Sie Seed-Daten zuordnen und Profil mit dem Adobe Experience Platform (AEP) testen können.
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Zuordnen von Seed-Tabellendaten
+# Zuordnen von Testtabellendaten
 
 >[!NOTE]
 >
