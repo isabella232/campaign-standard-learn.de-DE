@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ Die Zeichenfolge **[!DNL pushidentifier]** enthält das Gerätetoken für [!DNL 
 Öffnen Sie Ihr Projekt im [!DNL Android ]Studio. Löschen Sie den gesamten Code [!DNL MainActivity] mit Ausnahme der ersten Zeile, die Ihre Paketanweisung **** ist.
 
 Fügen Sie den folgenden Code ein in [!DNL MainActivity]:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import androidx.annotation.NonNull;
