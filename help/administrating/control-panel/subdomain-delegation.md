@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: a21fdefdce42ba417ff6b5173d15a0cebe4176ad
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 89%
+ht-degree: 71%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 89%
 Über das Adobe Campaign [!UICONTROL Control Panel] können Sie Adobe Campaign eine Subdomain vollständig zuweisen.
 
 >[!NOTE]
-> Das Zuweisen von Subdomains über das [!UICONTROL Control Panel] wird ab Ende Januar als Betaversion verfügbar sein, vorbehaltlich
-> wiederholter Aktualisierungen und Änderungen ohne Vorankündigung.
+>
+>Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
 
 ## Zugreifen auf die Subdomain-Verwaltung im [!UICONTROL Control Panel]
 
