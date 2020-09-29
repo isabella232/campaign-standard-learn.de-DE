@@ -1,5 +1,5 @@
 ---
-title: Neue Audience mit dem einheitlichen Segmentaufbau erstellen
+title: Erstellen einer neuen Audience mit dem Unified Segment Builder
 description: null
 feature: Audience Destinations
 topics: ACOP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Neue Audience mit dem einheitlichen Segmentaufbau erstellen
+# Erstellen einer neuen Audience mit dem Unified Segment Builder
 
 >[!NOTE]
 >
