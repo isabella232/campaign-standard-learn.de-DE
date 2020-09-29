@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ In diesem Teil werden wir den Code zur Registrierung des User Profil, Identity, 
 Öffnen Sie Ihr Projekt im [!DNL Android] Studio. Löschen Sie den gesamten Code in MainApp, **mit Ausnahme der ersten Zeile, die Ihre Paketanweisung** ist.
 
 Fügen Sie den folgenden Code in MainApp ein
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import [!DNL android].app.Application;
