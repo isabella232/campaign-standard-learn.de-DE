@@ -1,23 +1,25 @@
 ---
 title: Erstellen eines dynamischen Berichts
-description: Die dynamischen Berichte von Adobe Campaign sind so konzipiert, dass sie eine flexible Freiform-Umgebung darstellen, in der Sie Daten untersuchen können. Damit können Sie Dimensionen, Metriken und Zeiträume in beliebiger Kombination mit unbegrenzten Aufschlüsselungen und Vergleichen kombinieren. In diesem Video wird das Erstellen eines Berichts erläutert.
+description: Erfahren Sie, wie Sie einen Bericht erstellen.
 feature: Dynamic Reporting
 kt: 2037
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '69'
+ht-degree: 26%
 
 ---
 
 
-# Erstellen eines [!UICONTROL dynamischen Berichts]{#creating-a-report}
+# Creating a [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign&#39;s [!UICONTROL Dynamic Reports] are designed to be a flexible freeform environment where you can explore data. Damit können Sie Dimensionen, Metriken und Zeiträume in beliebiger Kombination mit unbegrenzten Aufschlüsselungen und Vergleichen kombinieren. In diesem Video wird das Erstellen eines Berichts erläutert.
+Adobe Campaign&#39;s [!UICONTROL Dynamic Reports] are designed to be a flexible freeform environment where you can explore data. Damit können Sie Dimensionen, Metriken und Zeiträume in beliebiger Kombination mit unbegrenzten Aufschlüsselungen und Vergleichen kombinieren.
+
+Erfahren Sie, wie Sie einen Bericht erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12)
 
