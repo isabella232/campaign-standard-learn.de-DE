@@ -8,14 +8,14 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Hinzufügen Dienst zum Senden der Benachrichtigung
+# hinzufügen Dienst zum Senden der Benachrichtigung
 
 In diesem Teil werden wir die Nachricht, die wir von Adobe Campaign erhalten haben, mit [!DNL Android Notification Manager]. [!DNL Notification manager] wird verwendet, um den Benutzer über Ereignis zu informieren, die auftreten.
 So teilen Sie dem Benutzer mit, dass im Hintergrund etwas passiert ist:
@@ -26,6 +26,10 @@ So teilen Sie dem Benutzer mit, dass im Hintergrund etwas passiert ist:
 * Klicken Sie mit der rechten Maustaste auf den Paketordner ([!DNL com.example.acspushtutorial]) und [!DNL New ->Java Class]
 * Benennen Sie diese Klasse *[!DNL MyService]* und stellen Sie sicher, dass sie erweitert wird [!DNL FirebaseMessagingService]
 * Create *[!DNL sendNotification]* method in this class. Bei dieser Methode müssen Sie den Inhalt und den Kanal der Benachrichtigung mit einem [!DNL NotificationCompat.Builder] Objekt festlegen. Um die Benachrichtigung anzuzeigen, rufen Sie [!DNL NotificationManagerCompat.notify()]an und übergeben Sie ihr eine eindeutige ID für die Benachrichtigung und das Ergebnis von [!DNL NotificationCompat.Builder.build()].
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 package com.example.pushmessaging;
@@ -90,7 +94,11 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## Ändern [!DNL AndroidManifest.xml]
 
-Hinzufügen Sie den Dienst, der für Sie erstellt wurde [!DNL AndroidManifest.xml]. Das endgültige Ergebnis [!DNL AndroidManifest.xml] sollte wie folgt aussehen:
+hinzufügen Sie den Dienst, der für Sie erstellt wurde [!DNL AndroidManifest.xml]. Das endgültige Ergebnis [!DNL AndroidManifest.xml] sollte wie folgt aussehen:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
