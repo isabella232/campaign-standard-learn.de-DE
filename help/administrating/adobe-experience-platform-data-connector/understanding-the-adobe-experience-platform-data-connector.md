@@ -1,5 +1,5 @@
 ---
-title: Erläuterungen zum Adobe Experience Platform Data Connector
+title: Informationen zum Adobe Experience Platform Data Connector
 description: Adobe Experience Platform Data Connector hilft Bestandskunden, ihre Daten in Adobe Experience Platform verfügbar zu machen, indem XTK-Daten (in Campaign erfasste Daten) den XDM-Daten (Experience-Datenmodell) in Adobe Experience Platform zugeordnet werden.
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 20%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Erläuterungen zum Adobe Experience Platform [!UICONTROL Data Connector]
+# Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
@@ -47,10 +47,10 @@ Adobe Experience Platform [!UICONTROL Data Connector] is intended for data engin
 Die folgenden Lernprogramme beschreiben die wichtigsten Schritte zum Durchführen einer Datenzuordnung zwischen Campaign Standard und Adobe Experience Platform:
 
 1. [Benutzerdefinierte Ressourcen zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-2. [Erlebnis-Ereignis zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+2. [Zuordnen von Erlebnisereignissen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Zuordnen von Seed-Tabellendaten](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Ändern der Datenzuordnung](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Überprüfen des Status von Datenerfassungsaufträgen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Überprüfen des Status von Datenerfassungsvorgängen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Zusätzliche Ressourcen
 
