@@ -1,5 +1,5 @@
 ---
-title: Aktivieren von Adobe Experience Platform-Audiencen in einem Workflow
+title: Aktivieren von Adobe Experience Platform-Audiences in einem Workflow
 description: In diesem Video wird erläutert, wie die Data Services-Abfrage-Audience in einem Workflow mithilfe der Aktivität "Audience lesen"aktiviert wird.
 feature: Audience Destinations
 topics: ACOP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
