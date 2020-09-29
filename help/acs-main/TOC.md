@@ -11,10 +11,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
+source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -64,7 +64,6 @@ ht-degree: 94%
    + Mobile {#mobile}
       + SMS{#sms}
          + [Erstellen eines SMS-Versands](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Vorlagen in mehrsprachige Sendungen](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push-Benachrichtigungen {#push}
          + [Erstellen einer Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Erstellen einer mehrsprachigen Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -138,3 +137,5 @@ ht-degree: 94%
    + [Ändern von benutzerdefinierten Ressourcen für Datenschutzanfragen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Manuelles Erstellen und Verfolgen von Datenschutzanfragen](/help/privacy/create-and-track-privacy-requests.md)
    + [Ausführen von Datenschutzanfragen](/help/privacy/execute-privacy-requests.md)
++ [Best Practice für die Bereitstellung von Adobe Campaignen](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
