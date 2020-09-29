@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte mit Push-Benachrichtigungen mit der Android-App
-description: Sie können mit Adobe Campaign personalisierte und zielgruppenspezifische Push-Benachrichtigungen an iOS- und Android-Mobilgeräte versenden. Diese Nachrichten werden auf Mobile Apps empfangen, die in Adobe Campaign unter Verwendung des Experience Cloud Mobile SDK V4 oder Experience Platform SDK eingerichtet werden. In diesem Lernprogramm werden Sie durch die Schritte geführt, die beim Senden von Push-Benachrichtigungen von Adobe Campaign und beim Empfang dieser Benachrichtigungen in Ihrer Android-App erforderlich sind.
+description: In diesem Lernprogramm werden Sie durch die Schritte geführt, die beim Senden von Push-Benachrichtigungen von Adobe Campaign und beim Empfang dieser Benachrichtigungen in Ihrer Android-App erforderlich sind.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -8,10 +8,10 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 36%
+source-wordcount: '199'
+ht-degree: 22%
 
 ---
 
