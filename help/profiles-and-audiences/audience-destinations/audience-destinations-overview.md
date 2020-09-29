@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,11 +33,11 @@ Mit dem [!UICONTROL Audiencen] -Modul in Adobe Campaign Standard können Sie Seg
 
 Die folgenden Videoschulungen führen Sie durch die verschiedenen Schritte:
 
-1. [Neue Audience mit dem einheitlichen Segmentaufbau erstellen](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+1. [Erstellen einer neuen Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Aktivieren von AEP-Audiencen in einem Marketingarbeitsablauf](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Ändern der Zielgruppendimension eines Versands für eine Plattform-Audience](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## Zusätzliche Ressourcen
 
-*Der Adobe Experience Platform Data Connector[im Überblick](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[Informationen zum Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 
