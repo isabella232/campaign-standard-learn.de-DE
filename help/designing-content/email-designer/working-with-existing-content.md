@@ -1,22 +1,22 @@
 ---
-title: Arbeiten mit vorhandenen Inhalten
+title: Verwenden existierender Inhalte
 description: In diesem Video wird erläutert, wie Sie Ihre kreativen Inhalte schnell von einer Website abrufen und in den E-Mail-Designer laden können.
 feature: Email Designer
 topics: Content Creation
-kt: 1453
+kt: 6295
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: a0943a06cad4c53f35713c733bcedf5eef0df93f
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Working with existing content{#working-with-existing-content}
+# Verwenden existierender Inhalte{#working-with-existing-content}
 
 ## Inhalt aus einer URL importieren
 
