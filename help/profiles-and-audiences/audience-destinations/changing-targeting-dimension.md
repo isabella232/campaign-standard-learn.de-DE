@@ -1,5 +1,5 @@
 ---
-title: Zielgruppendimension ändern
+title: Ändern der Zielgruppendimension
 description: In diesem Video wird erläutert, wie die Zielgruppendimension eines Versands für eine Platform-Audience außerhalb der primären Profil-Tabelle in Adobe Campaign Standard geändert werden kann.
 feature: Audience Destinations
 topics: ACOP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 10%
+ht-degree: 17%
 
 ---
 
@@ -38,5 +38,5 @@ Dokumentation:
 
 Video-Ressourcen:
 
-* [Neue Audience mit dem einheitlichen Segmentaufbau erstellen](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Erstellen einer neuen Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Aktivieren von Adobe Experience Platform-Audiencen in einem Marketingarbeitsablauf](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
