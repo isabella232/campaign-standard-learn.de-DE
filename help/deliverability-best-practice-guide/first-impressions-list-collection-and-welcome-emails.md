@@ -8,9 +8,9 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: 4acbb9129cfa36f4d7d00e5f8abaa32d006eaeac
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '2420'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,9 @@ Die häufigste Form der **Website-Anmeldung** ist &quot;Single Opt-in&quot;. Die
 * Nicht bestätigte E-Mail-Adressen können Tippfehler aufweisen oder falsch, falsch oder böswillig verwendet werden. Typos und fehlerhafte Adressen verursachen hohe Absprungraten, was zu Blöcken führen kann, die von ISPs ausgestellt wurden, oder zu IP-Reputationsverlusten.
 * Die böswillige Übermittlung bekannter Spammfallen (manchmal auch als &quot;Vergiftung der Liste&quot;bezeichnet) kann zu erheblichen Problemen mit Versand und Ruf führen, wenn der Besitzer dieser Falle aktiv wird. Es ist unmöglich zu wissen, ob der Empfänger wirklich eine Marketing-Liste ohne eine Bestätigung hinzufügen möchte. Dies macht es ebenso unmöglich, die Erwartungen des Empfängers zu stellen und kann zu vermehrten Spam-Beschwerden führen - und manchmal auch zu einer schwarzen Liste, wenn die gesammelte E-Mail zufällig eine Spam-Falle ist.
 
-Eine Anleitung zur Minimierung der im physischen Speicher und im Einzel-Opt-in dargestellten Probleme finden Sie im Abschnitt [Datenqualität und -hygiene](#data-quality-and-hygiene) in diesem Handbuch, in dem die Einzelheiten und Vorteile der Dublette-Teilnahme beschrieben werden.
+Eine Anleitung zur Minimierung der im physischen Speicher und im Einzel-Opt-in dargestellten Probleme finden Sie im Abschnitt Datenqualität und -hygiene in diesem Handbuch, in dem die Einzelheiten und Vorteile der Dublette-Teilnahme beschrieben werden.
 
-Abonnenten verwenden häufig Wegwerf-Adressen, abgelaufene Adressen oder Adressen, die nicht ihre sind, um das zu erhalten, was sie von einer Website wollen, aber auch, um zu vermeiden, dass sie zu Marketing-Listen hinzugefügt werden. In diesem Fall können die Listen von Marketingexperten zu einer hohen Anzahl von Hardbounces, hohen Spam-Beschwerderaten und Abonnenten führen, die nicht auf E-Mails klicken, sie öffnen oder sich positiv mit ihnen beschäftigen. Dies kann als rote Fahne für Postfachanbieter und ISPs betrachtet werden.
+Abonnenten verwenden häufig Wegwerf-Adressen, abgelaufene Adressen oder Adressen, die nicht ihre sind, um das zu erhalten, was sie von einer Website wollen, aber auch, um zu verhindern, dass sie zu Marketing-Listen hinzugefügt werden. In diesem Fall können die Listen von Marketingexperten zu einer hohen Anzahl von Hardbounces, hohen Spam-Beschwerderaten und Abonnenten führen, die nicht auf E-Mails klicken, sie öffnen oder sich positiv mit ihnen beschäftigen. Dies kann als rote Fahne für Postfachanbieter und ISPs betrachtet werden.
 
 >[!NOTE]
 >
