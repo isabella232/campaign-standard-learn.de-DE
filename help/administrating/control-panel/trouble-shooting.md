@@ -7,16 +7,16 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 
-# Trouble shooting the [!UICONTROL Control Panel]
+# Fehlerbehebung beim [!UICONTROL Control Panel]
 
 Erfahren Sie, wie Sie Probleme bei der Verwendung des Control Panels beheben können.
 
@@ -47,10 +47,10 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 ### Hilfreiche Videos
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=ger)
 *[!DNL IMS Org ID]prüfen (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=ger)
 *Hinzufügen eines Administrators zum[!UICONTROL Produktprofil]*[!DNL administrators]*, um das[!UICONTROL Control Panel]zu verwenden (01:03 min)*
 
 ### Hilfreiche Dokumentation
