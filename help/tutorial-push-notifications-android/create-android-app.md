@@ -83,4 +83,4 @@ Wenn alles gut läuft, sollte eine SUCCESS-Meldung angezeigt werden.
 
 ![push-Kanal-settings](assets/push-channel-settings.PNG)
 
-Zusammenfassend haben wir eine [!DNL Android App] und verbunden die [!DNL Android App] mit [!DNL Firebase]. Anschließend wurde die mobile App in Adobe Campaign mit der verbunden, [!DNL Android App] indem der Serverschlüssel der [!DNL Android] App in die mobile App in Adobe Campaign Standard eingefügt wurde.
+Zusammenfassend haben wir eine [!DNL Android App] und verbunden die [!DNL Android App] mit [!DNL Firebase]. Anschließend haben wir die mobile App in Adobe Campaign mit der verbunden, [!DNL Android App] indem wir den Serverschlüssel der [!DNL Android] App in die mobile App in Adobe Campaign Standard einfügen.
