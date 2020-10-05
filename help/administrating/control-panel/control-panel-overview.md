@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '395'
 ht-degree: 100%
 
@@ -20,18 +20,18 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Die Begriffe [!UICONTROL Whitelist] und [!UICONTROL Blacklist] wurden in den Unterlagen zu Adobe Campaign durch [!UICONTROL Zulassungsliste] und [!UICONTROL Blockierungsliste] ersetzt. Einige Vorkommen dieser Begriffe sind möglicherweise noch in der Produktbenutzeroberfläche, in Optionsnamen, im internen Code sowie in den Übungsvideos zu finden. Sie werden in den kommenden Control Panel-Versionen ersetzt.
+>Die Begriffe [!UICONTROL Whitelist] und [!UICONTROL Blacklist] wurden in den Unterlagen zu Adobe Campaign durch [!UICONTROL Zulassungsliste] und [!UICONTROL Blockierungsliste] ersetzt. Einige Vorkommen dieser Begriffe sind möglicherweise noch in der Produktbenutzeroberfläche, in Optionsnamen, im internen Code sowie in den Übungsvideos zu finden. Sie werden in kommenden Control Panel-Versionen ersetzt.
 
-Das [!UICONTROL Control Panel] ermöglicht es Adobe Campaign-Administratoren, wichtige Kreativelemente zu überwachen und administrative Aufgaben durchzuführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz oder Adressen auf der [!UICONTROL Zulassungsliste].
+Mit dem [!UICONTROL Control Panel] können Adobe Campaign-Administratoren wichtige Kreativelemente überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung von SFTP-Speicher durch die Instanz oder auf die [!UICONTROL Zulassungsliste] gesetzte IP-Adressen.
 
-## Zugriff auf das [!UICONTROL Control Panel]
+## Zugreifen auf das [!UICONTROL Control Panel]
 
-Gehen Sie zur Startseite von Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com), um auf das Control Panel zuzugreifen:
+Um auf das Control Panel zuzugreifen, navigieren Sie zur Startseite von Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
-* **[!UICONTROL Experience Cloud-Startseite]** > **[!UICONTROL Schnellzugriff]**
+* **[!UICONTROL Startseite von Experience Cloud]** > **[!UICONTROL Schnellzugriff]**
 
    oder
-* **[!UICONTROL Experience Cloud-Startseite]** > [!UICONTROL Lösungsauswahl]: **Campaign** > **[!UICONTROL Control Panel]-Karte **
+* **[!UICONTROL Startseite von Experience Cloud]** > [!UICONTROL Lösungsauswahl]: **Campaign** > **[!UICONTROL Control Panel]-Karte**
 
    oder
 
@@ -39,21 +39,21 @@ Gehen Sie zur Startseite von Experience Cloud: [https://experiencecloud.adobe.co
 
 ## Voraussetzungen
 
-Erfüllen Sie zunächst die folgenden Voraussetzungen:
+Bevor Sie beginnen, müssen Sie folgende Voraussetzungen erfüllen:
 
-### Bestätigen der [!DNL IMS Org ID]
+### Bestätigen [!DNL IMS Org ID]
 
 Sie müssen Ihre [!DNL IMS org ID] kennen. Im folgenden Video wird beschrieben, wo Sie die [!DNL IMS org ID] Ihrer Instanz finden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=ger)
 *[!DNL IMS Org ID]prüfen (00:26 min)*
 
 ### Administratorrechte
 
 Für den Zugriff auf das [!UICONTROL Control Panel] sind Administratorrechte erforderlich.
-Im folgenden Video wird erläutert, wie Sie einer Campaign-Instanz einen Administrator hinzufügen.
+Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administrator hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=ger)
 *Hinzufügen eines Administrators zum Produktprofil &quot;[!UICONTROL Administratoren]&quot;, um das[!UICONTROL Control Panel]zu verwenden (01:03 min)*
 
 ## Control Panel – Tutorials
@@ -78,7 +78,7 @@ Im folgenden Video wird erläutert, wie Sie einer Campaign-Instanz einen Adminis
 
 * **GPG-Schlüsselverwaltung**
 
-   *Erfahren Sie, wie Sie ein öffentlich-privates Schlüsselpaar in einer Campaign-Instanz für die Verschlüsselung ausgehender Daten generieren und installieren sowie einen öffentlichen Schlüssel in einer Campaign-Instanz für die Entschlüsselung eingehender Daten importieren und installieren:*
+   *Erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar aus einem öffentlichen und privaten Schlüssel generieren und in einer angegebenen Campaign-Instanz installieren sowie zur Entschlüsselung eingehender Daten einen öffentlichen Schlüssel importieren und in einer Campaign-Instanz installieren:*
 
    * [Generieren und Installieren von GPG-Schlüsseln für die Datenverschlüsselung](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
    * [Verschlüsseln von Daten mit einem GPG-Schlüssel](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
@@ -90,5 +90,5 @@ Im folgenden Video wird erläutert, wie Sie einer Campaign-Instanz einen Adminis
 
 ## Zusätzliche Ressourcen
 
-* [Control Panel – Hilfezentrum](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
+* [Control Panel Help Center](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
 
