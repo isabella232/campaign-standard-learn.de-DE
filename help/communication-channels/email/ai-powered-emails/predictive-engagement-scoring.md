@@ -1,6 +1,6 @@
 ---
-title: Bewertung der voraussichtlichen Interaktion
-description: Erfahren Sie, wie Sie Interaktionsbewertungen auf der Ebene der einzelnen Profil Ansicht können, wie Sie Bewertungen für eingebundene Benutzer verwenden und erschöpfte Benutzer unterdrücken, und wie Sie Typologieregeln zur Verwaltung der Kundenmüdigkeit erstellen.
+title: Prädiktive Interaktionsbewertung
+description: Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung von Kundenermüdung erstellt.
 feature: predictive engagement scoring
 topics: null
 kt: 6275
@@ -8,34 +8,34 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '220'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Bewertung der voraussichtlichen Interaktion
+# Prädiktive Interaktionsbewertung
 
-Powered by [!UICONTROL Journey AI], [!DNL Adobe Campaign] can analyze and predict open rates, optimal send times, and probable churn based on historical engagement metrics.
+Mit der [!UICONTROL Journey AI] kann [!DNL Adobe Campaign] Öffnungsraten, optimale Sendezeiten und wahrscheinliche Abwanderungszahlen anhand historischer Interaktionsmetriken analysieren und vorhersagen.
 
 >[!CAUTION]
->Diese Funktion ist im Lieferumfang des Produkts nicht verfügbar. Die Implementierung erfordert die Einbindung von Adobe Consulting. Wenden Sie sich an Ihren Kundenbetreuer, um weitere Informationen zu erhalten.
+>Diese Funktion ist nicht als Teil des Produkts vorkonfiguriert. Die Implementierung erfordert die Einbindung von Adobe Consulting. Wenden Sie sich an Ihren Adobe-Support-Mitarbeiter, um weitere Informationen zu erhalten.
 
-[!UICONTROL Prognostische Interaktionsbewertungen] prognostizieren die Wahrscheinlichkeit, mit der ein Empfänger eine Nachricht erhält, sowie die Wahrscheinlichkeit, dass er sich innerhalb der nächsten 7 Tage nach dem nächsten E-Mail-Versand abmeldet (abbestellt). Die Wahrscheinlichkeiten werden je nach dem spezifischen Risiko des Rückzugs, mittel oder niedrig, weiter in Behälter unterteilt. Dasselbe Modell bietet den Kunden auch den Rang eines Risikoperzentils, um zu verstehen, wo der Rang eines bestimmten Kunden im Verhältnis zu anderen steht.
+Die [!UICONTROL prädiktive Interaktionsbewertung] sagt die Wahrscheinlichkeit voraus, mit der ein Empfänger mit einer Nachricht interagiert, sowie die Wahrscheinlichkeit, mit der er sich innerhalb der nächsten sieben Tage nach dem nächsten E-Mail-Versand abmeldet. Die Wahrscheinlichkeiten werden je nach dem spezifischen Risiko des Interaktionsabbruchs (mittel oder niedrig) weiter in Gruppen unterteilt. Zusätzlich liefert das Modell auch den Risikoperzentil-Rang, damit der Rang eines bestimmten Kunden im Verhältnis zu anderen ersichtlich wird.
 
-Erfahren Sie, wie Sie Interaktionsbewertungen auf der Ebene der einzelnen Profil Ansicht können, wie Sie Bewertungen für eingebundene Benutzer verwenden und erschöpfte Benutzer unterdrücken, und wie Sie Typologieregeln zur Verwaltung der Kundenmüdigkeit erstellen.
+Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung der Kundenermüdung erstellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=ger)
 
 ## Zusätzliche Ressourcen
 
 Tutorials:
 
-* [Prognostizierte Optimierung der Sendezeit](predictive-send-time-optimization.md)
+* [Prädiktive Sendezeitoptimierung](predictive-send-time-optimization.md)
 
 Dokumentation:
 
-* [Optimieren von Design und Versand mit AI-basierten E-Mails](https://docs.adobe.com/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Optimieren des Designs und Versands mit KI-gestützten E-Mails](https://docs.adobe.com/help/de-DE/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
