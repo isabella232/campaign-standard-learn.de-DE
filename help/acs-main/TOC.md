@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: bf087838a03c404d3036f0ad9c36f483dff5d4a4
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 89%
+ht-degree: 94%
 
 ---
 
@@ -57,9 +57,9 @@ ht-degree: 89%
       + [Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Vorlagen in mehrsprachige Sendungen](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Prüfen von E-Mail-Versand und -Berichten](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Erstellen und Senden von E-Mails über einen Workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + AI-basierte E-Mails {#journey-ai}
-         + [Prognostizierte Optimierung der Sendezeit](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
-         + [Bewertung der voraussichtlichen Interaktion](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
+      + KI-gestützte E-Mails {#journey-ai}
+         + [Prädiktive Sendezeitoptimierung](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [Prädiktive Interaktionsbewertung](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobile {#mobile}
       + SMS{#sms}
          + [Erstellen eines SMS-Versands](/help/communication-channels/mobile/sms/sms-delivery.md)
@@ -83,7 +83,7 @@ ht-degree: 89%
 + Gestalten und Personalisieren von Inhalten {#designing-content}
    + Email Designer{#email-designer}
       + [Übersicht](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Erste Schritte mit dem E-Mail-Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Erste Schritte mit Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Einführung in E-Mail-Inhaltsvorlagen](/help/designing-content/email-designer/email-content-templates.md)
       + [Konfigurieren der Ansicht auf einem Mobilgerät](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Erstellen einer Vorschau der E-Mail- und Anti-Spam-Analyse](/help/designing-content/email-designer/preview-your-email.md)
@@ -126,7 +126,7 @@ ht-degree: 89%
       + [Zuordnen von Erlebnisereignissen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Zuordnen von Testtabellendaten](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Ändern der Datenzuordnung](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Überprüfen des Status von Datenerfassungsvorgängen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Überprüfen des Status von Datenaufnahmevorgängen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologieregeln{#typology-rules}
       + Ermüdungsverwaltung{#fatigue-management}
          + [Erstellen von Ermüdungsregeln](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
