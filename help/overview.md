@@ -1,19 +1,19 @@
 ---
 title: Adobe Campaign Standard – Tutorials – Übersicht
-description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
+description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 
 # Übersicht
 
-Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 
 ## Neue Funktionen
 
@@ -21,13 +21,13 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
    *Erfahren Sie, wie Sie beim Definieren der Zielgruppe Ihres Versands eine[!UICONTROL Kontrollgruppe]erstellen.*
 
-* **[Prognostizierte Optimierung der Sendezeit](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
+* **[Prädiktive Sendezeitoptimierung](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Verstehen Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe Campaign und dem Journey AI-Modell erforderlich sind. Erfahren Sie, wie Sie Ansichten zum Senden von Zeitwerten auf der Ebene der einzelnen Profil erstellen und wie Sie E-Mail-Versand mit einer Versandzeitformel ausführen.*
+   *Lernen Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe Campaign und dem Journey AI-Modell erforderlich sind. Erfahren Sie, wie Sendezeitbewertungen auf der Ebene einzelner Profile angezeigt werden und wie E-Mail-Sendungen mithilfe einer Sendezeitformel ausgeführt werden können.*
 
-* **[Bewertung der voraussichtlichen Interaktion](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+* **[Prädiktive Interaktionsbewertung](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-   *Erfahren Sie, wie Sie Interaktionsbewertungen auf der Ebene der einzelnen Profil Ansicht können, wie Sie Bewertungen für eingebundene Benutzer verwenden und erschöpfte Benutzer unterdrücken, und wie Sie Typologieregeln zur Verwaltung der Kundenmüdigkeit erstellen.*
+   *Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung der Kundenermüdung erstellt.*
 
 ## Favoriten unserer Mitarbeiter
 
@@ -48,15 +48,15 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
   </td>
    <td>
     <a href="./administrating/control-panel/control-panel-overview.md">
-      <img alt="Systemsteuerung (Videos)" src="./assets/control-panel.png" />
+      <img alt="Control Panel (Videos)" src="./assets/control-panel.png" />
     </a>
     <div>
     <a href="./administrating/control-panel/control-panel-overview.md">
-    <strong>Systemsteuerung (Videos)</strong>
+    <strong>Control Panel (Videos)</strong>
     </a>
     </div>
     <p>
-    <em> Erhöhen Sie Ihre Effizienz als Administrator, indem Sie die Einstellungen verwalten und die Nutzung Ihrer Instanzen mit der Systemsteuerung verfolgen.</em>
+    <em> Steigern Sie Ihre Effizienz als Administrator, indem Sie mit dem Control Panel die Einstellungen verwalten und die Nutzung Ihrer Instanzen verfolgen.</em>
     <p>
   </td>
   <td>
