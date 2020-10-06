@@ -47,7 +47,7 @@ Sie müssen Ihre [!DNL IMS org ID] kennen. Im folgenden Video wird beschrieben, 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*[!DNL IMS Org ID]prüfen (00:26 Min.)*
+*[!DNL IMS Org ID] prüfen (00:26 Min.)*
 
 ### Administratorrechte
 
@@ -56,7 +56,7 @@ Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administra
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Hinzufügen eines Administrators zum Produktprofil „[!UICONTROL Administratoren]“ für die Verwendung des[!UICONTROL Control Panels](01:03 Min.)*
+*Hinzufügen eines Administrators zum Produktprofil „[!UICONTROL Administratoren]“ für die Verwendung des [!UICONTROL Control Panels] (01:03 Min.)*
 
 ## Control Panel – Tutorials
 
