@@ -7,9 +7,9 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 100%
 
@@ -47,10 +47,12 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 ### Hilfreiche Videos
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=ger)
-*[!DNL IMS Org ID]prüfen (00:26 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=ger)
+*[!DNL IMS Org ID]prüfen (00:26 Min.)*
+
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Hinzufügen eines Administrators zum[!UICONTROL Produktprofil]*[!DNL administrators]*, um das[!UICONTROL Control Panel]zu verwenden (01:03 min)*
 
 ### Hilfreiche Dokumentation
