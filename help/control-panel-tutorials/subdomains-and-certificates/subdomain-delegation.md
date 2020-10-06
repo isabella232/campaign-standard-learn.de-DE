@@ -1,17 +1,18 @@
 ---
 title: Zuweisen von Subdomains
 description: 'Über das Adobe Campaign Control Panel können Sie Adobe Campaign eine Subdomain vollständig zuweisen. Gehen Sie dazu wie folgt vor:'
-feature: Control Panel
+feature: Subdomains and certificates
 topics: null
 kt: 4115
+thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 71%
+ht-degree: 81%
 
 ---
 
@@ -24,16 +25,16 @@ ht-degree: 71%
 >
 >Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
 
-## Zugreifen auf die Subdomain-Verwaltung im [!UICONTROL Control Panel]
+## Zugreifen auf die [!UICONTROL Subdomain-Verwaltung] im [!UICONTROL Control Panel]
 
-To access the [!UICONTROL Subdomain Management] in [!UICONTROL Control Panel], go to:
+Um auf die [!UICONTROL Subdomain-Verwaltung] im [!UICONTROL Control Panel] zuzugreifen, navigieren Sie zu:
 
 * [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Lösungsauswahl]: [!DNL Campaign] > **[!UICONTROL Control Panel]**-Karte > **[!UICONTROL Subdomains und Zertifikate]**-Karte
 
    oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Delegieren von Subdomänen
+## Zuweisen von Subdomains
 
 Das folgende Video zeigt, wie Sie Subdomains zuweisen können.
 
