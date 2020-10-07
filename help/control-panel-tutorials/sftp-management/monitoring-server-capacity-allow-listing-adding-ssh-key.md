@@ -3,12 +3,13 @@ title: Überwachen der Server-Kapazität, Hinzufügen von IP-Adressen zur Zulass
 description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz überwachen und verwalten und IP-Adressen auf die Zulassungslisten setzen.
 feature: Control Panel
 topics: null
+audience: administrator
 kt: 3266
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 100%
