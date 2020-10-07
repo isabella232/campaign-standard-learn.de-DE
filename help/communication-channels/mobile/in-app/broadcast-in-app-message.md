@@ -1,5 +1,5 @@
 ---
-title: 'In-App-Broadcast-Nachricht senden '
+title: 'Senden einer In-App-Broadcast-Nachricht '
 description: Mit der Vorlage "In-App-Nachricht übertragen"können Sie alle Benutzer Ihrer mobilen App mit Adobe Campaign Standard (ACS) Zielgruppe durchführen
 feature: In-App
 topics: Mobile
@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 6%
@@ -16,7 +16,7 @@ ht-degree: 6%
 ---
 
 
-# In-App-Broadcast-Nachricht senden
+# Senden einer In-App-Broadcast-Nachricht
 
 Sie können eine In-App-Nachricht an alle Benutzer einer mobilen App senden, unabhängig davon, ob Adobe Campaign über Informationen zum Profil verfügt oder nicht. Um eine Nachricht zu senden, müssen Sie beim Konfigurieren der In-App-Nachricht die **[!UICONTROL Zielgruppe für alle Benutzer einer mobilen App-Vorlage]** verwenden.
 
@@ -26,7 +26,8 @@ Zu den relevanten Anwendungsfällen dieser Kategorie gehören:
 * Mitteilungen zu neuen Funktionen
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
-*Erstellen einer In-App-Nachricht mit einer[!UICONTROL SDKV5 Mobile-Eigenschaft ]*
+
+*Erstellen einer In-App-Nachricht mit einer[!UICONTROL SDKV5 Mobile-Eigenschaft]*
 
 ## Zusätzliche Ressourcen
 
