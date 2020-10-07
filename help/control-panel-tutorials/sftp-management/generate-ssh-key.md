@@ -1,17 +1,18 @@
 ---
 title: Generieren eines SSH-Schlüssels
-description: Sie müssen dazu in der Lage sein, einen SSH-Schlüssel zu generieren, um ihn dem Adobe Campaign Control Panel hinzufügen zu können. Im folgenden Video erfahren Sie, wie Sie mithilfe eines Terminals einen SSH-Schlüssel generieren.
+description: Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels in der Systemsteuerung speichern.
 feature: Control Panel
 topics: null
 kt: 2923
+thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 21e864e4becac6a88f28c73d7df483014199387b
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 67%
+source-wordcount: '121'
+ht-degree: 38%
 
 ---
 
@@ -31,6 +32,6 @@ To access the SFTP Management in [!UICONTROL Control Panel], go to:
 
 ## So generieren Sie einen SSH-Schlüssel
 
-Im folgenden Video wird erläutert, wie ein SSH-Schlüssel mithilfe eines Terminals generiert wird.
+Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels in der Systemsteuerung speichern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
