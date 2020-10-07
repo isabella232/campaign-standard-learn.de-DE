@@ -7,9 +7,9 @@ kt: 2924
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: c72943b6e3209156b6f17679bae4d303fa766224
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 100%
 
@@ -39,5 +39,6 @@ Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
 
 In diesem Video wird beschrieben, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung mit dem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
+
 *Verbindung zu einem SFTP-Server herstellen (02:04 Min.)*
