@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 7aa32d583ac2ea756945a17634fb477d7b94cb7f
+source-git-commit: 6e4824185b84715d514bf21aace9e57c602e970d
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 1%
@@ -46,7 +46,8 @@ Weiche Absprünge sind vorübergehende Ausfälle, die von ISPs erzeugt werden, w
 >[!NOTE]
 >
 >Absprünge sind ein wichtiger Indikator für ein Reputationsproblem, da sie eine schlechte Datenquelle (Absprung) oder ein Reputationsproblem mit einem ISP (Absprung) hervorheben können.
-Weiche Absprünge treten oft beim Senden von E-Mails auf und sollten während der Wiederholung der Verarbeitung gelöst werden können, bevor sie als echte Bereitstellungsprobleme erkannt werden. Wenn Ihre Soft-Absprungrate bei einem einzelnen ISP über 30 Prozent liegt und nicht innerhalb von 24 Stunden aufgelöst wird, ist es eine gute Idee, bei Ihrem Adobe Campaign-Bereitstellungsberater Bedenken zu äußern.
+>
+>Weiche Absprünge treten oft beim Senden von E-Mails auf und sollten während der Wiederholung der Verarbeitung gelöst werden können, bevor sie als echte Bereitstellungsprobleme erkannt werden. Wenn Ihre Soft-Absprungrate bei einem einzelnen ISP über 30 Prozent liegt und nicht innerhalb von 24 Stunden aufgelöst wird, ist es eine gute Idee, bei Ihrem Adobe Campaign-Bereitstellungsberater Bedenken zu äußern.
 
 ## Beschwerden
 
@@ -54,7 +55,7 @@ Beschwerden werden registriert, wenn ein Benutzer anzeigt, dass eine E-Mail uner
 
 ### ISP-Beschwerde
 
-Die meisten Tier-1- und einige Tier-2-ISPs bieten ihren Benutzern eine Spam-Berichte-Methode, da Abmelde- und Abmeldeprozesse früher böswillig zur Validierung einer E-Mail-Adresse verwendet wurden. Adobe Campaign erhält diese Beschwerden über ISP FBLs. Dies wird während des Setups für alle ISPs festgelegt, die FBLs bereitstellen und es Adobe Campaign ermöglichen, automatisch E-Mail-Adressen hinzuzufügen, die zur Unterdrückung an die Quarantäne-Tabelle gemeldet wurden. Spitzen bei ISP-Beschwerden können ein Indikator für schlechte Liste, unzureichende Erfassungsmethoden für Listen oder schwache Einsatzstrategien sein. Sie werden häufig auch dann vermerkt, wenn Inhalte nicht relevant sind.
+Die meisten Tier-1- und einige Tier-2-ISPs bieten ihren Benutzern eine Spam-Berichte-Methode, da Abmelde- und Abmeldeprozesse früher böswillig zur Validierung einer E-Mail-Adresse verwendet wurden. Adobe Campaign erhält diese Beschwerden über ISP FBLs. Dies wird während des Setups für alle ISPs festgelegt, die FBLs bereitstellen und es Adobe Campaign ermöglichen, automatisch E-Mail-Adressen hinzuzufügen, die zur Unterdrückung an die Quarantäne-Tabelle gemeldet wurden. Spitzen bei ISP-Beschwerden können ein Indikator für schlechte Qualität der Liste, weniger als optimale Erfassungsmethoden für Listen oder eine schwache Interaktionsstrategie sein. Sie werden häufig auch dann vermerkt, wenn Inhalte nicht relevant sind.
 
 ### Beschwerden von Drittanbietern
 
