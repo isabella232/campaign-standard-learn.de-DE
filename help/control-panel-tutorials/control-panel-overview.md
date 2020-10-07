@@ -3,12 +3,13 @@ title: Control Panel - Übersicht
 description: Die Systemsteuerung des Adobe Campaigns ermöglicht es Adobe Campaign-Administratoren, wichtige Assets zu überwachen und administrative Aufgaben durchzuführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz, die Verwaltung der GPG-Schlüssel oder Subdomänen und Zertifikate.
 feature: Control Panel
 topics: Control Panel
+audience: administrator
 kt: 4696
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 25%
