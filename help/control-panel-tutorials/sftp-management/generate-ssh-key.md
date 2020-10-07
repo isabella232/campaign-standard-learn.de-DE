@@ -3,13 +3,14 @@ title: Generieren eines SSH-Schlüssels
 description: Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels in der Systemsteuerung speichern.
 feature: Control Panel
 topics: null
+audience: administrator
 kt: 2923
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 21e864e4becac6a88f28c73d7df483014199387b
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 38%
