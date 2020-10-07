@@ -12,7 +12,7 @@ getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 9e1a79692d12189657e21ea728ace94ff0403840
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 85%
@@ -34,8 +34,8 @@ ht-degree: 85%
    + [Verwaltung von Google TXT-Einträgen](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instanzeneinstellungen {#instance-settings}
    + Verwaltung von GPG-Schlüsseln {#gpg-key-management}
-      + [Verwaltung von GPG-Schlüsseln – Übersicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generieren und Installieren von GPG-Schlüsseln für die Datenverschlüsselung](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Entschlüsseln von Daten](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+   + [Verwaltung von GPG-Schlüsseln – Übersicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+   + [Generieren und Installieren von GPG-Schlüsseln für die Datenverschlüsselung](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   + [Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   + [Entschlüsseln von Daten](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Fehlerbehebung im Control Panel](/help/control-panel-tutorials/trouble-shooting.md)
