@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
+source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 85%
+ht-degree: 75%
 
 ---
 
@@ -25,9 +25,10 @@ ht-degree: 85%
 + [Control Panel – Übersicht](/help/control-panel-tutorials/control-panel-overview.md)
 + [Erste Schritte mit der Systemsteuerung](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-Verwaltung {#sftp-management}
+   + [Überwachen der Serverkapazität](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   + [Hinzufügen eines IP-Bereichs zur Zulassungsliste](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Erstellen eines SSH-Schlüssels](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Herstellen einer Verbindung zu einem SFTP-Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
-   + [Überwachen der Server-Kapazität, Setzen von IP-Adressen auf die Zulassungsliste und Hinzufügen von SSH-Schlüsseln](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
 + Subdomains und Zertifikate {#subdomains-and-certificates}
    + [Zuweisen von Subdomains](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Hinzufügen von SSL-Zertifikaten](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
