@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: dd218f7956b3dd487f59424246b81c115829160a
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 81%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,9 +41,7 @@ Das folgende Video zeigt, wie Sie Subdomains zuweisen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
-*Zuweisung von Subdomains (05:07 Min.)*
-
 ## Zusätzliche Ressourcen
 
-* [Hinzufügen von SSL-Zertifikaten](/help/administrating/control-panel/adding-ssl-certificates.md)
+* [Hinzufügen von SSL-Zertifikaten](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [Subdomains und Zertifikate](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
