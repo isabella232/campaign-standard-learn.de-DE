@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 100%
@@ -49,11 +49,11 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*[!DNL IMS Org ID]prüfen (00:26 Min.)*
+*[!DNL IMS Org ID] prüfen (00:26 Min.)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Hinzufügen eines Administrators zum[!UICONTROL Produktprofil]*[!DNL administrators]*, um das[!UICONTROL Control Panel]zu verwenden (01:03 min)*
+*Hinzufügen eines Administrators zum [!UICONTROL Produktprofil]*[!DNL administrators]*, um das [!UICONTROL Control Panel] zu verwenden (01:03 min)*
 
 ### Hilfreiche Dokumentation
 
@@ -68,7 +68,7 @@ Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
 * Ein öffentlich-privates Schlüsselpaar, das bei Adobe Campaign registriert sein muss.
 * Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen, benötigen Sie auch die SFTP-Clientsoftware.
 
-### Hilfreiche Dokumentation
+### Hilfreiche Dokumentation {#helpful-docs}
 
 * [Anmeldung bei Ihrem SFTP-Server](https://helpx.adobe.com/de/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
