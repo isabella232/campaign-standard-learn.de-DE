@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 747aa1610f29a9a9409091169c7b398523dd1f77
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 100%
@@ -68,7 +68,7 @@ Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
 * Ein öffentlich-privates Schlüsselpaar, das bei Adobe Campaign registriert sein muss.
 * Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen, benötigen Sie auch die SFTP-Clientsoftware.
 
-### Hilfreiche Dokumentation
+### Hilfreiche Dokumentation {#helpful-docs}
 
 * [Anmeldung bei Ihrem SFTP-Server](https://helpx.adobe.com/de/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
