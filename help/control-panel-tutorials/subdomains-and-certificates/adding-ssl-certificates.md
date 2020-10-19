@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '219'
+ht-degree: 56%
 
 ---
 
@@ -61,5 +61,5 @@ Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Pane
 
 ## Zusätzliche Ressourcen
 
-* [Zuweisen von Subdomains](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+* [Vollständige Subdomänenübertragung (Video)](./subdomain-delegation.md)
 * [Subdomains und Zertifikate – Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
