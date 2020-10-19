@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 24%
@@ -27,7 +27,7 @@ Um E-Mails verschicken oder Landingpages mit Adobe Campaign veröffentlichen zu 
 
 Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs in der Systemsteuerung einrichten und senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12))
+>[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
 ## Zusätzliche Ressourcen
 
