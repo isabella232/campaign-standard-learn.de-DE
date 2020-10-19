@@ -1,5 +1,5 @@
 ---
-title: Zuweisen von Subdomains
+title: Vollständige Subdomain-Zuweisung
 description: 'Über das Adobe Campaign Control Panel können Sie Adobe Campaign eine Subdomain vollständig zuweisen. Gehen Sie dazu wie folgt vor:'
 feature: Subdomains and certificates
 topics: null
@@ -10,15 +10,15 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 81%
 
 ---
 
 
-# Zuweisen von Subdomains
+# Vollständige Subdomain-Zuweisung
 
 Über das Adobe Campaign [!UICONTROL Control Panel] können Sie Adobe Campaign eine Subdomain vollständig zuweisen.
 
