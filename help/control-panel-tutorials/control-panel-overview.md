@@ -1,6 +1,6 @@
 ---
-title: Control Panel - Übersicht
-description: Die Systemsteuerung des Adobe Campaigns ermöglicht es Adobe Campaign-Administratoren, wichtige Assets zu überwachen und administrative Aufgaben durchzuführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz, die Verwaltung der GPG-Schlüssel oder Subdomänen und Zertifikate.
+title: Control Panel  - Übersicht
+description: Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. Verwalten des SFTP-Speichers nach Instanz oder Verwalten von GPG-Schlüsseln bzw. Subdomains und Zertifikaten.
 feature: Control Panel
 topics: Control Panel
 audience: administrator
@@ -9,30 +9,22 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 25%
+source-wordcount: '197'
+ht-degree: 90%
 
 ---
 
-# Systemsteuerung - Übersicht
+# Control Panel – Übersicht
 
-Die Systemsteuerung des Adobe Campaigns ermöglicht es Adobe Campaign-Administratoren, wichtige Assets zu überwachen und administrative Aufgaben durchzuführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz, die Verwaltung der GPG-Schlüssel oder Subdomänen und Zertifikate.
+Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. Verwalten des SFTP-Speichers nach Instanz oder Verwalten von GPG-Schlüsseln bzw. Subdomains und Zertifikaten.
 
 ## Neue Funktionen
 
-* **[Generieren und Installieren von GPG-Schlüsseln für die Datenverschlüsselung](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[Subdomänen mithilfe von CNAME übertragen](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Erfahren Sie, wie Sie ein öffentliches/privates GPG-Schlüsselpaar generieren und den öffentlichen Schlüssel in der[!UICONTROL Systemsteuerung]installieren, um Daten verschlüsseln zu können, bevor sie von Ihrer Instanz gesendet werden.*
-
-* **[Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-
-   *[!UICONTROL Erfahren Sie, wie Sie Daten mit einem im Control Panel installierten GPG-Schlüssel exportieren können].*
-
-* **[Entschlüsseln von Daten](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-   *Erfahren Sie, wie Sie einen öffentlichen Schlüssel erstellen, importieren und auf einer[!UICONTROL Kampagne]-Instanz für die Entschlüsselung eingehender Daten installieren.*
+   *Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs in der Systemsteuerung einrichten und senden.*
 
 ## Mitarbeiterauswahl
 
@@ -40,11 +32,11 @@ Die Systemsteuerung des Adobe Campaigns ermöglicht es Adobe Campaign-Administra
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Delegieren von Subdomänen zu Adobe Campaign (Video)" src="./assets/31390.jpg"/>
+      <img alt="Delegieren von Subdomains an Adobe Campaign (Video)" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Delegieren von Subdomänen zu Adobe Campaign (Video)</strong>
+    <strong>Delegieren von Subdomains an Adobe Campaign (Video)</strong>
     </a>
     </div>
     <p>
@@ -53,20 +45,20 @@ Die Systemsteuerung des Adobe Campaigns ermöglicht es Adobe Campaign-Administra
   </td>
    <td>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-      <img alt="Google TXT Record Management (Videos)" src="./assets/32369.jpg" />
+      <img alt="Verwaltung von Google TXT-Einträgen (Videos)" src="./assets/32369.jpg" />
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Google TXT Record Management(Videos)</strong>
+    <strong>Verwaltung von Google TXT-Einträgen (Videos)</strong>
     </a>
     </div>
     <p>
-    <em> Erfahren Sie, wie Sie mit der Kampagne Control Panel (Systemsteuerung) Google TXT-Site-Überprüfungsdatensätze zu allen Subdomänen hinzufügen können, die zum Senden von E-Mails an GMAIL-Adressen verwendet werden.</em>
+    <em> Erfahren Sie, wie Sie allen Subdomains, die zum Senden von E-Mails an GMAIL-Adressen über das Campaign Control Panel verwendet werden, Einträge der TXT-Website-Überprüfung von Google hinzufügen.</em>
     <p>
   </td>
   <td>
     <a href="./sftp-management/connect-to-sftp-server.md">
-      <img alt="Herstellen einer Verbindung mit einem SFTP-Server" src="./assets/27263.jpg" />
+      <img alt="Herstellen einer Verbindung zu einem SFTP-Server" src="./assets/27263.jpg" />
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
@@ -74,7 +66,7 @@ Die Systemsteuerung des Adobe Campaigns ermöglicht es Adobe Campaign-Administra
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie mit einer SFTP-Clientanwendung eine Verbindung zu Ihrem SFTP-Server herstellen können. Verwenden Sie dazu die Schlüssel, die Sie in der Systemsteuerung gespeichert haben. </em>
+    <em>Erfahren Sie, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung zu Ihrem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden. </em>
     <p>
   </td>
 </tr>
