@@ -1,17 +1,17 @@
 ---
 title: Verwenden existierender Inhalte
-description: In diesem Video wird erläutert, wie Sie Ihre kreativen Inhalte schnell von einer Website abrufen und in den E-Mail-Designer laden können.
+description: In diesem Video wird erläutert, wie Sie Ihre kreativen Inhalte schnell von einer Website abrufen und in Email Designer laden können.
 feature: Email Designer
 topics: Content Creation
 kt: 6295
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a0943a06cad4c53f35713c733bcedf5eef0df93f
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '111'
+ht-degree: 100%
 
 ---
 
@@ -20,14 +20,14 @@ ht-degree: 0%
 
 ## Inhalt aus einer URL importieren
 
-In diesem Video wird erläutert, wie Sie Ihre kreativen Inhalte schnell von einer Website abrufen und in den E-Mail-Designer laden können.
+In diesem Video wird erläutert, wie Sie Ihre kreativen Inhalte schnell von einer Website abrufen und in Email Designer laden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12&captions=ger)
 
 ## Kompatibilität vorhandener HTML-Inhalte {#making-existing-html-content-compatible}
 
-Der E-Mail-Designer erfordert ein spezifisches Tagging, das angewendet werden muss, damit Standard-HTML-Inhalte, die in Adobe Campaign hochgeladen werden, vollständig kompatibel und editierbar sind.
+Email Designer erfordert spezielle Tags, die angewendet werden müssen, um Standard-HTML-Inhalte, die in Adobe Campaign hochgeladen werden, vollständig kompatibel und editierbar zu machen.
 
 Die ausführliche Dokumentation finden Sie unter folgendem Link:
 
-[Konvertieren von HTML-Inhalten in eine E-Mail-Designer-Vorlage](https://docs.adobe.com/content/help/en/campaign-standard/using/designing-content/building-email-content/using-existing-content.html#converting-an-html-content)
+[Konvertieren von HTML-Inhalten in eine Email Designer-Vorlage](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/designing-content/building-email-content/using-existing-content.html#converting-an-html-content)
