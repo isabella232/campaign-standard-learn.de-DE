@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 67%
 
 Adobe Campaign Standard ist ein leistungsstarkes Tool zum kanalübergreifenden Kampagnen-Management, das es Ihnen ermöglicht, Online- und Offline-Strategien zu kombinieren, um personalisierte Kundenerlebnisse bereitzustellen.
 
-Steuern Sie den gesamten Prozess des Erstellens, Ausführens und Trackings kanalübergreifender Kampagnen und senden Sie Nachrichten, die entsprechend dem Profil, dem Verhalten, den Vorlieben und den Bedürfnissen der Kunden personalisiert werden. Sie können den gesamten Marketingprozess auf einfache Weise orchestrieren, modellieren und automatisieren und in andere Adoben integrieren.
+Steuern Sie den gesamten Prozess des Erstellens, Ausführens und Trackings kanalübergreifender Kampagnen und senden Sie Nachrichten, die entsprechend dem Profil, dem Verhalten, den Vorlieben und den Bedürfnissen der Kunden personalisiert werden. Sie können damit den gesamten Marketing-Prozess mühelos koordinieren, modellieren und automatisieren und ihn mit anderen Adobe-Lösungen integrieren.
 
-Es stehen verschiedene Übungsvideos zur Verfügung, die Ihnen beim Einstieg in Adobe Campaign Standard helfen:
+Es stehen verschiedene Video-Tutorials zur Verfügung, die Ihnen beim Einstieg in Adobe Campaign Standard helfen:
 
 * [Einführung in Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [Erste Schritte mit der Benutzeroberfläche](/help/getting-started/getting-started-with-the-ui.md)
@@ -38,4 +38,4 @@ Es stehen verschiedene Übungsvideos zur Verfügung, die Ihnen beim Einstieg in 
 
 ## Zusätzliche Ressourcen
 
-* [Dokumentation - Erste Schritte mit Adobe Campaign Standard](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-campaign-standard.html)
+* [Dokumentation – Erste Schritte mit Adobe Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/getting-started/about-campaign-standard.html)
