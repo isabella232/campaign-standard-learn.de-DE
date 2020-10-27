@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Control Panel – Tutorials
-user-guide-description: Über die Systemsteuerung können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben durchführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz oder Zulassungsliste-IP-Adressen.
+user-guide-description: Mit dem Control Panel können Adobe Campaign-Administratoren wichtige Kreativelemente überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung von SFTP-Speicher durch die Instanz oder auf die Zulassungsliste gesetzte IP-Adressen.
 breadcrumb-title: Control Panel – Tutorials
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -9,13 +9,12 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
-type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -25,13 +24,13 @@ ht-degree: 68%
 + [Control Panel – Übersicht](/help/control-panel-tutorials/control-panel-overview.md)
 + [Erste Schritte mit dem Control Panel](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-Verwaltung {#sftp-management}
-   + [Überwachen der Serverkapazität](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [Überwachen der Server-Kapazität](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Hinzufügen eines IP-Bereichs zur Zulassungsliste](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Erstellen eines SSH-Schlüssels](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Herstellen einer Verbindung zu einem SFTP-Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdomains und Zertifikate {#subdomains-and-certificates}
-   + [Vollständige Subdomänenübertragung (Beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [Subdomänen mit CNAME (Beta) übertragen](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [Vollständige Subdomain-Zuweisung (Beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Zuweisen von Subdomains mit CNAME (Beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Hinzufügen von SSL-Zertifikaten](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Verwaltung von Google TXT-Einträgen](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instanzeneinstellungen {#instance-settings}
