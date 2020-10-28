@@ -10,17 +10,17 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
+source-git-commit: da28f90f376f867e861194f828493fc66cc604e4
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # Datenbanken überwachen
 
-Die Datenbanken der [!DNL Adobe Campaign] Instanzen enthalten alle Assets, Workflows und Daten, die in gespeichert werden [!DNL Adobe Campaign]. Die Überwachung der Datenbanken Ihrer Instanzen ist daher unbedingt erforderlich, um eine optimale Leistung zu gewährleisten.
+Alle Assets, Workflows und Daten Ihrer Kampagne-Instanz werden in der Datenbank gespeichert. Die Datenbank, die ihre maximale Kapazität erreicht, kann zu Problemen mit Ihrer Instanz führen (Unfähigkeit, sich anzumelden, E-Mails zu senden usw.). Daher ist es wichtig, die Datenbanken Ihrer Instanzen regelmäßig zu überwachen, um eine optimale Leistung zu gewährleisten.
 
 Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen mit dem [!DNL Control Panel]Operator überwachen.
 
