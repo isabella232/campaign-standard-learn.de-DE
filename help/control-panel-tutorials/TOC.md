@@ -11,10 +11,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
 index: true
 translation-type: tm+mt
-source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
+source-git-commit: 16cd416f567c8177aadd35e03cfa27d0e0478e6b
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 98%
 
 ---
 
@@ -39,4 +39,6 @@ ht-degree: 100%
       + [Generieren und Installieren von GPG-Schlüsseln für die Datenverschlüsselung](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Entschlüsseln von Daten](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
++ Leistungsüberwachung {#performance-monitoring}
+   + [Datenbanken überwachen](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Fehlerbehebung im Control Panel](/help/control-panel-tutorials/trouble-shooting.md)
