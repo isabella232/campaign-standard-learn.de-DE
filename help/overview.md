@@ -3,23 +3,27 @@ title: Adobe Campaign Standard – Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 85%
+source-wordcount: '274'
+ht-degree: 89%
 
 ---
 
 
-# Adobe Campaign Standard - Übersicht
+# Adobe Campaign Standard – Übersicht
 
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 
 ## Neue Funktionen
 
-* **[Subdomänen mithilfe von CNAME übertragen](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[Datenbanken überwachen](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs in der Systemsteuerung einrichten und senden.*
+   *Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen überwachen.*
+
+* **[Zuweisen von Subdomains mit CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+
+   *Erfahren Sie, wie Sie eine Subdomain mit CNAME im Control Panel einrichten und senden.*
 
 ## Favoriten unserer Mitarbeiter
 
