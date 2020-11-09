@@ -1,6 +1,6 @@
 ---
-title: Erste Schritte mit der Systemsteuerung
-description: In diesem Artikel wird beschrieben, wie Sie auf die Systemsteuerung zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit der Systemsteuerung arbeiten zu können.
+title: Erste Schritte mit dem Control Panel
+description: In diesem Artikel wird beschrieben, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können.
 feature: Control Panel
 topics: Control Panel
 audience: administrator
@@ -9,24 +9,24 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '241'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
 
-# Erste Schritte mit der [!UICONTROL Systemsteuerung] {#control-panel}
+# Erste Schritte mit dem [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
->The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’ in the Adobe Campaign documentation. Diese Begriffe können noch in der Produktoberfläche, in Optionsnamen, in internem Code sowie in den Anleitungsvideos vorkommen. Sie werden in kommenden Control Panel-Versionen ersetzt.
+>Die Begriffe [!UICONTROL Whitelist] und [!UICONTROL Blacklist] wurden in der Dokumentation zu Adobe Campaign durch [!UICONTROL Zulassungsliste] und [!UICONTROL Blockierungsliste] ersetzt. Diese Begriffe können noch in der Produktoberfläche, in Optionsnamen, in internem Code sowie in den Anleitungsvideos vorkommen. Sie werden in kommenden Control Panel-Versionen ersetzt.
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+Mit dem [!UICONTROL Control Panel] können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. Verwalten des [!DNL SFTP]-Speichers nach Instanz, Verwalten von [!DNL GPG]-Schlüsseln bzw. [!UICONTROL Subdomains] und [!UICONTROL Zertifikaten].
 
-In diesem Artikel wird beschrieben, wie Sie auf die Systemsteuerung zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit der Systemsteuerung arbeiten zu können.
+In diesem Artikel wird beschrieben, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können.
 
 ## Zugreifen auf das [!UICONTROL Control Panel]
 
@@ -49,14 +49,14 @@ Bevor Sie beginnen, müssen Sie folgende Voraussetzungen erfüllen:
 
 Sie müssen Ihre [!DNL IMS org ID] kennen. Im folgenden Video wird beschrieben, wo Sie die [!DNL IMS org ID] Ihrer Instanz finden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=ger)
 
 ### Administratorrechte
 
 Für den Zugriff auf das [!UICONTROL Control Panel] sind Administratorrechte erforderlich.
 Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administrator hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=ger)
 
 ## Zusätzliche Ressourcen
 
