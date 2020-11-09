@@ -10,11 +10,11 @@ tutorials-url: https://docs.adobe.com/content/help/de-DE/campaign-standard-learn
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 16cd416f567c8177aadd35e03cfa27d0e0478e6b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -40,5 +40,5 @@ ht-degree: 98%
       + [Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Entschlüsseln von Daten](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Leistungsüberwachung {#performance-monitoring}
-   + [Datenbanken überwachen](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
+   + [Überwachen von Datenbanken](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Fehlerbehebung im Control Panel](/help/control-panel-tutorials/trouble-shooting.md)
