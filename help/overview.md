@@ -2,11 +2,11 @@
 title: Adobe Campaign Standard – Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Datenbanken überwachen](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Überwachen von Datenbanken](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
    *Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen überwachen.*
 
@@ -43,11 +43,11 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)">
+    <a href="https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/control-panel/control-panel-overview.html">
       <img alt="Control Panel (Videos)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/control-panel/control-panel-overview.html">
     <strong>Control Panel (Videos)</strong>
     </a>
     </div>
