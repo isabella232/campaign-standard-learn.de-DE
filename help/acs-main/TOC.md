@@ -9,11 +9,11 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
-translation-type: ht
-source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
-workflow-type: ht
-source-wordcount: '497'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+workflow-type: tm+mt
+source-wordcount: '495'
+ht-degree: 98%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
    + [Hierarchie und Marketing-Aktivitäten](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Verwalten von Kampagnen](/help/getting-started/managing-campaigns.md)
    + [Profile und Audiences](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Erstellen einer E-Mail](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Erstellen einer E-Mail](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Erstellen eines Workflows](/help/managing-processes-and-data/create-workflow.md)
    + [Einführung in das Reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobil-Marketing mit Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
