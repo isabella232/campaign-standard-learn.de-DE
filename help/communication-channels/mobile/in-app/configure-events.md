@@ -1,22 +1,23 @@
 ---
-title: Ereignis konfigurieren
+title: Konfigurieren von Ereignissen
 description: 'Beim Konfigurieren einer In-App-Nachricht in Adobe Campaign Standard (ACS) definieren Ereignis, welche vom Benutzer initiierte Aktion die Anzeige der Nachricht auslöst. '
 feature: In-App
 topics: Mobile
 kt: 2548
+thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
 
-# Konfigurieren von [!UICONTROL Ereignissen] {#configuring-events}
+# Configure [!UICONTROL Events] {#configuring-events}
 
 Beim Konfigurieren einer [!UICONTROL In-App] -Nachricht müssen Sie definieren, welche vom Benutzer initiierte Aktion die Anzeige der Nachricht auslöst. Diese Aktionen werden als [!UICONTROL Ereignisse]bezeichnet. Drei Kategorien [!UICONTROL Ereignis] stehen zur Verfügung: [!UICONTROL Mobile Application-Ereignis], [!UICONTROL Life Cycle-Ereignis]und [!UICONTROL Analytics-Ereignis].
 
