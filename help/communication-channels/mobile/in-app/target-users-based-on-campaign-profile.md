@@ -1,14 +1,15 @@
 ---
-title: Nutzer der Zielgruppe auf der Basis ihres Campaign-Profils
+title: Ansprechen von Benutzern auf der Basis ihres Campaign-Profils
 description: Mit dieser Vorlage können Sie bekannte Benutzer von mobilen Apps mit in Adobe Campaign Standard (ACS) verfügbaren Nachrichten mit CRM-Profil-Attributen personalisieren.
 feature: In-App
 topics: Channels
 kt: 1796
+thumbnail: 26200.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 6%
@@ -22,7 +23,7 @@ Sie können bekannte App-Benutzer (diejenigen, die sich mit PII bei der App ange
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
-*Erstellen einer In-App-Nachricht mit einer Vorlage für ein[!UICONTROL Kampagne-Profil ]*
+*Erstellen einer In-App-Nachricht mit einer Vorlage für ein [!UICONTROL Kampagne-Profil]*
 
 ## Zusätzliche Ressourcen
 
