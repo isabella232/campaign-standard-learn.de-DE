@@ -6,14 +6,14 @@ breadcrumb-title: Campaign Standard-Tutorials
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Dokumentation
-getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 96%
+source-wordcount: '497'
+ht-degree: 89%
 
 ---
 
@@ -28,8 +28,8 @@ ht-degree: 96%
    + [Konfigurieren einer Liste](/help/getting-started/configure-a-list.md)
    + [Hierarchie und Marketing-Aktivitäten](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Verwalten von Kampagnen](/help/getting-started/managing-campaigns.md)
-   + [Profile und Audiences](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Erstellen einer E-Mail](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Profile und Audiencen](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [E-Mails erstellen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html) 
    + [Workflow erstellen ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [Einführung in das Reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobil-Marketing mit Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -65,7 +65,7 @@ ht-degree: 96%
       + Push-Benachrichtigungen {#push}
          + [Erstellen einer Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Erstellen einer mehrsprachigen Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
       + In-App-Nachrichten {#in-app}
          + [Einführung in In-App-Nachrichten](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Konfigurieren von Ereignissen](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -100,12 +100,10 @@ ht-degree: 96%
    + [Erstellen eines dynamischen Berichts](/help/reporting/creating-a-dynamic-report.md)
    + [Erstellen eines Berichts auf der Basis von benutzerdefinierten Profilattributen](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Erstellen eines Berichts auf der Basis von Workflow-Segmenten](/help/reporting/report-on-workflow-segments.md)
-+ Entwickeln{#developing}
-   + Benutzerdefinierte Ressourcen {#custom-resources-develop}
-      + [Erstellen benutzerdefinierter Ressourcen](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Verwalten{#administrating}
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
-   + [Control Panel](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [Erstellen benutzerdefinierter Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [Control Panel](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Informationen zum Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Zuordnen benutzerdefinierter Ressourcen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
