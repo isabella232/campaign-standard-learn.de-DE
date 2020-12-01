@@ -4,19 +4,20 @@ description: Mit Adobe Campaign können Sie Newsletter und Mitteilungen über ve
 feature: Subscriptions and Services
 topics: null
 kt: 1815
+thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 27%
+ht-degree: 32%
 
 ---
 
 
-# Manage services and subscriptions{#managing-services-and-subscriptions}
+# Verwalten von Diensten und Abonnements{#managing-services-and-subscriptions}
 
 Mit Adobe Campaign können Sie Newsletter und Mitteilungen über verschiedene Kanal erstellen und verwalten. Nachrichten können nur an Profil gesendet werden, die den Dienst abonniert haben (Opt-in). Diese Profile werden mithilfe eines speziellen Filters bei der Erstellung einer Nachricht identifiziert.
 
@@ -34,6 +35,6 @@ In diesem Video erfahren Sie, wie Sie einen Dienst erstellen und seine Abonnemen
 
 ## Zusätzliche Ressourcen
 
-* [Anmeldedienst](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html)
+* [Anmeldedienste](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html)
 * [Dienst erstellen](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html)
 * [Anmeldungen verfolgen](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/monitoring-subscriptions.html)
