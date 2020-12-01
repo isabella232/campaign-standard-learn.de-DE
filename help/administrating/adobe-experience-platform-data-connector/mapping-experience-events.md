@@ -2,16 +2,17 @@
 title: Zuordnen von Erlebnisereignissen
 description: Erfahren Sie, wie Sie Experience Ereignisses in Adobe Experience Platform (AEP) zuordnen.
 feature: Adobe Experience Platform Data Connector
-topics: ACoP
+topics: null
 kt: 2832
+thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: b8f093b8e95a451bbf50ce7aca6ca4db35e3a324
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 10%
 
 ---
 
