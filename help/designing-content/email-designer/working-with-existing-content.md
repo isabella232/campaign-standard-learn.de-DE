@@ -4,12 +4,13 @@ description: In diesem Video wird erläutert, wie Sie Ihre kreativen Inhalte sch
 feature: Email Designer
 topics: Content Creation
 kt: 6295
+thumbnail: 25926.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: a0943a06cad4c53f35713c733bcedf5eef0df93f
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -22,7 +23,7 @@ ht-degree: 100%
 
 In diesem Video wird erläutert, wie Sie Ihre kreativen Inhalte schnell von einer Website abrufen und in Email Designer laden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
 ## Kompatibilität vorhandener HTML-Inhalte {#making-existing-html-content-compatible}
 
