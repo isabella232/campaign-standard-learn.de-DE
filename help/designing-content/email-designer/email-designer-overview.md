@@ -3,13 +3,14 @@ title: Übersicht über Email Designer
 description: In diesem Video werden die allgemeinen Funktionen von Email Designer und das Entwerfen einer E-Mail von Grund auf erläutert. Auf dieser Seite werden alle verfügbaren Funktionsvideos für Email Designer in Adobe Campaign aufgelistet.
 feature: Email Designer
 topics: Content Creation
-kt: null
+kt: 1402
+thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -22,7 +23,7 @@ ht-degree: 100%
 
 In diesem Video erhalten Sie einen Überblick über die Funktionalität und Verwendung von [!UICONTROL Email Designer ] in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
 ## Tutorials
 
