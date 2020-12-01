@@ -1,17 +1,18 @@
 ---
-title: Senden eines Tests, Vorbereiten und Senden einer E-Mail
+title: Testversand, Vorbereiten und Senden einer E-Mail
 description: 'In diesem Video wird erläutert, wie Sie eine Test-E-Mail senden, einen E-Mail-Versand in Adobe Campaign Standard (ACS) vorbereiten und dann senden können. '
 feature: Email
 topics: null
 kt: 1812
+thumbnail: 24013
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 12%
+ht-degree: 27%
 
 ---
 
@@ -25,5 +26,5 @@ In diesem Video wird erläutert, wie Sie eine Test-E-Mail senden, einen E-Mail-V
 ## Zusätzliche Ressourcen
 
 * [Verwalten von Test-Profilen und Senden von Testversänden](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)
-* [Erstellen eines Test-Profils](/help/profiles-and-audiences/creating-a-profile.md)
+* [Erstellen eines Testprofils](/help/profiles-and-audiences/creating-a-profile.md)
 
