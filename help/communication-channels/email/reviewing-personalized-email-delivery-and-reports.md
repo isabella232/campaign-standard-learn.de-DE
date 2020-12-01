@@ -1,22 +1,23 @@
 ---
-title: E-Mail-Versand und Berichte prüfen
+title: Prüfen von E-Mail-Versand und -Berichten
 description: In diesem Video wird erläutert, wie ein personalisierter E-Mail-Versand überprüft und verschiedene Berichte untersucht werden, die in Adobe Campaign Standard (ACS) verfügbar sind.
 feature: Reporting
 topics: null
 kt: 3904
+thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 26%
+ht-degree: 31%
 
 ---
 
 
-# E-Mail-Versand und Berichte prüfen
+# Prüfen von E-Mail-Versand und -Berichten
 
 In diesem Video wird erläutert, wie ein personalisierter E-Mail-Versand überprüft und verschiedene Berichte, die in Adobe Campaign Standard verfügbar sind, untersucht werden.
 
