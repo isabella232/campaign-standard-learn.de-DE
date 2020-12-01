@@ -4,11 +4,12 @@ description: 'Die Erstellung von E-Mails erfolgt im Rahmen von Kampagnen, ausgeh
 feature: Email
 topics: null
 kt: 1807
+thumbnail: 23721.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 52%
