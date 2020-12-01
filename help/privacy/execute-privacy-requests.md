@@ -4,14 +4,15 @@ description: Im Adobe Campaign werden Datenschutzanfragen von Workflows ausgefü
 feature: GDPR, CCPA
 topic: null
 kt: 1525
+thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 16%
+ht-degree: 30%
 
 ---
 
@@ -24,5 +25,5 @@ Im Adobe Campaign werden Datenschutzanfragen von Workflows ausgeführt. In diese
 
 ## Zusätzliche Ressourcen
 
-* [Allgemeine Datenschutzrichtlinien für die Kampagne](https://helpx.adobe.com/de/campaign/kb/campaign-privacy-overview.html)
+* [Allgemeine Datenschutzrichtlinien für Campaign](https://helpx.adobe.com/de/campaign/kb/campaign-privacy-overview.html)
 * [CCPA für Adobe Campaign Standard](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#ccpa)
