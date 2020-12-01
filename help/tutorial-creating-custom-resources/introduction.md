@@ -1,5 +1,5 @@
 ---
-title: Erstellen benutzerdefinierter Ressourcen
+title: Erstellen benutzerdefinierter Ressourcen - Einführung
 description: Adobe Campaign Standard bietet die Möglichkeit, Ressourcen zu erweitern oder ganz neue Ressourcen zu erstellen. Dieses mehrteilige Lernprogramm führt Sie durch die Schritte, die zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen erforderlich sind.
 feature: Custom Resources
 topics: null
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 8%
 
 ---
 
 
-# Erstellen benutzerdefinierter &#x200B;
+# Erstellen benutzerdefinierter Ressourcen &#x200B; - Einführung
 
 [!DNL Adobe Campaign] verfügt über ein vordefiniertes Datenmodell, bei dem Daten über verschiedene Ressourcen definiert werden. [!DNL Campaign] bietet die Möglichkeit, Ressourcen zu erweitern oder ganz neue Ressourcen zu erstellen.
 
