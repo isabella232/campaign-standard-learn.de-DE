@@ -1,22 +1,23 @@
 ---
-title: E-Mails über einen Workflow erstellen und senden
-description: 'Die Erstellung von E-Mails erfolgt im Rahmen von Kampagnen, ausgehend von der Adobe Campaign-Startseite oder in der Liste der Marketingaktivitäten. In Workflows lassen sich ebenfalls E-Mails zum einmaligen oder zum wiederkehrenden Versand erstellen. In diesem Video wird das Erstellen eines E-Mail-Versands auf der Homepage erläutert. '
+title: Erstellen und Senden von E-Mails über einen Workflow
+description: 'Die Erstellung von E-Mails erfolgt im Rahmen von Kampagnen, ausgehend von der Adobe Campaign-Startseite oder in der Liste der Marketingaktivitäten. In Workflows lassen sich ebenfalls E-Mails zum einmaligen oder zum wiederkehrenden Versand erstellen. In diesem Video wird die Einrichtung einer E-Mail-Versendung von der Startseite aus erläutert. '
 feature: Email
 topics: null
 kt: 4319
+thumbnail: 31465.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 60%
+ht-degree: 80%
 
 ---
 
 
-# E-Mails über einen Workflow erstellen und senden
+# Erstellen und Senden von E-Mails über einen Workflow
 
 Die Erstellung von E-Mails erfolgt im Rahmen von Kampagnen, ausgehend von der Adobe Campaign-Startseite oder in der Liste der Marketingaktivitäten. In Workflows lassen sich ebenfalls E-Mails zum einmaligen oder zum wiederkehrenden Versand erstellen.
 
