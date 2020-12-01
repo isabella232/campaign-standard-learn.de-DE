@@ -4,14 +4,15 @@ description: 'Erfahren Sie, wie Sie eine Push-Benachrichtigung in Adobe Campaign
 feature: Push
 topics: Mobile
 kt: 1401
+thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
@@ -39,4 +40,4 @@ Dokumentation:
 
 Tutorials:
 
-* [Mehrsprachige Push-Benachrichtigung erstellen](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
+* [Erstellen einer mehrsprachigen Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
