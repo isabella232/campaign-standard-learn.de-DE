@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 8%
@@ -42,11 +42,11 @@ Dazu bereichern wir das [!DNL Campaign] Datenmodell, indem wir die Out-of-the-Bo
 
 In diesem Lernprogramm erfahren Sie Schritt für Schritt, wie:
 
-Schritt 1 - [Erstellen einer benutzerdefinierten Ressource](./creating-a-custom-resource)Schritt 2 - [Konfigurieren einer Bildschirmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)Schritt 3 - [Verknüpfen benutzerdefinierter Ressourcen](./linking-custom-resources.md)Schritt 4 - [Ausfüllen benutzerdefinierter Ressourcen mit Daten](./populate-custom-resources-with-data.md)
+Schritt 1 - [Erstellen einer benutzerdefinierten Ressource](./creating-a-custom-resource.md)Schritt 2 - [Konfigurieren einer Bildschirmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)Schritt 3 - [Verknüpfen benutzerdefinierter Ressourcen](./linking-custom-resources.md)Schritt 4 - [Ausfüllen benutzerdefinierter Ressourcen mit Daten](./populate-custom-resources-with-data.md)
 
 ## Beginn des Lernprogramms
 
-[Erstellen einer benutzerdefinierten Ressource](./create-a-custom-resource)
+[Erstellen einer benutzerdefinierten Ressource](./create-a-custom-resourc.md)
 
 ## Zusätzliche Ressourcen
 
