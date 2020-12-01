@@ -1,22 +1,23 @@
 ---
-title: Profile mit einem Workflow importieren
+title: Importieren von Profilen mit einem Workflow
 description: Sie können Daten aus einer Datei erfassen, um sie zu verarbeiten und/oder in die Adobe Campaign-Datenbank zu importieren. In diesem Video wird beschrieben, wie Sie Profil-Daten mit einem Workflow importieren.
 feature: Data management Activities
 topics: null
 kt: 1818
+thumbnail: 24993.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 7%
+ht-degree: 16%
 
 ---
 
 
-# Profile mit einem Workflow importieren{#import-profiles-with-a-workflow}
+# Importieren von Profilen mit einem Workflow{#import-profiles-with-a-workflow}
 
 Sie können Daten aus einer Datei erfassen, um sie zu verarbeiten und/oder in die Adobe Campaign-Datenbank zu importieren.
 
