@@ -3,12 +3,13 @@ title: Erstellen von Inhalten mit Adobe Dreamweaver
 description: In diesem Video wird erläutert, was für die Dreamweaver-Integration erforderlich ist und wie Inhalte für Adobe Campaign Standard mit Dreamweaver erstellt und bearbeitet werden können.
 feature: Email Designer
 kt: 1420
+thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 
@@ -29,7 +30,7 @@ Mit der Integration von Adobe Campaign Standard mit Adobe Dreamweaver können Si
 
 In diesem Video wird erläutert, was für die Dreamweaver-Integration erforderlich ist und wie Inhalte für Adobe Campaign Standard mit Dreamweaver erstellt und bearbeitet werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
 
 *Verwenden der Dreamweaver-Integration in Adobe Campaign (02:37 min)*
 
