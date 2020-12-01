@@ -4,12 +4,13 @@ description: Beim Einrichten von Adobe Campaign Standard (ACS) für die Verarbei
 feature: GDPR, CCPA
 topic: null
 kt: 1243
+thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
@@ -20,7 +21,7 @@ ht-degree: 100%
 
 Beim Einrichten von Adobe Campaign Standard für die Verarbeitung von Datenschutzanfragen müssen Sie sicherstellen, dass alle benutzerdefinierten Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >
