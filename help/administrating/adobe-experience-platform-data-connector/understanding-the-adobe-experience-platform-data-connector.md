@@ -4,14 +4,15 @@ description: Adobe Experience Platform Data Connector hilft Bestandskunden, ihre
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
+thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '364'
+ht-degree: 25%
 
 ---
 
@@ -34,7 +35,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] is intended for data engin
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*Dieses Video gibt einen Überblick über den Adobe Experience Platform[!UICONTROL Data Connector](09:35 Min.)*
+*Dieses Video gibt einen Überblick über den Adobe Experience Platform [!UICONTROL Data Connector] (09:35 Min.)*
 
 >[!NOTE]
 >
@@ -50,7 +51,7 @@ Die folgenden Lernprogramme beschreiben die wichtigsten Schritte zum Durchführe
 2. [Zuordnen von Erlebnisereignissen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Zuordnen von Seed-Tabellendaten](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Ändern der Datenzuordnung](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Überprüfen des Status von Datenerfassungsvorgängen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Überprüfen des Status von Datenaufnahmevorgängen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Zusätzliche Ressourcen
 
