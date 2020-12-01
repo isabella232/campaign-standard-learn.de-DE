@@ -4,11 +4,12 @@ description: Berichte zu Workflow-Segmenten bietet die Möglichkeit, Workflow-Se
 feature: Reporting on Workflow Segments
 topics: Reporting
 kt: 3252
+thumbnail: 28262.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 47%
@@ -24,4 +25,4 @@ Im folgenden Video werden die drei Schritte erläutert, die zur Zielgruppe diese
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
+For more information see the [documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
