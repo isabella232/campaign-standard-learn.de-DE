@@ -4,11 +4,12 @@ description: Mit der Vorlage "In-App-Nachricht übertragen"können Sie alle Benu
 feature: In-App
 topics: Mobile
 kt: 2497
+thumbnail: 26199.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 6%
@@ -27,7 +28,7 @@ Zu den relevanten Anwendungsfällen dieser Kategorie gehören:
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Erstellen einer In-App-Nachricht mit einer[!UICONTROL SDKV5 Mobile-Eigenschaft]*
+*Erstellen einer In-App-Nachricht mit einer [!UICONTROL SDKV5 Mobile-Eigenschaft]*
 
 ## Zusätzliche Ressourcen
 
