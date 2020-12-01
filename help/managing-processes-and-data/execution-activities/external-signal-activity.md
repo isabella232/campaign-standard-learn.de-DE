@@ -4,14 +4,15 @@ description: Mit der Aktivität "Externes Signal"können verschiedene Prozesse o
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
+thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '341'
-ht-degree: 19%
+ht-degree: 27%
 
 ---
 
@@ -27,11 +28,13 @@ This also includes a new **Test** Activity where you can run tests on this funct
 Im folgenden Video werden die Konfigurationsschritte erläutert, die erforderlich sind, um
 
 1. **Erhalten Sie externe Parameter** von einem externen System, z. B. einem Content-Management-System (CRM):
+
    * Deklarieren der Parameter in der Aktivität &quot;Externes Signal&quot;
    * Konfigurieren Sie den API-Aufruf, um die Parameter zu definieren und die Workflow-Aktivität &quot;Externes Signal&quot;auszulösen. Weitere Informationen zum Konfigurieren eines API-Aufrufs finden Sie unter [Auslösen einer Signal-Aktivität](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
 
 1. **Anpassen eines Workflows mit externen Parametern** (Ereignis-Variablen):
-Sobald der Workflow ausgelöst wurde, werden die Parameter in die Ereignis-Variablen des Workflows eingebunden und können im Workflow verwendet werden. Informationen zu allen Aktivitäten, die mit Ereignis-Variablen angepasst werden können, finden Sie in der [Dokumentation](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) :
+
+   Nachdem der Workflow ausgelöst wurde, werden die Parameter in die Ereignisvariablen des Workflows aufgenommen und können im Workflow verwendet werden. Informationen zu allen Aktivitäten, die mit Ereignis-Variablen angepasst werden können, finden Sie in der [Dokumentation](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) :
 
    * Konfigurieren der Test-Aktivität (neu in 19.2)
    * Audience und Aktivität von E-Mail-Versänden konfigurieren
@@ -42,4 +45,4 @@ Sobald der Workflow ausgelöst wurde, werden die Parameter in die Ereignis-Varia
 
 ## Zusätzliche Ressourcen
 
-* [Externes Signal (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Externes Signal (Dokumentation)](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
