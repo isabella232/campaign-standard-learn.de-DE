@@ -16,8 +16,8 @@ ht-degree: 26%
 
 ---
 
-# Configure a [!UICONTROL landing page template]
+# Eine [!UICONTROL Landingpage-Vorlage] konfigurieren
 
-In diesem Video wird das Konfigurieren von Vorlagen für [!UICONTROL Landingpages] erläutert.
+In diesem Video wird die Konfiguration von Vorlagen für [!UICONTROL Landingpage] erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)
