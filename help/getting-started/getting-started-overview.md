@@ -7,11 +7,11 @@ kt: null
 doc-type: null
 activity: understand
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -30,8 +30,8 @@ Es stehen verschiedene Video-Tutorials zur Verfügung, die Ihnen beim Einstieg i
 * [Hierarchie und Marketing-Aktivitäten](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [Verwalten von Kampagnen](/help/getting-started/managing-campaigns.md)
 * [Profile und Audiences](/help/getting-started/understanding-profiles-and-audiences.md)
-* [E-Mails erstellen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html) 
-* [Workflow erstellen ](/help/managing-processes-and-data/creating-a-workflow.md)
+* [Erstellen von E-Mails](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=de) 
+* [Erstellen von Workflows](/help/managing-processes-and-data/creating-a-workflow.md)
 * [Einführung in das Reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [Mobil-Marketing mit Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
 * [Wachsen mit Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
