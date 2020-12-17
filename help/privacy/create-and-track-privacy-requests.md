@@ -1,6 +1,6 @@
 ---
-title: Manuelles Erstellen und Verfolgen von Datenschutzanforderungen über die Adobe Campaign-Benutzeroberfläche
-description: Mit Adobe Campaign können Sie PII-Datenanforderungen in Übereinstimmung mit Datenschutzgesetzen wie GDPR und CCPA erstellen und löschen. In diesen Videos wird gezeigt, wie Sie Datenschutzanforderungen manuell erstellen und deren Entwicklung in der Adobe Campaign Standard-Benutzeroberfläche verfolgen können.
+title: Manuelles Erstellen und Verfolgen von Datenschutzanfragen über die Adobe Campaign-Benutzeroberfläche
+description: Mit Adobe Campaign können Sie Anfragen zu personenbezogenen Daten gemäß Datenschutzgesetzen wie der DSGVO und dem CCPA erstellen und löschen. In diesen Videos wird gezeigt, wie Sie Datenschutzanfragen manuell erstellen und deren Fortschritt in der Benutzeroberfläche von Adobe Campaign Standard verfolgen können.
 feature: GDPR, CCPA
 topic: null
 kt: 1242
@@ -8,22 +8,22 @@ thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
 
 # Manuelles Erstellen und Verfolgen von Datenschutzanfragen
 
-Mit Adobe Campaign können Sie PII-Datenanforderungen in Übereinstimmung mit Datenschutzgesetzen wie GDPR und CCPA erstellen und löschen.
+Mit Adobe Campaign können Sie Anfragen zu personenbezogenen Daten gemäß Datenschutzgesetzen wie der DSGVO und dem CCPA erstellen und löschen.
 
-In diesen Videos wird gezeigt, wie Sie Datenschutzanforderungen manuell erstellen und deren Entwicklung in der Adobe Campaign Standard-Benutzeroberfläche verfolgen können.
+In diesen Videos wird gezeigt, wie Sie Datenschutzanfragen manuell erstellen und deren Fortschritt in der Benutzeroberfläche von Adobe Campaign Standard verfolgen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&captions=ger)
 
 ## Zusätzliche Ressourcen
 
