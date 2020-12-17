@@ -8,9 +8,9 @@ thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ Beispiele für Anwendungsfälle sind:
 
 In diesem Video wird die Verwendung der [!UICONTROL Aktivität &quot;Externe API&quot;] veranschaulicht.
 
->[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12&captions=ger)
 
 *[!UICONTROL Aktivität &quot;Externe API&quot;] (06:48 min)*
 
