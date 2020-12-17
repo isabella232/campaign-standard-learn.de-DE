@@ -7,9 +7,9 @@ thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ Mit der Integration von Adobe Campaign Standard mit Adobe Dreamweaver können Si
 
 In diesem Video wird erläutert, was für die Dreamweaver-Integration erforderlich ist und wie Inhalte für Adobe Campaign Standard mit Dreamweaver erstellt und bearbeitet werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12&captions=ger)
 
 *Verwenden der Dreamweaver-Integration in Adobe Campaign (02:37 min)*
 
