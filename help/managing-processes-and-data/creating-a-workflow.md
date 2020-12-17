@@ -1,5 +1,5 @@
 ---
-title: 'Workflow erstellen  '
+title: Workflows erstellen
 description: In diesem Video erfahren Sie, wie Sie einen Workflow in Adobe Campaign Standard erstellen und bearbeiten.
 feature: workflows
 topics: null
@@ -8,28 +8,28 @@ thumbnail: 23937.jpg
 doc-type: feature video
 activity: use
 team: DOC
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
 
-# Workflow erstellen   {#how-to-create-a-workflow-in-adobe-campaign-standard}
+# Workflow erstellen        {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
 Workflows können in unterschiedlichsten Kontexten zum Einsatz kommen:
 
 * Zielgruppenbestimmung für Audiences oder zum Versand von Nachrichten.
 * Daten-Management (ETL) zum Bearbeiten von Daten
 * Import von Daten in die Campaign-Datenbank
-* Technische Prozesse wie Datenbankbereinigung (Cleanup), Abruf von Tracking-Informationen etc.
+* Technische Prozesse wie Datenbankbereinigung (Cleanup), Abruf von Tracking-Informationen usw.
 
 In diesem Video erfahren Sie, wie Sie einen Workflow in Adobe Campaign Standard erstellen und bearbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12&captions=ger)
 
 ## Zusätzliche Ressourcen
 
-* [Informationen zu Workflows und Data Management](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+* [Über Workflows und das Daten-Management](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
