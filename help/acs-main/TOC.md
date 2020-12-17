@@ -4,16 +4,16 @@ user-guide-title: Adobe Campaign Standard – Tutorials
 user-guide-description: Gestalten Sie Kundenerlebnisse auf unterschiedlichsten Kanälen und schaffen Sie eine Umgebung für visuelle Kampagnenorchestrierungen, Interaktionsverwaltung in Echtzeit und kanalübergreifende Ausführung.
 breadcrumb-title: Campaign Standard-Tutorials
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=de&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de
 getting-started-title: Dokumentation
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-translation-type: tm+mt
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de
+translation-type: ht
 source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 89%
    + [Konfigurieren einer Liste](/help/getting-started/configure-a-list.md)
    + [Hierarchie und Marketing-Aktivitäten](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Verwalten von Kampagnen](/help/getting-started/managing-campaigns.md)
-   + [Profile und Audiencen](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [E-Mails erstellen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html) 
-   + [Workflow erstellen ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
+   + [Profile und Audiences](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [E-Mails erstellen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=de) 
+   + [Workflows erstellen ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=de)
    + [Einführung in das Reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobil-Marketing mit Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Wachsen mit Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -65,7 +65,7 @@ ht-degree: 89%
       + Push-Benachrichtigungen {#push}
          + [Erstellen einer Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Erstellen einer mehrsprachigen Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=de)
       + In-App-Nachrichten {#in-app}
          + [Einführung in In-App-Nachrichten](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Konfigurieren von Ereignissen](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -77,7 +77,7 @@ ht-degree: 89%
    + [Briefpost](/help/communication-channels/direct-mail/directmail.md)
    + Landingpages {#landing-pages}
       + [Erstellen und Bearbeiten einer Landingpage](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
-      + [Testen und Publizieren einer Landingpage](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
+      + [Testen und Veröffentlichen einer Landingpage](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Konfigurieren einer Landingpage-Vorlage](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Gestalten und Personalisieren von Inhalten {#designing-content}
    + Email Designer{#email-designer}
@@ -90,7 +90,7 @@ ht-degree: 89%
       + [Erstellen von Inhalten mit Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Konfigurieren von Produktlisten in Transaktions-E-Mails](/help/designing-content/product-listings-in-transactional-email.md)
 + Verwalten von Prozessen und Daten{#managing-processes-and-data}
-   + [Workflow erstellen ](/help/managing-processes-and-data/creating-a-workflow.md)
+   + [Workflows erstellen ](/help/managing-processes-and-data/creating-a-workflow.md)
    + Ausführungsaktivitäten {#execution-activities}
       + [Aktivität &quot;Externes Signal&quot;](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datenverwaltungsaktivitäten {#data-management-activities}
@@ -102,7 +102,7 @@ ht-degree: 89%
    + [Erstellen eines Berichts auf der Basis von Workflow-Segmenten](/help/reporting/report-on-workflow-segments.md)
 + Verwalten{#administrating}
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
-   + [Erstellen benutzerdefinierter Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [Erstellen benutzerdefinierter Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=de)
    + [Control Panel](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Informationen zum Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
