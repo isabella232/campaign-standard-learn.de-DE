@@ -17,11 +17,11 @@ ht-degree: 4%
 ---
 
 
-# Configure [!UICONTROL product listings] in transactional emails
+# [!UICONTROL Produktauflistungen] in transaktionalen E-Mails konfigurieren
 
 Sie können eine Targeting-E-Mail mit einer Liste von Produkten konfigurieren, die beim Entwerfen der E-Mail unbekannt sind. Diese Produkte können zur Laufzeit aus der Nutzlast hinzugefügt werden. Sie können beispielsweise automatisch eine E-Mail zum Warenkorbabbruch senden, in der alle Produkte aufgelistet werden, die sich vor dem Abbruch im Warenkorb des Benutzers befanden, mit einem Bild, einem Preis und einem Link zu jedem Produkt.
 
-In den folgenden Videos werden die Schritte erläutert, die zum Konfigurieren von [!UICONTROL Produktauflistungen] in [!UICONTROL Transaktionsmailings]erforderlich sind.
+In den folgenden Videos werden die Schritte erläutert, die zum Konfigurieren von [!UICONTROL Produktauflistungen] in [!UICONTROL transaktionalen E-Mails] erforderlich sind.
 
 >[!NOTE]
 >
