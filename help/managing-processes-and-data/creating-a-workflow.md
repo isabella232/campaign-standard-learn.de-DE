@@ -8,9 +8,9 @@ thumbnail: 23937.jpg
 doc-type: feature video
 activity: use
 team: DOC
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Workflows können in unterschiedlichsten Kontexten zum Einsatz kommen:
 
 In diesem Video erfahren Sie, wie Sie einen Workflow in Adobe Campaign Standard erstellen und bearbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
 ## Zusätzliche Ressourcen
 
