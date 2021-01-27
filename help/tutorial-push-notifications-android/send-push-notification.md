@@ -16,17 +16,17 @@ ht-degree: 2%
 ---
 
 
-# Teil 6: Senden von [!UICONTROL Push-Benachrichtigungen] zum Testen Ihrer Arbeit
+# Teil 6 - Senden Sie [!UICONTROL Push Notification], um Ihre Arbeit zu testen
 
 Wir müssen jetzt eine [!UICONTROL Push-Benachrichtigung] mit Adobe Campaign erstellen und senden. . Gehen Sie wie folgt vor, um eine einfache Push-Benachrichtigung zu Testzwecken zu erstellen.
 
 * Bei Ihrer Adobe Campaign Standard-Instanz anmelden
 * Klicken Sie auf **[!UICONTROL Marketing-Aktivitäten]->[!UICONTROL Erstellen]->[!UICONTROL Push-Benachrichtigung]**
-* Wählen Sie Push- **[!UICONTROL an App-Abonnenten senden (mobileApp)]** und klicken Sie auf Weiter
-* Wählen Sie die entsprechende mobile App aus der Dropdown-Liste &quot; **[!UICONTROL Zuordnen einer mobilen App zu einem Versand]** &quot;und klicken Sie auf **[!UICONTROL Weiter]**
+* Wählen Sie **[!UICONTROL Push an App-Abonnenten senden(mobileApp)]** und klicken Sie auf Weiter
+* Wählen Sie die entsprechende mobile App aus der Dropdown-Liste **[!UICONTROL Mobilanwendung mit einem Versand]** verknüpfen und klicken Sie auf **[!UICONTROL Weiter]**
 * Klicken Sie auf die Zählerbeschriftung und es sollte ein Wert größer als 0 zurückgegeben werden. Klicken Sie auf **[!UICONTROL Weiter]**
-* Geben Sie einen aussagekräftigen [!UICONTROL Nachrichtentitel] und [!UICONTROL Nachrichtentext] ein und klicken Sie auf **[!UICONTROL Erstellen]**.
-* Klicken Sie auf **[!UICONTROL Vorbereiten]**. Nachdem die Vorbereitung abgeschlossen ist, klicken Sie auf **[!UICONTROL Bestätigen]** , um die Nachricht zu senden.
+* Geben Sie einen aussagekräftigen [!UICONTROL Nachrichtentitel] und [!UICONTROL Nachrichtentext] an und klicken Sie auf **[!UICONTROL Erstellen]**.
+* Klicken Sie auf **[!UICONTROL Vorbereiten]**. Klicken Sie nach der Vorbereitung auf **[!UICONTROL Bestätigen]**, um die Nachricht zu senden.
 
 Wenn alles gut läuft, sollten Sie die Benachrichtigung in Ihrer Android-App sehen, die im Emulator ausgeführt wird
 
