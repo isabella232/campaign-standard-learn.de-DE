@@ -17,15 +17,15 @@ ht-degree: 6%
 ---
 
 
-# Aktivieren von Adobe Experience Platform-Audiencen in Workflow- [!UICONTROL Adobe Experience Platform-Audiencen] in einem Marketing-Workflow
+# Aktivieren von Adobe Experience Platform-Audiencen in einem Workflow [!UICONTROL Adobe Experience Platform-Audiencen] in einem Marketing-Workflow
 
 >[!NOTE]
 >
->Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert. [!UICONTROL Audiencen-Ziele] basieren auf Adobe Experience Platform und erfordern eine bestimmte Konfiguration.
+>Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert. [!UICONTROL Audience ] Destinationsis basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe Kundensupport], wenn Sie diese Funktion implementieren möchten.
 
-In diesem Video wird erläutert, wie die [!UICONTROL Data Services-Abfrage-Audience] in einem Workflow mithilfe der Aktivität [!UICONTROL Audience] lesen aktiviert wird.
+In diesem Video wird beschrieben, wie Sie die Audience [!UICONTROL Data Services Abfrage] in einem Workflow aktivieren, indem Sie die Aktivität [!UICONTROL Audience lesen] verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
