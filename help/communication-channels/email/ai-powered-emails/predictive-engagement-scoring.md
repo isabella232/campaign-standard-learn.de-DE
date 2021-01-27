@@ -8,9 +8,9 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Die [!UICONTROL prädiktive Interaktionsbewertung] sagt die Wahrscheinlichkeit v
 
 Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung der Kundenermüdung erstellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
 
 ## Zusätzliche Ressourcen
 
