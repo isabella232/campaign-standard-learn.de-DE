@@ -17,31 +17,31 @@ ht-degree: 25%
 ---
 
 
-# Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
+# Erläuterungen zum Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
 >Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert.
 >
->Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe Kundensupport], wenn Sie diese Funktion implementieren möchten.
 
-## Übersicht
+## Übersicht  
 
-Adobe Experience Platform [!UICONTROL Data Connector] helps existing customers to make their data available on Adobe Experience Platform by mapping XTK data (data ingested in Adobe Campaign) to [!DNL Experience Data Model] (XDM) data on Adobe Experience Platform.
+Adobe Experience Platform [!UICONTROL Data Connector] unterstützt Bestandskunden dabei, ihre Daten auf Adobe Experience Platform verfügbar zu machen, indem sie XTK-Daten (in Adobe Campaign erfasste Daten) zu [!DNL Experience Data Model] (XDM)-Daten auf Adobe Experience Platform zuordnen.
 
 Beachten Sie, dass der Connector unidirektional ist und die Daten von Adobe Campaign Standard an Adobe Experience Platform sendet. Die Daten werden nie von der Adobe Experience Platform nach Adobe Campaign Standard gesendet.
 
-Adobe Experience Platform [!UICONTROL Data Connector] is intended for data engineers who understand Adobe Campaign Standard [!UICONTROL custom resources] and have an understanding of how customer&#39;s overall data schema should be inside Adobe Experience Platform.
+Adobe Experience Platform [!UICONTROL Data Connector] ist für Dateningenieure gedacht, die mit Adobe Campaign Standard [!UICONTROL benutzerspezifischen Ressourcen] vertraut sind und verstehen, wie sich das Schema der Kundendaten insgesamt in Adobe Experience Platform befinden sollte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*Dieses Video gibt einen Überblick über den Adobe Experience Platform [!UICONTROL Data Connector] (09:35 Min.)*
+*Dieses Video gibt einen Überblick über den Adobe Experience Platform  [!UICONTROL Data Connector]  (09:35 Min.)*
 
 >[!NOTE]
 >
->The out-of-the-box transfer of [!UICONTROL subscription events] is not supported. To transfer [!UICONTROL subscription events], you can create corresponding XDM and dataset on Adobe Experience Platform, then configure a custom data mapping for these data.
+>Die vordefinierte Übertragung von [!UICONTROL Abonnement-Ereignissen] wird nicht unterstützt. Um [!UICONTROL Abonnement-Ereignis] zu übertragen, können Sie entsprechende XDM- und Datasets auf Adobe Experience Platform erstellen und dann eine benutzerdefinierte Datenzuordnung für diese Daten konfigurieren.
 >
->Vorhandene [!UICONTROL Erlebnis-Ereignis] können nicht in Adobe Experience Platform integriert werden, aber fortlaufend generierte [!UICONTROL Erlebnis-Ereignis] werden in Adobe Experience Platform gestreamt.
+>Bestehende [!UICONTROL Erlebnis-Ereignis] können nicht in Adobe Experience Platform integriert werden, aber fortlaufend generierte [!UICONTROL Erlebnis-Ereignis] werden nach Adobe Experience Platform gestreamt.
 
 ## Wichtige Schritte zum Durchführen einer Datenzuordnung
 
@@ -59,4 +59,4 @@ Die folgenden Lernprogramme beschreiben die wichtigsten Schritte zum Durchführe
 * [Übersicht über das Experience-Datenmodell](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
 * [Mapping-Definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Mapping-Aktivierung](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-* [Datenerfassung über APIs aktivieren](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
+* [Datenaufnahme über APIs aktivieren](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
