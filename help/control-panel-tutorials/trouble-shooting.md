@@ -10,8 +10,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '357'
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*[!DNL IMS Org ID] prüfen (00:26 Min.)*
+*Prüfen [!DNL IMS Org ID] (00:26 Min.)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
