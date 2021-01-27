@@ -8,9 +8,9 @@ thumbnail: 29430.jpg
 doc-type: feature video
 activity: understand
 team: PMM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 In diesem Video erhalten Sie eine Einführung in [!UICONTROL Adobe Campaign Standard] und ein Überblick über die wichtigsten Funktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
