@@ -17,17 +17,17 @@ ht-degree: 16%
 ---
 
 
-# Create a [!UICONTROL push notification]
+# [!UICONTROL Push-Benachrichtigung] erstellen
 
-Hier erfahren Sie, wie Sie eine [!UICONTROL Push-Benachrichtigung] in Adobe Campaign Standard (ACS) erstellen:
+Erfahren Sie, wie Sie eine [!UICONTROL Push-Benachrichtigung] in Adobe Campaign Standard (ACS) erstellen:
 
-Adobe Campaign allows you to send personalized and segmented [!UICONTROL push notifications] to iOS and Android mobile devices. Sie haben zwei Optionen:
+Mit Adobe Campaign können Sie personalisierte und segmentierte [!UICONTROL Push-Benachrichtigungen] an iOS- und Android-Mobilgeräte senden. Sie haben zwei Optionen:
 
-* **[!UICONTROL Push-Benachrichtigung an Kampagne-Profil]** senden: Ermöglicht die Zielgruppe der Adobe Campaign CRM-Profil, die Ihre Mobilanwendung abonniert haben und sich für den Empfang von [!UICONTROL Push-Benachrichtigungen]entschieden haben. You can insert personalization fields into your [!UICONTROL push notification], such as the recipient&#39;s first name.
+* **[!UICONTROL Push-Benachrichtigung an Kampagne-Profil]** senden: Ermöglicht die Zielgruppe der Adobe Campaign CRM-Profil, die Ihre Mobilanwendung abonniert haben und sich für den Empfang von  [!UICONTROL Push-Benachrichtigungen] entschieden haben. Sie können Personalisierungsfelder in Ihre [!UICONTROL Push-Benachrichtigung] einfügen, z. B. den Vornamen des Empfängers.
 
-* **[!UICONTROL Push-Benachrichtigung an App-Abonnenten]** senden: Ermöglicht es Ihnen, eine [!UICONTROL Push-Benachrichtigung] an alle bekannten und anonymen Benutzer von Mobilanwendungen zu senden, die sich dafür entschieden haben, Benachrichtigungen von Ihrer Anwendung zu erhalten. Sie können diese Nachrichten mit Daten personalisieren, die von Ihrer Mobile App stammen.
+* **[!UICONTROL Push-Benachrichtigung an App-Abonnenten]** senden: Ermöglicht es Ihnen, eine  [!UICONTROL Push-] Benachrichtigung an alle bekannten und anonymen Benutzer von Mobilanwendungen zu senden, die sich dafür entschieden haben, Benachrichtigungen von Ihrer Anwendung zu erhalten. Sie können diese Nachrichten mit Daten personalisieren, die von Ihrer Mobile App stammen.
 
-In dem Video wird beschrieben, wie Sie eine [!DNL push notification to app subscribers]Nachricht senden.
+Das Video beschreibt, wie ein [!DNL push notification to app subscribers] gesendet wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
 
