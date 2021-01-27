@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 81%
 
 >[!NOTE]
 >
->Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
+>Die Subdomain-Zuweisung über das [!UICONTROL Control Panel] wird Ende Januar als Beta-Version verfügbar sein und häufigen Aktualisierungen und Änderungen ohne vorherige Ankündigung unterliegen.
 
 ## Zugreifen auf die [!UICONTROL Subdomain-Verwaltung] im [!UICONTROL Control Panel]
 
