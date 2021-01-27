@@ -17,7 +17,7 @@ ht-degree: 18%
 ---
 
 
-# Configure a mobile application using [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
+# Mobilanwendung mit [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk} konfigurieren
 
 Um In-App-Nachrichten oder [!UICONTROL Push-Benachrichtigungen] mit dem Mobile SDK V5 zu senden, muss die mobile App in [!UICONTROL Adobe Experience Platform Launch] eingerichtet und in Adobe Campaign konfiguriert werden.
 
@@ -27,7 +27,7 @@ Die folgenden Videos zeigen die erforderlichen Schritte zum Konfigurieren einer 
 
 >[!NOTE]
 >
->Die ausführliche Dokumentation und die im Video verwendeten Codevorlagen finden Sie unter [Konfigurieren der Anwendung in [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) .
+>Eine ausführliche Dokumentation und die im Video verwendeten Codevorlagen finden Sie unter [!UICONTROL Anwendung konfigurieren unter ]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) starten.[
 
 ## Zusätzliche Ressourcen
 
