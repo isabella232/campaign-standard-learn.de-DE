@@ -8,9 +8,9 @@ thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Die [!UICONTROL prädiktive Sendezeitoptimierung] sagt für jedes Empfängerprof
 
 Hier lernen Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe Campaign und dem Journey AI-Modell erforderlich sind. Erfahren Sie, wie Sendezeitbewertungen auf der Ebene einzelner Profile angezeigt werden und wie E-Mail-Sendungen mithilfe einer Sendezeitformel ausgeführt werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
 
 ## Zusätzliche Ressourcen
 
