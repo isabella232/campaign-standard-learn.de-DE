@@ -16,9 +16,9 @@ ht-degree: 10%
 
 ---
 
-# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# Bericht zu Ihrem [!UICONTROL In-App]-Versand {#in-app-message-reporting}
 
-Sie können Ihre Daten zum [!UICONTROL In-App] -Versand entweder in der Zusammenfassung des Versands überprüfen, indem Sie [!UICONTROL In-App] -spezifische Metriken hinzufügen. Alternativ können Sie den vordefinierten [In-App-Bericht](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)verwenden.
+Sie können Ihre [!UICONTROL In-App]-Daten zum Versand entweder in der Zusammenfassung des Versands überprüfen, indem Sie [!UICONTROL In-App] spezifische Metriken hinzufügen. Alternativ können Sie den vordefinierten Bericht [In-App-Bericht](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html) verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
