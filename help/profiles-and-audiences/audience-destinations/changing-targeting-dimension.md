@@ -17,15 +17,15 @@ ht-degree: 17%
 ---
 
 
-# Zielgruppendimension [!UICONTROL Platform-Audience ändern]
+# Ändern Sie die Zielgruppendimension [!UICONTROL Platform Audience]
 
 >[!NOTE]
 >
->Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert. [!UICONTROL Audiencen-Ziele] basieren auf Adobe Experience Platform und erfordern eine bestimmte Konfiguration.
+>Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert. [!UICONTROL Audience ] Destinationsis basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe Kundensupport], wenn Sie diese Funktion implementieren möchten.
 
-In diesem Video wird erläutert, wie die Zielgruppendimension eines Versands für eine [!UICONTROL Plattformtabelle] außerhalb der Tabelle des primären Profils in Adobe Campaign Standard geändert werden kann.
+In diesem Video wird erläutert, wie die Zielgruppendimension eines Versands für eine [!UICONTROL Platform-Audience] außerhalb der primären Profil-Tabelle in Adobe Campaign Standard geändert werden kann.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
