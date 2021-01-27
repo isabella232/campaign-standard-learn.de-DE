@@ -1,6 +1,6 @@
 ---
-title: Überwachen der Serverkapazität
-description: Erfahren Sie, wie Sie die Datenspeicherung Ihrer SFTP-Server überwachen.
+title: Überwachen der Server-Kapazität
+description: Erfahren Sie, wie Sie die Speicherkapazität Ihrer SFTP-Server überwachen.
 feature: SFTP Management
 topics: Control Panel
 audience: administrator
@@ -13,14 +13,14 @@ translation-type: tm+mt
 source-git-commit: 1a108846158bfaf8f9efd1b7a78f652c0d3f3211
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
 
-# Überwachen der Serverkapazität
+# Überwachen der Server-Kapazität
 
-Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung instanzweise überwachen und verwalten.
+Mit dem Control Panel können Sie Ihren SFTP-Speicher über die Instanz überwachen und verwalten.
 
 ## Zugreifen auf die Subdomain-Verwaltung im [!UICONTROL Control Panel]
 
@@ -33,6 +33,6 @@ Um die Subdomain-Verwaltung in [!UICONTROL Control Panel]aufzurufen, gehen Sie z
 
 ## Server-Kapazität überwachen, IP-Adressen auf [!UICONTROL Zulassungsliste] setzen und SSH-Schlüssel hinzufügen
 
-Erfahren Sie, wie Sie die Datenspeicherung Ihrer SFTP-Server überwachen.
+Erfahren Sie, wie Sie die Speicherkapazität Ihrer SFTP-Server überwachen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
