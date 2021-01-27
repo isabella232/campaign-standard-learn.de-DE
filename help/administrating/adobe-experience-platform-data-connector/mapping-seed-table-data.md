@@ -23,7 +23,7 @@ ht-degree: 14%
 >
 >Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert.
 >
->Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe Kundensupport], wenn Sie diese Funktion implementieren möchten.
 
 Erfahren Sie, wie Sie Seed-Daten zuordnen und Profil mit dem Adobe Experience Platform testen können.
 
