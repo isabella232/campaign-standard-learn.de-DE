@@ -8,9 +8,9 @@ thumbnail: 23106.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ Adobe Campaign Standard bietet 18 vollständig anpassbare, vorkonfigurierte, res
 
 In diesem Video werden die Vorlagen vorgestellt und die Erstellung einer eigenen Vorlage erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12)
