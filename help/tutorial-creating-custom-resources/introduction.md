@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ Wir möchten zusätzliche Informationen über die Bestellung eines Kunden nutzen
 
 Dazu ergänzen wir das [!DNL Campaign]-Datenmodell, indem wir die vorkonfigurierten Ressourcen erweitern und unsere eigenen benutzerdefinierten Tabellen hinzufügen. Wir fügen einen Kunden und eine Bestelltabelle hinzu.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 In diesem Tutorial wird die Vorgehensweise Schritt für Schritt erklärt:
 
