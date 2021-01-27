@@ -17,15 +17,15 @@ ht-degree: 10%
 ---
 
 
-# Mapping [!UICONTROL Experience Events]
+# Zuordnung von [!UICONTROL Erlebnis-Ereignissen]
 
 >[!NOTE]
 >
 >Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert.
 >
->Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe Kundensupport], wenn Sie diese Funktion implementieren möchten.
 
-Erfahren Sie, wie Sie [!UICONTROL Experience Ereignisses] in Adobe Experience Platform (AEP) zuordnen.
+Erfahren Sie, wie Sie in Adobe Experience Platform (AEP) [!UICONTROL Erlebnis-Ereignis] zuordnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
