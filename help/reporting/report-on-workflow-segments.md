@@ -25,4 +25,4 @@ Im folgenden Video werden die drei Schritte erläutert, die zur Zielgruppe diese
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-For more information see the [documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
+Weitere Informationen finden Sie in der [Dokumentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
