@@ -19,7 +19,7 @@ ht-degree: 6%
 
 # Senden einer In-App-Broadcast-Nachricht
 
-Sie können eine In-App-Nachricht an alle Benutzer einer mobilen App senden, unabhängig davon, ob Adobe Campaign über Informationen zum Profil verfügt oder nicht. Um eine Nachricht zu senden, müssen Sie beim Konfigurieren der In-App-Nachricht die **[!UICONTROL Zielgruppe für alle Benutzer einer mobilen App-Vorlage]** verwenden.
+Sie können eine In-App-Nachricht an alle Benutzer einer mobilen App senden, unabhängig davon, ob Adobe Campaign über Informationen zum Profil verfügt oder nicht. Um eine Nachricht zu senden, müssen Sie beim Konfigurieren der In-App-Nachricht die **[!UICONTROL Zielgruppe aller Benutzer einer mobilen App-Vorlage]** verwenden.
 
 Zu den relevanten Anwendungsfällen dieser Kategorie gehören:
 
@@ -28,7 +28,7 @@ Zu den relevanten Anwendungsfällen dieser Kategorie gehören:
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Erstellen einer In-App-Nachricht mit einer [!UICONTROL SDKV5 Mobile-Eigenschaft]*
+*Erstellen einer In-App-Nachricht mit einer  [!UICONTROL SDKV5 Mobile-Eigenschaft]*
 
 ## Zusätzliche Ressourcen
 
