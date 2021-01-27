@@ -24,7 +24,7 @@ ht-degree: 8%
 >
 >Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert.
 >
->Wenden Sie sich an den [!UICONTROL Kundendienst] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe Kundensupport], wenn Sie diese Funktion implementieren möchten.
 
 Erfahren Sie, wie Sie den Status eines Datenerfassungsauftrags überprüfen und ob die Daten von Adobe Campaign Standard nach Adobe Experience Platform aufgenommen wurden.
 
@@ -34,4 +34,4 @@ Erfahren Sie, wie Sie den Status eines Datenerfassungsauftrags überprüfen und 
 
 * [Mapping-Definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Mapping-Aktivierung](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-* [Datenerfassung über APIs aktivieren](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
+* [Datenaufnahme über APIs aktivieren](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
