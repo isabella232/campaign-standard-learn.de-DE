@@ -33,6 +33,6 @@ Weitere Informationen finden Sie in der detaillierten [Produktdokumentation](htt
 
 ## Zusätzliche Ressourcen
 
-* [Testen von Nachrichten mit Zielgruppeprofilen (Dokumentation)](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Testen von Nachrichten mit Zielgruppeprofilen (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [A/B-Tests durchführen](/help/communication-channels/email/a-b-testing.md)
 * [Testversand, Vorbereiten und Senden einer E-Mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
