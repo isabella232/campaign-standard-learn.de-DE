@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
@@ -35,23 +35,23 @@ Um auf die Verwaltung von Subdomains in [!UICONTROL Control Panel] zuzugreifen, 
 
 Das Hinzufügen von SSL-Zertifikaten erfordert drei Schritte:
 
-### Step 1: Generate [!UICONTROL Certificate Signing Requests]
+### Schritt 1: [!UICONTROL Certificate Signing Requests] generieren
 
-The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. Sie muss für die Instanz und die Subdomänen, die Sie sichern möchten, generiert werden.
+Für den Erwerb eines SSL-Zertifikats ist ein [!UICONTROL Certificate Signing Request] (CSR) erforderlich. Es muss für die Instanz und die Subdomains, die Sie schützen möchten, generiert werden.
 
-The video below describes how to generate a [!UICONTROL Certificate Signing Request] in [!UICONTROL Control Panel].
+Im folgenden Video erfahren Sie, wie Sie ein [!UICONTROL Certificate Signing Request] im [!UICONTROL Control Panel] generieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 
 *Certificate Signing Requests generieren (02:36 Min.)*
 
-### Schritt 2: SSL-Zertifikat erwerben
+### Schritt 2: SSL-Zertifikat kaufen
 
-Erwerben Sie nach Erhalt des CSR das SSL-Zertifikat von einer Zertifizierungsstelle, die von Ihrem Unternehmen genehmigt wurde.
+Kaufen Sie nach dem Erhalt des CSR das SSL-Zertifikat von einer Zertifizierungsstelle, die von Ihrem Unternehmen genehmigt wurde.
 
 ### Schritt 3: SSL-Zertifikate installieren
 
-Nachdem Sie das SSL-Zertifikat erhalten haben, muss es für die Subdomänen installiert werden, die Sie sichern möchten.
+Nachdem Sie das SSL-Zertifikat abgerufen haben, muss es für die Subdomains installiert werden, die Sie sichern möchten.
 
 Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Panel]installiert werden.
 
@@ -61,5 +61,5 @@ Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Pane
 
 ## Zusätzliche Ressourcen
 
-* [Vollständige Subdomänenübertragung (Video)](./subdomain-delegation.md)
+* [Vollständige Subdomain-Zuweisung (Video)](./subdomain-delegation.md)
 * [Subdomains und Zertifikate – Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
