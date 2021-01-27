@@ -1,5 +1,5 @@
 ---
-title: Testen und Publizieren einer Landingpage
+title: Testen und Veröffentlichen einer Landingpage
 description: In diesem Video wird erläutert, wie Sie eine in Adobe Campaign Standard erstellte Landingpage testen und veröffentlichen können.
 feature: Landing Pages
 topics: null
@@ -17,7 +17,7 @@ ht-degree: 26%
 ---
 
 
-# Testen und Publizieren einer Landingpage
+# Testen und Veröffentlichen einer Landingpage
 
 In diesem Video wird erläutert, wie Sie eine Landingpage testen und veröffentlichen.
 
