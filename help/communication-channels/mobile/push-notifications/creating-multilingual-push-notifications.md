@@ -17,7 +17,7 @@ ht-degree: 25%
 ---
 
 
-# Erstellen einer mehrsprachigen Push-Benachrichtigungs- [!UICONTROL Push-Benachrichtigung]
+# Erstellen Sie eine mehrsprachige Push-Benachrichtigung [!UICONTROL Push-Benachrichtigung]
 
 Erfahren Sie, wie Sie in Adobe Campaign Standard mehrsprachige [!UICONTROL Push-Benachrichtigungen] erstellen.
 
