@@ -1,7 +1,7 @@
 ---
 title: Aktivität externer Signale - Aufruf eines Workflows mit Parametern
 description: Die Aktivität "Externes Signal"dient zur Organisation und Orchestrierung verschiedener Prozesse, die zum gleichen Journey gehören, in verschiedene Workflows. So kann ein Workflow durch einen anderen aktiviert werden, wodurch komplexere Customer Journeys möglich werden. Dies wiederum erlaubt eine bessere Überwachung der Prozesse und eine raschere Reaktion im Fall von Problemen.
-feature: External Signal Activity
+feature: Aktivität "Externes Signal"
 topics: Workflows
 kt: 2750
 thumbnail: 27249
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 27%
+source-wordcount: '342'
+ht-degree: 25%
 
 ---
 
@@ -27,7 +27,7 @@ Dazu gehört auch eine neue **Test**-Aktivität, mit der Sie Tests zu dieser Fun
 
 Im folgenden Video werden die Konfigurationsschritte erläutert, die erforderlich sind, um
 
-1. **Externe** Parameter von einem externen System erhalten, z. B. ein Content-Management-System (CRM):
+1. **Externe** Parameter von einem externen System wie z. B. einem Content-Management-System (CRM) empfangen:
 
    * Deklarieren der Parameter in der Aktivität &quot;Externes Signal&quot;
    * Konfigurieren Sie den API-Aufruf, um die Parameter zu definieren und die Workflow-Aktivität &quot;Externes Signal&quot;Trigger. Weitere Informationen zum Konfigurieren eines API-Aufrufs finden Sie unter [Auslösen einer Signal-Aktivität](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
@@ -45,4 +45,4 @@ Im folgenden Video werden die Konfigurationsschritte erläutert, die erforderlic
 
 ## Zusätzliche Ressourcen
 
-* [Externes Signal (Dokumentation)](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Externes Signal (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)
