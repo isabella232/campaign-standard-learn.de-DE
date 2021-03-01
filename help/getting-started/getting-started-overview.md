@@ -1,7 +1,7 @@
 ---
 title: Erste Schritte mit Adobe Campaign Standard
 description: In diesem Video erhalten Sie einen Überblick über die Benutzeroberfläche von Adobe Campaign Standard sowie die wichtigsten Funktionen.
-feature: User Interface
+feature: Benutzeroberfläche
 topics: null
 kt: null
 doc-type: null
@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '191'
 ht-degree: 100%
 
 ---
