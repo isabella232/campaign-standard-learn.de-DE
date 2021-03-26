@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 469bb62991b768929e75b360d93d1cef9a9f3d9a
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 10%
+source-wordcount: '86'
+ht-degree: 16%
 
 ---
 
@@ -31,6 +31,6 @@ Erfahren Sie, wie Sie in Adobe Experience Platform (AEP) [!UICONTROL Erlebnis-Er
 
 ## Zusätzliche Ressourcen
 
-* [Mapping-Definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-* [Mapping-Aktivierung](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
+* [Mapping-Definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+* [Mapping-Aktivierung](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
 
