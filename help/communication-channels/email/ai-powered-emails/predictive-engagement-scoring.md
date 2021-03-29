@@ -1,17 +1,17 @@
 ---
 title: Prädiktive Interaktionsbewertung
 description: Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung von Kundenermüdung erstellt.
-feature: predictive engagement scoring
+feature: Prädiktive Interaktionsbewertung
 topics: null
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: tm+mt
-source-wordcount: '220'
+workflow-type: ht
+source-wordcount: '223'
 ht-degree: 100%
 
 ---
@@ -19,14 +19,14 @@ ht-degree: 100%
 
 # Prädiktive Interaktionsbewertung
 
-Mit der [!UICONTROL Journey AI] kann [!DNL Adobe Campaign] Öffnungsraten, optimale Sendezeiten und wahrscheinliche Abwanderungszahlen anhand historischer Interaktionsmetriken analysieren und vorhersagen.
+Mit [!UICONTROL Journey-KI] kann [!DNL Adobe Campaign] Öffnungsraten, optimale Sendezeiten und wahrscheinliche Abwanderungszahlen anhand historischer Interaktionsmetriken analysieren und vorhersagen.
 
 >[!CAUTION]
 >Diese Funktion ist nicht als Teil des Produkts vorkonfiguriert. Die Implementierung erfordert die Einbindung von Adobe Consulting. Wenden Sie sich an Ihren Adobe-Support-Mitarbeiter, um weitere Informationen zu erhalten.
 
 Die [!UICONTROL prädiktive Interaktionsbewertung] sagt die Wahrscheinlichkeit voraus, mit der ein Empfänger mit einer Nachricht interagiert, sowie die Wahrscheinlichkeit, mit der er sich innerhalb der nächsten sieben Tage nach dem nächsten E-Mail-Versand abmeldet. Die Wahrscheinlichkeiten werden je nach dem spezifischen Risiko des Interaktionsabbruchs (mittel oder niedrig) weiter in Gruppen unterteilt. Zusätzlich liefert das Modell auch den Risikoperzentil-Rang, damit der Rang eines bestimmten Kunden im Verhältnis zu anderen ersichtlich wird.
 
-Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung der Kundenermüdung erstellt.
+Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung von Kundenermüdung erstellt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
 
