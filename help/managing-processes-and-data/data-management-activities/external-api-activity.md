@@ -1,17 +1,17 @@
 ---
 title: Konfigurieren und Ausführen eines Workflows mit der Aktivität "Externe API"
 description: Die Aktivität "Externe API" ist eine Datenverwaltungsaktivität. Damit können Sie einen externen REST-API-Endpunkt aufrufen. Ziel dieser Aktivität ist es, Personalisierungsdaten von einem Drittanbietersystem in Ihre Kampagne zu übertragen.
-feature: External API activity
+feature: Externe API-Aktivität
 topics: null
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '216'
+workflow-type: ht
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
