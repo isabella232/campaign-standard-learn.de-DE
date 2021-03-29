@@ -1,17 +1,17 @@
 ---
 title: Vorschau der E-Mail und Anti-Spam-Analyse
 description: In diesem Video wird die Vorschau Ihrer E-Mail und der Anti-Spam-Analyse erläutert.
-feature: email designer
+feature: 'Email Designer '
 topics: null
 kt: 2393
 thumbnail: 25921.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '38'
+workflow-type: ht
+source-wordcount: '40'
 ht-degree: 100%
 
 ---
