@@ -1,17 +1,17 @@
 ---
 title: Erstellen benutzerdefinierter Ressourcen – Einführung
 description: Adobe Campaign Standard bietet die Möglichkeit, Ressourcen zu erweitern oder ganz neue Ressourcen zu erstellen. Dieses mehrteilige Tutorial führt Sie durch die Schritte, die zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen erforderlich sind.
-feature: Custom Resources
+feature: Benutzerdefinierte Ressourcen
 topics: null
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: tm+mt
-source-wordcount: '233'
+workflow-type: ht
+source-wordcount: '235'
 ht-degree: 100%
 
 ---
