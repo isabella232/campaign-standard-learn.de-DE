@@ -1,17 +1,17 @@
 ---
 title: Profilersetzung – Testen von E-Mail-Nachrichten mit Zielgruppenprofilen
 description: In diesem Video wird erläutert, wie Sie Ihre E-Mail-Nachrichten mit Hilfe der Profilersetzungsfunktion testen können.
-feature: Email
+feature: 'E-Mail  '
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f04ac773029bf15ff445bf1c506a4234cf5060bb
-workflow-type: tm+mt
-source-wordcount: '184'
+workflow-type: ht
+source-wordcount: '185'
 ht-degree: 100%
 
 ---
@@ -33,6 +33,6 @@ Weitere Informationen finden Sie in der detaillierten [Produktdokumentation](htt
 
 ## Zusätzliche Ressourcen
 
-* [Testen von Nachrichten mit Zielgruppeprofilen (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Testen von Nachrichten mit Zielgruppeprofilen (Dokumentation)](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [A/B-Tests durchführen](/help/communication-channels/email/a-b-testing.md)
 * [Testversand, Vorbereiten und Senden einer E-Mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
