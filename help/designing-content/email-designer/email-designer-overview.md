@@ -1,17 +1,17 @@
 ---
 title: Übersicht über Email Designer
 description: In diesem Video werden die allgemeinen Funktionen von Email Designer und das Entwerfen einer E-Mail von Grund auf erläutert. Auf dieser Seite werden alle verfügbaren Funktionsvideos für Email Designer in Adobe Campaign aufgelistet.
-feature: Email Designer
+feature: 'Email Designer '
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '143'
+workflow-type: ht
+source-wordcount: '145'
 ht-degree: 100%
 
 ---
