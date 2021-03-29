@@ -9,11 +9,11 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46b8e3391e78ac333bad28b5cacceea3969cbb28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '507'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 98%
       + [Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Vorlagen in mehrsprachige Sendungen](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Prüfen von E-Mail-Versand und -Berichten](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Erstellen und Senden von E-Mails über einen Workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + [Best Practice-Handbuch zur Lieferbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+      + [Handbuch der Best Practices zur Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
       + KI-gestützte E-Mails {#journey-ai}
          + [Prädiktive Sendezeitoptimierung](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [Prädiktive Interaktionsbewertung](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
