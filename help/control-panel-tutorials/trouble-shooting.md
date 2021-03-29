@@ -7,10 +7,10 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
-workflow-type: tm+mt
-source-wordcount: '357'
+workflow-type: ht
+source-wordcount: '359'
 ht-degree: 100%
 
 ---
