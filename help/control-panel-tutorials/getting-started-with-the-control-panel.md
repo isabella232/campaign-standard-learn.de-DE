@@ -9,10 +9,10 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
-workflow-type: tm+mt
-source-wordcount: '241'
+workflow-type: ht
+source-wordcount: '243'
 ht-degree: 100%
 
 ---
