@@ -9,11 +9,11 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de
-translation-type: ht
-source-git-commit: 46b8e3391e78ac333bad28b5cacceea3969cbb28
-workflow-type: ht
-source-wordcount: '507'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: d83ef6bcf615f9dc10af800bd6f0ef2aa58a7a45
+workflow-type: tm+mt
+source-wordcount: '517'
+ht-degree: 98%
 
 ---
 
@@ -101,6 +101,8 @@ ht-degree: 100%
    + [Erstellen eines dynamischen Berichts](/help/reporting/creating-a-dynamic-report.md)
    + [Erstellen eines Berichts auf der Basis von benutzerdefinierten Profilattributen](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Erstellen eines Berichts auf der Basis von Workflow-Segmenten](/help/reporting/report-on-workflow-segments.md)
++ Integrationen 
+   + [Verfolgen Sie den Erfolg Ihrer Versand in Adobe Analytics.](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
 + Verwalten{#administrating}
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
    + [Erstellen benutzerdefinierter Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=de)
