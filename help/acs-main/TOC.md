@@ -1,5 +1,4 @@
 ---
-product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard – Tutorials
 user-guide-description: Gestalten Sie Kundenerlebnisse auf unterschiedlichsten Kanälen und schaffen Sie eine Umgebung für visuelle Kampagnenorchestrierungen, Interaktionsverwaltung in Echtzeit und kanalübergreifende Ausführung.
 breadcrumb-title: Campaign Standard-Tutorials
@@ -10,7 +9,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de
 translation-type: tm+mt
-source-git-commit: d83ef6bcf615f9dc10af800bd6f0ef2aa58a7a45
+source-git-commit: c285a5493dad114c817d78692400f4056c707db4
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 98%
