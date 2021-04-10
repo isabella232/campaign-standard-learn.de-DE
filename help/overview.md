@@ -3,10 +3,10 @@ title: Adobe Campaign Standard – Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: f3db7ac2882d7c87e1e785e7fc1d80b21a9e6a2a
+source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 86%
+source-wordcount: '296'
+ht-degree: 82%
 
 ---
 
@@ -20,6 +20,10 @@ Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Ku
 * **[Verfolgen Sie den Erfolg Ihrer Versand in Adobe Analytics.](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
    *Erfahren Sie, wie Sie die Integration von Campaign Standard und Analytics konfigurieren. Verstehen Sie, wie Sie einen Bericht in Analytics mit den von Campaign Standard erhaltenen Daten erstellen und welche KPIs verfügbar sind.*
+
+* ** [Verwenden von Triggern für Transaktionsnachrichten](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
+
+   *Erfahren Sie, wie Sie Trigger für Transaktionsnachrichten konfigurieren und verwenden.*
 
 ## Favoriten unserer Mitarbeiter
 
