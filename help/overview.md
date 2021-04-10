@@ -2,28 +2,24 @@
 title: Adobe Campaign Standard – Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: ht
-source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: ht
-source-wordcount: '274'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: f3db7ac2882d7c87e1e785e7fc1d80b21a9e6a2a
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 86%
 
 ---
 
 
 # Adobe Campaign Standard – Übersicht
 
-Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
+Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Kundenerlebnisse, auf der über eine visuell-gestützte Umgebung Kampagnen orchestriert, Interaktionen in Echtzeit verwaltet und Kampagnen kanalübergreifend ausgeführt werden können. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 
 ## Neue Funktionen
 
-* **[Überwachen von Datenbanken](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Verfolgen Sie den Erfolg Ihrer Versand in Adobe Analytics.](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
-   *Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen überwachen.*
-
-* **[Zuweisen von Subdomains mit CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *Erfahren Sie, wie Sie eine Subdomain mit CNAME im Control Panel einrichten und senden.*
+   *Erfahren Sie, wie Sie die Integration von Campaign Standard und Analytics konfigurieren. Verstehen Sie, wie Sie einen Bericht in Analytics mit den von Campaign Standard erhaltenen Daten erstellen und welche KPIs verfügbar sind.*
 
 ## Favoriten unserer Mitarbeiter
 
@@ -60,7 +56,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
       <img alt="Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android</strong>
     </a>
     </div>
