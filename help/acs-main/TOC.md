@@ -9,10 +9,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de
 translation-type: tm+mt
-source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
+source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 98%
+source-wordcount: '546'
+ht-degree: 93%
 
 ---
 
@@ -100,8 +100,13 @@ ht-degree: 98%
    + [Erstellen eines dynamischen Berichts](/help/reporting/creating-a-dynamic-report.md)
    + [Erstellen eines Berichts auf der Basis von benutzerdefinierten Profilattributen](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Erstellen eines Berichts auf der Basis von Workflow-Segmenten](/help/reporting/report-on-workflow-segments.md)
-+ Integrationen {#integrations}
++ Mit anderen Lösungen integrieren {#integrations}
    + [Verfolgen Sie den Erfolg Ihrer Versand in Adobe Analytics.](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
+   + Verwenden von Triggern für Transaktionsnachrichten {#triggers}
+      + [Übersicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [Trigger im Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [Erstellen eines Trigger-Ereignisses in Campaign Standard](/help/integrations/create-a-trigger-event.md)
+      + [Transaktionsnachrichten mithilfe von Echtzeit-Ereignis-Daten konfigurieren](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + Verwalten{#administrating}
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
    + [Erstellen benutzerdefinierter Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=de)
