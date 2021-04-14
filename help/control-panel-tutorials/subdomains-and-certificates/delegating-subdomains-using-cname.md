@@ -1,17 +1,17 @@
 ---
 title: Zuweisen von Subdomains mit CNAME
 description: Erfahren Sie, wie Sie eine Subdomain vollständig Adobe Campaign zuweisen.
-feature: Subdomain Delegation
+feature: Subdomain-Zuweisung
 topics: Control Panel
 kt: 6014
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
-workflow-type: tm+mt
-source-wordcount: '95'
+workflow-type: ht
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
