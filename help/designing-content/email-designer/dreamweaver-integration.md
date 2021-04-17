@@ -1,20 +1,22 @@
 ---
 title: Erstellen von Inhalten mit Adobe Dreamweaver
-description: In diesem Video wird erläutert, was für die Dreamweaver-Integration erforderlich ist und wie Inhalte für Adobe Campaign Standard mit Dreamweaver erstellt und bearbeitet werden können.
-feature: Email Designer
+description: Erkennen Sie, was für die Dreamweaver-Integration erforderlich ist und wie Sie Inhalte für Adobe Campaign Standard mit Dreamweaver erstellen und bearbeiten.
+feature: E-Mail-Erstellung
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '181'
-ht-degree: 100%
+exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
+role: Business Practitioner, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '179'
+ht-degree: 87%
 
 ---
-
 
 # Erstellen von Inhalten mit Adobe Dreamweaver
 
@@ -37,5 +39,5 @@ In diesem Video wird erläutert, was für die Dreamweaver-Integration erforderli
 ## Zusätzliche Ressourcen
 
 * [Fehlerbehebung bei der Installation von Adobe Campaign mit Dreamweaver](https://helpx.adobe.com/de/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Dokumentation zu Adobe Dreamweaver](https://helpx.adobe.com/de/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Dokumentation zu Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Installieren von Add-ons und Erweiterungen für Mobile Apps von Adobe](https://helpx.adobe.com/de/creative-cloud/kb/installingextensionsandaddons.html)
