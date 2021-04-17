@@ -1,21 +1,23 @@
 ---
 title: Erstellen eines mehrsprachigen E-Mail- oder SMS-Versands
-description: Mit Adobe Campaign Standard (ACS) können Sie die betriebliche Komplexität der Versendung mehrsprachiger Kampagnen vereinfachen. Sowohl E-Mail-Versand als auch SMS-Versand können als mehrsprachig eingerichtet werden, sodass Sie die E-Mail- oder SMS-Nachrichten auf der Grundlage der von einem Profil bevorzugten Sprache senden können. Der in den Videos beschriebene Ansatz gilt sowohl für E-Mail- als auch für SMS-Versand.
-feature: Multi-lingual Deliveries
+description: 'Erfahren Sie, wie Sie die betriebliche Komplexität des Versands mehrsprachiger Kampagnen vereinfachen können. '
+feature: E-Mail, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '121'
 ht-degree: 1%
 
 ---
-
 
 # Erstellen eines mehrsprachigen E-Mail- oder SMS-Versands
 
