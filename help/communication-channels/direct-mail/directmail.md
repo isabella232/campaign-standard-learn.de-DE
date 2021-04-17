@@ -1,21 +1,23 @@
 ---
 title: Eine Briefpost erstellen
-description: Briefpost ist immer noch ein wichtiger Kanal für Marketingexperten auf der ganzen Welt, und sie können diese Offline-Interaktionen nun parallel zu ihren Online-Interaktionen orchestrieren. Dieselbe Engine, die digitale Kommunikation wie E-Mail und Mobilgeräte betreibt, kann jetzt auch direkte Mailer personalisieren.
-feature: direct mail
+description: Erfahren Sie, wie Sie eine Direktnachricht erstellen.
+feature: Briefpost
 topics: null
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 1%
+source-wordcount: '123'
+ht-degree: 3%
 
 ---
-
 
 # Erstellen einer [!UICONTROL Briefpost] {#create-a-direct-mail}
 
