@@ -1,21 +1,23 @@
 ---
 title: Prädiktive Sendezeitoptimierung
 description: Hier lernen Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe Campaign und dem Journey-KI-Modell erforderlich sind. Erfahren Sie, wie Sendezeitbewertungen auf der Ebene einzelner Profile angezeigt werden und wie E-Mail-Sendungen mithilfe einer Sendezeitformel ausgeführt werden können.
-feature: 'Prädiktive Sendezeit '
+feature: Versandzeitpunkt optimieren
 topics: null
 kt: 6274
 thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
+role: Business Practitoner, Developer, Administrator
+level: Experienced
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 100%
 
 ---
-
 
 # Prädiktive Sendezeitoptimierung
 
