@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Profilen und Audiences – Übersicht
-description: Erfahren Sie, wie Sie zu vorhandenen Profilen navigieren und wie Sie in Adobe Campaign Standard Profile und Audiences erstellen können.
+description: Erfahren Sie, wie Sie zu vorhandenen Profilen navigieren und wie Sie Profil und Audiencen erstellen.
 feature: Profile, Audiencen
 topics: null
 kt: 3899
@@ -8,14 +8,16 @@ thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 38%
+source-wordcount: '85'
+ht-degree: 18%
 
 ---
-
 
 # Erstellen von Profilen und Audiences – Übersicht
 
