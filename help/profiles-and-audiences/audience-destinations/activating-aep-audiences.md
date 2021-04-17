@@ -1,21 +1,23 @@
 ---
 title: Aktivieren von Adobe Experience Platform-Audiences in einem Workflow
 description: In diesem Video wird erläutert, wie die Data Services-Abfrage-Audience in einem Workflow mithilfe der Aktivität "Audience lesen"aktiviert wird.
-feature: Audience Destinations
+feature: People Core Service-Integration
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: 955d063f-4709-4f56-8f39-f1b838354300
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 6%
+source-wordcount: '166'
+ht-degree: 9%
 
 ---
-
 
 # Aktivieren von Adobe Experience Platform-Audiencen in einem Workflow [!UICONTROL Adobe Experience Platform-Audiencen] in einem Marketing-Workflow
 
@@ -41,4 +43,3 @@ Video-Ressource:
 
 * [Erstellen einer neuen Audience in Adobe Campaign Standard mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Ändern der Zielgruppendimension eines Versands für eine Plattform-Audience](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
