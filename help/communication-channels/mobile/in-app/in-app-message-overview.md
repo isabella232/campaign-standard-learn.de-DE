@@ -1,20 +1,22 @@
 ---
 title: Einführung in In-App-Nachrichten
-description: Mit dem Adobe Campaign Standard (ACS) In-App Messaging-Kanal können Sie dem Benutzer kontextuell relevante In-App-Nachrichten als Reaktion auf das Echtzeitverhalten eines Kunden in der Mobilanwendung präsentieren.
+description: '"Erfahren Sie, wie Sie dem Benutzer kontextrelevante In-App-Nachrichten als Reaktion auf das Echtzeit-Verhalten des Kunden in der mobilen Anwendung präsentieren."'
 feature: In-App
 topics: Mobile
 kt: 1911
 doc-type: feature video
 activity: use
 team: TM
+exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '778'
 ht-degree: 16%
 
 ---
-
 
 # Einführung in [!UICONTROL In-App]-Nachrichten {#introduction}
 
