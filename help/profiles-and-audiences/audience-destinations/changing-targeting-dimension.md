@@ -1,21 +1,23 @@
 ---
 title: Ändern der Zielgruppendimension
 description: In diesem Video wird erläutert, wie die Zielgruppendimension eines Versands für eine Platform-Audience außerhalb der primären Profil-Tabelle in Adobe Campaign Standard geändert werden kann.
-feature: Audience Destinations
+feature: People Core Service-Integration
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 17%
+source-wordcount: '178'
+ht-degree: 19%
 
 ---
-
 
 # Ändern Sie die Zielgruppendimension [!UICONTROL Platform Audience]
 
