@@ -1,21 +1,23 @@
 ---
 title: Verwalten von Diensten und Abonnements
-description: Mit Adobe Campaign können Sie Newsletter und Mitteilungen über verschiedene Kanal erstellen und verwalten. In diesem Video erfahren Sie, wie Sie einen Dienst erstellen und seine Abonnement in Adobe Campaign Standard (ACS) verwalten.
-feature: Subscriptions and Services
+description: Erfahren Sie, wie Sie einen Dienst erstellen und Abonnement verwalten.
+feature: 'Abonnements    '
 topics: null
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 32%
+source-wordcount: '155'
+ht-degree: 38%
 
 ---
-
 
 # Verwalten von Diensten und Abonnements{#managing-services-and-subscriptions}
 
