@@ -1,20 +1,22 @@
 ---
 title: Erstellen berichtsbasierter benutzerdefinierter Profil-Attribute
-description: Die dynamischen Berichte von Adobe Campaign sind so konzipiert, dass sie eine flexible Freiform-Umgebung darstellen, in der Sie Daten untersuchen können, indem Sie benutzerdefinierte Profil-Attribute einbeziehen. Damit können Sie Dimensionen, Metriken und Zeiträume in beliebiger Kombination mit unbegrenzten Aufschlüsselungen und Vergleichen kombinieren. In diesem Video wird das Erstellen eines Berichts auf der Grundlage benutzerdefinierter Profil-Attribute erläutert.
-feature: Dynamic Reporting
+description: Erfahren Sie, wie Sie einen Bericht erstellen, der auf benutzerspezifischen Profil-Attributen basiert.
+feature: Berichte
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 28889ce5-7f25-41f4-8ecd-47c77b0e3c00
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 16%
+source-wordcount: '94'
+ht-degree: 24%
 
 ---
-
 
 # Erstellen eines Berichts auf der Basis von benutzerdefinierten Profilattributen
 
