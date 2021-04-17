@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Berichts zum In-App-Versand
-description: In-App-Nachrichten ermöglichen es Ihnen, dem Benutzer kontextuell relevante In-App-Nachrichten als Reaktion auf das Echtzeitverhalten eines Kunden in der mobilen Anwendung bereitzustellen.
+description: '"Erfahren Sie, wie Sie dem Benutzer kontextrelevante In-App-Nachrichten als Reaktion auf das Echtzeit-Verhalten des Kunden in der mobilen Anwendung präsentieren."'
 feature: In-App
 topics: Mobile
 kt: 2558
@@ -8,11 +8,14 @@ thumbnail: 26412.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 10%
+ht-degree: 12%
 
 ---
 
