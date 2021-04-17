@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines In-App-Versands in einem Workflow
 seo-title: Erstellen eines In-App-Versands in einem Workflow
-description: Die Aktivität In-App-Versand dient insbesondere der Automatisierung des In-App-Versands an eine innerhalb desselben Workflows berechnete Zielgruppe.
+description: '"Erfahren Sie, wie Sie mit der In-App-Versand-Aktivität das Senden einer In-App-Nachricht an eine in einem Workflow berechnete Zielgruppe-Audience automatisieren."'
 seo-description: Die Aktivität In-App-Versand dient insbesondere der Automatisierung des In-App-Versands an eine innerhalb desselben Workflows berechnete Zielgruppe.
 feature: In-App
 topics: Mobile
@@ -10,14 +10,16 @@ thumbnail: 26226.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 49%
+source-wordcount: '208'
+ht-degree: 38%
 
 ---
-
 
 # Erstellen eines [!UICONTROL In-App]-Versands in einem Workflow
 
