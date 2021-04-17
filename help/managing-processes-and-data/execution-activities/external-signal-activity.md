@@ -1,21 +1,23 @@
 ---
 title: Aktivität externer Signale - Aufruf eines Workflows mit Parametern
-description: Die Aktivität "Externes Signal"dient zur Organisation und Orchestrierung verschiedener Prozesse, die zum gleichen Journey gehören, in verschiedene Workflows. So kann ein Workflow durch einen anderen aktiviert werden, wodurch komplexere Customer Journeys möglich werden. Dies wiederum erlaubt eine bessere Überwachung der Prozesse und eine raschere Reaktion im Fall von Problemen.
-feature: Aktivität "Externes Signal"
+description: '"Erfahren Sie, wie Sie einen Workflow von einem anderen Beginn zur Unterstützung komplexerer Journey nutzen und gleichzeitig Probleme besser überwachen und reagieren können."'
+feature: Execution-Aktivität
 topics: Workflows
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
+exl-id: d3996185-681c-4906-85f0-0543ab767519
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 25%
+source-wordcount: '315'
+ht-degree: 18%
 
 ---
-
 
 # [!UICONTROL Aktivität für externe Signale  ]- Aufruf eines Workflows mit Parametern
 
