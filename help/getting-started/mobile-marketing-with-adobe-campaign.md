@@ -1,21 +1,23 @@
 ---
 title: Mobil-Marketing mit Adobe Campaign
-description: In diesem Video wird erläutert, mit welchen Adobe Campaign Standard-Funktionen Sie Ihre Mobil-Marketing-Strategie unterstützen können.
-feature: Mobilgerät
+description: Erkennen Sie, welche Adobe Campaign Standard-Funktionen Ihre Marketingstrategie für Mobilgeräte unterstützen können.
+feature: SMS, Push, In-App
 topics: null
 kt: 3976
 thumbnail: 29468.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
+role: Business Practitioner, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 100%
+ht-degree: 71%
 
 ---
-
 
 # Mobil-Marketing mit Adobe Campaign
 
