@@ -1,21 +1,23 @@
 ---
 title: Konfigurieren und Ausführen eines Workflows mit der Aktivität "Externe API"
-description: Die Aktivität "Externe API" ist eine Datenverwaltungsaktivität. Damit können Sie einen externen REST-API-Endpunkt aufrufen. Ziel dieser Aktivität ist es, Personalisierungsdaten von einem Drittanbietersystem in Ihre Kampagne zu übertragen.
-feature: Externe API-Aktivität
+description: Hier erfahren Sie, wie Sie einen externen REST-API-Endpunkt aufrufen, um Personalisierungsdaten von einem Drittanbietersystem in Ihre Kampagne zu übernehmen.
+feature: Data Management-Aktivität
 topics: null
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '219'
-ht-degree: 100%
+exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
+role: Business Practitioner, Developer
+level: Experienced
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '203'
+ht-degree: 88%
 
 ---
-
 
 # Konfigurieren und Ausführen eines Workflows mit der [!UICONTROL Aktivität &quot;Externe API&quot;]
 
@@ -41,4 +43,3 @@ In diesem Video wird die Verwendung der [!UICONTROL Aktivität &quot;Externe API
 ## Zusätzliche Ressourcen
 
 * [Externe API (Dokumentation)](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
-
