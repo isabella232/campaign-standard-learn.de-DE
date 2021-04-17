@@ -1,21 +1,23 @@
 ---
 title: Prädiktive Interaktionsbewertung
 description: Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung von Kundenermüdung erstellt.
-feature: Prädiktive Interaktionsbewertung
+feature: Bewertung der voraussichtlichen Interaktion
 topics: null
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
+role: Business Practitoner, Developer, Administrator
+level: Experienced
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
-
 
 # Prädiktive Interaktionsbewertung
 
