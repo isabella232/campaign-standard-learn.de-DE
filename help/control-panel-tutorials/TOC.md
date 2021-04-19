@@ -1,19 +1,12 @@
 ---
-product: adobe campaign standard
 user-guide-title: Adobe Campaign Control Panel – Tutorials
 user-guide-description: Hier erfahren Sie, wie Sie die Schlüssel-Assets Ihrer Adobe Campaign-Instanzen überwachen und im Control Panel administrative Aufgaben durchführen.
 breadcrumb-title: Control Panel – Tutorials
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=de&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html
-getting-started-title: Dokumentation
-getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: ht
-source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
-workflow-type: ht
-source-wordcount: '142'
+translation-type: tm+mt
+source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
