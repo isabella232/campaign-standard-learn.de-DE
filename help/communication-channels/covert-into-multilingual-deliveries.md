@@ -1,7 +1,7 @@
 ---
 title: Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Vorlagen in mehrsprachige Sendungen
 description: '"Erfahren Sie, wie Sie bestehende E-Mails, SMS-Versand oder eine Versandvorlage in mehrere Sprachen konvertieren können."'
-feature: E-Mail, SMS
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg

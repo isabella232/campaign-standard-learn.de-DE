@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines dynamischen Berichts
 description: Erfahren Sie, wie Sie einen Bericht erstellen können.
-feature: Berichte
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video

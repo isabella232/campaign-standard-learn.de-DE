@@ -1,7 +1,7 @@
 ---
 title: Erste Schritte mit Email Designer
 description: Machen Sie sich mit den allgemeinen Funktionen des E-Mail-Designers und dem Design einer E-Mail vertraut.
-feature: E-Mail-Erstellung
+feature: Email Design
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg

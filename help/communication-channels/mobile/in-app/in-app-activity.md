@@ -3,7 +3,7 @@ title: Erstellen eines In-App-Versands in einem Workflow
 seo-title: Erstellen eines In-App-Versands in einem Workflow
 description: '"Erfahren Sie, wie Sie mit der In-App-Versand-Aktivität das Senden einer In-App-Nachricht an eine in einem Workflow berechnete Zielgruppe-Audience automatisieren."'
 seo-description: Die Aktivität In-App-Versand dient insbesondere der Automatisierung des In-App-Versands an eine innerhalb desselben Workflows berechnete Zielgruppe.
-feature: In-App
+feature: In App
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg

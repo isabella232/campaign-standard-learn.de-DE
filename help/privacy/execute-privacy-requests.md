@@ -1,7 +1,7 @@
 ---
 title: Ausführen von Datenschutzanfragen
 description: In Adobe Campaign werden Datenschutzanfragen von Workflows ausgeführt. In diesem Video wird beschrieben, welche Workflows auf Anfragen zugreifen und diese löschen und was während der Ausführung geschieht.
-feature: DSGVO, CCPA
+feature: GDPR, CCPA
 kt: 1525
 thumbnail: 22770.jpg
 doc-type: feature video

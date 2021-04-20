@@ -1,7 +1,7 @@
 ---
 title: Hierarchie und Marketing-Aktivitäten
 description: '"Machen Sie sich mit der Hierarchie von Programmen und Kampagnen vertraut, wie Sie ein Marketing-Programm erstellen und wie Sie eine Marketing-Kampagne in einem Programm erstellen."'
-feature: Kampagnen, Programme
+feature: Campaigns, Programs
 topics: null
 kt: 3892
 thumbnail: 18465.jpg

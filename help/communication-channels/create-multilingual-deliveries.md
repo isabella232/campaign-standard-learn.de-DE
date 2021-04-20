@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines mehrsprachigen E-Mail- oder SMS-Versands
 description: 'Erfahren Sie, wie Sie die betriebliche Komplexität des Versands mehrsprachiger Kampagnen vereinfachen können. '
-feature: E-Mail, SMS
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252

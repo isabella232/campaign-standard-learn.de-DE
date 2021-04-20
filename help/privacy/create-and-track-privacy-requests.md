@@ -1,7 +1,7 @@
 ---
 title: Manuelles Erstellen und Verfolgen von Datenschutzanfragen über die Adobe Campaign-Benutzeroberfläche
 description: Mit Adobe Campaign können Sie Anfragen zu personenbezogenen Daten gemäß Datenschutzgesetzen wie der DSGVO und dem CCPA erstellen und löschen. In diesen Videos wird gezeigt, wie Sie Datenschutzanfragen manuell erstellen und deren Fortschritt in der Benutzeroberfläche von Adobe Campaign Standard verfolgen können.
-feature: DSGVO, CCPA
+feature: GDPR, CCPA
 kt: 1242
 thumbnail: 29235.jpg
 doc-type: feature video

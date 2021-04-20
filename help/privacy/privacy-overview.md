@@ -1,8 +1,8 @@
 ---
 title: Datenschutzanfragen bei Adobe Campaign Standard (ACS) – Überblick
 description: In dem Tutorial wird erläutert, wie Datenschutzanfragen über die Benutzeroberfläche von Adobe Campaign Standard (ACS) erstellt werden.
-feature: DSGVO, CCAP
-topic: Datenschutz
+feature: GDPR, CCAP
+topic: Privacy
 kt: 1480
 doc-type: feature video
 activity: use

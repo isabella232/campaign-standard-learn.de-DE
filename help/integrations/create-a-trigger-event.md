@@ -1,7 +1,7 @@
 ---
 title: Trigger in Campaign Standard erstellen
 description: Erfahren Sie, wie Sie ein Trigger-Ereignis in Campaign Standard erstellen.
-feature: Trigger
+feature: Triggers
 topics: Integrations
 kt: 7470
 thumbnail: 332625.jpg

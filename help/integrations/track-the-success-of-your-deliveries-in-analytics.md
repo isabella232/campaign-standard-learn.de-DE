@@ -2,7 +2,7 @@
 title: Verfolgen Sie den Erfolg Ihrer Versand in Adobe Analytics.
 description: Erfahren Sie, wie Sie die Integration von Campaign Standard und Analytics konfigurieren. Verstehen Sie, wie Sie einen Bericht in Analytics mit den von Campaign Standard erhaltenen Daten erstellen und welche KPIs verfügbar sind.
 product: adobe analytics, campaign
-feature: Anwendungseinstellungen
+feature: Application Settings
 topics: Integrations
 role: Administrator
 level: Intermediate

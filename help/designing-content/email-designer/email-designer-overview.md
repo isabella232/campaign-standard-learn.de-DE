@@ -1,7 +1,7 @@
 ---
 title: Übersicht über Email Designer
 description: Machen Sie sich mit den allgemeinen Funktionen des E-Mail-Designers und dem Design einer E-Mail vertraut.
-feature: E-Mail-Erstellung
+feature: Email Design
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg

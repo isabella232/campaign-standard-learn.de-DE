@@ -1,7 +1,7 @@
 ---
 title: Erstellen einer mehrsprachigen Push-Benachrichtigung
 description: 'Erfahren Sie, wie Sie eine mehrsprachige Push-Benachrichtigung erstellen. '
-feature: Push-Benachrichtigung
+feature: Push
 topics: Mobile
 kt: 1375
 thumbnail: 23304.jpg

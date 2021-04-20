@@ -1,7 +1,7 @@
 ---
 title: Vorschau der E-Mail und Anti-Spam-Analyse
 description: '"Erfahren Sie, wie Sie Ihre E-Mail und die Anti-Spam-Analyse Vorschau haben."'
-feature: E-Mail-Erstellung
+feature: Email Design
 topics: null
 kt: 2393
 thumbnail: 25921.jpg

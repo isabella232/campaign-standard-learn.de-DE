@@ -1,7 +1,7 @@
 ---
 title: Einführung in die Berichterstellung
 description: Kenntnis der Berichte-Funktionen von Adobe Campaign Standard
-feature: Berichte
+feature: Reporting
 topics: null
 kt: 3974
 thumbnail: 29461.jpg

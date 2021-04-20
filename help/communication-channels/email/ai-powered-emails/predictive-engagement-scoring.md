@@ -1,7 +1,7 @@
 ---
 title: Prädiktive Interaktionsbewertung
 description: Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung von Kundenermüdung erstellt.
-feature: Bewertung der voraussichtlichen Interaktion
+feature: Predictive Engagement Scoring
 topics: null
 kt: 6275
 thumbnail: 40470.jpg

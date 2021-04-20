@@ -3,7 +3,7 @@ title: Adobe Campaign Standard – Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Übersicht
+feature: Overview
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 translation-type: tm+mt

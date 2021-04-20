@@ -1,7 +1,7 @@
 ---
 title: Prüfen von E-Mail-Versand und -Berichten
 description: Erfahren Sie, wie Sie einen personalisierten E-Mail-Versand überprüfen und verschiedene Berichte, die in Adobe Campaign Standard verfügbar sind, untersuchen.
-feature: Berichte
+feature: Reporting
 topics: null
 kt: 3904
 thumbnail: 21389.jpg

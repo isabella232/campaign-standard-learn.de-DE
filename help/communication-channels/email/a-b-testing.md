@@ -1,7 +1,7 @@
 ---
 title: A/B-Tests
 description: '"Erfahren Sie, wie Sie einen A/B-Test konfigurieren und senden, der die Betreffzeile testet. "'
-feature: 'A/B-Tests  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg

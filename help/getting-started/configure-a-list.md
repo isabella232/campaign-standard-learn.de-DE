@@ -1,7 +1,7 @@
 ---
 title: 'Listen konfigurieren '
 description: '"Erfahren Sie, wie Sie die angezeigten Spalten, die Reihenfolge und die Sortierreihenfolge einer Liste-Ansicht in Adobe Campaign Standard ändern können.  "'
-feature: Übersicht
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

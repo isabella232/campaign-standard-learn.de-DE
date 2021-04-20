@@ -1,7 +1,7 @@
 ---
 title: Profilersetzung – Testen von E-Mail-Nachrichten mit Zielgruppenprofilen
 description: Erfahren Sie, wie Sie Ihre E-Mail-Nachrichten mit der Funktion zum Ersetzen von Profilen testen können.
-feature: 'E-Mail  '
+feature: Email  
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg

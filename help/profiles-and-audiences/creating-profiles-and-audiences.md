@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Profilen und Audiences – Übersicht
 description: Erfahren Sie, wie Sie zu vorhandenen Profilen navigieren und wie Sie Profil und Audiencen erstellen.
-feature: Profile, Audiencen
+feature: Profiles, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg

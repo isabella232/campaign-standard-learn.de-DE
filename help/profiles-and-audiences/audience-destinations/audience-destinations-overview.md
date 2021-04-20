@@ -1,7 +1,7 @@
 ---
 title: Audiencen-Ziele - Übersicht
 description: Erfahren Sie, wie Sie Adobe Experience Platform (AEP)-Audiencen in Adobe Campaign Standard (ACS) nutzen können
-feature: People Core Service-Integration
+feature: People Core Service Integration
 topics: ACOP
 kt: 2755
 thumbnail: null

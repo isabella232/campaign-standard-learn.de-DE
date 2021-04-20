@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer neuen Audience mit dem Unified Segment Builder
-feature: People Core Service-Integration
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

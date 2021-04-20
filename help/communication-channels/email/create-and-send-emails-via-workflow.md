@@ -1,7 +1,7 @@
 ---
 title: Erstellen und Senden von E-Mails über einen Workflow
 description: 'Erfahren Sie, wie Sie einen einmaligen E-Mail-Versand aus der Homepage erstellen. '
-feature: E-Mail
+feature: Email
 topics: null
 kt: 4319
 thumbnail: 31465.jpg

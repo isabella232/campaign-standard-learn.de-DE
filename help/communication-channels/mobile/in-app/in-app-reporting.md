@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines Berichts zum In-App-Versand
 description: '"Erfahren Sie, wie Sie dem Benutzer kontextrelevante In-App-Nachrichten als Reaktion auf das Echtzeit-Verhalten des Kunden in der mobilen Anwendung präsentieren."'
-feature: In-App
+feature: In App
 topics: Mobile
 kt: 2558
 thumbnail: 26412.jpg

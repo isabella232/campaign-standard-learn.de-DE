@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren von Ereignissen
 description: '"Verstehen Sie, wie Ereignis definieren, welche vom Benutzer initiierte Aktion eine In-App-Nachricht Trigger, die angezeigt wird. "'
-feature: In-App
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg

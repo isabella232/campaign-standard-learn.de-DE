@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Inhalten mit Adobe Dreamweaver
 description: Erkennen Sie, was für die Dreamweaver-Integration erforderlich ist und wie Sie Inhalte für Adobe Campaign Standard mit Dreamweaver erstellen und bearbeiten.
-feature: E-Mail-Erstellung
+feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video

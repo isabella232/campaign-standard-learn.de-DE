@@ -1,7 +1,7 @@
 ---
 title: '"Senden einer In-App-Broadcast-Nachricht "'
 description: Erfahren Sie, wie Sie mit der Vorlage "Broadcast"alle Benutzer Ihrer mobilen App Zielgruppe haben.
-feature: In-App
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Kampagnen
 description: Erfahren Sie, wie Sie Kampagnen erstellen und verwalten.
-feature: 'Kampagnen '
+feature: Campaigns 
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg

@@ -1,7 +1,7 @@
 ---
 title: 'Erstellen eines Profils '
 description: Erfahren Sie, wie Sie ein Profil erstellen und einer Audience hinzufügen.
-feature: Profile, Audiencen
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

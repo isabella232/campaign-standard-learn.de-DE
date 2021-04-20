@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren und Ausführen eines Workflows mit der Aktivität "Externe API"
 description: Hier erfahren Sie, wie Sie einen externen REST-API-Endpunkt aufrufen, um Personalisierungsdaten von einem Drittanbietersystem in Ihre Kampagne zu übernehmen.
-feature: Data Management-Aktivität
+feature: Data Management Activity
 topics: null
 kt: 2764
 thumbnail: 28200.jpg

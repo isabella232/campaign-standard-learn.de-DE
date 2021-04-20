@@ -1,7 +1,7 @@
 ---
 title: Einführung in E-Mail-Inhaltsvorlagen
 description: Erfahren Sie, wie Sie eine E-Mail-Inhaltsvorlage erstellen.
-feature: E-Mail-Erstellung
+feature: Email Design
 topics: null
 kt: 1442
 thumbnail: 23106.jpg

@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Namespaces für Datenschutzanforderungen in Adobe Campaign Standard (ACS)
 description: Voraussetzung für die Erstellung von Datenschutzanfragen bezüglich des Zugriffs auf Daten und des Löschens von Daten gemäß DSGVO oder CCPA ist die Definition des Namespace, der zur Identifizierung der betroffenen Person in der Adobe Campaign-Datenbank verwendet wird. In diesen Videos wird erläutert, wie Namespaces für Datenschutzanfragen erstellt werden.
-feature: DSGVO, CCPA
+feature: GDPR, CCPA
 kt: 1460
 thumbnail: 22600.jpg
 doc-type: feature video

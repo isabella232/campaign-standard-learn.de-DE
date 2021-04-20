@@ -1,7 +1,7 @@
 ---
 title: Push-Benachrichtigung erstellen
 description: 'Erfahren Sie, wie Sie eine Push-Benachrichtigung erstellen. '
-feature: Push-Benachrichtigung
+feature: Push
 topics: Mobile
 kt: 1401
 thumbnail: 31499.jpg

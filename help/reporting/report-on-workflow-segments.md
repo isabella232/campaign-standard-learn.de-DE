@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines Berichts auf der Basis von Workflow-Segmenten
 description: Berichte zu Workflow-Segmenten bietet die Möglichkeit, Workflow-Segment-Code in dynamischem Berichte hinzuzufügen.
-feature: Berichte
+feature: Reporting
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg

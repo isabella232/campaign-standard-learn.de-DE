@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Triggern für Transaktionsnachrichten - Übersicht
 description: Erfahren Sie, wie Sie Trigger für Transaktionsnachrichten konfigurieren und verwenden.
-feature: Trigger
+feature: Triggers
 topics: Integrations
 kt: 6525
 doc-type: article

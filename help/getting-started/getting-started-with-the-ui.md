@@ -1,7 +1,7 @@
 ---
 title: 'Erste Schritte mit der Benutzeroberfläche '
 description: In diesem Video erhalten Sie einen Überblick über die Benutzeroberfläche von Adobe Campaign Standard sowie die wichtigsten Funktionen.
-feature: Übersicht
+feature: Overview
 topics: Getting started
 kt: 3882
 thumbnail: acs-ui-get-started.png

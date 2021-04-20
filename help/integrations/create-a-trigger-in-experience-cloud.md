@@ -1,7 +1,7 @@
 ---
 title: Trigger im Experience Cloud erstellen
 description: Erfahren Sie, wie Sie Trigger in der Experience Cloud konfigurieren.
-feature: Trigger
+feature: Triggers
 topics: Integrations
 kt: 6524
 thumbnail: 332624.jpg

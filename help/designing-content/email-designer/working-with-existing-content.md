@@ -1,7 +1,7 @@
 ---
 title: Verwenden existierender Inhalte
 description: In diesem Video wird erläutert, wie Sie Ihre kreativen Inhalte schnell von einer Website abrufen und in Email Designer laden können.
-feature: E-Mail-Erstellung
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg

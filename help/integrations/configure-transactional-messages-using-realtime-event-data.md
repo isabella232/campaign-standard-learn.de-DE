@@ -1,7 +1,7 @@
 ---
 title: Transaktionsnachrichten mithilfe von Echtzeit-Ereignis-Daten konfigurieren
 description: 'Erfahren Sie, wie Sie Transaktionsnachrichten mithilfe von Echtzeit-Ereignis-Daten von Triggern konfigurieren. '
-feature: Trigger
+feature: Triggers
 topics: Integrations
 kt: 7471
 thumbnail: 332602.jpg

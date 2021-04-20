@@ -1,7 +1,7 @@
 ---
 title: Erstellen berichtsbasierter benutzerdefinierter Profil-Attribute
 description: Erfahren Sie, wie Sie einen Bericht erstellen, der auf benutzerspezifischen Profil-Attributen basiert.
-feature: Berichte
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video

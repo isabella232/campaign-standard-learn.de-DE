@@ -1,7 +1,7 @@
 ---
 title: Arbeiten mit Adobe Campaign
 description: Machen Sie sich mit den potenziellen nächsten Schritten zu einer echten Kanal-Orchestrierung vertraut.
-feature: Kanal-Orchestrierung
+feature: Cross Channel Orchestration
 topics: null
 kt: 3973
 thumbnail: 29460.jpg

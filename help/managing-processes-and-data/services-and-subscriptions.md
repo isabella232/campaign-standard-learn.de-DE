@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Diensten und Abonnements
 description: Erfahren Sie, wie Sie einen Dienst erstellen und Abonnement verwalten.
-feature: 'Abonnements    '
+feature: Subscriptions
 topics: null
 kt: 1815
 thumbnail: 24673.jpg

@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren von Produktlisten in Transaktions-E-Mails
 description: Erfahren Sie, welche Schritte zum Konfigurieren von Produktauflistungen in transaktionalen E-Mails erforderlich sind.
-feature: Transaktionsnachrichten, E-Mails
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915

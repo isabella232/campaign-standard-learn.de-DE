@@ -1,7 +1,7 @@
 ---
 title: Aktivität externer Signale - Aufruf eines Workflows mit Parametern
 description: '"Erfahren Sie, wie Sie einen Workflow von einem anderen Beginn zur Unterstützung komplexerer Journey nutzen und gleichzeitig Probleme besser überwachen und reagieren können."'
-feature: Execution-Aktivität
+feature: Execution Activity
 topics: Workflows
 kt: 2750
 thumbnail: 27249

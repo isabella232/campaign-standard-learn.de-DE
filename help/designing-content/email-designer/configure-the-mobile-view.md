@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren der mobilen Ansicht in Email Designer
 description: '"Erfahren Sie, wie Sie das reaktionsfähige Design einer E-Mail optimieren können, indem Sie alle Stiloptionen für die Anzeige auf Mobilgeräten separat bearbeiten."'
-feature: E-Mail-Erstellung
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

@@ -1,7 +1,7 @@
 ---
 title: Ändern benutzerdefinierter Ressourcen beim Einrichten von Adobe Campaign Standard (ACS) für Datenschutzanfragen
 description: Beim Einrichten von Adobe Campaign Standard (ACS) für die Verarbeitung von Datenschutzanfragen müssen Sie sicherstellen, dass alle benutzerdefinierten Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
-feature: DSGVO, CCPA
+feature: GDPR, CCPA
 kt: 1243
 thumbnail: 23326.jpg
 doc-type: feature video

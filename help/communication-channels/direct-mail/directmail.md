@@ -1,7 +1,7 @@
 ---
 title: Eine Briefpost erstellen
 description: Erfahren Sie, wie Sie eine Direktnachricht erstellen.
-feature: Briefpost
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg
