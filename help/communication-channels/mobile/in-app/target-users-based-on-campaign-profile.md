@@ -1,8 +1,7 @@
 ---
 title: Ansprechen von Benutzern auf der Basis ihres Campaign-Profils
 description: Erfahren Sie, wie Sie bekannte App-Benutzer mit Nachrichten, die mit CRM-Profil-Attributen personalisiert sind, mit Zielgruppen vertraut machen.
-feature: In App
-topics: Channels
+feature: In-App
 kt: 1796
 thumbnail: 26200.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 7%
