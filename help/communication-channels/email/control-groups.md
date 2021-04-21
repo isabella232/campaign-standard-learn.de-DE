@@ -1,8 +1,7 @@
 ---
 title: Hinzufügen einer Kontrollgruppe zu einem Versand
 description: Erfahren Sie, wie Sie eine Kontrollgruppe für Ihren Versand definieren und wie Sie die der Kontrollgruppe zugewiesenen Profile extrahieren, nachdem der Versand ausgeführt wurde.
-feature: Control Groups
-topics: null
+feature: Kontrollgruppen
 kt: 5060
 thumbnail: 40684.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: Business Practitioner
 level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
