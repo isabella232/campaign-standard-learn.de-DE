@@ -2,19 +2,18 @@
 title: Fehlerbehebung beim Control Panel
 description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz überwachen und verwalten und IP-Adressen auf die Zulassungsliste setzen.
 feature: Control Panel
-topics: null
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
-workflow-type: ht
+exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 100%
 
 ---
-
 
 # Fehlerbehebung beim [!UICONTROL Control Panel]
 
@@ -71,4 +70,3 @@ Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
 ### Hilfreiche Dokumentation {#helpful-docs}
 
 * [Anmeldung bei Ihrem SFTP-Server](https://helpx.adobe.com/de/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
-
