@@ -1,22 +1,20 @@
 ---
 title: Vollständige Subdomain-Zuweisung
 description: 'Über das Adobe Campaign Control Panel können Sie Adobe Campaign eine Subdomain vollständig zuweisen. Gehen Sie dazu wie folgt vor:'
-feature: Subdomains and certificates
-topics: null
-audience: administrator
+feature: Subdomänen und Zertifikate
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '140'
+ht-degree: 97%
 
 ---
-
 
 # Vollständige Subdomain-Zuweisung
 
