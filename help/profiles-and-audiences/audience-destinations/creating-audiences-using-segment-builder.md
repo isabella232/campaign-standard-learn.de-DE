@@ -1,18 +1,17 @@
 ---
 title: Erstellen einer neuen Audience mit dem Unified Segment Builder
-feature: People Core Service Integration
-topics: ACOP
+description: Erfahren Sie, wie Sie mit dem einheitlichen Segmentaufbau eine neue Audience erstellen
+feature: People Core Service-Integration
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
-description: Erfahren Sie, wie Sie eine neue Audience mit dem Unified Segment Builder erstellen.
 role: Business Practitioner, Developer
 level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 9%
