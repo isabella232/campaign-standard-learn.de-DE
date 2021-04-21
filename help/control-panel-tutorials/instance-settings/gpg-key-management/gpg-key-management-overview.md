@@ -2,17 +2,16 @@
 title: Verwaltung von GPG-Schlüsseln – Übersicht
 description: In den folgenden Videos erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar aus öffentlichem/privatem Schlüssel generieren und in einer angegebenen Campaign-Instanz installieren sowie zur Entschlüsselung eingehender Daten einen öffentlichen Schlüssel importieren und in einer Campaign-Instanz installieren.
 feature: Control Panel
-topics: GPG key Management
 audience: administrator
 team: TM
+exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '166'
 ht-degree: 100%
 
 ---
-
 
 # Verwaltung von GPG-Schlüsseln – Übersicht
 
