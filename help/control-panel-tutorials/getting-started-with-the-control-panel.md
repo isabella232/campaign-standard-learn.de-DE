@@ -2,21 +2,20 @@
 title: Erste Schritte mit dem Control Panel
 description: In diesem Artikel wird beschrieben, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können.
 feature: Control Panel
-topics: Control Panel
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
-source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
-workflow-type: ht
+exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 100%
 
 ---
-
 
 # Erste Schritte mit dem [!UICONTROL Control Panel] {#control-panel}
 
@@ -61,4 +60,3 @@ Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administra
 ## Zusätzliche Ressourcen
 
 * [Control Panel Help Center](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
-
