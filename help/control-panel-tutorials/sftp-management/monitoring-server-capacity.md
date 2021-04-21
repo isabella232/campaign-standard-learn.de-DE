@@ -1,22 +1,21 @@
 ---
 title: Überwachen der Server-Kapazität
 description: Erfahren Sie, wie Sie die Speicherkapazität Ihrer SFTP-Server überwachen.
-feature: SFTP Management
-topics: Control Panel
+feature: Control Panel
 audience: administrator
 kt: 6239
 thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 432a1af6-22de-41ff-b733-e086ee14ab7a
 translation-type: tm+mt
-source-git-commit: 1a108846158bfaf8f9efd1b7a78f652c0d3f3211
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
-
 
 # Überwachen der Server-Kapazität
 
