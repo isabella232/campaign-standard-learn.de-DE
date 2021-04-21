@@ -1,8 +1,7 @@
 ---
 title: Erstellen einer mehrsprachigen Push-Benachrichtigung
 description: 'Erfahren Sie, wie Sie eine mehrsprachige Push-Benachrichtigung erstellen. '
-feature: Push
-topics: Mobile
+feature: Push-Benachrichtigung
 kt: 1375
 thumbnail: 23304.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: d2d50689-9153-4074-a046-0701bb6017cf
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 28%
