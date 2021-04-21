@@ -1,16 +1,16 @@
 ---
 title: 'Schritt 5: Verbreiten von Benachrichtigungen'
 description: In diesem Teil werden wir die vom Adobe Campaign empfangene Nachricht mit Android Notification Manager.Firebase weiterleiten
-feature: Push
-topics: Mobile
+feature: Push-Benachrichtigung
 kt: 4829
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '155'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ So teilen Sie dem Benutzer mit, dass im Hintergrund etwas passiert ist:
 * Projekt öffnen *[!DNL ACSPushTutorial]*
 * Projektstruktur erweitern
 * Klicken Sie mit der rechten Maustaste auf den Paketordner ([!DNL com.example.acspushtutorial]) und [!DNL New ->Java Class]
-* Benennen Sie diese Klasse *[!DNL MyService]* und vergewissern Sie sich, dass sie [!DNL FirebaseMessagingService] erweitert
+* Benennen Sie diese Klasse *[!DNL MyService]* und stellen Sie sicher, dass sie [!DNL FirebaseMessagingService] erweitert
 * Erstellen Sie die *[!DNL sendNotification]*-Methode in dieser Klasse. Bei dieser Methode müssen Sie den Inhalt und Kanal der Benachrichtigung mit einem [!DNL NotificationCompat.Builder]-Objekt festlegen. Um die Benachrichtigung anzuzeigen, rufen Sie [!DNL NotificationManagerCompat.notify()] auf und übergeben Sie ihr eine eindeutige ID für die Benachrichtigung und das Ergebnis von [!DNL NotificationCompat.Builder.build()].
 
 <!--
