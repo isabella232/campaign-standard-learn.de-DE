@@ -1,20 +1,19 @@
 ---
 title: 'Teil 6: Push-Benachrichtigung senden, um Ihre Arbeit zu testen'
 description: 'Teil 6: Push-Benachrichtigung senden, um Ihre Arbeit zu testen'
-feature: Push
-topics: Mobile
+feature: Push-Benachrichtigung
 kt: 4830
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '170'
 ht-degree: 2%
 
 ---
-
 
 # Teil 6 - Senden Sie [!UICONTROL Push Notification], um Ihre Arbeit zu testen
 
