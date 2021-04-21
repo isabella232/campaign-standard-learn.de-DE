@@ -2,20 +2,19 @@
 title: Zuordnen von Erlebnisereignissen
 description: Erfahren Sie, wie Sie Experience Ereignisses in Adobe Experience Platform (AEP) zuordnen.
 feature: Adobe Experience Platform Data Connector
-topics: null
 kt: 2832
 thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 translation-type: tm+mt
-source-git-commit: 469bb62991b768929e75b360d93d1cef9a9f3d9a
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 16%
 
 ---
-
 
 # Zuordnung von [!UICONTROL Erlebnis-Ereignissen]
 
@@ -33,4 +32,3 @@ Erfahren Sie, wie Sie in Adobe Experience Platform (AEP) [!UICONTROL Erlebnis-Er
 
 * [Mapping-Definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
 * [Mapping-Aktivierung](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-
