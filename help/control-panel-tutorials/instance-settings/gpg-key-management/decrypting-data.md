@@ -2,21 +2,20 @@
 title: Entschlüsseln von Daten
 description: Im folgenden Video erfahren Sie, wie Sie zur Entschlüsselung von Daten einen öffentlichen Schlüssel generieren, importieren und in einer Campaign-Instanz installieren.
 feature: Control Panel
-topics: null
 audience: administrator
 kt: 5545
 thumbnail: 35753.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # Entschlüsseln von Daten
 
