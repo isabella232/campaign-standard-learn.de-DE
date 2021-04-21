@@ -1,21 +1,20 @@
 ---
 title: Ermüdungsregeln erstellen
 description: In diesem Video wird das Einrichten der Typologieregel erläutert.
-feature: Fatigue Management
-topics: null
+feature: Ermüdungsverwaltung
 kt: 3446
 thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 team: TM
+exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
 translation-type: tm+mt
-source-git-commit: cce6520619b68bde6a00531ac1931dca90a6b3dc
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 41%
+source-wordcount: '102'
+ht-degree: 42%
 
 ---
-
 
 # Erstellen Sie [!UICONTROL Ermüdungsregeln]
 
