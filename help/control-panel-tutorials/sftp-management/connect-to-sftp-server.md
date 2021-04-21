@@ -1,22 +1,21 @@
 ---
 title: Herstellen einer Verbindung zu einem SFTP-Server
 description: In diesem Video wird beschrieben, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung mit dem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden.
-feature: SFTP Management
-topics: Control Panel
+feature: Control Panel
 audience: administrator
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 0d32b320-8ecc-4c23-97ef-1d3588e49501
 translation-type: tm+mt
-source-git-commit: 1eea268dadaf6d4cef15daaadaa085c3cab0e676
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '168'
 ht-degree: 100%
 
 ---
-
 
 # Herstellen einer Verbindung zu einem SFTP-Server
 
