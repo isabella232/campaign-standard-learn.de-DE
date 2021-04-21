@@ -1,8 +1,7 @@
 ---
 title: Einführung in In-App-Nachrichten
-description: '"Erfahren Sie, wie Sie dem Benutzer kontextrelevante In-App-Nachrichten als Reaktion auf das Echtzeit-Verhalten des Kunden in der mobilen Anwendung präsentieren."'
-feature: In App
-topics: Mobile
+description: Erfahren Sie, wie Sie dem Benutzer kontextrelevante In-App-Nachrichten als Reaktion auf das Echtzeit-Verhalten des Kunden in der mobilen Anwendung präsentieren.
+feature: In-App
 kt: 1911
 doc-type: feature video
 activity: use
@@ -11,7 +10,7 @@ exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '778'
 ht-degree: 16%
