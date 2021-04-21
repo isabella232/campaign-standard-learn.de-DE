@@ -2,20 +2,19 @@
 title: Zuordnen von Testtabellendaten
 description: Erfahren Sie, wie Sie Seed-Daten zuordnen und Profil mit dem Adobe Experience Platform (AEP) testen können.
 feature: Adobe Experience Platform Data Connector
-topics: ACoP
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 14%
+source-wordcount: '100'
+ht-degree: 19%
 
 ---
-
 
 # Zuordnen von Testtabellendaten
 
@@ -33,4 +32,3 @@ Erfahren Sie, wie Sie Seed-Daten zuordnen und Profil mit dem Adobe Experience Pl
 
 * [Mapping-Definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Mapping-Aktivierung](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-
