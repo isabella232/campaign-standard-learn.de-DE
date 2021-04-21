@@ -1,20 +1,19 @@
 ---
 title: 'Schritt 3: Registrieren der Erweiterungen für Ihre Mobile App'
 description: In diesem Teil werden wir den Code zur Registrierung der UserProfile, Identity, Lifecycle und Signal Extensions hinzufügen.
-feature: Push
-topics: Mobile
+feature: Push-Benachrichtigung
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 14%
+source-wordcount: '130'
+ht-degree: 15%
 
 ---
-
 
 # Schritt 3: Registrieren der Erweiterungen für Ihre Mobile App
 
