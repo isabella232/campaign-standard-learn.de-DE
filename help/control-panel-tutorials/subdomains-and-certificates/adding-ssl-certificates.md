@@ -2,21 +2,20 @@
 title: Hinzufügen von SSL-Zertifikaten
 description: Mit dem Adobe Campaign Control Panel können Sie SSL-Zertifikate hinzufügen, um Ihre Subdomains zu schützen.
 feature: Control Panel
-topics: null
 audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '221'
 ht-degree: 100%
 
 ---
-
 
 # Hinzufügen von SSL-Zertifikaten
 
