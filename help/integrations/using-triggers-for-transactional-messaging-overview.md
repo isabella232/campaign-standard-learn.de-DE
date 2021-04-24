@@ -10,7 +10,7 @@ level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 translation-type: tm+mt
-source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
+source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 3%
@@ -23,7 +23,7 @@ In den folgenden Lernprogrammen erfahren Sie, wie Sie Trigger für Transaktionsn
 
 Bevor Sie einen Trigger in einer Transaktionsnachricht verwenden können, müssen Sie Folgendes tun:
 
-1. Start für Trigger konfigurieren
+1. [Start für Trigger konfigurieren](/help/integrations/configure-launch-for-triggers.md)
 2. [Trigger im Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
 3. [Erstellen eines Trigger-Ereignisses in Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
