@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de
 translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '549'
 ht-degree: 93%
 
 ---
@@ -103,6 +103,7 @@ ht-degree: 93%
    + [Verfolgen Sie den Erfolg Ihrer Versand in Adobe Analytics.](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Verwenden von Triggern für Transaktionsnachrichten {#triggers}
       + [Übersicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [Start für Trigger konfigurieren](/help/integrations/configure-launch-for-triggers.md)
       + [Trigger im Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Erstellen eines Trigger-Ereignisses in Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Transaktionsnachrichten mithilfe von Echtzeit-Ereignis-Daten konfigurieren](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
