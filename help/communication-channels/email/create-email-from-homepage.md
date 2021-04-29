@@ -1,6 +1,6 @@
 ---
 title: Erstellen Sie in Adobe Campaign einen E-Mail-Versand
-description: 'Erfahren Sie, wie Sie einen E-Mail-Versand auf der Homepage erstellen. '
+description: 'Erfahren Sie, wie Sie einen E-Mail-Versand von der Homepage aus erstellen können. '
 landing-page-description: In diesem Video wird die Einrichtung einer E-Mail-Versendung von der Startseite aus erläutert.
 feature: 'E-Mail '
 kt: 1807
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 36%
+ht-degree: 44%
 
 ---
 
