@@ -11,10 +11,10 @@ exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 8ebdd2701fccaa06faf838288ce72630b5f3330e
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 32%
+source-wordcount: '106'
+ht-degree: 27%
 
 ---
 
@@ -28,5 +28,8 @@ In diesem Video wird erläutert, wie die [!UICONTROL Data Management]-Aktivität
 
 ## Zusätzliche Ressourcen
 
-* [Schritt-für-Schritt-Tutorial zum Importieren von Daten](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
-* [Adobe Campaign Standard – Prozesse und Daten verwalten](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+**Produktdokumentation:**
+* [Dateiübertragung](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/transfer-file.html)
+* [Datei laden](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/load-file.html)
+* [Aktualisieren von Daten](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/update-data.html)
+* [Erste Schritte mit Prozessen und Daten-Management](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html)
