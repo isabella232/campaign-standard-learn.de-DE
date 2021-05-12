@@ -11,14 +11,14 @@ exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: ce167645baa65a7f54b94bf1c1bfd07829c29331
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 90%
+source-wordcount: '83'
+ht-degree: 75%
 
 ---
 
-# Workflow erstellen         {#how-to-create-a-workflow-in-adobe-campaign-standard}
+# Erstellen Sie einen Workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
 Workflows können in unterschiedlichsten Kontexten zum Einsatz kommen:
 
@@ -33,4 +33,4 @@ In diesem Video erfahren Sie, wie Sie einen Workflow in Adobe Campaign Standard 
 
 ## Zusätzliche Ressourcen
 
-* [Über Workflows und das Daten-Management](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+* [Erstellen eines Workflows (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
