@@ -1,25 +1,24 @@
 ---
-title: Erste Schritte mit Push-Benachrichtigungen mit der Android-App
-description: Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen von Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android-App erforderlich sind.
+title: Erste Schritte mit Push-Benachrichtigungen mit der Android-Mobile-App
+description: Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen von Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android-Mobile-App erforderlich sind.
 feature: Push
 kt: 3846
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
 ---
 
-# Erste Schritte mit Push-Benachrichtigungen mit der Android-App
+# Erste Schritte mit Push-Benachrichtigungen mit der Android-Mobile-App
 
 Sie können mit Adobe Campaign personalisierte und zielgruppenspezifische Push-Benachrichtigungen an iOS- und Android-Mobilgeräte versenden.
-Diese Nachrichten werden auf Mobile Apps empfangen, die in Adobe Campaign unter Verwendung des Experience Cloud Mobile SDK V4 oder Experience Platform SDK eingerichtet werden.
-Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen von Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android-App erforderlich sind.
+Diese Nachrichten werden in Mobile Apps empfangen, die in Adobe Campaign unter Verwendung des Experience Cloud Mobile SDK V4 oder Experience Platform SDK eingerichtet werden.
+Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen von Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android-Mobile-App erforderlich sind.
 
 ## Voraussetzungen
 
@@ -33,7 +32,7 @@ Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Bena
 
 ## Tutorial-Schritte
 
-* [Schritt 1: Erstellen einer Android-App](/help/tutorial-push-notifications-android/create-android-app.md)
+* [Schritt 1: Erstellen einer Android-Mobile-App](/help/tutorial-push-notifications-android/create-android-app.md)
 * [Schritt 2: Integrieren des Mobile SDK](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
 * [Schritt 3: Registrieren der Erweiterungen für Ihre Mobile App](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
 * [Schritt 4: Festlegen der Push-Kennung](/help/tutorial-push-notifications-android/set-push-identifier.md)
