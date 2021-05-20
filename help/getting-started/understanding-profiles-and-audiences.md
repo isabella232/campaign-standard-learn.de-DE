@@ -1,7 +1,7 @@
 ---
-title: Profile und Audiencen in Adobe Campaign Standard verstehen
-description: Verstehen Sie das Konzept von Profilen und Audiencen und lernen Sie, wie Sie Profile und Audiencen erstellen.
-feature: Profile, Audiencen
+title: Profile und Audiences in Adobe Campaign Standard
+description: Verstehen Sie das Konzept von Profilen und Audiences und erfahren Sie, wie Sie Profile und Audiences erstellen.
+feature: Profile, Audiences
 kt: 3893
 thumbnail: 18464.jpg
 doc-type: feature video
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: Business Practitioner, Developer, Administrator
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
