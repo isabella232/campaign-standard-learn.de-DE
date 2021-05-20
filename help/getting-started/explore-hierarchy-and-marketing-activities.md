@@ -1,6 +1,6 @@
 ---
 title: Hierarchie und Marketing-Aktivitäten
-description: '"Machen Sie sich mit der Hierarchie von Programmen und Kampagnen vertraut, wie Sie ein Marketing-Programm erstellen und wie Sie eine Marketing-Kampagne in einem Programm erstellen."'
+description: '"Verstehen Sie die Hierarchie der Programme und Kampagnen, das Erstellen eines Marketing-Programms und das Erstellen einer Marketing-Kampagne in einem Programm."'
 feature: Kampagnen, Programme
 kt: 3892
 thumbnail: 18465.jpg
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
