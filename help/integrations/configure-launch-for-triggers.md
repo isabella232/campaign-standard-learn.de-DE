@@ -1,5 +1,5 @@
 ---
-title: Start für Trigger konfigurieren
+title: Launch für Trigger konfigurieren
 description: Erfahren Sie, wie Sie Launch konfigurieren und die erforderlichen Eigenschaften zu Ihrer Website hinzufügen, um Ihre Konfiguration zu testen.
 feature: Trigger
 kt: 7434
@@ -8,15 +8,15 @@ doc-type: feature video
 role: Administrator
 level: Experienced
 team: TM
-translation-type: tm+mt
-source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
+source-git-commit: d3bb432f1f1127fe7046dbf534339973e3182bbb
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Start für Trigger konfigurieren
+# Launch für Trigger konfigurieren
 
 Erfahren Sie, wie Sie Launch konfigurieren und die erforderlichen Eigenschaften zu Ihrer Website hinzufügen, um Ihre Konfiguration zu testen.
 
