@@ -8,11 +8,10 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de
-translation-type: tm+mt
 source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '549'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,24 +19,24 @@ ht-degree: 93%
 # Adobe Campaign Standard – Tutorials {#tutorials}
 
 + [Übersicht](/help/overview.md)
-+ Erste Schritte{#getting-started}
++ Erste Schritte {#getting-started}
    + [Einführung in Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Erste Schritte mit der Benutzeroberfläche](/help/getting-started/getting-started-with-the-ui.md)
-   + [Konfigurieren einer Liste](/help/getting-started/configure-a-list.md)
+   + [Listen konfigurieren](/help/getting-started/configure-a-list.md)
    + [Hierarchie und Marketing-Aktivitäten](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Verwalten von Kampagnen](/help/getting-started/managing-campaigns.md)
    + [Profile und Audiences](/help/getting-started/understanding-profiles-and-audiences.md)
    + [E-Mails erstellen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=de) 
-   + [Workflows erstellen ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=de)
+   + [Erstellen von Workflows](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=de)
    + [Einführung in das Reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
-   + [Mobil-Marketing mit Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
+   + [Mobile Marketing mit Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Wachsen mit Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profile und Audiences {#profiles-and-audiences}
    + [Erstellen von Profilen und Audiences – Übersicht](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Erstellen eines Profils](/help/profiles-and-audiences/creating-a-profile.md)
    + [Erstellen eines Testprofils](/help/profiles-and-audiences/test-profiles.md)
    + [Importieren von Profilen mit einem Workflow](/help/managing-processes-and-data/importing-profiles.md)
-   + [Verwalten von Diensten und Abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
+   + [Verwalten von Services und Abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (BETA){#audience-destinations}
       + [Übersicht](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Erstellen einer neuen Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
@@ -60,7 +59,7 @@ ht-degree: 93%
          + [Prädiktive Interaktionsbewertung](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobile {#mobile}
       + SMS{#sms}
-         + [Erstellen eines SMS-Versands](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [SMS-Versand erstellen](/help/communication-channels/mobile/sms/sms-delivery.md)
       + Push-Benachrichtigungen {#push}
          + [Erstellen einer Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Erstellen einer mehrsprachigen Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -72,7 +71,7 @@ ht-degree: 93%
          + [Ansprechen von Benutzern auf der Basis ihres Campaign-Profils](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Erstellen eines In-App-Versands in einem Workflow](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Erstellen eines Berichts zum In-App-Versand](/help/communication-channels/mobile/in-app/in-app-reporting.md)
-      + [Konfigurieren einer Mobile App mithilfe von Adobe Experience Platform SDKs](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+      + [Konfigurieren einer Mobile App mithilfe des Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Briefpost](/help/communication-channels/direct-mail/directmail.md)
    + Landingpages {#landing-pages}
       + [Erstellen und Bearbeiten einer Landingpage](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
@@ -84,12 +83,12 @@ ht-degree: 93%
       + [Erste Schritte mit Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Einführung in E-Mail-Inhaltsvorlagen](/help/designing-content/email-designer/email-content-templates.md)
       + [Konfigurieren der Ansicht auf einem Mobilgerät](/help/designing-content/email-designer/configure-the-mobile-view.md)
-      + [Erstellen einer Vorschau der E-Mail- und Anti-Spam-Analyse](/help/designing-content/email-designer/preview-your-email.md)
+      + [Vorschau der E-Mail und Anti-Spam-Analyse](/help/designing-content/email-designer/preview-your-email.md)
       + [Verwenden existierender Inhalte](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Erstellen von Inhalten mit Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Konfigurieren von Produktlisten in Transaktions-E-Mails](/help/designing-content/product-listings-in-transactional-email.md)
-+ Verwalten von Prozessen und Daten{#managing-processes-and-data}
-   + [Workflows erstellen ](/help/managing-processes-and-data/creating-a-workflow.md)
++ Verwalten von Prozessen und Daten {#managing-processes-and-data}
+   + [Erstellen von Workflows](/help/managing-processes-and-data/creating-a-workflow.md)
    + Ausführungsaktivitäten {#execution-activities}
       + [Aktivität &quot;Externes Signal&quot;](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datenverwaltungsaktivitäten {#data-management-activities}
@@ -99,15 +98,15 @@ ht-degree: 93%
    + [Erstellen eines dynamischen Berichts](/help/reporting/creating-a-dynamic-report.md)
    + [Erstellen eines Berichts auf der Basis von benutzerdefinierten Profilattributen](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Erstellen eines Berichts auf der Basis von Workflow-Segmenten](/help/reporting/report-on-workflow-segments.md)
-+ Mit anderen Lösungen integrieren {#integrations}
-   + [Verfolgen Sie den Erfolg Ihrer Versand in Adobe Analytics.](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
++ Integration mit anderen Lösungen {#integrations}
+   + [Die Wirkung von Sendungen in Adobe Analytics verfolgen](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Verwenden von Triggern für Transaktionsnachrichten {#triggers}
       + [Übersicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
-      + [Start für Trigger konfigurieren](/help/integrations/configure-launch-for-triggers.md)
-      + [Trigger im Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
-      + [Erstellen eines Trigger-Ereignisses in Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Transaktionsnachrichten mithilfe von Echtzeit-Ereignis-Daten konfigurieren](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-+ Verwalten{#administrating}
+      + [Launch für Trigger konfigurieren](/help/integrations/configure-launch-for-triggers.md)
+      + [Trigger in Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [Trigger-Ereignis in Campaign Standard erstellen](/help/integrations/create-a-trigger-event.md)
+      + [Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten konfigurieren](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
++ Verwaltung {#administrating}
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
    + [Erstellen benutzerdefinierter Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=de)
    + [Control Panel](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)
@@ -119,7 +118,7 @@ ht-degree: 93%
       + [Ändern der Datenzuordnung](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [Überprüfen des Status von Datenaufnahmevorgängen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologieregeln{#typology-rules}
-      + Ermüdungsverwaltung{#fatigue-management}
+      + Ermüdungsverwaltung {#fatigue-management}
          + [Erstellen von Ermüdungsregeln](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Datenschutz {#privacy}
    + [Übersicht](/help/privacy/privacy-overview.md)
