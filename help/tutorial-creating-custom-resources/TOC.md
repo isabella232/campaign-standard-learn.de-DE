@@ -1,9 +1,8 @@
 ---
 user-guide-title: Adobe Campaign Standard – Tutorial zum Erstellen benutzerdefinierter Ressourcen
 user-guide-description: 'Dieses mehrteilige Tutorial führt Sie durch die Schritte, die zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen erforderlich sind. '
-translation-type: tm+mt
 source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
