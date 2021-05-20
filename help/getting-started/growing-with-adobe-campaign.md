@@ -1,7 +1,7 @@
 ---
 title: Arbeiten mit Adobe Campaign
-description: Machen Sie sich mit den potenziellen nächsten Schritten zu einer echten Kanal-Orchestrierung vertraut.
-feature: Kanal-Orchestrierung
+description: Verstehen Sie die potenziellen nächsten Schritte zur echten kanalübergreifenden Orchestrierung.
+feature: Kanalübergreifende Orchestrierung
 kt: 3973
 thumbnail: 29460.jpg
 doc-type: value video
@@ -10,11 +10,10 @@ team: PMM
 exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '33'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
