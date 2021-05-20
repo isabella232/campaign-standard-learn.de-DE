@@ -3,24 +3,23 @@ title: Adobe Campaign Standard – Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Overview
+feature: Übersicht
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # Adobe Campaign Standard – Übersicht
 
-Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Kundenerlebnisse, auf der über eine visuell-gestützte Umgebung Kampagnen orchestriert, Interaktionen in Echtzeit verwaltet und Kampagnen kanalübergreifend ausgeführt werden können. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 
 ## Neue Funktionen
 
-* **[Verfolgen Sie den Erfolg Ihrer Versand in Adobe Analytics.](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[Die Wirkung von Sendungen in Adobe Analytics verfolgen](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
    *Erfahren Sie, wie Sie die Integration von Campaign Standard und Analytics konfigurieren. Verstehen Sie, wie Sie einen Bericht in Analytics mit den von Campaign Standard erhaltenen Daten erstellen und welche KPIs verfügbar sind.*
 
@@ -63,12 +62,12 @@ Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Ku
       <img alt="Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android</strong>
     </a>
     </div>
     <p>
-    <em>Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen von Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android-App erforderlich sind. </em>
+    <em>Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen von Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android-Mobile-App erforderlich sind. </em>
     <p>
   </td>
 </tr>
