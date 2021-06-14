@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de
 source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '558'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 95%
       + [Erstellen und Bearbeiten einer Landingpage](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Testen und Veröffentlichen einer Landingpage](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Konfigurieren einer Landingpage-Vorlage](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ Inhalt erstellen und personalisieren {#designing-content}
++ Erstellen und Personalisieren von Inhalten {#designing-content}
    + Email Designer{#email-designer}
       + [Übersicht](/help/designing-content/email-designer/email-designer-overview.md)
       + [Erste Schritte mit Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -87,7 +87,7 @@ ht-degree: 95%
       + [Verwenden existierender Inhalte](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Erstellen von Inhalten mit Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Konfigurieren von Produktlisten in Transaktions-E-Mails](/help/designing-content/product-listings-in-transactional-email.md)
-+ Prozess- und Datenverwaltung {#managing-processes-and-data}
++ Prozess- und Daten-Management {#managing-processes-and-data}
    + [Erstellen von Workflows](/help/managing-processes-and-data/creating-a-workflow.md)
    + Ausführungsaktivitäten {#execution-activities}
       + [Aktivität &quot;Externes Signal&quot;](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
@@ -100,14 +100,14 @@ ht-degree: 95%
    + [Erstellen eines Berichts auf der Basis von Workflow-Segmenten](/help/reporting/report-on-workflow-segments.md)
 + Integration mit anderen Lösungen {#integrations}
    + [Die Wirkung von Sendungen in Adobe Analytics verfolgen](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Trigger für Transaktionsnachrichten verwenden {#triggers}
+   + Verwenden von Triggern für Transaktionsnachrichten {#triggers}
       + [Übersicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Launch für Trigger konfigurieren](/help/integrations/configure-launch-for-triggers.md)
       + [Trigger in Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Trigger-Ereignis in Campaign Standard erstellen](/help/integrations/create-a-trigger-event.md)
       + [Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten konfigurieren](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Microsoft® Dynamics 365 für die Integration mit Campaign Standard konfigurieren](/help/integrations/configure-dynamics-365.md)
-+ Verwalten Sie {#administrating}
++ Verwalten {#administrating}
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
    + [Erstellen benutzerdefinierter Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=de)
    + [Control Panel](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)
