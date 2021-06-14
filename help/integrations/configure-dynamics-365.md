@@ -9,14 +9,14 @@ level: Experienced
 activity: setup
 team: PM
 source-git-commit: 80a04a3aefb5a530433fbd32d7728a8889484cdb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Microsoft® Dynamics 365] für die Integration mit Campaign Standard {#configure-microsoft-dynamics-365} konfigurieren
+# [!DNL Microsoft® Dynamics 365] für die Integration mit Campaign Standard konfigurieren {#configure-microsoft-dynamics-365}
 
 Erfahren Sie, wie Sie Microsoft® Dynamics 365 für die Verwendung in der Dynamics- und Campaign Standard-Integration konfigurieren.
 
@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie Microsoft® Dynamics 365 für die Verwendung in der Dynami
 
 ## Zusätzliche Ressourcen
 
-[Erste Schritte mit der Integration von Microsoft® Dynamics 365](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html)
+[Erste Schritte mit der Microsoft Dynamics 365-Integration](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=de)
