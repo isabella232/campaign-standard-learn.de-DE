@@ -1,6 +1,6 @@
 ---
 title: Aktivieren von Adobe Experience Platform-Audiences in einem Workflow
-description: In diesem Video wird erläutert, wie die Data Services-Abfrage-Audience in einem Workflow mithilfe der Aktivität "Audience lesen"aktiviert wird.
+description: In diesem Video wird erläutert, wie Sie die Query Audience für Data Services innerhalb eines Workflows aktivieren, indem Sie die Aktivität "Audience lesen"verwenden.
 feature: People Core Service-Integration
 kt: 2760
 thumbnail: 27647.jpg
@@ -8,37 +8,36 @@ doc-type: feature video
 activity: using
 team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 9%
 
 ---
 
-# Aktivieren von Adobe Experience Platform-Audiencen in einem Workflow [!UICONTROL Adobe Experience Platform-Audiencen] in einem Marketing-Workflow
+# Aktivieren von Adobe Experience Platform-Zielgruppen in einem Workflow [!UICONTROL Adobe Experience Platform-Zielgruppen] in einem Marketing-Workflow
 
 >[!NOTE]
 >
->Diese Funktion befindet sich derzeit in der Beta-Phase und wird häufig aktualisiert und ohne Vorankündigung geändert. [!UICONTROL Audience ] Destinationsis basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
+>Diese Funktion befindet sich derzeit in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziel ] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Wenden Sie sich an den [!UICONTROL Adobe Kundensupport], wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe-Support], wenn Sie diese Funktion implementieren möchten.
 
-In diesem Video wird beschrieben, wie Sie die Audience [!UICONTROL Data Services Abfrage] in einem Workflow aktivieren, indem Sie die Aktivität [!UICONTROL Audience lesen] verwenden.
+In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Audience] innerhalb eines Workflows aktivieren, indem Sie die Aktivität [!UICONTROL Audience lesen] verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
-*Aktivieren einer Adobe Experience Platform-Audience in einem Workflow (02:37 Min.)*
+*Aktivieren einer Adobe Experience Platform-Zielgruppe in einem Workflow (02:37 Min.)*
 
 ## Zusätzliche Ressourcen
 
 Dokumentation:
 
-* [Aktivieren von Audiencen der Experience Platform innerhalb der Kampagne - Dokumentation](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Aktivieren von Experience Platform-Zielgruppen in Campaign - Dokumentation](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 
-Video-Ressource:
+Videoressource:
 
-* [Erstellen einer neuen Audience in Adobe Campaign Standard mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Ändern der Zielgruppendimension eines Versands für eine Plattform-Audience](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Erstellen einer neuen Zielgruppe in Adobe Campaign Standard mit Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Zielgruppendimension eines Versands für eine Platform-Zielgruppe ändern](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
