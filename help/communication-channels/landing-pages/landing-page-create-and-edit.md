@@ -1,17 +1,16 @@
 ---
 title: Erstellen und Bearbeiten einer Landingpage
 description: '"Erfahren Sie, wie Sie Landingpages in Adobe Campaign Standard erstellen, bearbeiten und testen können."'
-feature: Landing Pages
+feature: Landingpages
 kt: 1808
 thumbnail: 24093.jpg
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 41%
@@ -20,10 +19,10 @@ ht-degree: 41%
 
 # Erstellen und Bearbeiten einer Landingpage {#create-and-edit-a-landing-page}
 
-Mit Adobe Campaign können Sie Landingpages erstellen, bei denen es sich um Online-Formulare handelt, die zum Erfassen von Informationen zu Ihren Audiencen, zum Angebot von Abonnements zu einem Dienst, zum Anzeigen von Daten und zum Erweitern Ihrer Datenbank verwendet werden können. Landingpages können außerdem zur Akquise oder Aktualisierung bestehender Profile verwendet werden.
+Mit Adobe Campaign können Sie Landingpages erstellen, bei denen es sich um Online-Formulare handelt, mit denen Sie Informationen zu Ihren Zielgruppen erfassen, Abonnements für einen Dienst anbieten, Daten anzeigen und Ihre Datenbank erweitern können. Landingpages können außerdem zur Akquise oder Aktualisierung bestehender Profile verwendet werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12)
 
 ## Zusätzliche Ressourcen
 
-* [Erstellen einer Landingpage (Dokumentation)](https://docs.campaign.adobe.com/doc/standard/getting_started/de/ACS_CreateLandingPage.html)
+* [Landingpage erstellen (Dokumentation)](https://docs.campaign.adobe.com/doc/standard/getting_started/de/ACS_CreateLandingPage.html)
