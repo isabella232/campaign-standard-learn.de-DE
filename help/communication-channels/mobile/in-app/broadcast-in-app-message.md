@@ -1,6 +1,6 @@
 ---
 title: '"Senden einer In-App-Broadcast-Nachricht "'
-description: Erfahren Sie, wie Sie mit der Vorlage "Broadcast"alle Benutzer Ihrer mobilen App Zielgruppe haben.
+description: Erfahren Sie, wie Sie mit der Vorlage Broadcast alle Benutzer Ihrer App auswählen können.
 feature: In-App
 kt: 2497
 thumbnail: 26199.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 8%
@@ -20,18 +19,18 @@ ht-degree: 8%
 
 # Senden einer In-App-Broadcast-Nachricht
 
-Sie können eine In-App-Nachricht an alle Benutzer einer mobilen App senden, unabhängig davon, ob Adobe Campaign über Informationen zum Profil verfügt oder nicht. Um eine Nachricht zu senden, müssen Sie beim Konfigurieren der In-App-Nachricht die **[!UICONTROL Zielgruppe aller Benutzer einer mobilen App-Vorlage]** verwenden.
+Sie können eine In-App-Nachricht senden, die an alle Benutzer einer Mobile App gesendet wird, unabhängig davon, ob Adobe Campaign über Profilinformationen verfügt oder nicht. Zum Senden einer Nachricht müssen Sie **[!UICONTROL Alle Benutzer einer Mobile App-Vorlage auswählen]** verwenden, wenn Sie die In-App-Nachricht konfigurieren.
 
-Zu den relevanten Anwendungsfällen dieser Kategorie gehören:
+Einige der relevanten Anwendungsfälle in dieser Kategorie sind:
 
-* Senden Sie Übungen für mobile Apps an erstmalige App-Starter oder
-* Mitteilungen zu neuen Funktionen
+* Senden von Tutorials für mobile Apps an erstmalige App-Starter oder
+* Mitteilungen zu neuen Funktionsversionen
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Erstellen einer In-App-Nachricht mit einer  [!UICONTROL SDKV5 Mobile-Eigenschaft]*
+*Erstellen einer In-App-Broadcast-Nachricht mit einer  [!UICONTROL SDKV5 Mobile-Eigenschaft]*
 
 ## Zusätzliche Ressourcen
 
-* [Vorbereiten und Senden einer In-App-Nachricht (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
-* [Anpassen einer In-App-Nachricht (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
+* [In-App-Nachricht vorbereiten und senden (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
+* [In-App-Nachricht anpassen (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
