@@ -1,38 +1,37 @@
 ---
 title: Erstellen von Profilen und Audiences – Übersicht
-description: Erfahren Sie, wie Sie zu vorhandenen Profilen navigieren und wie Sie Profil und Audiencen erstellen.
-feature: Profile, Audiencen
+description: Erfahren Sie, wie Sie zu vorhandenen Profilen navigieren können und wie Sie Profile und Audiences erstellen.
+feature: Profile, Audiences
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 18%
+ht-degree: 37%
 
 ---
 
 # Erstellen von Profilen und Audiences – Übersicht
 
-Adobe Campaign hat zwei Typen oder Profil:
+Adobe Campaign hat zwei Typen oder Profile:
 
 * Identifizierte Profile
 * Testprofile
 
-Profil, die nach einem oder mehreren gemeinsamen Kriterien gruppiert sind, werden als **Audiencen** bezeichnet.
+Profile, die nach einem oder mehreren gemeinsamen Kriterien gruppiert sind, werden als **Zielgruppen** bezeichnet.
 
-In diesem Video wird erläutert, wie Sie zu vorhandenen Profilen navigieren und wie Profil und Audiencen in Adobe Campaign Standard erstellt werden.
+In diesem Video wird beschrieben, wie Sie zu vorhandenen Profilen navigieren und in Adobe Campaign Standard Profile und Audiences erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
 ## Zusätzliche Ressourcen
 
-* [Profil erstellen](/help/profiles-and-audiences/creating-a-profile.md)
-* [Erstellen eines Test-Profils](/help/profiles-and-audiences/test-profiles.md)
-* [Profile mit einem Workflow importieren](/help/managing-processes-and-data/importing-profiles.md)
+* [Erstellen eines Profils](/help/profiles-and-audiences/creating-a-profile.md)
+* [Erstellen eines Testprofils](/help/profiles-and-audiences/test-profiles.md)
+* [Importieren von Profilen mit einem Workflow](/help/managing-processes-and-data/importing-profiles.md)
