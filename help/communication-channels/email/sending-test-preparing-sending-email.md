@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 2cb70be4-cd27-4da3-828a-be4c07d4c951
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 31%
@@ -26,5 +25,5 @@ In diesem Video wird erläutert, wie Sie eine Test-E-Mail senden, einen E-Mail-V
 
 ## Zusätzliche Ressourcen
 
-* [Verwalten von Test-Profilen und Senden von Testversänden](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)
+* [Testprofile verwalten und Testsendungen durchführen](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)
 * [Erstellen eines Testprofils](/help/profiles-and-audiences/creating-a-profile.md)
