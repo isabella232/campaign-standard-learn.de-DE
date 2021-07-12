@@ -1,6 +1,6 @@
 ---
-title: Verwalten von Diensten und Abonnements
-description: Erfahren Sie, wie Sie einen Dienst erstellen und Abonnement verwalten.
+title: Verwalten von Services und Abonnements
+description: Erfahren Sie, wie Sie einen Dienst erstellen und Abonnements verwalten.
 feature: 'Abonnements    '
 kt: 1815
 thumbnail: 24673.jpg
@@ -8,29 +8,28 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 38%
 
 ---
 
-# Verwalten von Diensten und Abonnements{#managing-services-and-subscriptions}
+# Verwalten von Services und Abonnements{#managing-services-and-subscriptions}
 
-Mit Adobe Campaign können Sie Newsletter und Mitteilungen über verschiedene Kanal erstellen und verwalten. Nachrichten können nur an Profil gesendet werden, die den Dienst abonniert haben (Opt-in). Diese Profile werden mithilfe eines speziellen Filters bei der Erstellung einer Nachricht identifiziert.
+Mit Adobe Campaign können Sie Newsletter und kanalübergreifende Kommunikationen mithilfe einer Reihe von Diensten erstellen und verwalten. Nachrichten können nur an Profile gesendet werden, die den Dienst abonniert haben (Opt-in). Diese Profile werden mithilfe eines speziellen Filters bei der Erstellung einer Nachricht identifiziert.
 
 Sie können Anmeldemechanismen einrichten, um Ihren Kunden die Möglichkeit zu geben, sich vor allem über E-Mails und Landingpages für diese Dienste anzumelden.
 
 Jeder Dienst ist mit folgenden Mechanismen ausgestattet:
 
-* Mechanismen zum Abonnieren (Opt-in) und Abmelden (Opt-out).
-* Bestätigungsmechanismen zum Abonnieren und/oder Abbestellen des Abonnements.
+* Mechanismen zur Anmeldung (Opt-in) und Abmeldung (Opt-out).
+* Vorhandensein von Mechanismen zur Bestätigung von An- und/oder Abmeldung.
 * Verfolgung des Verlaufs von An- und Abmeldungen.
 
-In diesem Video erfahren Sie, wie Sie einen Dienst erstellen und seine Abonnement verwalten.
+In diesem Video erfahren Sie, wie Sie einen Dienst erstellen und seine Abonnements verwalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
 
