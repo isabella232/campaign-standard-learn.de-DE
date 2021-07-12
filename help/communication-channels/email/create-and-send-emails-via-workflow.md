@@ -1,17 +1,16 @@
 ---
 title: Erstellen und Senden von E-Mails über einen Workflow
-description: 'Erfahren Sie, wie Sie einen einmaligen E-Mail-Versand aus der Homepage erstellen. '
+description: 'Erfahren Sie, wie Sie von der Startseite aus einen einmaligen E-Mail-Versand erstellen. '
 feature: E-Mail
 kt: 4319
 thumbnail: 31465.jpg
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 62%
