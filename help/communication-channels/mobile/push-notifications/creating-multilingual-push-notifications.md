@@ -8,19 +8,18 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: d2d50689-9153-4074-a046-0701bb6017cf
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 28%
 
 ---
 
-# Erstellen Sie eine mehrsprachige Push-Benachrichtigung [!UICONTROL Push-Benachrichtigung]
+# Mehrsprachige Push-Benachrichtigung erstellen [!UICONTROL Push-Benachrichtigung]
 
-Erfahren Sie, wie Sie in Adobe Campaign Standard mehrsprachige [!UICONTROL Push-Benachrichtigungen] erstellen.
+Erfahren Sie, wie Sie in Adobe Campaign Standard eine mehrsprachige [!UICONTROL Push-Benachrichtigungen] erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
