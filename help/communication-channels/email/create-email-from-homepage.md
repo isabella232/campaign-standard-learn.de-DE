@@ -1,5 +1,5 @@
 ---
-title: Erstellen Sie in Adobe Campaign einen E-Mail-Versand
+title: E-Mail-Versand erstellen
 description: 'Erfahren Sie, wie Sie einen E-Mail-Versand von der Homepage aus erstellen können. '
 landing-page-description: In diesem Video wird die Einrichtung einer E-Mail-Versendung von der Startseite aus erläutert.
 feature: 'E-Mail '
@@ -9,10 +9,9 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 44%
@@ -21,9 +20,9 @@ ht-degree: 44%
 
 # E-Mail-Versand erstellen {#create-an-email-delivery}
 
-Sie können einen eigenständigen E-Mail-Versand aus einer Kampagne, aus der Adobe Campaign-Startseite oder aus der [!UICONTROL Marketing-Aktivität]-Liste erstellen. Sie können auch einzelne und wiederkehrende E-Mails aus einem Workflow erstellen und senden.
+Sie können einen eigenständigen E-Mail-Versand von einer Kampagne aus, von der Adobe Campaign-Startseite aus oder in der Liste [!UICONTROL Marketingaktivität] erstellen. Sie können auch einmalige und wiederkehrende E-Mails aus einem Workflow erstellen und versenden.
 
-In diesem Video wird erläutert, wie Sie einen eigenständigen E-Mail-Versand von der Homepage aus erstellen.
+In diesem Video wird erläutert, wie ein eigenständiger E-Mail-Versand von der Startseite aus erstellt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)
 
