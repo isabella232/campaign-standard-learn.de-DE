@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Berichts auf der Basis von Workflow-Segmenten
-description: Die Berichterstellung zu Workflow-Segmenten bietet die Möglichkeit, Workflow-Segmentcode in dynamischen Berichten hinzuzufügen.
+description: Erfahren Sie, wie Sie in Ihrem Workflow Segmente definieren und diese in dynamische Berichte umwandeln können.
 feature: Reporting
 kt: 3252
 thumbnail: 28262.jpg
@@ -10,10 +10,10 @@ team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 47%
+source-wordcount: '86'
+ht-degree: 51%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 47%
 
 Nachdem Sie einen Workflow erstellt und Ihre Population durch Filterung in unterschiedliche Zielgruppen unterteilt haben, können Sie die Effizienz Ihrer Marketingkampagnen anhand von den in diesem Zielgruppen-Workflow definierten Segmenten messen.
 
-Im folgenden Video werden die drei Schritte erläutert, die zum Targeting dieser Segmente in Ihrem Bericht erforderlich sind:
+Erfahren Sie, wie Sie in Ihrem Workflow Segmente definieren und diese in dynamische Berichte umwandeln können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
