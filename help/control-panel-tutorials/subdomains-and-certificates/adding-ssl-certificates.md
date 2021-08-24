@@ -1,6 +1,6 @@
 ---
 title: Hinzufügen von SSL-Zertifikaten
-description: Mit dem Adobe Campaign Control Panel können Sie SSL-Zertifikate hinzufügen, um Ihre Subdomains zu schützen.
+description: Erfahren Sie, wie Sie SSL-Zertifikate hinzufügen, um Ihre Subdomains zu schützen.
 feature: Control Panel
 audience: administrator
 kt: 4219
@@ -9,19 +9,18 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 100%
+source-wordcount: '212'
+ht-degree: 72%
 
 ---
 
 # Hinzufügen von SSL-Zertifikaten
 
-[!UICONTROL Mit dem Adobe Campaign Control Panel] können Sie SSL-Zertifikate hinzufügen, um Ihre Subdomains zu schützen.
+Erfahren Sie, wie Sie SSL-Zertifikate hinzufügen, um Ihre Subdomains zu schützen.
 
-## Zugreifen auf die Subdomain-Verwaltung im [!UICONTROL Control Panel]
+## Zugriff auf [!UICONTROL Control Panel] Subdomain-Verwaltung
 
 Um auf die Verwaltung von Subdomains in [!UICONTROL Control Panel] zuzugreifen, navigieren Sie zu:
 
@@ -36,7 +35,7 @@ Das Hinzufügen von SSL-Zertifikaten erfordert drei Schritte:
 
 ### Schritt 1: [!UICONTROL Certificate Signing Requests] generieren
 
-Für den Erwerb eines SSL-Zertifikats ist ein [!UICONTROL Certificate Signing Request] (CSR) erforderlich. Es muss für die Instanz und die Subdomains, die Sie schützen möchten, generiert werden.
+Zum Erwerb eines SSL-Zertifikats ist ein [!UICONTROL Certificate Signing Request] (CSR) erforderlich. Sie muss für die Instanz und die Subdomains generiert werden, die Sie schützen möchten.
 
 Im folgenden Video erfahren Sie, wie Sie ein [!UICONTROL Certificate Signing Request] im [!UICONTROL Control Panel] generieren.
 
@@ -50,7 +49,7 @@ Kaufen Sie nach dem Erhalt des CSR das SSL-Zertifikat von einer Zertifizierungss
 
 ### Schritt 3: SSL-Zertifikate installieren
 
-Nachdem Sie das SSL-Zertifikat abgerufen haben, muss es für die Subdomains installiert werden, die Sie sichern möchten.
+Nachdem Sie das SSL-Zertifikat erhalten haben, muss es für die Subdomains installiert werden, die Sie schützen möchten.
 
 Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Panel]installiert werden.
 
@@ -61,4 +60,4 @@ Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Pane
 ## Zusätzliche Ressourcen
 
 * [Vollständige Subdomain-Zuweisung (Video)](./subdomain-delegation.md)
-* [Subdomains und Zertifikate – Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Subdomains und Zertifikate – Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=de?lang=en)
