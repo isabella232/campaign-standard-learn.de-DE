@@ -1,5 +1,5 @@
 ---
-title: Profilersetzung – Testen von E-Mail-Nachrichten mit Zielgruppenprofilen
+title: Profilersetzung - Testen von E-Mail-Nachrichten mit Zielgruppenprofilen
 description: Erfahren Sie, wie Sie Ihre E-Mail-Nachrichten mithilfe der Profilersetzungsfunktion testen können.
 feature: 'E-Mail  '
 kt: 4667
@@ -10,14 +10,14 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profilersetzung] – Testen von E-Mail-Nachrichten mit Zielgruppenprofilen
+# [!UICONTROL Profilersetzung]  - Testen von E-Mail-Nachrichten mit Zielgruppenprofilen
 
 In diesem Video wird erläutert, wie Sie Ihre E-Mail-Nachrichten mit Hilfe der [!UICONTROL Profilersetzung] testen können. Es behandelt den folgenden Anwendungsfall:
 
@@ -25,7 +25,7 @@ Angenommen, Sie möchten einen personalisierten E-Mail-Newsletter versenden. Vor
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-Weitere Informationen finden Sie in der detaillierten [Produktdokumentation](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html).
+Weitere Informationen finden Sie in der detaillierten [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en).
 
 >[!IMPORTANT]
 >
@@ -33,6 +33,6 @@ Weitere Informationen finden Sie in der detaillierten [Produktdokumentation](htt
 
 ## Zusätzliche Ressourcen
 
-* [Testen von Nachrichten mit Zielgruppeprofilen (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Testen von Nachrichten mit Zielgruppeprofilen (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [A/B-Tests durchführen](/help/communication-channels/email/a-b-testing.md)
 * [Testversand, Vorbereiten und Senden einer E-Mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
