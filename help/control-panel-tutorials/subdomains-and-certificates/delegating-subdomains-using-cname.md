@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 100%
+ht-degree: 59%
 
 ---
 
@@ -30,4 +30,4 @@ Erfahren Sie, wie Sie eine Subdomain mit CNAME im Control Panel einrichten und s
 ## Zusätzliche Ressourcen
 
 * [Vollständige Subdomain-Zuweisung (Video)](./subdomain-delegation.md)
-* [Einrichten einer neuen Subdomain (Dokumentation)](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [Einrichten einer neuen Subdomain (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=en)
