@@ -1,18 +1,17 @@
 ---
 title: Erstellen einer benutzerdefinierten Ressource
-description: Erfahren Sie, wie Sie eine benutzerdefinierte Ressource namens "Kunden"erstellen.
-feature: Benutzerdefinierte Ressourcen
+description: Erfahren Sie, wie Sie eine benutzerdefinierte Ressource mit dem Namen "Kunden"erstellen.
+feature: Datenmodell
 kt: 3000
 thumbnail: 27716.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 33a68e3b-2e28-48c5-840b-05fc49825fff
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 32%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +23,4 @@ In diesem Video erstellen wir unsere erste benutzerdefinierte Ressource namens &
 
 **Nächster Schritt**
 
-[Konfigurieren einer Bildschirmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)
+[Bildschirmdefinition konfigurieren](./configuring-a-screen-definition-for-a-custom-resource.md)
