@@ -3,10 +3,10 @@ user-guide-title: Adobe Campaign Control Panel – Tutorials
 user-guide-description: Hier erfahren Sie, wie Sie die Schlüssel-Assets Ihrer Adobe Campaign-Instanzen überwachen und im Control Panel administrative Aufgaben durchführen.
 breadcrumb-title: Control Panel – Tutorials
 index: true
-source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 + Instanzeneinstellungen {#instance-settings}
    + Verwaltung von GPG-Schlüsseln {#gpg-key-management}
       + [Verwaltung von GPG-Schlüsseln – Übersicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generieren und Installieren von GPG-Schlüsseln für die Datenverschlüsselung](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [Generieren und Installieren von GPG-Schlüsseln zur Datenverschlüsselung](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Entschlüsseln von Daten](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Leistungsüberwachung {#performance-monitoring}
