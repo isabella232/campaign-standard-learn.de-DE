@@ -10,16 +10,16 @@ team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 7%
+source-wordcount: '137'
+ht-degree: 8%
 
 ---
 
 # Nutzer der Zielgruppe auf der Basis ihres Profils [!DNL Campaign]
 
-Sie können bekannte Mobile-App-Benutzer (diejenigen, die sich mit PII bei der App angemeldet haben) mit Nachrichten ansprechen, die mit in Adobe Campaign Standard verfügbaren CRM-Profilattributen personalisiert wurden. Diese Vorlage ist besonders nützlich, um Anwendungsfälle für die kanalübergreifende Orchestrierung der Customer Journey zu unterstützen, bei denen Sie bereits Benutzer über andere Kanäle wie E-Mail oder Push angesprochen haben und die Sie je nach Antwort mit einer [!UICONTROL In-App]-Nachricht verbinden möchten.
+Sie können Benutzer, die sich mit PII (bekannten Mobile App-Benutzern) bei der App angemeldet haben, mithilfe von in Adobe Campaign Standard verfügbaren CRM-Profilattributen mit personalisierten Nachrichten ansprechen. Diese Vorlage unterstützt Anwendungsfälle für die kanalübergreifende Orchestrierung der Customer Journey, bei denen Sie bereits Kunden auf anderen Kanälen wie E-Mail oder Push angesprochen haben, je nach Antwort darauf und diese Kunden erneut mit einer In-App-Nachricht ansprechen möchten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
@@ -27,5 +27,5 @@ Sie können bekannte Mobile-App-Benutzer (diejenigen, die sich mit PII bei der A
 
 ## Zusätzliche Ressourcen
 
-* [In-App-Nachricht vorbereiten und senden (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
-* [In-App-Nachricht anpassen (Dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
+* [In-App-Nachricht vorbereiten und senden (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
+* [In-App-Nachricht anpassen (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
