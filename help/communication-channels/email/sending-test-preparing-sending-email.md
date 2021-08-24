@@ -10,10 +10,10 @@ team: DOC
 exl-id: 2cb70be4-cd27-4da3-828a-be4c07d4c951
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 31%
+source-wordcount: '71'
+ht-degree: 40%
 
 ---
 
@@ -25,5 +25,5 @@ In diesem Video wird erläutert, wie Sie eine Test-E-Mail senden, einen E-Mail-V
 
 ## Zusätzliche Ressourcen
 
-* [Testprofile verwalten und Testsendungen durchführen](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)
+* [Erste Schritte mit Testen und Senden](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/get-started-sending-messages.html)
 * [Erstellen eines Testprofils](/help/profiles-and-audiences/creating-a-profile.md)
