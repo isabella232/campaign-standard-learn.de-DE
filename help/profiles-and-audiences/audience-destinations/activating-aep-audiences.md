@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 9%
+source-wordcount: '163'
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->Diese Funktion befindet sich derzeit in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziel ] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
+>Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziel ] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
 >Wenden Sie sich an den [!UICONTROL Adobe-Support], wenn Sie diese Funktion implementieren möchten.
 
@@ -35,9 +35,9 @@ In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Aud
 
 Dokumentation:
 
-* [Aktivieren von Experience Platform-Zielgruppen in Campaign - Dokumentation](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Adobe Experience Platform-Audiences in Campaign aufnehmen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
 
-Videoressource:
+Video-Ressourcen:
 
-* [Erstellen einer neuen Zielgruppe in Adobe Campaign Standard mit Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Erstellen einer Zielgruppe in Adobe Campaign Standard mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Zielgruppendimension eines Versands für eine Platform-Zielgruppe ändern](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
