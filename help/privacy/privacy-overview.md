@@ -1,42 +1,40 @@
 ---
 title: Datenschutzanfragen bei Adobe Campaign Standard (ACS) – Überblick
-description: In dem Tutorial wird erläutert, wie Datenschutzanfragen über die Benutzeroberfläche von Adobe Campaign Standard (ACS) erstellt werden.
-feature: GDPR, CCAP
-topic: Privacy
+description: In diesem Tutorial wird erläutert, wie die Erstellung von Datenschutzanfragen über die Adobe Campaign Standard-Benutzeroberfläche erfolgt.
+feature: Datenschutz-Tools
 kt: 1480
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
-workflow-type: ht
-source-wordcount: '373'
-ht-degree: 100%
+exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '353'
+ht-degree: 62%
 
 ---
-
 
 # Datenschutzanfragen über die Adobe Campaign Standard-Benutzeroberfläche
 
 Adobe Campaign bietet Datenverantwortlichen drei Methoden zum Ausführen von Datenschutzzugriffs- und Löschanfragen von PII-Daten unter Einhaltung von Datenschutzvorschriften wie der DSGVO (Datenschutz-Grundverordnung) und dem CCPA (California Consumer Privacy Act):
 
-* **Über die Integration von Privacy Core Service:** Die von [!UICONTROL Privacy Service] an alle Experience Cloud-Lösungen übertragenen Datenschutzanfragen werden von Campaign mithilfe eines speziellen Workflows automatisch verarbeitet. Weitere Informationen zum Erstellen von Datenschutzanfragen mithilfe von Privacy Core Service finden Sie in der Dokumentation zum [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html).
+* **Über die Integration von Privacy Core Service:** Die von [!UICONTROL Privacy Service] an alle Experience Cloud-Lösungen übertragenen Datenschutzanfragen werden von Campaign mithilfe eines speziellen Workflows automatisch verarbeitet. Informationen zum Erstellen von Datenschutzanfragen über den Privacy Core Service finden Sie unter [Adobe Experience Platform Privacy Service](https://www.adobe.io/apis/experienceplatform/gdpr.html)
 
 * **Über die API:** Adobe Campaign bietet eine API, mit der Datenschutzanfragen durch die Verwendung von REST automatisch verarbeitet werden können.
 
-* **Über die Adobe Campaign-Benutzeroberfläche:** Für jede Datenschutzanfrage erstellt der Datenverantwortliche eine neue Datenschutzanfrage in Adobe Campaign.
+* **Über die Adobe Campaign-Benutzeroberfläche:** Für jede Datenschutzanfrage erstellt der Datenverantwortliche eine Datenschutzanfrage in Adobe Campaign.
 
 >[!NOTE]
 >
 > **ÄNDERUNGEN BEI ACS 19.4:**
 > 
-> Die [Privacy Service-Integration](https://adobe.io/apis/cloudplatform/gdpr.html) ist die Methode, die Sie für alle Zugriffs- und Löschanfragen verwenden sollten. Mit Version 19.4. wurde die Campaign-API und -Schnittstelle für Zugriffs- und Löschanfragen eingestellt. Weiterführende Informationen zu veralteten und entfernten Funktionen von Campaign Standard finden Sie auf [dieser Seite](https://helpx.adobe.com/de/campaign/kb/acs-deprecated-and-removed-features.html).
+> Die [Privacy Service-Integration](https://www.adobe.io/apis/experienceplatform/gdpr.html) ist die Methode, die Sie für alle Zugriffs- und Löschanfragen verwenden sollten. Mit Version 19.4. wurde die Campaign-API und -Schnittstelle für Zugriffs- und Löschanfragen eingestellt. Weiterführende Informationen zu veralteten und entfernten Funktionen von Campaign Standard finden Sie auf [dieser Seite](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=en).
 >
 >**Opt-out aus dem Verkauf von personenbezogenen Daten (CCPA)**
 >
->Ab Version 19.4. verfügen die Campaign-Oberfläche und die API nativ über das Feld &quot;CCPA-Opt-out&quot;. Um diese Informationen in Version 19.3 nutzen zu können, müssen Sie dieses Feld in Adobe Campaign Standard erstellen. Weitere Informationen finden Sie in der [entsprechenden Dokumentation](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#ccpa).
+> In der Campaign-Benutzeroberfläche und der API ist standardmäßig ein Feld für die CCPA-Abmeldung verfügbar.
 >
-> Sie können Ihre Version überprüfen, indem Sie auf das Symbol &quot;?&quot; oben rechts in der Benutzeroberfläche klicken und &quot;Info&quot; auswählen.
+> Sie können Ihre Version überprüfen, klicken Sie auf **?** oben rechts in der Benutzeroberfläche klicken und &quot;Info&quot; auswählen.
 
 ## Video-Tutorials
 
@@ -45,14 +43,14 @@ Adobe Campaign bietet Datenverantwortlichen drei Methoden zum Ausführen von Dat
 1. [Namespace erstellen](/help/privacy/namespaces-for-privacy-requests.md)
 1. [Benutzerdefinierte Ressourcen ändern](/help/privacy/custom-resources-for-privacy-requests.md)
 
-### Datenschutzanfragen über die Adobe Campaign-Benutzeroberfläche erstellen, verfolgen und ausführen
+### Erstellen, verfolgen und Ausführen von Datenschutzanfragen über die Benutzeroberfläche von Adobe Campaign
 
 * [Erstellen und Verfolgen von Datenschutzanfragen über die Adobe Campaign-Benutzeroberfläche](/help/privacy/create-and-track-privacy-requests.md)
 * [Ausführen von Datenschutzanfragen](/help/privacy/execute-privacy-requests.md)
 
 ## Zusätzliche Ressourcen
 
-* [Allgemeine Datenschutzrichtlinien für Campaign](https://helpx.adobe.com/de/campaign/kb/campaign-privacy-overview.html)
-* [CCPA für ACS](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#ccpa)
-* [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
+* [Allgemeine Datenschutzrichtlinien für Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=en#getting-started)
+* [CCPA für ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=en#privacy-requests)
+* [Adobe Experience Platform Privacy Service](https://www.adobe.io/apis/experienceplatform/gdpr.html)
 * [Adobe Campaign Standard REST API-Dokumentation](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
