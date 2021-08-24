@@ -8,10 +8,10 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de
-source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 100%
    + [Hierarchie und Marketing-Aktivitäten](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Verwalten von Kampagnen](/help/getting-started/managing-campaigns.md)
    + [Profile und Audiences](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [E-Mails erstellen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=de) 
-   + [Erstellen von Workflows](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=de)
+   + [Erstellen einer E-Mail](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=de)
+   + [Erstellen eines Workflows](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=de)
    + [Einführung in das Reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobile Marketing mit Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Wachsen mit Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -84,11 +84,11 @@ ht-degree: 100%
       + [Einführung in E-Mail-Inhaltsvorlagen](/help/designing-content/email-designer/email-content-templates.md)
       + [Konfigurieren der Ansicht auf einem Mobilgerät](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Vorschau der E-Mail und Anti-Spam-Analyse](/help/designing-content/email-designer/preview-your-email.md)
-      + [Verwenden existierender Inhalte](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [Arbeiten mit vorhandenen Inhalten](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Erstellen von Inhalten mit Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Konfigurieren von Produktlisten in Transaktions-E-Mails](/help/designing-content/product-listings-in-transactional-email.md)
 + Prozess- und Daten-Management {#managing-processes-and-data}
-   + [Erstellen von Workflows](/help/managing-processes-and-data/creating-a-workflow.md)
+   + [Erstellen eines Workflows](/help/managing-processes-and-data/creating-a-workflow.md)
    + Ausführungsaktivitäten {#execution-activities}
       + [Aktivität &quot;Externes Signal&quot;](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datenverwaltungsaktivitäten {#data-management-activities}
@@ -109,21 +109,21 @@ ht-degree: 100%
    + [Microsoft® Dynamics 365 für die Integration mit Campaign Standard konfigurieren](/help/integrations/configure-dynamics-365.md)
 + Verwalten {#administrating}
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
-   + [Erstellen benutzerdefinierter Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=de)
+   + [Benutzerdefinierte Ressourcen erstellen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=de)
    + [Control Panel](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Informationen zum Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-      + [Zuordnen benutzerdefinierter Ressourcen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Zuordnen von Erlebnisereignissen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Zuordnen von Testtabellendaten](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [Benutzerdefinierte Ressourcen zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+      + [Erlebnisereignisse zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [Testtabellendaten zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Ändern der Datenzuordnung](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Überprüfen des Status von Datenaufnahmevorgängen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Überprüfen des Status von Datenerfassungsaufträgen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologieregeln{#typology-rules}
       + Ermüdungsverwaltung {#fatigue-management}
          + [Erstellen von Ermüdungsregeln](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Datenschutz {#privacy}
    + [Übersicht](/help/privacy/privacy-overview.md)
    + [Erstellen von Namespaces für Datenschutzanfragen](/help/privacy/namespaces-for-privacy-requests.md)
-   + [Ändern von benutzerdefinierten Ressourcen für Datenschutzanfragen](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [Ändern benutzerdefinierter Ressourcen für Datenschutzanfragen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Manuelles Erstellen und Verfolgen von Datenschutzanfragen](/help/privacy/create-and-track-privacy-requests.md)
    + [Ausführen von Datenschutzanfragen](/help/privacy/execute-privacy-requests.md)
