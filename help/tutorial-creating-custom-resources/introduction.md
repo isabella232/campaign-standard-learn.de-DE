@@ -1,25 +1,26 @@
 ---
 title: Erstellen benutzerdefinierter Ressourcen – Einführung
-description: Adobe Campaign Standard bietet die Möglichkeit, Ressourcen zu erweitern oder ganz neue Ressourcen zu erstellen. Dieses mehrteilige Tutorial führt Sie durch die Schritte, die zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen erforderlich sind.
-feature: 'Benutzerdefinierte Ressourcen '
+description: Dieses mehrteilige Tutorial führt Sie durch die erforderlichen Schritte zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen.
+feature: 'Datenmodell '
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
-source-wordcount: '235'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Erstellen benutzerdefinierter Ressourcen – Einführung
 
-[!DNL Adobe Campaign] verfügt über ein vordefiniertes Datenmodell, in dem die Daten durch verschiedene Ressourcen definiert werden. [!DNL Campaign] bietet die Möglichkeit, Ressourcen zu erweitern oder ganz neue Ressourcen zu erstellen.
+[!DNL Adobe Campaign] verfügt über ein vordefiniertes Datenmodell, in dem die Daten durch verschiedene Ressourcen definiert werden. [!DNL Campaign] ermöglicht es dem Benutzer, vorhandene Ressourcen zu erweitern oder neue zu erstellen.
 
-Dieses mehrteilige Tutorial führt Sie durch die Schritte, die zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen erforderlich sind. Am Ende dieses Tutorials haben Sie Folgendes gelernt:
+Dieses mehrteilige Tutorial führt Sie durch die erforderlichen Schritte zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen.
+Funktionsweise:
 
 * Benutzerdefinierte Ressource erstellen
 * Felder der benutzerdefinierten Ressource hinzufügen
@@ -32,13 +33,11 @@ Um benutzerdefinierte Ressourcen erstellen zu können, benötigen Sie Administra
 
 ## Tutorial-Übersicht
 
-Wir möchten zusätzliche Informationen über die Bestellung eines Kunden nutzen können, damit diese für Marketing- und Wiedervermarktungszwecke zur Verfügung stehen.
-
-Dazu ergänzen wir das [!DNL Campaign]-Datenmodell, indem wir die vorkonfigurierten Ressourcen erweitern und unsere eigenen benutzerdefinierten Tabellen hinzufügen. Wir fügen einen Kunden und eine Bestelltabelle hinzu.
+Um zusätzliche Informationen darüber zu erhalten, was ein Kunde bestellt hat, sodass sie für Marketing- und Remarketing-Zwecke verfügbar sind, muss das [!DNL Campaign]-Datenmodell durch Hinzufügen benutzerdefinierter Tabellen erweitert werden. Für diesen Anwendungsfall müssen ein Kunde und eine Auftragstabelle erstellt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
-In diesem Tutorial wird die Vorgehensweise Schritt für Schritt erklärt:
+In diesem Tutorial wird Folgendes erläutert:
 
 Schritt 1: [Erstellen einer benutzerdefinierten Ressource](./creating-a-custom-resource.md)
 Schritt 2: [Konfigurieren einer Bildschirmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)
