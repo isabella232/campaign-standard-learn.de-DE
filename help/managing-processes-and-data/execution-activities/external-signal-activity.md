@@ -10,36 +10,19 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 18%
+source-wordcount: '181'
+ht-degree: 1%
 
 ---
 
-# [!UICONTROL Aktivität &quot;Externes Signal&quot;-  ]Aufruf eines Workflows mit Parametern
 
-Die [!UICONTROL Aktivität &quot;Externes Signal&quot;] wird verwendet, um verschiedene Prozesse zu organisieren und zu orchestrieren, die zum gleichen Kunden-Journey gehören, und diese in verschiedenen Workflows zu verwalten. So kann ein Workflow durch einen anderen aktiviert werden, wodurch komplexere Customer Journeys möglich werden. Dies wiederum erlaubt eine bessere Überwachung der Prozesse und eine raschere Reaktion im Fall von Problemen.
+# [!UICONTROL Aktivität &quot;Externes Signal&quot;]  - Aufruf eines Workflows mit Parametern
 
-In ACS 19.2 kann die Aktivität [!UICONTROL Externes Signal] nicht nur einen Workflow aufrufen, sondern auch Parameter an den Workflow übergeben (Zielgruppenname, zu importierender Dateiname, Teil des Nachrichteninhalts usw.) zum Workflow von einem anderen Workflow oder einem REST-API-Aufruf aus, um ihn in Ihre externen Systeme zu integrieren.
+Die [!UICONTROL Aktivität &quot;Externes Signal&quot;] wird verwendet, um verschiedene Prozesse zu organisieren und zu orchestrieren, die zum gleichen Kunden-Journey gehören, und diese in verschiedenen Workflows zu verwalten. Diese Aktivität kann einen Workflow von einem anderen starten. Die Aktivität [!UICONTROL Externes Signal] kann einen Workflow aufrufen und Parameter übergeben, z. B. einen Zielgruppennamen in die Zielgruppe, einen Dateinamen zum Import oder einen Teil des Nachrichteninhalts von einem Workflow in einen anderen. Sie kann auch eine REST-API aufrufen, um eine Integration in externe Systeme wie ein Content-Management-System zu ermöglichen. Mit der Aktivität **Test** können Tests für diese Funktion durchgeführt werden.
 
-Dies umfasst auch eine neue Aktivität **Test** , in der Sie Tests für diese Funktion durchführen können.
-
-Im folgenden Video werden die Konfigurationsschritte erläutert, die für Folgendes erforderlich sind:
-
-1. **Erhalten Sie externe** Parameter von einem externen System wie z. B. einem Content Management System (CRM):
-
-   * Parameter in der Aktivität &quot;Externes Signal&quot; deklarieren
-   * Konfigurieren Sie den API-Aufruf, um die Parameter zu definieren und den Workflow &quot;Aktivität &quot;Externes Signal&quot;Trigger. Weitere Informationen zum Konfigurieren eines API-Aufrufs finden Sie unter [Auslösen einer Signalaktivität](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
-
-1. **Anpassen eines Workflows mit externen Parametern**  (Ereignisvariablen):
-
-   Nachdem der Workflow ausgelöst wurde, werden die Parameter in die Ereignisvariablen des Workflows aufgenommen und können im Workflow verwendet werden. Die [Dokumentation](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) enthält alle Aktivitäten, die mit Ereignisvariablen angepasst werden können:
-
-   * Konfigurieren der Testaktivität (neu in Version 19.2)
-   * Konfigurieren der Aktivität Audience lesen und E-Mail-Versand
-
-1. **Konfigurieren einer Ende-** Aktivität zum Aufrufen eines Workflows mit externen Parametern
+Erfahren Sie, wie Sie die Aktivität [!UICONTROL Externes Signal] so konfigurieren, dass Parameter** von einem externen System empfangen werden, einen Workflow mit externen Parametern anpassen und eine Endaktivität konfigurieren, um einen Workflow mit den externen Parametern aufzurufen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
 
