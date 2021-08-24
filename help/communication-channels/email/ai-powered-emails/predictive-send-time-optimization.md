@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 90%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 Mit [!UICONTROL Journey-KI] kann [!DNL Adobe Campaign] Öffnungsraten, optimale Sendezeiten und wahrscheinliche Abwanderungszahlen anhand historischer Interaktionsmetriken analysieren und vorhersagen.
 
 >[!CAUTION]
->Diese Funktion ist nicht als Teil des Produkts vorkonfiguriert. Die Implementierung erfordert die Einbindung von Adobe Consulting. Wenden Sie sich an Ihren Adobe-Support-Mitarbeiter, um weitere Informationen zu erhalten.
+>Diese Funktion ist nicht als Teil des Produkts vorkonfiguriert. Die Implementierung erfordert die Einbindung von Adobe Consulting. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer bei der Adobe.
 
 Die [!UICONTROL prädiktive Sendezeitoptimierung] sagt für jedes Empfängerprofil voraus, welches die beste Sendezeit für E-Mail-Öffnungen oder Klicks ist. Für jedes Empfängerprofil geben die Bewertungen die beste Sendezeit für jeden Wochentag an, und welcher Wochentag beim Senden die besten Ergebnisse erzielt.
 
@@ -38,4 +38,4 @@ Tutorials:
 
 Dokumentation:
 
-* [Optimieren des Designs und Versands mit KI-gestützten E-Mails](https://docs.adobe.com/help/de-DE/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Optimieren des Designs und Versands mit KI-gestützten E-Mails](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
