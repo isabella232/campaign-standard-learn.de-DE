@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -36,11 +36,11 @@ Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren 
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Delegieren von Subdomains an Adobe Campaign (Video)" src="./assets/31390.jpg"/>
+      <img alt="Zuweisen von Subdomains zu Adobe Campaign (Video)" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Delegieren von Subdomains an Adobe Campaign (Video)</strong>
+    <strong>Zuweisen von Subdomains zu Adobe Campaign (Video)</strong>
     </a>
     </div>
     <p>
@@ -78,4 +78,4 @@ Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren 
 
 ## Zusätzliche Ressourcen
 
-* [Control Panel Help Center](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
+* [Control Panel Help Center](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
