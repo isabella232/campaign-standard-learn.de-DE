@@ -8,10 +8,10 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 89%
+ht-degree: 84%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 89%
    + [Verwalten von Services und Abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (BETA){#audience-destinations}
       + [Übersicht](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Erstellen einer neuen Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Erstellen einer Zielgruppe mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Aktivieren von Adobe Experience Platform-Audiences in einem Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Ändern der Zielgruppendimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Kommunikationskanäle{#communication-channels}
@@ -50,7 +50,7 @@ ht-degree: 89%
       + [Testen von E-Mail-Nachrichten mit Zielgruppenprofilen](/help/communication-channels/email/profile-substitution.md)
       + [Hinzufügen einer Kontrollgruppe zu einem Versand](/help/communication-channels/email/control-groups.md)
       + [Erstellen eines mehrsprachigen E-Mail- oder SMS-Versands](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Vorlagen in mehrsprachige Sendungen](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Konvertieren vorhandener E-Mail-, SMS-Versand- oder Versandvorlagen in mehrsprachige Sendungen](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Prüfen von E-Mail-Versand und -Berichten](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Erstellen und Senden von E-Mails über einen Workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Handbuch der Best Practices zur Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
@@ -59,11 +59,11 @@ ht-degree: 89%
          + [Prädiktive Interaktionsbewertung](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobile {#mobile}
       + SMS{#sms}
-         + [SMS-Versand erstellen](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [Erstellen eines SMS-Versands](/help/communication-channels/mobile/sms/sms-delivery.md)
       + Push-Benachrichtigungen {#push}
          + [Erstellen einer Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Erstellen einer mehrsprachigen Push-Benachrichtigung](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=de)
+         + [Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=de)
       + In-App-Nachrichten {#in-app}
          + [Einführung in In-App-Nachrichten](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Konfigurieren von Ereignissen](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [Erlebnisereignisse zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Testtabellendaten zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Ändern der Datenzuordnung](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Überprüfen des Status von Datenerfassungsaufträgen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Überprüfen des Status eines Datenerfassungsauftrags](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologieregeln{#typology-rules}
       + Ermüdungsverwaltung {#fatigue-management}
          + [Erstellen von Ermüdungsregeln](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
