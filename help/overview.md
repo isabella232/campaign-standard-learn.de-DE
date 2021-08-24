@@ -1,21 +1,21 @@
 ---
 title: Adobe Campaign Standard – Tutorials – Übersicht
-description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
+description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Übersicht
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 100%
+source-wordcount: '294'
+ht-degree: 85%
 
 ---
 
 # Adobe Campaign Standard – Übersicht
 
-Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 
 ## Neue Funktionen
 
@@ -41,15 +41,15 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie einen Testversand zur Überprüfung mit der genauen Darstellung der Nachricht durchführen können, die das Profil empfangen wird.</em>
+    <em>Erfahren Sie, wie Sie einen Testversand zur Überprüfung mit der genauen Darstellung der Nachricht senden, die das Profil erhält.</em>
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de">
       <img alt="Control Panel (Videos)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de-DE">
     <strong>Control Panel (Videos)</strong>
     </a>
     </div>
@@ -58,16 +58,16 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
       <img alt="Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
-    <strong>Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android</strong>
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <strong>Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android™</strong>
     </a>
     </div>
     <p>
-    <em>Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen von Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android-Mobile-App erforderlich sind. </em>
+    <em>Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen von Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android™-Mobile-App erforderlich sind. </em>
     <p>
   </td>
 </tr>
@@ -75,4 +75,4 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Zusätzliche Ressourcen
 
-* [Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html)
+* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
