@@ -1,17 +1,17 @@
 ---
 title: Ändern benutzerdefinierter Ressourcen beim Einrichten von Adobe Campaign Standard (ACS) für Datenschutzanfragen
 description: Beim Einrichten von Adobe Campaign Standard (ACS) für die Verarbeitung von Datenschutzanfragen müssen Sie sicherstellen, dass alle benutzerdefinierten Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
-feature: DSGVO, CCPA
+feature: Datenschutz-Tools
 kt: 1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
-workflow-type: ht
-source-wordcount: '198'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '200'
+ht-degree: 44%
 
 ---
 
@@ -25,10 +25,10 @@ Beim Einrichten von Adobe Campaign Standard für die Verarbeitung von Datenschut
 >
 >**Opt-out aus dem Verkauf von personenbezogenen Daten (CCPA)**
 >
->Ab Version 19.4. verfügen die Campaign-Oberfläche und die API nativ über das Feld &quot;CCPA-Opt-out&quot;. Um diese Informationen in Version 19.3 nutzen zu können, müssen Sie dieses Feld in Adobe Campaign Standard erstellen. Weitere Informationen finden Sie in der [entsprechenden Dokumentation](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#ccpa).
+>Ab Version 19.4. verfügen die Campaign-Oberfläche und die API nativ über das Feld &quot;CCPA-Opt-out&quot;. Für Version 19.3 müssen Sie dieses Feld in Adobe Campaign Standard erstellen, um diese Informationen verwenden zu können. Weitere Informationen finden Sie in der [entsprechenden Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=en#privacy-requests).
 >
-> Sie können Ihre Version überprüfen, indem Sie auf das Symbol &quot;?&quot; oben rechts in der Benutzeroberfläche klicken und &quot;Info&quot; auswählen.
+> Um Ihre Version zu überprüfen, klicken Sie auf **?** oben rechts in der Benutzeroberfläche und wählen Sie Info aus.
 
 ## Zusätzliche Ressourcen
 
-* [Allgemeine Datenschutzrichtlinien für Campaign](https://helpx.adobe.com/de/campaign/kb/campaign-privacy-overview.html)
+* [Allgemeine Datenschutzrichtlinien für Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html)
