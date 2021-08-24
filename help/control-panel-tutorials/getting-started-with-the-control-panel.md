@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte mit dem Control Panel
-description: In diesem Artikel wird beschrieben, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können.
+description: Erfahren Sie, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können.
 feature: Control Panel
 audience: administrator
 kt: 6385
@@ -9,26 +9,26 @@ doc-type: feature video
 activity: setup
 team: TM
 exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
-source-wordcount: '243'
-ht-degree: 100%
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
+source-wordcount: '234'
+ht-degree: 74%
 
 ---
 
-# Erste Schritte mit dem [!UICONTROL Control Panel] {#control-panel}
+# Erste Schritte mit [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
->Die Begriffe [!UICONTROL Whitelist] und [!UICONTROL Blacklist] wurden in der Dokumentation zu Adobe Campaign durch [!UICONTROL Zulassungsliste] und [!UICONTROL Blockierungsliste] ersetzt. Diese Begriffe können noch in der Produktoberfläche, in Optionsnamen, in internem Code sowie in den Anleitungsvideos vorkommen. Sie werden in kommenden Control Panel-Versionen ersetzt.
+>Die Begriffe [!UICONTROL Whitelist] und [!UICONTROL Blacklist] wurden in der Dokumentation zu Adobe Campaign durch [!UICONTROL Zulassungsliste] und [!UICONTROL Blockierungsliste] ersetzt. Einige Vorkommen dieser Begriffe sind möglicherweise noch in der Produktoberfläche, in Optionsnamen, im internen Code und in den Anleitungsvideos vorhanden. Sie werden in kommenden Control Panel-Versionen ersetzt.
 
 Mit dem [!UICONTROL Control Panel] können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. Verwalten des [!DNL SFTP]-Speichers nach Instanz, Verwalten von [!DNL GPG]-Schlüsseln bzw. [!UICONTROL Subdomains] und [!UICONTROL Zertifikaten].
 
-In diesem Artikel wird beschrieben, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können.
+Erfahren Sie, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können.
 
-## Zugreifen auf das [!UICONTROL Control Panel]
+## Zugriff auf das [!UICONTROL Control Panel]
 
-Um auf das Control Panel zuzugreifen, navigieren Sie zur Startseite von Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Um auf das Control Panel zuzugreifen, navigieren Sie zur Startseite des Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Startseite von Experience Cloud]** > **[!UICONTROL Schnellzugriff]**
 
@@ -45,7 +45,7 @@ Bevor Sie beginnen, müssen Sie folgende Voraussetzungen erfüllen:
 
 ### Bestätigen [!DNL IMS Org ID]
 
-Sie müssen Ihre [!DNL IMS org ID] kennen. Im folgenden Video wird beschrieben, wo Sie die [!DNL IMS org ID] Ihrer Instanz finden können.
+Im folgenden Video wird beschrieben, wo Sie die [!DNL IMS org ID] Ihrer Instanz nachschlagen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
@@ -58,4 +58,4 @@ Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administra
 
 ## Zusätzliche Ressourcen
 
-* [Control Panel Help Center](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
+* [Control Panel Help Center](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
