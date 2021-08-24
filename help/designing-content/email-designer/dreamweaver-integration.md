@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 87%
+source-wordcount: '178'
+ht-degree: 78%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 87%
 
 Mit der Integration von Adobe Campaign Standard mit Adobe Dreamweaver können Sie den Inhalt einer E-Mail direkt in der Dreamweaver-Benutzeroberfläche bearbeiten:
 
-* Bidirektionale Echtzeitsynchronisation des Inhalts
+* Bidirektionale Echtzeit-Synchronisation des Inhalts
 * Hochladen lokaler Bilder in Adobe Campaign über Dreamweaver
 * Unterstützt Campaign-Personalisierung in Dreamweaver
 
