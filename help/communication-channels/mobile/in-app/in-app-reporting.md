@@ -10,19 +10,19 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Bericht zu Ihrem [!UICONTROL In-App]-Versand {#in-app-message-reporting}
 
-Sie können Ihre [!UICONTROL In-App]-versandbezogenen Daten entweder in der Versandzusammenfassung überprüfen, indem Sie [!UICONTROL In-App] spezifische Metriken hinzufügen. Alternativ können Sie den vordefinierten [In-App-Bericht](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html) verwenden.
+Sie können Ihre [!UICONTROL In-App] versandbezogenen Daten entweder in der Versandzusammenfassung überprüfen, indem Sie [!UICONTROL In-App-spezifische Metriken hinzufügen. Alternativ können Sie den vordefinierten [In-App-Bericht](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en) verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
 ## Zusätzliche Ressourcen
 
-* [In-App-Bericht](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)
+* [In-App-Bericht](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)
