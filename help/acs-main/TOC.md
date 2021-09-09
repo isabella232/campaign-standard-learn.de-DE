@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 82%
    + [Listen konfigurieren](/help/getting-started/configure-a-list.md)
    + [Hierarchie und Marketing-Aktivitäten](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Verwalten von Kampagnen](/help/getting-started/managing-campaigns.md)
-   + [Profile und Audiences](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Grundlegendes zu Profilen und Audiences](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Erstellen einer E-Mail](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=de)
    + [Erstellen eines Workflows](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=de)
    + [Einführung in das Reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
@@ -39,7 +39,7 @@ ht-degree: 82%
    + [Verwalten von Services und Abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (BETA){#audience-destinations}
       + [Übersicht](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Erstellen einer Zielgruppe mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Erstellen einer Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Aktivieren von Adobe Experience Platform-Audiences in einem Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Ändern der Zielgruppendimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Kommunikationskanäle{#communication-channels}
@@ -50,7 +50,7 @@ ht-degree: 82%
       + [Testen von E-Mail-Nachrichten mit Zielgruppenprofilen](/help/communication-channels/email/profile-substitution.md)
       + [Hinzufügen einer Kontrollgruppe zu einem Versand](/help/communication-channels/email/control-groups.md)
       + [Erstellen eines mehrsprachigen E-Mail- oder SMS-Versands](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Konvertieren vorhandener E-Mail-, SMS-Versand- oder Versandvorlagen in mehrsprachige Sendungen](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Versandvorlagen in mehrere Sprachen](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Prüfen von E-Mail-Versand und -Berichten](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Erstellen und Senden von E-Mails über einen Workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Handbuch der Best Practices zur Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
@@ -105,26 +105,26 @@ ht-degree: 82%
       + [Launch für Trigger konfigurieren](/help/integrations/configure-launch-for-triggers.md)
       + [Trigger in Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Trigger-Ereignis in Campaign Standard erstellen](/help/integrations/create-a-trigger-event.md)
-      + [Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten konfigurieren](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Konfigurieren von Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Microsoft® Dynamics 365 für die Integration mit Campaign Standard konfigurieren](/help/integrations/configure-dynamics-365.md)
 + Verwalten {#administrating}
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
-   + [Benutzerdefinierte Ressourcen erstellen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=de)
+   + [Erstellen von benutzerdefinierten Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=de)
    + [Control Panel](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
-      + [Informationen zum Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-      + [Benutzerdefinierte Ressourcen zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Erlebnisereignisse zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Testtabellendaten zuordnen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [Informationen zu Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+      + [Zuordnen von benutzerdefinierten Ressourcen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+      + [Zuordnen von Erlebnisereignissen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [Zuordnen von Daten in Testadressen-Tabellen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Ändern der Datenzuordnung](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Überprüfen des Status eines Datenerfassungsauftrags](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Überprüfen des Status von Datenaufnahmevorgängen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologieregeln{#typology-rules}
       + Ermüdungsverwaltung {#fatigue-management}
          + [Erstellen von Ermüdungsregeln](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Datenschutz {#privacy}
    + [Übersicht](/help/privacy/privacy-overview.md)
    + [Erstellen von Namespaces für Datenschutzanfragen](/help/privacy/namespaces-for-privacy-requests.md)
-   + [Ändern benutzerdefinierter Ressourcen für Datenschutzanfragen](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [Ändern von benutzerdefinierten Ressourcen für Datenschutzanfragen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Manuelles Erstellen und Verfolgen von Datenschutzanfragen](/help/privacy/create-and-track-privacy-requests.md)
    + [Ausführen von Datenschutzanfragen](/help/privacy/execute-privacy-requests.md)
-+ [Fehlerbehebung bei Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Fehlerbehebung bei Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=de)
