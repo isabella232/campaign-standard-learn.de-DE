@@ -4,16 +4,16 @@ user-guide-description: Hier erfahren Sie, wie Sie die Schlüssel-Assets Ihrer A
 breadcrumb-title: Control Panel – Tutorials
 index: true
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
 
 # Adobe Campaign Control Panel – Tutorials {#control-panel}
 
-+ [Control Panel – Übersicht](/help/control-panel-tutorials/control-panel-overview.md)
++ [Control Panel – Überblick](/help/control-panel-tutorials/control-panel-overview.md)
 + [Erste Schritte mit dem Control Panel](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-Verwaltung {#sftp-management}
    + [Überwachen der Server-Kapazität](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
