@@ -10,17 +10,17 @@ activity: setup
 team: TM
 exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 74%
+workflow-type: ht
+source-wordcount: '232'
+ht-degree: 100%
 
 ---
 
-# Erste Schritte mit [!UICONTROL Control Panel] {#control-panel}
+# Erste Schritte mit dem [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
->Die Begriffe [!UICONTROL Whitelist] und [!UICONTROL Blacklist] wurden in der Dokumentation zu Adobe Campaign durch [!UICONTROL Zulassungsliste] und [!UICONTROL Blockierungsliste] ersetzt. Einige Vorkommen dieser Begriffe sind möglicherweise noch in der Produktoberfläche, in Optionsnamen, im internen Code und in den Anleitungsvideos vorhanden. Sie werden in kommenden Control Panel-Versionen ersetzt.
+>Die Begriffe [!UICONTROL Whitelist] und [!UICONTROL Blacklist] wurden in der Dokumentation zu Adobe Campaign durch [!UICONTROL Zulassungsliste] und [!UICONTROL Blockierungsliste] ersetzt. Die alten Begriffe können noch in der Produktoberfläche, in Optionsnamen, in internem Code sowie in den Tutorial-Videos vorkommen. Sie werden in kommenden Control Panel-Versionen ersetzt.
 
 Mit dem [!UICONTROL Control Panel] können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. Verwalten des [!DNL SFTP]-Speichers nach Instanz, Verwalten von [!DNL GPG]-Schlüsseln bzw. [!UICONTROL Subdomains] und [!UICONTROL Zertifikaten].
 
@@ -28,7 +28,7 @@ Erfahren Sie, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen
 
 ## Zugriff auf das [!UICONTROL Control Panel]
 
-Um auf das Control Panel zuzugreifen, navigieren Sie zur Startseite des Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Um auf das Control Panel zuzugreifen, gehen Sie zur Startseite von Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Startseite von Experience Cloud]** > **[!UICONTROL Schnellzugriff]**
 
@@ -45,7 +45,7 @@ Bevor Sie beginnen, müssen Sie folgende Voraussetzungen erfüllen:
 
 ### Bestätigen [!DNL IMS Org ID]
 
-Im folgenden Video wird beschrieben, wo Sie die [!DNL IMS org ID] Ihrer Instanz nachschlagen können.
+Im folgenden Video wird beschrieben, wo Sie die [!DNL IMS org ID] Ihrer Instanz finden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
