@@ -8,8 +8,8 @@ role: User, Admin, Developer
 level: Beginner
 source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 76%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie einen Testversand zur Überprüfung mit der genauen Darstellung der Nachricht senden, die das Profil erhält.</em>
+    <em>Erfahren Sie, wie Sie einen Testversand durchführen können, um die genaue Darstellung der Nachricht zu überprüfen, die das Profil empfangen wird.</em>
     <p>
   </td>
    <td>
@@ -54,7 +54,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=de">
       <img alt="Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android" src="./assets/push-for-android.png" />
     </a>
     <div>
@@ -63,7 +63,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     </a>
     </div>
     <p>
-    <em>Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen von Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android™-Mobile-App erforderlich sind. </em>
+    <em>Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen in Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android™-Mobile-App erforderlich sind.</em>
     <p>
   </td>
 </tr>
@@ -71,4 +71,4 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Zusätzliche Ressourcen
 
-* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de)
