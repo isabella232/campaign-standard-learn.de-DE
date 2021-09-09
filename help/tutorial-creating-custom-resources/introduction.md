@@ -1,7 +1,7 @@
 ---
 title: Erstellen benutzerdefinierter Ressourcen – Einführung
-description: Dieses mehrteilige Tutorial führt Sie durch die erforderlichen Schritte zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen.
-feature: 'Datenmodell '
+description: Dieses mehrteilige Tutorial führt Sie durch die Schritte, die zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen erforderlich sind.
+feature: Data Model
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '187'
+ht-degree: 100%
 
 ---
 
@@ -19,21 +19,21 @@ ht-degree: 0%
 
 [!DNL Adobe Campaign] verfügt über ein vordefiniertes Datenmodell, in dem die Daten durch verschiedene Ressourcen definiert werden. [!DNL Campaign] ermöglicht es dem Benutzer, vorhandene Ressourcen zu erweitern oder neue zu erstellen.
 
-Dieses mehrteilige Tutorial führt Sie durch die erforderlichen Schritte zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen.
-Funktionsweise:
+Dieses mehrteilige Tutorial führt Sie durch die Schritte, die zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen erforderlich sind.
+Sie erfahren, wie man:
 
-* Benutzerdefinierte Ressource erstellen
-* Felder der benutzerdefinierten Ressource hinzufügen
-* Zwei benutzerdefinierte Ressourcen verknüpfen
-* Bildschirmdefinition konfigurieren
+* eine Benutzerdefinierte Ressource erstellt
+* Felder zur benutzerdefinierten Ressource hinzufügt
+* zwei benutzerdefinierte Ressourcen verknüpft
+* eine Bildschirmdefinition konfiguriert
 
 ## Voraussetzung
 
 Um benutzerdefinierte Ressourcen erstellen zu können, benötigen Sie Administratorrechte.
 
-## Tutorial-Übersicht
+## Tutorial-Überblick
 
-Um zusätzliche Informationen darüber zu erhalten, was ein Kunde bestellt hat, sodass sie für Marketing- und Remarketing-Zwecke verfügbar sind, muss das [!DNL Campaign]-Datenmodell durch Hinzufügen benutzerdefinierter Tabellen erweitert werden. Für diesen Anwendungsfall müssen ein Kunde und eine Auftragstabelle erstellt werden.
+Um zusätzliche Informationen zu Bestellungen eines Kunden für Marketing- und Remarketing-Zwecke verwenden zu können, muss das [!DNL Campaign]-Datenmodell durch Hinzufügen benutzerdefinierter Tabellen erweitert werden. Für diesen Anwendungsfall müssen ein Kunde und eine Tabelle mit Bestellungen erstellt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
