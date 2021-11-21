@@ -1,7 +1,7 @@
 ---
 title: Senden einer In-App-Broadcast-Nachricht
 description: Erfahren Sie, wie Sie die Broadcast-Vorlage konfigurieren und verwenden, um alle Benutzer Ihrer Mobile App anzusprechen.
-feature: In-App
+feature: In App
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 7f70c5a02654b03f248e2ec71563473f98688b70
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 9%
+source-wordcount: '131'
+ht-degree: 7%
 
 ---
 

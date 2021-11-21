@@ -8,7 +8,7 @@ activity: use
 team: PM
 exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 100%
 
@@ -56,7 +56,7 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 ### Hilfreiche Dokumentation
 
 * [[!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
-* [[!UICONTROL Verwalten von Berechtigungen für das Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
+* [[!UICONTROL Verwalten von Berechtigungen für das Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Herstellen einer Verbindung zum SFTP-Server (Client oder API)
 
@@ -68,4 +68,4 @@ Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
 
 ### Hilfreiche Dokumentation {#helpful-docs}
 
-* [Anmeldung bei Ihrem SFTP-Server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
+* [Anmeldung bei Ihrem SFTP-Server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)

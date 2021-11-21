@@ -1,7 +1,7 @@
 ---
 title: Aktivieren von Adobe Experience Platform-Audiences in einem Workflow
 description: In diesem Video wird erläutert, wie Sie die Query Audience für Data Services innerhalb eines Workflows aktivieren, indem Sie die Aktivität "Audience lesen"verwenden.
-feature: People Core Service-Integration
+feature: People Core Service Integration
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 13%
+source-wordcount: '159'
+ht-degree: 11%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziel ] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
+>Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziele] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Wenden Sie sich an den [!UICONTROL Adobe-Support], wenn Sie diese Funktion implementieren möchten.
+>Bitte wenden Sie sich an [!UICONTROL Adobe-Kundensupport] , wenn Sie diese Funktion implementieren möchten.
 
-In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Audience] innerhalb eines Workflows aktivieren, indem Sie die Aktivität [!UICONTROL Audience lesen] verwenden.
+In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Audience] innerhalb eines Workflows mithilfe der [!UICONTROL Audience lesen] Aktivität.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 

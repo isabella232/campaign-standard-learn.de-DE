@@ -1,7 +1,7 @@
 ---
 title: Übersicht über Email Designer
 description: Machen Sie sich mit den allgemeinen Funktionen von Email Designer und dem Entwurf einer neuen E-Mail vertraut.
-feature: E-Mail-Erstellung
+feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '129'
 ht-degree: 87%
 
 ---

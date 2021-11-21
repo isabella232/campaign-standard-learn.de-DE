@@ -9,17 +9,17 @@ activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
 ---
 
-# Zuweisen von Subdomains mithilfe von CNAME (Beta)
+# Zuweisen von Subdomains mithilfe von CNAME (Betaversion)
 
 >[!IMPORTANT]
 >
-> Die Subdomain-Zuweisung mit CNAME befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung.
+> Die Subdomain-Zuweisung mit CNAME befindet sich in der Betaversion und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung.
 
 Um mit Adobe Campaign E-Mails versenden oder Landingpages veröffentlichen zu können, müssen Sie eine neue Subdomain einrichten.
 

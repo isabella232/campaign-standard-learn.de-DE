@@ -1,6 +1,6 @@
 ---
 title: Verwaltung von Google TXT-Einträgen
-description: Sie können allen Subdomains, die zum Senden von E-Mails an GMAIL-Adressen über das Campaign Control Panel verwendet werden, einen Eintrag der TXT-Website-Überprüfung von Google hinzufügen.
+description: Sie können allen Subdomains, die zum Senden von E-Mails an GMAIL-Adressen über das Campaign Control Panel verwendet werden, einen Eintrag der TXT-Websiteüberprüfung von Google hinzufügen.
 feature: Control Panel
 audience: administrator
 kt: 4744
@@ -10,7 +10,7 @@ team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 92%
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren einer Mobile App mithilfe des Adobe Experience Platform SDK
 description: Erfahren Sie, wie Sie eine App in Adobe Experience Platform Launch einrichten und in Adobe Campaign konfigurieren.
-feature: In App, Push, Kanalkonfiguration, Mobile SDK-Integration
+feature: In App, Push, Channel Configuration, Mobile SDK Integration
 kt: 2501
 thumbnail: 26224.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: Admin
 level: Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '148'
 ht-degree: 10%
 
 ---
 
-# Mobile Apps mit [!UICONTROL Adobe Experience Platform SDK] konfigurieren {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
+# Eine Mobile App mit [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
 
-Um In-App-Nachrichten oder [!UICONTROL Push-Benachrichtigungen] mit dem Mobile SDK V5 zu senden, muss die Mobile App in [!UICONTROL Adobe Experience Platform Launch] eingerichtet und in Adobe Campaign konfiguriert werden.
+So senden Sie In-App-Nachrichten oder [!UICONTROL Push-Benachrichtigungen] mit dem Mobile SDK V5 muss die Mobile App in eingerichtet werden. [!UICONTROL Adobe Experience Platform Launch] und in Adobe Campaign konfiguriert.
 
 Die folgenden Videos zeigen die erforderlichen Schritte zum Konfigurieren einer App in Experience Platform Launch:
 
@@ -27,7 +27,7 @@ Die folgenden Videos zeigen die erforderlichen Schritte zum Konfigurieren einer 
 
 >[!NOTE]
 >
->Die detaillierte Dokumentation und die im Video verwendeten Codevorlagen finden Sie unter [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) Konfigurieren der Anwendung in [Launch .
+>Siehe [Anwendung konfigurieren in [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) für die detaillierte Dokumentation und die im Video verwendeten Codevorlagen.
 
 ## Zusätzliche Ressourcen
 

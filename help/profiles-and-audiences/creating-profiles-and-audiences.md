@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Profilen und Audiences – Übersicht
 description: Erfahren Sie, wie Sie zu vorhandenen Profilen navigieren können und wie Sie Profile und Audiences erstellen.
-feature: Profile, Audiences
+feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 37%
+source-wordcount: '83'
+ht-degree: 36%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign hat zwei Typen oder Profile:
 * Identifizierte Profile
 * Testprofile
 
-Profile, die nach einem oder mehreren gemeinsamen Kriterien gruppiert sind, werden als **Zielgruppen** bezeichnet.
+Profile, die nach einem oder mehreren gemeinsamen Kriterien gruppiert sind, werden als **Zielgruppen**.
 
 In diesem Video wird beschrieben, wie Sie zu vorhandenen Profilen navigieren und in Adobe Campaign Standard Profile und Audiences erstellen.
 

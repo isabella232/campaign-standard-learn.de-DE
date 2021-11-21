@@ -1,25 +1,24 @@
 ---
 title: 'Schritt 3: Registrieren der Erweiterungen für Ihre Mobile App'
-description: In diesem Teil werden wir den Code zur Registrierung der UserProfile, Identity, Lifecycle und Signal Extensions hinzufügen.
-feature: Push-Benachrichtigung
+description: In diesem Teil fügen wir den Code zur Registrierung der UserProfile-, Identity-, Lifecycle- und Signal-Erweiterungen hinzu.
+feature: Push
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 15%
+source-wordcount: '129'
+ht-degree: 14%
 
 ---
 
 # Schritt 3: Registrieren der Erweiterungen für Ihre Mobile App
 
-In diesem Teil werden wir den Code zur Registrierung des User Profil, Identity, Lifecycle und Signal Extensions hinzufügen. Diese Erweiterungen sind Teil von [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Wir müssen auch die Adobe Campaign Standard-Erweiterung registrieren, wie im folgenden Code dargestellt.
+In diesem Teil fügen wir den Code hinzu, um die Erweiterungen Benutzerprofil, Identität, Lebenszyklus und Signal zu registrieren. Diese Erweiterungen sind Teil von [[!UICONTROL Mobile Core-Erweiterungen]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Außerdem müssen wir die Adobe Campaign Standard-Erweiterung registrieren, wie im folgenden Code dargestellt.
 
-Öffnen Sie Ihr Projekt im Studio [!DNL Android]. Löschen Sie den gesamten Code in MainApp **mit Ausnahme der ersten Zeile, die Ihre Paketanweisung** ist.
+Öffnen Sie Ihr Projekt in [!DNL Android] Studio. Den gesamten Code in MainApp löschen **mit Ausnahme der ersten Zeile, die Ihre Paketanweisung ist**.
 
 Fügen Sie den folgenden Code in MainApp ein
 
@@ -69,6 +68,6 @@ try{
 }
 ```
 
-In Zeile 32 müssen Sie die Umgebung-ID der Eigenschaft für &quot;Start[!UICONTROL &quot;angeben. ] Dies ist über die Registerkarte [!UICONTROL Umgebung] Ihrer [!UICONTROL Eigenschaft Launch] möglich.
+Zeile 32:[!UICONTROL  Launch] Die Umgebungsdatei-ID der Eigenschaft. Der Zugriff darauf erfolgt über die [!UICONTROL Umgebungs-Tab] Ihrer [!UICONTROL Launch] -Eigenschaft.
 
 ![launch-id](assets/launch-id-property.PNG)

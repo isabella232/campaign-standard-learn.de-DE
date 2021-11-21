@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 51%
+source-wordcount: '85'
+ht-degree: 50%
 
 ---
 
@@ -25,4 +25,4 @@ Erfahren Sie, wie Sie in Ihrem Workflow Segmente definieren und diese in dynamis
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Weitere Informationen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

@@ -9,21 +9,20 @@ audience: administrator
 activity: use
 team: PM
 exl-id: e0b4804c-d0ea-4f4b-a6fd-f9363b264111
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 78%
+source-wordcount: '121'
+ht-degree: 77%
 
 ---
 
 # Generieren eines SSH-Schlüssels
 
-Sie müssen eine SSH-Taste generieren, damit Sie sie der [!UICONTROL Systemsteuerung] hinzufügen können.
+Sie müssen einen SSH-Schlüssel generieren, damit Sie ihn zum [!UICONTROL Control Panel].
 
 ## Aufrufen der SFTP-Verwaltung im [!UICONTROL Control Panel]
 
-Um auf die SFTP-Verwaltung in [!UICONTROL Systemsteuerung] zuzugreifen, gehen Sie zu:
+So greifen Sie auf die SFTP-Verwaltung zu: [!UICONTROL Control Panel], gehen Sie zu:
 
 * [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > [!UICONTROL Lösungsauswahl]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]**-Karte > **SFTP**-Karte.
 

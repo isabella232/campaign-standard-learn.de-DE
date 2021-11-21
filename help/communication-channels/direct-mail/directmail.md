@@ -1,7 +1,7 @@
 ---
 title: Briefpost erstellen
 description: Erfahren Sie, wie Sie eine Briefpost erstellen.
-feature: Briefpost
+feature: Direct Mail
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
@@ -12,22 +12,22 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 3%
+source-wordcount: '119'
+ht-degree: 1%
 
 ---
 
 # Erstellen Sie eine [!UICONTROL Briefpost] {#create-a-direct-mail}
 
-Mit dem Kanal [!UICONTROL Briefpost] können Sie eine segmentierte Liste von Empfängern extrahieren, die an eine Agentur gesendet oder auf einen SFTP-Server hochgeladen werden.
+Die [!UICONTROL Briefpost] -Kanal können Sie eine segmentierte Liste von Empfängern extrahieren, die an eine Agentur gesendet oder auf einen SFTP-Server hochgeladen werden sollen.
 
-In diesem Video wird beschrieben, wie Sie einen [!UICONTROL Briefpost]-Versand konfigurieren und welche Einstellungen erforderlich sind, um einem [!UICONTROL Briefpost]-Versand ein Profil hinzufügen zu können.
+In diesem Video wird beschrieben, wie Sie eine [!UICONTROL Briefpost] -Versand und welche Einstellungen erforderlich sind, um ein Profil zu einem [!UICONTROL Briefpost] -Versand.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## Erstellen von [!UICONTROL Briefpost] innerhalb eines Workflows
+## Erstellen Sie eine [!UICONTROL Briefpost] innerhalb eines Workflows
 
-Der Kanal ist auf der Startseite und in der Workflow-Ansicht verfügbar, um konsistente, kanalübergreifende Marketingstrategien zu definieren. Der folgende Beispiel-Workflow enthält die Aktivität [!UICONTROL Briefpost].
+Der Kanal ist auf der Startseite und in der Workflow-Ansicht verfügbar, um konsistente, kanalübergreifende Marketingstrategien zu definieren. Der folgende Beispiel-Workflow enthält die [!UICONTROL Briefpost-Aktivität].
 
 ![Workflow-Bild](/help/assets/direct_mail_examplewf.png)
 

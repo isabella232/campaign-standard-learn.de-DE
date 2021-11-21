@@ -9,10 +9,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 432a1af6-22de-41ff-b733-e086ee14ab7a
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---

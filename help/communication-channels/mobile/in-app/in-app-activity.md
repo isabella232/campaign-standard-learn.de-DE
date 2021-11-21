@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines In-App-Versands in einem Workflow
 description: Erfahren Sie, wie Sie mit der Aktivität In-App-Versand den In-App-Versand automatisieren können, indem Sie eine In-App-Nachricht an eine innerhalb eines Workflows berechnete Zielgruppe senden.
-feature: In-App
+feature: In App
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 8%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
-# Erstellen eines [!UICONTROL In-App]-Versands innerhalb eines Workflows
+# Erstellen Sie eine [!UICONTROL In-App] Versand innerhalb eines Workflows
 
-Der In-App-Versand dient der Automatisierung des Nachrichtenversands an eine innerhalb desselben Workflows berechnete Zielgruppe.
+Die Aktivität In-App-Versand dient der Automatisierung des Versands von [!UICONTROL In-App] Nachricht an eine innerhalb desselben Workflows berechnete Zielgruppe.
 
 Erfahren Sie, wie Sie mit der Aktivität In-App-Versand den In-App-Versand automatisieren können, indem Sie eine In-App-Nachricht an eine innerhalb eines Workflows berechnete Zielgruppe senden.
 

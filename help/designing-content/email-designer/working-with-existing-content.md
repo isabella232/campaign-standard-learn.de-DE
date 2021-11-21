@@ -1,7 +1,7 @@
 ---
 title: Verwenden existierender Inhalte
 description: Erfahren Sie, wie Sie Ihre kreativen Inhalte von einer Website abrufen und in Email Designer laden können.
-feature: E-Mail-Erstellung
+feature: Email Design
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 26%
+source-wordcount: '103'
+ht-degree: 25%
 
 ---
 

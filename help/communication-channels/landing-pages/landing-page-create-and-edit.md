@@ -1,7 +1,7 @@
 ---
 title: Erstellen und Bearbeiten einer Landingpage
 description: '"Erfahren Sie, wie Sie Landingpages in Adobe Campaign Standard erstellen, bearbeiten und testen können."'
-feature: Landingpages
+feature: Landing Pages
 kt: 1808
 thumbnail: 24093.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 41%
+source-wordcount: '87'
+ht-degree: 40%
 
 ---
 

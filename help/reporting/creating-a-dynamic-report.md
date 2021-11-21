@@ -12,12 +12,12 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 30%
 
 ---
 
-# Erstellen eines [!UICONTROL dynamischen Berichts]{#creating-a-report}
+# Erstellen Sie eine [!UICONTROL Dynamischer Bericht]{#creating-a-report}
 
 Adobe Campaign [!UICONTROL Dynamische Berichte] sind eine flexible Freiformumgebung, in der Sie Daten untersuchen können. Sie können damit Dimensionen, Metriken und Zeiträume in jeder beliebigen Kombination mit unbegrenzten Aufschlüsselungen und Vergleichen kombinieren.
 

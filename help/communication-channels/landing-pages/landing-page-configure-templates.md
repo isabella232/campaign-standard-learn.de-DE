@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren einer Landingpage-Vorlage
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
-feature: Landingpages
+feature: Landing Pages
 kt: 1817
 thumbnail: 25200.jpg
 doc-type: feature video
@@ -13,13 +13,13 @@ role: Admin, User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 24%
+source-wordcount: '27'
+ht-degree: 18%
 
 ---
 
-# Konfigurieren einer [!UICONTROL Landingpage-Vorlage]
+# Konfigurieren Sie eine [!UICONTROL Landingpage-Vorlage]
 
-In diesem Video wird beschrieben, wie Sie [!UICONTROL Landingpage]-Vorlagen konfigurieren.
+In diesem Video wird beschrieben, wie Sie [!UICONTROL Landingpage] Vorlagen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)

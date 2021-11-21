@@ -1,7 +1,7 @@
 ---
 title: Vollständige Subdomain-Zuweisung
 description: 'Erfahren Sie, wie Sie eine Subdomain Adobe Campaign zuweisen. '
-feature: Subdomains und Zertifikate
+feature: Subdomains and Certificates
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: PM
 exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 72%
+source-wordcount: '102'
+ht-degree: 67%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 72%
 
 Über das Adobe Campaign [!UICONTROL Control Panel] können Sie Adobe Campaign eine Subdomain vollständig zuweisen.
 
-## Zugriff auf [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
+## Zugriff auf [!UICONTROL Control Panel] [!UICONTROL Subdomain-Verwaltung]
 
 Um auf die [!UICONTROL Subdomain-Verwaltung] im [!UICONTROL Control Panel] zuzugreifen, navigieren Sie zu:
 
@@ -37,4 +37,4 @@ Erfahren Sie, wie Sie eine Subdomain Adobe Campaign zuweisen.
 ## Zusätzliche Ressourcen
 
 * [Hinzufügen von SSL-Zertifikaten](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [Subdomains und Zertifikate](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=de?lang=en)
+* [Subdomains und Zertifikate](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)

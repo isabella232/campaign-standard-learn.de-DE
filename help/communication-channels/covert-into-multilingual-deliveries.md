@@ -1,7 +1,7 @@
 ---
-title: Konvertieren vorhandener E-Mail-, SMS-Versand- oder Versandvorlagen in mehrsprachige Sendungen
+title: Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Versandvorlagen in mehrere Sprachen
 description: Hier erfahren Sie, wie Sie eine vorhandene E-Mail, einen SMS-Versand oder eine Versandvorlage in eine mehrsprachige Nachricht konvertieren.
-feature: E-Mail, SMS
+feature: Email, SMS
 kt: 1703
 thumbnail: 23251.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 2%
+source-wordcount: '73'
+ht-degree: 32%
 
 ---
 
-# Konvertieren vorhandener E-Mail-, SMS-Versand- oder Versandvorlagen in mehrsprachige Sendungen
+# Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Versandvorlagen in mehrere Sprachen
 
 In diesem Video wird gezeigt, wie ein vorhandener E-Mail-, SMS-Versand oder eine Versandvorlage einfach in mehrere Sprachen konvertiert werden kann.
 

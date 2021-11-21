@@ -1,7 +1,7 @@
 ---
 title: Profilersetzung - Testen von E-Mail-Nachrichten mit Zielgruppenprofilen
 description: Erfahren Sie, wie Sie Ihre E-Mail-Nachrichten mithilfe der Profilersetzungsfunktion testen können.
-feature: 'E-Mail  '
+feature: Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 73%
 
 ---
 
-# [!UICONTROL Profilersetzung]  - Testen von E-Mail-Nachrichten mit Zielgruppenprofilen
+# [!UICONTROL Profilersetzung] - Testen von E-Mail-Nachrichten mit Zielgruppenprofilen
 
 In diesem Video wird erläutert, wie Sie Ihre E-Mail-Nachrichten mit Hilfe der [!UICONTROL Profilersetzung] testen können. Es behandelt den folgenden Anwendungsfall:
 

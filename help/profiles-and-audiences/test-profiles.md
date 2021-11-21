@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines Testprofils
 description: Hier erfahren Sie, wie Sie Empfänger, die nicht den definierten Targeting-Kriterien entsprechen, ansprechen können, um eine betrügerische Nutzung Ihrer Empfängerdatenbank zu erkennen oder sicherzustellen, dass die E-Mails in die Postfächer gelangen.
-feature: Testprofile
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner, Intermediate
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 27%
+source-wordcount: '105'
+ht-degree: 25%
 
 ---
 

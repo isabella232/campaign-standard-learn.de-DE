@@ -1,7 +1,7 @@
 ---
-title: Erstellen einer Zielgruppe mit dem Unified Segment Builder
+title: Erstellen einer Audience mit dem Unified Segment Builder
 description: Erfahren Sie, wie Sie mit Unified Segment Builder eine Zielgruppe erstellen.
-feature: People Core Service-Integration
+feature: People Core Service Integration
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
@@ -12,24 +12,24 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 11%
+source-wordcount: '226'
+ht-degree: 16%
 
 ---
 
-# Erstellen einer Zielgruppe mit dem Unified Segment Builder
+# Erstellen einer Audience mit dem Unified Segment Builder
 
 >[!NOTE]
 >
->Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziel ] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
+>Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziele] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Wenden Sie sich an den [!UICONTROL Adobe-Support], wenn Sie diese Funktion implementieren möchten.
+>Bitte wenden Sie sich an [!UICONTROL Adobe-Kundensupport] , wenn Sie diese Funktion implementieren möchten.
 
-Mit Adobe Campaign Standard können Sie Zielgruppen mithilfe von Daten aus dem Adobe Experience Cloud [Echtzeit-Kundenprofil](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) erstellen, indem Sie Adobe Experience Platform [!UICONTROL Unified Segment Builder] verwenden.
+Mit Adobe Campaign Standard können Sie Zielgruppen mithilfe von Daten aus der Adobe Experience Cloud erstellen [Echtzeit-Kundenprofil](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) mithilfe der Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-Der Zugriff auf den [!UICONTROL Unified Segment Builder] erfolgt direkt in Adobe Campaign Standard über das Modul [!UICONTROL Zielgruppen ] . Sie können diese Zielgruppen direkt in der Listenansicht [!UICONTROL Zielgruppen] verwalten, in der Sie eine Adobe Experience Platform-Zielgruppe direkt über die Adobe Campaign-Benutzeroberfläche bearbeiten oder erstellen können
+Sie können auf die [!UICONTROL Unified Segment Builder] direkt in Adobe Campaign Standard über die [!UICONTROL Zielgruppen ] -Modul. Sie können diese Zielgruppen direkt im [!UICONTROL Zielgruppen] Listenansicht, in der Sie eine Adobe Experience Platform-Zielgruppe direkt über die Benutzeroberfläche von Adobe Campaign bearbeiten oder erstellen können
 
-Im folgenden Video wird erläutert, wie eine neue Zielgruppe mit [!UICONTROL Unified Segment Builder] in Adobe Campaign Standard erstellt wird.
+Im folgenden Video wird erläutert, wie eine neue Zielgruppe mit [!UICONTROL Unified Segment Builder] innerhalb von Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 

@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 14%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 
 # Erstellen eines Berichts auf der Basis von benutzerdefinierten Profilattributen
 
-Adobe Campaign [!UICONTROL Dynamische Berichte] ist eine flexible Freiformumgebung, in der Sie Daten durch Einbeziehung benutzerdefinierter Profilattribute untersuchen können. Sie können damit Dimensionen, Metriken und Zeiträume in jeder beliebigen Kombination mit unbegrenzten Aufschlüsselungen und Vergleichen kombinieren.
+Adobe Campaign [!UICONTROL Dynamische Berichte] ist eine flexible Freiformumgebung, in der Sie Daten mithilfe benutzerdefinierter Profilattribute untersuchen können. Sie können damit Dimensionen, Metriken und Zeiträume in jeder beliebigen Kombination mit unbegrenzten Aufschlüsselungen und Vergleichen kombinieren.
 
 In diesem Video wird erläutert, wie Sie einen Bericht erstellen, der auf benutzerdefinierten Profilattributen basiert.
 

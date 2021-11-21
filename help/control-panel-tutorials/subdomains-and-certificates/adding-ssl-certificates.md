@@ -11,8 +11,8 @@ team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 72%
+source-wordcount: '210'
+ht-degree: 69%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 72%
 
 Erfahren Sie, wie Sie SSL-Zertifikate hinzufügen, um Ihre Subdomains zu schützen.
 
-## Zugriff auf [!UICONTROL Control Panel] Subdomain-Verwaltung
+## Zugriff [!UICONTROL Control Panel] Subdomain-Verwaltung
 
 Um auf die Verwaltung von Subdomains in [!UICONTROL Control Panel] zuzugreifen, navigieren Sie zu:
 
@@ -35,7 +35,7 @@ Das Hinzufügen von SSL-Zertifikaten erfordert drei Schritte:
 
 ### Schritt 1: [!UICONTROL Certificate Signing Requests] generieren
 
-Zum Erwerb eines SSL-Zertifikats ist ein [!UICONTROL Certificate Signing Request] (CSR) erforderlich. Sie muss für die Instanz und die Subdomains generiert werden, die Sie schützen möchten.
+A [!UICONTROL Certificate Signing Request] (CSR) ist für den Erwerb eines SSL-Zertifikats erforderlich. Sie muss für die Instanz und die Subdomains generiert werden, die Sie schützen möchten.
 
 Im folgenden Video erfahren Sie, wie Sie ein [!UICONTROL Certificate Signing Request] im [!UICONTROL Control Panel] generieren.
 
@@ -60,4 +60,4 @@ Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Pane
 ## Zusätzliche Ressourcen
 
 * [Vollständige Subdomain-Zuweisung (Video)](./subdomain-delegation.md)
-* [Subdomains und Zertifikate – Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=de?lang=en)
+* [Subdomains und Zertifikate – Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)

@@ -12,7 +12,7 @@ ht-degree: 98%
 
 # Adobe Campaign Standard – Tutorials {#tutorials}
 
-+ [Übersicht](/help/overview.md)
++ [Überblick](/help/overview.md)
 + Erste Schritte {#getting-started}
    + [Einführung in Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Erste Schritte mit der Benutzeroberfläche](/help/getting-started/getting-started-with-the-ui.md)
@@ -31,7 +31,7 @@ ht-degree: 98%
    + [Erstellen eines Testprofils](/help/profiles-and-audiences/test-profiles.md)
    + [Importieren von Profilen mit einem Workflow](/help/managing-processes-and-data/importing-profiles.md)
    + [Verwalten von Services und Abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Audience Destinations (BETA){#audience-destinations}
+   + Audience Destinations (BETAVERSION){#audience-destinations}
       + [Übersicht](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Erstellen einer Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Aktivieren von Adobe Experience Platform-Audiences in einem Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

@@ -1,7 +1,7 @@
 ---
 title: Ändern der Zielgruppendimension
 description: In diesem Video wird erläutert, wie Sie die Zielgruppendimension eines Versands für eine Platform-Zielgruppe außerhalb der primären Profiltabelle in Adobe Campaign Standard ändern.
-feature: People Core Service-Integration
+feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
@@ -12,20 +12,20 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 6%
+source-wordcount: '171'
+ht-degree: 8%
 
 ---
 
-# Zielgruppendimension [!UICONTROL Plattform-Zielgruppe] ändern
+# Zielgruppendimension ändern [!UICONTROL Plattform-Zielgruppe]
 
 >[!NOTE]
 >
->Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziel ] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
+>Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziele] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Wenden Sie sich an den [!UICONTROL Adobe-Support], wenn Sie diese Funktion implementieren möchten.
+>Bitte wenden Sie sich an [!UICONTROL Adobe-Kundensupport] , wenn Sie diese Funktion implementieren möchten.
 
-In diesem Video wird erläutert, wie Sie die Zielgruppendimension eines Versands für eine [!UICONTROL Plattform-Zielgruppe] außerhalb der primären Profiltabelle in Adobe Campaign Standard ändern können.
+In diesem Video wird erläutert, wie Sie die Zielgruppendimension eines Versands für einen Versand ändern [!UICONTROL Plattform-Zielgruppe] außerhalb der primären Profiltabelle in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
@@ -39,5 +39,5 @@ Dokumentation:
 
 Video-Ressourcen:
 
-* [Erstellen einer Zielgruppe mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Erstellen einer Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Aktivieren von Adobe Experience Platform-Zielgruppen in einem Marketing-Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

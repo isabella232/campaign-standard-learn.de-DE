@@ -4,7 +4,7 @@ user-guide-description: Hier erfahren Sie, wie Sie die Schlüssel-Assets Ihrer A
 breadcrumb-title: Control Panel – Tutorials
 index: true
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -21,8 +21,8 @@ ht-degree: 100%
    + [Erstellen eines SSH-Schlüssels](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Herstellen einer Verbindung zu einem SFTP-Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdomains und Zertifikate {#subdomains-and-certificates}
-   + [Vollständige Subdomain-Zuweisung (Beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [Zuweisen von Subdomains mit CNAME (Beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [Vollständige Subdomain-Zuweisung (Betaversion)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Zuweisen von Subdomains mit CNAME (Betaversion)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Hinzufügen von SSL-Zertifikaten](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Verwaltung von Google TXT-Einträgen](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instanzeneinstellungen {#instance-settings}
