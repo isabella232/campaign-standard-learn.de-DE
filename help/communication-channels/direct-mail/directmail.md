@@ -10,10 +10,10 @@ team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: User
 level: Beginner
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 1%
+source-wordcount: '124'
+ht-degree: 0%
 
 ---
 
@@ -31,6 +31,4 @@ Der Kanal ist auf der Startseite und in der Workflow-Ansicht verfügbar, um kons
 
 ![Workflow-Bild](/help/assets/direct_mail_examplewf.png)
 
-## Zusätzliche Ressourcen
-
-* [Über Briefpost](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Weitere Informationen finden Sie in der Produktdokumentation . [Über Briefpost](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

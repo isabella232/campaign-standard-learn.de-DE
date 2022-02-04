@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 89%
+source-wordcount: '209'
+ht-degree: 82%
 
 ---
 
@@ -30,12 +30,4 @@ Hier lernen Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe C
 
 >[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
 
-## Zusätzliche Ressourcen
-
-Tutorials:
-
-* [Prädiktive Interaktionsbewertung](predictive-engagement-scoring.md)
-
-Dokumentation:
-
-* [Optimieren des Designs und Versands mit KI-gestützten E-Mails](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
+Weitere Informationen finden Sie in der Produktdokumentation . [Design und Versand mit KI-gestützten E-Mails optimieren](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
