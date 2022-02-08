@@ -10,10 +10,11 @@ team: TM
 exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+recommendations: noDisplay
+source-git-commit: 87c7d040e2bdd1ccaceb5035b494a6fb50c77f7b
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,7 +37,3 @@ Die folgenden Video-Tutorials führen Sie durch die verschiedenen Schritte:
 1. [Erstellen einer Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Aktivieren von Experience Platform-Zielgruppen in einem Marketing-Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Zielgruppendimension eines Versands für eine Platform-Zielgruppe ändern](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
-## Zusätzliche Ressourcen
-
-*[Informationen zum Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
