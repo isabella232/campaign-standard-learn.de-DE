@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 16%
+source-wordcount: '210'
+ht-degree: 13%
 
 ---
 
@@ -35,14 +35,9 @@ Im folgenden Video wird erläutert, wie eine neue Zielgruppe mit [!UICONTROL Uni
 
 *Erstellen einer Zielgruppe in Adobe Campaign Standard mithilfe des Unified Segment Builder (min. 02:47)*
 
-## Zusätzliche Ressourcen
-
-Dokumentation:
+Weitere Informationen finden Sie in der Produktdokumentation:
 
 * [Echtzeit-Kundenprofil - Überblick](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 * [Segment Builder-Benutzerhandbuch](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 
-Video-Ressourcen:
 
-* [Aktivieren von Experience Platform-Audiences in einem Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Zielgruppendimension eines Versands für eine Platform-Audience ändern](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
