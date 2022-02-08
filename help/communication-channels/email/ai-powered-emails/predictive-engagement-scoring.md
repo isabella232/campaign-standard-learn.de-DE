@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 275b7f05b50891757a7921c16dfcd9c8a1c3a036
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 65%
+source-wordcount: '193'
+ht-degree: 66%
 
 ---
 
@@ -29,13 +29,3 @@ Mit [!UICONTROL Journey-KI] kann [!DNL Adobe Campaign] Öffnungsraten, optimale 
 Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung von Kundenermüdung erstellt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
-
-## Zusätzliche Ressourcen
-
-Tutorials:
-
-* [Prädiktive Sendezeitoptimierung](predictive-send-time-optimization.md)
-
-Dokumentation:
-
-* [Optimieren des Designs und Versands mit KI-gestützten E-Mails](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
