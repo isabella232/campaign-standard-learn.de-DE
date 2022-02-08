@@ -10,10 +10,10 @@ team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: d17d85030b0f6483f39dcee88dff084f31803422
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 75%
+source-wordcount: '88'
+ht-degree: 68%
 
 ---
 
@@ -30,6 +30,4 @@ In diesem Video erfahren Sie, wie Sie einen Workflow in Adobe Campaign Standard 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
-## Zusätzliche Ressourcen
-
-* [Erstellen eines Workflows (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+Weitere Informationen finden Sie in der Produktdokumentation zu [Erstellen eines Workflows (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
