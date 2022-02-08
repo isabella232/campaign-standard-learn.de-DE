@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c3ccbd6f1453bbc0da5f3a65b0165002707884e3
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 11%
+source-wordcount: '138'
+ht-degree: 5%
 
 ---
 
@@ -31,13 +31,4 @@ In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Aud
 
 *Aktivieren einer Adobe Experience Platform-Zielgruppe in einem Workflow (02:37 Min.)*
 
-## Zusätzliche Ressourcen
-
-Dokumentation:
-
-* [Adobe Experience Platform-Audiences in Campaign aufnehmen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
-
-Video-Ressourcen:
-
-* [Erstellen einer Zielgruppe in Adobe Campaign Standard mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Zielgruppendimension eines Versands für eine Platform-Zielgruppe ändern](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+Informationen dazu finden Sie in der Produktdokumentation [Adobe Experience Platform-Zielgruppen in Campaign aufnehmen](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
