@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 77%
+source-wordcount: '168'
+ht-degree: 67%
 
 ---
 
@@ -35,8 +35,4 @@ In diesem Video wird erläutert, was für die Dreamweaver-Integration erforderli
 
 *Verwenden der Dreamweaver-Integration in Adobe Campaign (02:37 min)*
 
-## Zusätzliche Ressourcen
-
-* [Fehlerbehebung bei der Installation von Adobe Campaign mit Dreamweaver](https://helpx.adobe.com/de/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Dokumentation zu Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
-* [Installieren von Add-ons und Erweiterungen für Mobile Apps von Adobe](https://helpx.adobe.com/de/creative-cloud/kb/installingextensionsandaddons.html)
+Siehe Dreamweaver [Dokumentation zu Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html) für Informationen über [Fehlerbehebung bei der Installation von Adobe Campaign Dreamweaver](https://helpx.adobe.com/de/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

@@ -10,10 +10,10 @@ thumbnail: 332576.jpg
 doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '103'
+ht-degree: 84%
 
 ---
 
@@ -23,6 +23,4 @@ Erfahren Sie, wie Sie die Integration von Campaign Standard und Analytics konfig
 
 >[!VIDEO](https://video.tv.adobe.com/v/332576/?quality=12)
 
-## Zusätzliche Ressourcen
-
-[Grundlagen und Erstellen von Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=de#intro-to-analytics)
+Weitere Informationen finden Sie im Adobe Analytics-Produkthandbuch . [Grundlagen und Erstellen von Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=de#intro-to-analytics).

@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 69%
+source-wordcount: '191'
+ht-degree: 70%
 
 ---
 
@@ -56,8 +56,3 @@ Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Pane
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *SSL-Zertifikate installieren (01:25 Min.)*
-
-## Zusätzliche Ressourcen
-
-* [Vollständige Subdomain-Zuweisung (Video)](./subdomain-delegation.md)
-* [Subdomains und Zertifikate – Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)

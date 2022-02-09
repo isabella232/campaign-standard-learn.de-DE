@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 849f2da2-aced-45ff-8b4b-554add5a5474
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '40'
 ht-degree: 100%
 
 ---
@@ -21,8 +21,3 @@ ht-degree: 100%
 Erfahren Sie, wie Sie Daten mit einem im Control Panel installierten GPG-Schlüssel exportieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [GPG-Schlüsselverwaltung (Videos)](./gpg-key-management-overview.md)
-* [Verwaltung von GPG-Schlüsseln (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=de)

@@ -9,20 +9,15 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: ff5a2d83-d38c-47d2-a3ae-e07d8cab13eb
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Generieren und Installieren von GPG-Schlüsseln zur Datenverschlüsselung
 
-Erfahren Sie, wie Sie ein öffentlich-privates Schlüsselpaar für die Verschlüsselung von ausgehenden Daten in einer bestimmten Campaign-Instanz generieren und installieren.
+Erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar aus öffentlichem/privatem Schlüssel generieren und in einer bestimmten Campaign-Instanz installieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [GPG-Schlüsselverwaltung (Videos)](./gpg-key-management-overview.md)
-* [Verwaltung von GPG-Schlüsseln (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=de)

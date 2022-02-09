@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,3 @@ Um hohe Posteingangsraten und niedrige Spam-Raten zu gewährleisten, setzen best
 Im folgenden Video wird beschrieben, wie Sie TXT-Website-Überprüfungseinträge von [!DNL Google] zu allen Subdomains hinzufügen können, die zum Senden von E-Mails an GMAIL-Adressen mit [!UICONTROL Campaign Control Panel] verwendet werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html?lang=en)

@@ -1,6 +1,6 @@
 ---
-title: Ändern benutzerdefinierter Ressourcen bei der Einrichtung von Adobe Campaign Standard (ACS) für Datenschutzanfragen
-description: Beim Einrichten von Adobe Campaign Standard (ACS) für die Verarbeitung von Datenschutzanfragen müssen Sie sicherstellen, dass alle benutzerdefinierten Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
+title: Ändern benutzerdefinierter Ressourcen beim Einrichten von Adobe Campaign Standard für Datenschutzanfragen
+description: Beim Einrichten von Adobe Campaign Standard für die Verarbeitung von Datenschutzanfragen müssen Sie sicherstellen, dass alle benutzerdefinierten Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
 feature: Privacy Tools
 kt: 1243
 thumbnail: 23326.jpg
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -29,6 +29,4 @@ Beim Einrichten von Adobe Campaign Standard für die Verarbeitung von Datenschut
 >
 > Um Ihre Version zu überprüfen, klicken Sie auf **?** oben rechts in der Benutzeroberfläche und wählen Sie &quot;Info&quot; aus.
 
-## Zusätzliche Ressourcen
-
-* [Allgemeine Datenschutzrichtlinien für Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=de)
+Weitere Informationen finden Sie unter [Allgemeine Datenschutzrichtlinien für Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=de)

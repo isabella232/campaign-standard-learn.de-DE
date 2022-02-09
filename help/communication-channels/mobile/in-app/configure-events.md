@@ -10,9 +10,9 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '243'
 ht-degree: 7%
 
 ---
@@ -61,7 +61,3 @@ Je nach der Konfiguration Ihrer App werden die folgenden drei Kategorien unterst
 >[!NOTE]
 >
 >[!UICONTROL Analytics-Ereignisse] eine Adobe Analytics-Lizenz benötigen. Sobald Sie [[!DNL Analytics] Erweiterung konfiguriert](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) und [Analytics für Ihre App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), werden diese Ereignisse in der Variablen [!UICONTROL In-App] Konfiguration in ACS.
-
-## Zusätzliche Ressourcen
-
-* [Lebenszyklusmetriken aktivieren (Dokumentation)](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 67%
+source-wordcount: '85'
+ht-degree: 71%
 
 ---
 
@@ -33,8 +33,3 @@ Um auf die [!UICONTROL Subdomain-Verwaltung] im [!UICONTROL Control Panel] zuzug
 Erfahren Sie, wie Sie eine Subdomain Adobe Campaign zuweisen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [Hinzufügen von SSL-Zertifikaten](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [Subdomains und Zertifikate](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)

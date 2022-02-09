@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 75%
+source-wordcount: '67'
+ht-degree: 68%
 
 ---
 
@@ -22,8 +22,3 @@ Mit dem Control Panel können Sie externe Daten, die in Ihre Adobe Campaign-Inst
 Erfahren Sie, wie ein öffentlicher Schlüssel erstellt und importiert und in einer Campaign-Instanz zur Entschlüsselung von eingehenden Daten installiert wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [GPG-Schlüsselverwaltung (Videos)](./gpg-key-management-overview.md)
-* [Verwaltung von GPG-Schlüsseln (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=de)

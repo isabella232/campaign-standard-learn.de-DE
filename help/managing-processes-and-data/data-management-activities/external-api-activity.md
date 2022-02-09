@@ -10,10 +10,10 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 51%
+source-wordcount: '174'
+ht-degree: 53%
 
 ---
 
@@ -37,7 +37,3 @@ In diesem Video wird die Verwendung der [!UICONTROL Aktivität &quot;Externe API
 >[!NOTE]
 >
 >Die Aktivität dient zum Abrufen kampagnenweiter Daten, nicht zum Abrufen spezifischer Informationen für jedes Profil, da dies zu einer Übertragung großer Datenmengen führen kann. Wenn der Anwendungsfall profilspezifische Informationen erfordert, wird empfohlen, die Aktivität Datei übertragen zu verwenden.
-
-## Zusätzliche Ressourcen
-
-* [Externe API (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)

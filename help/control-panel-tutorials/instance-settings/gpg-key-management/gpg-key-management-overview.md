@@ -4,11 +4,12 @@ description: Erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Sc
 feature: Control Panel
 audience: administrator
 team: TM
+recommendations: noDisplay
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 75%
+source-wordcount: '164'
+ht-degree: 69%
 
 ---
 
@@ -22,6 +23,4 @@ Erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar 
 * [Verschlüsseln von Daten mit einem GPG-Schlüssel](./using-a-gpg-key-to-encrypt-data.md)
 * [Entschlüsseln von Daten](./decrypting-data.md)
 
-## Zusätzliche Ressourcen
-
-* [Verwaltung von GPG-Schlüsseln (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=de)
+Weitere Informationen finden Sie in der Produktdokumentation zu [Verwaltung von GPG-Schlüsseln (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=de)
