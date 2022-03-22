@@ -6,10 +6,10 @@ version: Standard
 type: Tutorial
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-standard-learn.de-DE
+git-repo: https://github.com/AdobeDocs/campaign-standard-learn.de-DE
 index: true
 source-git-commit: 809ca48418ecbad061dd288c4b39428a14382a10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # Metadaten für den internen Gebrauch
 
-Die Datei &quot;metadata.md&quot; enthält Metadaten auf der Repository-Ebene, die über die &quot;TOC.md&quot;-Dateien des Benutzerhandbuchs im Repository übergeben werden. Wenn Sie den „metadata.md“-Inhalt für ein Benutzerhandbuch ändern möchten, tun Sie dies in einer beliebigen „TOC.md“-Datei.
+Die Datei &quot;metadata.md&quot; enthält Metadaten auf Repository-Ebene, die in die &quot;TOC.md&quot;-Dateien des Benutzerhandbuchs im Repository übergeben werden. Wenn Sie den „metadata.md“-Inhalt für ein Benutzerhandbuch ändern möchten, tun Sie dies in einer beliebigen „TOC.md“-Datei.
 
 | Metadaten | Funktion |
 |--- |--- |
