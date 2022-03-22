@@ -10,9 +10,9 @@ activity: use
 team: TM
 exl-id: a0e56349-4296-4309-8698-bf3c48eb6c58
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen mit dem [!DNL Control
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-Weitere Informationen finden Sie in der Produktdokumentation [Datenbanküberwachung](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=de#performance-monitoring)
+Weitere Informationen finden Sie in der Produktdokumentation zur [Datenbanküberwachung](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=de#performance-monitoring)
