@@ -7,7 +7,7 @@ feature: Overview
 role: Admin
 level: Experienced
 source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
 
@@ -20,5 +20,5 @@ ht-degree: 100%
 + [Technischer Fehler beim Anzeigen eines Profils](/help/troubleshoot/technical-error-while-viewing-profile.md)
 + [Fehler beim Herstellen der Verbindung zu Experience Manager](/help/troubleshoot/error-aem-connection.md)
 + [Schritte zum Ändern der URL öffentlicher Ressourcen von http in https](/help/troubleshoot/change-public-resource-url.md)
-+ [Entschlüsselte Ereignis-ID und Versand-ID abrufen](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
++ [Abrufen entschlüsselter Ereignis-ID und Versand-ID](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
 
