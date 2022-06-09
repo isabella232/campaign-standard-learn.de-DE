@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '258'
-ht-degree: 100%
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
+workflow-type: tm+mt
+source-wordcount: '305'
+ht-degree: 84%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 
 ## Neue Funktionen
+
+* **[Maximieren Sie Ihren E-Mail-ROI und lernen Sie Best Practices für die Rückgewinnung von Abonnenten kennen.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Erfahren Sie, wie Sie den E-Mail-ROI maximieren und Best Practices für die Rückgewinnung von Abonnenten erlernen. Entdecken Sie die Strategien zur Verbesserung der Interaktion Ihrer Abonnenten und verstehen Sie den Gesamterfolg Ihrer E-Mail-Kampagnen.*
 
 * **[Fehler beheben](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=de)**
 
@@ -59,7 +63,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
       <img alt="Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=de">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android™</strong>
     </a>
     </div>
