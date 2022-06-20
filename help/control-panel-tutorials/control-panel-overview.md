@@ -11,9 +11,9 @@ team: PM
 recommendations: noDisplay
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '248'
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren 
 
    *Erfahren Sie, wie Sie eine Subdomain mit CNAME im Control Panel einrichten und senden.*
 
-Siehe [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de) für weitere Informationen zu den neuesten Produktversionen.
+Weitere Informationen zu den neuesten Produktversionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de).
 
 ## Favoriten unserer Mitarbeiter
 
