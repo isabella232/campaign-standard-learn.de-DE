@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
-workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 78%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -20,13 +20,13 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Control Panel - Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[Control Panel – Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=de){target=&quot;_blank&quot;}**
 
-   *Erfahren Sie, wie Sie die temporäre Speicherverwendung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
+   *Erfahren Sie, wie Sie die temporäre Speicherauslastung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
 
-* **[Control Panel - Überwachen von Durchsätzen und Latenz](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[Control Panel – Überwachen von Durchsätzen und Latenzzeiten](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=de){target=&quot;_blank&quot;}**
 
-   *Erfahren Sie, wie Sie den Versanddurchsatz und die Latenz von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
+   *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
 
 ## Favoriten unserer Mitarbeiter
 
@@ -63,7 +63,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
       <img alt="Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=de">
     <strong>Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android™</strong>
     </a>
     </div>
