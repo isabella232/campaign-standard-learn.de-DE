@@ -4,7 +4,7 @@ user-guide-description: Hier erfahren Sie, wie Sie die Schlüssel-Assets Ihrer A
 breadcrumb-title: Control Panel – Tutorials
 index: true
 source-git-commit: f5d3396f46839a37fdc7199347344382a02d3ff1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
