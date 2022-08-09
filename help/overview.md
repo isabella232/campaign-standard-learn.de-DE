@@ -24,7 +24,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
    *Erfahren Sie, wie Sie die temporäre Speicherauslastung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
 
-* **[Control Panel – Überwachen von Durchsätzen und Latenzzeiten](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=de){target=&quot;_blank&quot;}**
+* **[Control Panel – Überwachen von Durchsätzen und Latenzen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=de){target=&quot;_blank&quot;}**
 
    *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
 
