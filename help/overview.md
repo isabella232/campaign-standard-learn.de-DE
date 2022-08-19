@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: f06fd60880e5a32326287fa1782404d3909cf3a5
+source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 91%
+source-wordcount: '306'
+ht-degree: 100%
 
 ---
 
@@ -19,10 +19,6 @@ ht-degree: 91%
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 
 ## Neue Funktionen
-
-* **[SMPP-Protokoll vertieft Tauchgänge und Fehlerbehebung](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
-
-   *Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie SMPP Daten über PDUs austauscht. Informationen zur Fehlerbehebung bei Verbindungen.*
 
 * **[Control Panel – Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=de){target=&quot;_blank&quot;}**
 
