@@ -8,8 +8,8 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
-workflow-type: tm+mt
-source-wordcount: '306'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -63,7 +63,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
       <img alt="Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=de">
     <strong>Tutorial: Erste Schritte mit Push-Benachrichtigungen für Android™</strong>
     </a>
     </div>
