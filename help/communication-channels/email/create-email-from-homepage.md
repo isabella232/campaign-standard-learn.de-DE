@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines E-Mail-Versands
-description: 'Erfahren Sie, wie Sie einen E-Mail-Versand erstellen von der Homepage aus. '
+description: Erfahren Sie, wie Sie einen E-Mail-Versand erstellen von der Homepage aus.
 feature: Email
 kt: 1807
 thumbnail: 23721.jpg
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 99f144fa2c6d892a6b1fde4e434fe75145367313
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '63'
+ht-degree: 39%
 
 ---
 
