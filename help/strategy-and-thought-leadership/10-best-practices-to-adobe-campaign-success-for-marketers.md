@@ -5,9 +5,9 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11772
-source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
+source-git-commit: 8fa4a3e70ab815af801aaf96596fcc466b879086
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '1274'
 ht-degree: 0%
 
 ---
@@ -71,6 +71,4 @@ Wenn man neue Dinge ausprobiert, bekommt man es nicht immer beim ersten Mal rich
 
 ## 10. Bleiben Sie so agil wie möglich
 
-Der Markt ändert sich weiter und bewegt sich immer schneller. Die Ermutigung Ihrer Kampagnenteams, so einfach und agil wie möglich zu bleiben, ist entscheidend, um im Wettbewerb zu bestehen und die wachsenden Kundenerwartungen weiterhin zu erfüllen. [35 % der Digital Marketing-Führungskräfte glauben, dass die größten Herausforderungen innerhalb ihrer Organisation auftreten](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges).
-
-Eine übergreifende Schulung auf drei Plattformen und ein besseres Verständnis der Datenflüsse und -strukturen oder anderer Adoben-Lösungen können dabei helfen, dies zu erreichen oder Notfallpläne für Kampagnen zu erstellen. Fachleute für ein primäres Instrument einsetzen. Dann schauen Sie sich die Kanäle mit sekundären und tertiären Tools an. Dies ermöglicht Flexibilität in Ihrem Marketing-Vorgangsmodell. Durch die Nutzung von mehr als drei Tools können Sie Ihr Know-how und Ihre Ergebnisse drastisch reduzieren. Diese Einstellung kann auf vielerlei Weise erreicht werden, aber ein allgemeines Engagement für Agilität und Planung ist entscheidend für kurz- und langfristigen Erfolg.
+Der Markt ändert sich weiter und bewegt sich immer schneller. Die Ermutigung Ihrer Kampagnenteams, so einfach und agil wie möglich zu bleiben, ist entscheidend, um im Wettbewerb zu bestehen und die wachsenden Kundenerwartungen weiterhin zu erfüllen. [35 % der Digital Marketing-Führungskräfte glauben, dass die größten Herausforderungen innerhalb ihrer Organisation auftreten](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Dazu können Sie verschiedene Plattformen nutzen, Datenflüsse und -strukturen sowie andere Adoben besser verstehen und Notfallpläne für Kampagnen erstellen. Diese Denkweise kann in vielerlei Hinsicht erreicht werden, aber ein allgemeines Engagement für Agilität und Planung ist entscheidend für kurz- und langfristigen Erfolg.
