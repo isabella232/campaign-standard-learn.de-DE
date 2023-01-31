@@ -2,7 +2,7 @@
 user-guide-title: Adobe Campaign Standard – Tutorials
 user-guide-description: Gestalten Sie Kundenerlebnisse auf unterschiedlichsten Kanälen und schaffen Sie eine Umgebung für visuelle Kampagnenorchestrierungen, Interaktionsverwaltung in Echtzeit und kanalübergreifende Ausführung.
 breadcrumb-title: Campaign Standard-Tutorials
-source-git-commit: cb58f49fe6f549ed05e590a3381a796c20726531
+source-git-commit: 027b8b368f88cc9fd3bc450b525f057450fa9af8
 workflow-type: tm+mt
 source-wordcount: '567'
 ht-degree: 98%
@@ -122,6 +122,6 @@ ht-degree: 98%
    + [Ausführen von Datenschutzanfragen](/help/privacy/execute-privacy-requests.md)
 + [Fehlerbehebung bei Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=de)
 + Führerschaft bei Strategie und Innovation{#strategy}
-   + [Zehn Best Practices für den Erfolg von Adobe Campaign für Marketingexperten](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [Zehn Best Practices für den Erfolg von Adobe Campaign für Marketing-Experten](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [Maximieren Sie den E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnenten.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=de)
    + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
