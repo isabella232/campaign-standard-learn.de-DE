@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard – Tutorials
 user-guide-description: Gestalten Sie Kundenerlebnisse auf unterschiedlichsten Kanälen und schaffen Sie eine Umgebung für visuelle Kampagnenorchestrierungen, Interaktionsverwaltung in Echtzeit und kanalübergreifende Ausführung.
 breadcrumb-title: Campaign Standard-Tutorials
-source-git-commit: 1330f710368996dfa5562673360c12f2414a4ac7
+source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '570'
 ht-degree: 99%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 99%
    + E-Mail {#email}
       + [Erstellen einer E-Mail](/help/communication-channels/email/create-email-from-homepage.md)
       + [Testversand, Vorbereiten und Senden einer E-Mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Führen Sie einen Testversand durch.](/help/communication-channels/email/send-a-proof.md)
       + [A/B-Tests](/help/communication-channels/email/a-b-testing.md)
       + [Testen von E-Mail-Nachrichten mit Zielgruppenprofilen](/help/communication-channels/email/profile-substitution.md)
       + [Hinzufügen einer Kontrollgruppe zu einem Versand](/help/communication-channels/email/control-groups.md)
