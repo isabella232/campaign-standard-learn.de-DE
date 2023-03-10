@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 84%
 
 ---
 
@@ -20,13 +20,17 @@ Adobe Campaign bietet eine Plattform zur Erstellung kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Control Panel – Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=de){target=&quot;_blank&quot;}**
+* **[Versandplanung](/help/communication-channels/email/schedule-messages.md)**
 
-   *Erfahren Sie, wie Sie die temporäre Speicherauslastung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
+   *Erfahren Sie, wie Sie einen E-Mail-Versand planen.*
 
-* **[Control Panel – Überwachen von Durchsätzen und Latenzen](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=de){target=&quot;_blank&quot;}**
+* **[Testversand senden](/help/communication-channels/email/send-a-proof.md)**
 
-   *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
+   *Hier erfahren Sie, wie Sie eine E-Mail-Nachricht testen können, bevor Sie sie an die Endempfänger senden.*
+
+* **[Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *Erfahren Sie mehr über zehn Best Practices, mit denen Adobe Campaign-Experten die digitale Konsumumwandlung und ein besseres Kundenerlebnis ermöglichen und beschleunigen können.*
 
 ## Favoriten unserer Mitarbeiter
 
