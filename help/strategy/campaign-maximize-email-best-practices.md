@@ -2,9 +2,9 @@
 title: Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten
 description: Erfahren Sie, wie Sie Ihren E-Mail-ROI maximieren können und lernen Sie Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten kennen. Lernen Sie Strategien zur Verbesserung der Interaktion mit Abonnentinnen und Abonnenten kennen und erfahren Sie mehr über den Gesamterfolg Ihrer E-Mail-Kampagnen.
 solution: Campaign
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
+workflow-type: tm+mt
+source-wordcount: '1471'
 ht-degree: 100%
 
 ---
@@ -104,7 +104,7 @@ Der Status Ihrer Abonnentinnen und Abonnenten (aktiv, abgelaufen oder inaktiv) h
 
 Im Folgenden finden Sie eine einfache Tabelle, die Sie bei der Überprüfung unterstützt:
 
-![Abonnentenstatus](assets/subscriber-status.png)
+![Abonnentenstatus](/help/assets/subscriber-status.png)
 
 Wenn Sie Kundinnen und Kunden beispielsweise täglich eine E-Mail senden, sollten diese innerhalb des letzten Monats mit mindestens einer E-Mail interagiert haben, damit sie als aktiv und interagierend gelten. Wenn Sie Kundinnen und Kunden hingegen monatlich eine E-Mail schicken und diese in den letzten 9 bis 14 Monaten nicht reagiert haben, können Sie sie als inaktiv einstufen.
 
