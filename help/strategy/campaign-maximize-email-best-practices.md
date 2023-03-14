@@ -3,8 +3,8 @@ title: Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von 
 description: Erfahren Sie, wie Sie Ihren E-Mail-ROI maximieren können und lernen Sie Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten kennen. Lernen Sie Strategien zur Verbesserung der Interaktion mit Abonnentinnen und Abonnenten kennen und erfahren Sie mehr über den Gesamterfolg Ihrer E-Mail-Kampagnen.
 solution: Campaign
 source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: tm+mt
-source-wordcount: '1471'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
