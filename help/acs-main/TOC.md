@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard – Tutorials
 user-guide-description: Gestalten Sie Kundenerlebnisse auf unterschiedlichsten Kanälen und schaffen Sie eine Umgebung für visuelle Kampagnenorchestrierungen, Interaktionsverwaltung in Echtzeit und kanalübergreifende Ausführung.
 breadcrumb-title: Campaign Standard-Tutorials
 source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '563'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -40,8 +40,8 @@ ht-degree: 99%
    + E-Mail {#email}
       + [Erstellen einer E-Mail](/help/communication-channels/email/create-email-from-homepage.md)
       + [Testversand, Vorbereiten und Senden einer E-Mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Versandplanung](/help/communication-channels/email/schedule-messages.md)
-      + [Führen Sie einen Testversand durch.](/help/communication-channels/email/send-a-proof.md)
+      + [Nachrichtenplanung](/help/communication-channels/email/schedule-messages.md)
+      + [Durchführen eines Testversands](/help/communication-channels/email/send-a-proof.md)
       + [A/B-Tests](/help/communication-channels/email/a-b-testing.md)
       + [Testen von E-Mail-Nachrichten mit Zielgruppenprofilen](/help/communication-channels/email/profile-substitution.md)
       + [Hinzufügen einer Kontrollgruppe zu einem Versand](/help/communication-channels/email/control-groups.md)
@@ -73,9 +73,9 @@ ht-degree: 99%
       + [Testen und Veröffentlichen einer Landingpage](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Konfigurieren einer Landingpage-Vorlage](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Erstellen und Personalisieren von Inhalten {#designing-content}
-   + Email Designer{#email-designer}
+   + E-Mail-Designer{#email-designer}
       + [Übersicht](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Erste Schritte mit Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Erste Schritte mit E-Mail-Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Einführung in E-Mail-Inhaltsvorlagen](/help/designing-content/email-designer/email-content-templates.md)
       + [Konfigurieren der Ansicht auf einem Mobilgerät](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Vorschau der E-Mail und Anti-Spam-Analyse](/help/designing-content/email-designer/preview-your-email.md)
