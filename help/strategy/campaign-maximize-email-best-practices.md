@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie Ihren E-Mail-ROI maximieren können und lerne
 solution: Campaign
 source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
 workflow-type: ht
-source-wordcount: '0'
+source-wordcount: '1471'
 ht-degree: 100%
 
 ---
