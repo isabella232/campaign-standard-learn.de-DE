@@ -8,8 +8,8 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+workflow-type: ht
 source-wordcount: '197'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Bena
 ## Voraussetzungen
 
 * Sie sollten die Eigenschaft &quot;launch&quot; mit der Adobe Campaign Standard-Erweiterung konfiguriert haben. Befolgen Sie die unten aufgeführte Online-Hilfe.
-   * [Video-Tutorial](https://video.tv.adobe.com/v/26224?quality=12)
+   * [Video-Tutorial](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
    * [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=de)
 
 * Vergewissern Sie sich, dass der Status der entsprechenden Eigenschaft in Adobe Campaign Standard auf &quot;konfiguriert&quot; gesetzt ist.
