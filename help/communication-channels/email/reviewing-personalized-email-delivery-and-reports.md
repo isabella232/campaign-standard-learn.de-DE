@@ -10,10 +10,10 @@ team: WWFRE
 exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
 role: User
 level: Beginner
-source-git-commit: 38be95456d50e8e3550a96292621d40958b60d39
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '52'
+ht-degree: 23%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Video wird erläutert, wie Sie einen personalisierten E-Mail-Versand überprüfen und verschiedene in Adobe Campaign Standard verfügbare Berichte untersuchen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12&learn=on)

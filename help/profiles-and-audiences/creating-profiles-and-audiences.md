@@ -10,7 +10,7 @@ team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: User
 level: Beginner
-source-git-commit: 9333e405cd7db178cebf0281f7a34fbb2a183081
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 40%
@@ -28,4 +28,4 @@ Profile, die nach einem oder mehreren gemeinsamen Kriterien gruppiert sind, werd
 
 In diesem Video wird beschrieben, wie Sie zu vorhandenen Profilen navigieren und in Adobe Campaign Standard Profile und Audiences erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12&learn=on)

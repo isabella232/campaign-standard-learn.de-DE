@@ -10,7 +10,7 @@ team: PM
 exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%
@@ -25,4 +25,4 @@ Mit [!DNL Adobe Campaign Standard] können Sie eine [!UICONTROL Kontrollgruppe] 
 
 Erfahren Sie, wie Sie eine [!UICONTROL Kontrollgruppe] für Ihren [!UICONTROL Versand] definieren und wie Sie die der [!UICONTROL Kontrollgruppe] zugewiesenen Profile extrahieren, nachdem der [!UICONTROL Versand] ausgeführt wurde.
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&learn=on)

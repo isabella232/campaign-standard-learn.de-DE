@@ -8,7 +8,7 @@ doc-type: feature video
 activity: setup
 team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 41%
@@ -21,7 +21,7 @@ ht-degree: 41%
 ]
 Erstellen [!UICONTROL Ermüdungsregeln]müssen Sie eine maximale Anzahl von Nachrichten pro Profil definieren und einen Zeitraum auswählen, für den die Regel gelten soll. Bei der Versandvorbereitung werden Profile vom Versand ausgeschlossen, wenn sie bereits eine bestimmte Anzahl an Nachrichten erhalten haben.
 
->[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12&learn=on)
 
 *Erstellen einer [!UICONTROL Ermüdungsregel] (04:49 Min.)*
 

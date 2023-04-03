@@ -10,7 +10,7 @@ team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: User
 level: Beginner
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Die [!UICONTROL Briefpost] -Kanal können Sie eine segmentierte Liste von Empfä
 
 In diesem Video wird beschrieben, wie Sie eine [!UICONTROL Briefpost] -Versand und welche Einstellungen erforderlich sind, um ein Profil zu einem [!UICONTROL Briefpost] -Versand.
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
 
 ## Erstellen Sie eine [!UICONTROL Briefpost] innerhalb eines Workflows
 

@@ -1,6 +1,6 @@
 ---
 title: Push-Benachrichtigung erstellen
-description: 'Erfahren Sie, wie Sie eine Push-Benachrichtigung erstellen. '
+description: Erfahren Sie, wie Sie eine Push-Benachrichtigung erstellen.
 feature: Push
 kt: 1401
 thumbnail: 31499.jpg
@@ -10,7 +10,7 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 7777c76109ca8f40982073ec4782e82903a78095
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 11%
@@ -29,4 +29,4 @@ Mit Adobe Campaign können Sie personalisierte und segmentierte Nachrichten send
 
 In diesem Video wird beschrieben, wie Sie eine [!DNL push notification to app subscribers].
 
->[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12&learn=on)
