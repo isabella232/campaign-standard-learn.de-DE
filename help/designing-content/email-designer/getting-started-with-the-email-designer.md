@@ -1,6 +1,6 @@
 ---
-title: Erste Schritte mit Email Designer
-description: Machen Sie sich mit den allgemeinen Funktionen von Email Designer und dem Entwurf einer neuen E-Mail vertraut.
+title: Erste Schritte mit E-Mail-Designer
+description: Die allgemeine Funktionalität von E-Mail-Designer verstehen und wie man eine E-Mail von Grund auf entwirft.
 feature: Email Design
 kt: 2391
 thumbnail: 25912.jpg
@@ -11,14 +11,14 @@ exl-id: 298fa9c5-153b-4886-9324-82d2651060ab
 role: User, Developer
 level: Beginner
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
-# Erste Schritte mit [!UICONTROL Email Designer]
+# Erste Schritte mit [!UICONTROL E-Mail-Designer]
 
-In diesem Video werden die allgemeinen Funktionen von [!UICONTROL Email Designer] und das Entwerfen einer neuen E-Mail erläutert.
+In diesem Video werden die allgemeinen Funktionen von [!UICONTROL E-Mail-Designer] und das Entwerfen einer neuen E-Mail erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12&learn=on)
