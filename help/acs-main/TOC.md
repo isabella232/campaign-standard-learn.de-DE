@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard – Tutorials
 user-guide-description: Gestalten Sie Kundenerlebnisse auf unterschiedlichsten Kanälen und schaffen Sie eine Umgebung für visuelle Kampagnenorchestrierungen, Interaktionsverwaltung in Echtzeit und kanalübergreifende Ausführung.
 breadcrumb-title: Campaign Standard-Tutorials
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
-source-wordcount: '563'
-ht-degree: 100%
+source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -88,11 +88,12 @@ ht-degree: 100%
       + [Aktivität &quot;Externes Signal&quot;](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datenverwaltungsaktivitäten {#data-management-activities}
       + [Aktivität &quot;Externe API&quot;](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Bericht {#reporting}
++ Bericht und Überwachung {#reporting}
    + [Berichte](/help/getting-started/exploring-reports.md)
    + [Erstellen eines dynamischen Berichts](/help/reporting/creating-a-dynamic-report.md)
    + [Erstellen eines Berichts auf der Basis von benutzerdefinierten Profilattributen](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Erstellen eines Berichts auf der Basis von Workflow-Segmenten](/help/reporting/report-on-workflow-segments.md)
+   + [Überwachen von Sendungen](/help/reporting/monitor-a-delivery.md)
 + Integration mit anderen Lösungen {#integrations}
    + [Die Wirkung von Sendungen in Adobe Analytics verfolgen](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Verwenden von Triggern für Transaktionsnachrichten {#triggers}
