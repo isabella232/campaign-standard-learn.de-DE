@@ -9,9 +9,9 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
+source-git-commit: f7f2b6abb26075b25a3b55e4ceed744172691ce8
 workflow-type: tm+mt
-source-wordcount: '737'
+source-wordcount: '735'
 ht-degree: 1%
 
 ---
@@ -105,7 +105,7 @@ Sie können diesen Fehler auf drei Arten beheben:
 
 1. Ändern Sie den Namen zurück in den ursprünglich vorhandenen Ausdruck.
 
-2. Wenn Sie einen neuen Namen verwenden möchten, ändern Sie die Werte in den Aktivitäten im **Anreicherungsaktivität**.
+2. Wenn Sie einen neuen Namen verwenden möchten, ändern Sie die Werte in der **Anreicherungsaktivität**.
 
 3. Wenn Sie sich nicht erinnern, was sich geändert hat, wäre es am besten, die Aktivität neu zu erstellen.
 
