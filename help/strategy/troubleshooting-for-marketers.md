@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
+source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
 workflow-type: tm+mt
 source-wordcount: '737'
 ht-degree: 1%
@@ -80,9 +80,9 @@ Es gibt zwei Möglichkeiten, diesen Fehler zu beheben:
 
 1. Verwenden Sie denselben Feldnamen sowohl in der primären als auch in der ausgeschlossenen Datei und verwenden Sie dieses Feld als ID
 
-ODER
+   ODER
 
-2. Verwenden Sie die Ausschlussmethode JOINS , um das Feld auszuwählen, auf dessen Grundlage Sie die Datensätze ausschließen möchten.
+1. Verwenden Sie die Ausschlussmethode JOINS , um das Feld auszuwählen, auf dessen Grundlage Sie die Datensätze ausschließen möchten.
 
 ![Fehler bei gemeinsamem Felddatensatz - Lösung ](/help/assets/kt-13256/dataset-error-solution.png)
 
