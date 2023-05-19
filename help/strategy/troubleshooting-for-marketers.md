@@ -9,9 +9,9 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: f7f2b6abb26075b25a3b55e4ceed744172691ce8
+source-git-commit: 3da1b695d56f9deb5747cc89de023f19a5b25bad
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '724'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Von: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Senior Consultant, Meijer
 
-Als Senior Engineer und Customer Experte für Adobe Experience Cloud-Produkte in den letzten fünf Jahren habe ich Geschäftsbenutzer bei [Meijer](https://www.meijer.com/){target="_blank"}, eine 1934 gegründete amerikanische Supercenter-Kette, die komplexe sowie Marketing- und Transaktionskampagnen mit ACS durchführt. Zu den Projekten, an denen ich gearbeitet habe, gehören benutzerdefinierte Kampagnen zum Speichern von Angeboten und Bestelldetails für die Personalisierung, die Integration in Adobe Audience Manager und Kundeneinblicke für die Segmentaufnahme.
+Als Senior Engineer und Customer Experte für Adobe Experience Cloud-Produkte in den letzten fünf Jahren habe ich Geschäftsbenutzer bei [Meijer](https://www.meijer.com/){target="_blank"}, eine 1934 gegründete amerikanische Supercenter-Kette, die komplexe Marketing- und Transaktionskampagnen mit ACS durchführt. Zu den Projekten, an denen ich gearbeitet habe, gehören benutzerdefinierte Kampagnen zum Speichern von Angeboten und Bestelldetails für die Personalisierung, die Integration in Adobe Audience Manager und Kundeneinblicke für die Segmentaufnahme.
 
 
 In meiner Zeit mit ACS bin ich auf Fehler gestoßen, die zeitaufwendig und frustrierend sein können zu lösen. Das Wissen über die häufigsten Fehler kann bei der schnelleren Problemlösung helfen und Ihre Produktivität steigern. Im Folgenden finden Sie meine Tipps zur Fehlerbehebung, mit denen Sie ähnliche Fehler wirksam beheben können, sobald sie auftreten.
@@ -50,8 +50,6 @@ Diese Fehlertypen werden in einem Workflow angezeigt, wenn Sie versuchen, die Ab
 **Ursache:**
 Dieser Fehler wird angezeigt, wenn Sie eine E-Mail an eine Adresse senden, die E-Mail-Adresse oder eine andere Kennung jedoch nicht mit einem Profil abgestimmt ist. Um eine E-Mail-Kommunikation zu senden, sollte die E-Mail oder die Kennung stets mit einem Profil verknüpft sein.
 
-Verwenden Sie die Abstimmungsaktivität wie unten dargestellt:
-
 ![Workflow mit Abstimmungsaktivität](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Lösung:**
@@ -69,7 +67,7 @@ Weitere Informationen [Abstimmung](https://experienceleague.adobe.com/docs/campa
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Ursache:**
-Dieses Problem tritt bei der Verwendung von **Ausschlussaktivität** in ACS-Workflows. Der Fehler tritt bei der Ausführung und dem Ausschluss auf der Basis der ID auf, wenn der Primäre Satz und der ausgeschlossene Satz nicht dieselben Feldnamen haben.
+Dieses Problem tritt bei der Verwendung von **Ausschlussaktivität** in ACS-Workflows bei der Ausführung eines auf der ID basierenden Ausschlusses, wenn der Primäre Satz und der ausgeschlossene Satz nicht dieselben Feldnamen haben.
 
 
 ![Allgemeiner Fehler bei Felddatensätzen](/help/assets/kt-13256/dataset-error.png)
@@ -82,7 +80,7 @@ Es gibt zwei Möglichkeiten, diesen Fehler zu beheben:
 
    ODER
 
-1. Verwenden Sie die Ausschlussmethode JOINS , um das Feld auszuwählen, auf dessen Grundlage Sie die Datensätze ausschließen möchten.
+2. Verwenden Sie die Ausschlussmethode JOINS , um das Feld auszuwählen, auf dessen Grundlage Sie die Datensätze ausschließen möchten.
 
 ![Fehler bei gemeinsamem Felddatensatz - Lösung ](/help/assets/kt-13256/dataset-error-solution.png)
 
