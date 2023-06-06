@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren von Ereignissen
-description: "Erfahren Sie, wie Ereignisse definieren, welche vom Benutzer initiierte Aktion eine In-App-Nachricht Trigger, die angezeigt werden soll. "
+description: "Erfahren Sie, wie Ereignisse definieren, welcher Trigger durch eine Aktion ausgelöst wurde und welche In-App-Nachricht angezeigt werden soll. "
 feature: In App
 kt: 2548
 thumbnail: 26245.jpg
@@ -10,16 +10,16 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: 56b973566e9dee412aeee1412fe6271537fc1295
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 7%
+source-wordcount: '225'
+ht-degree: 8%
 
 ---
 
 # Konfigurieren [!UICONTROL Veranstaltungen] {#configuring-events}
 
-Beim Konfigurieren von [!UICONTROL In-App] -Meldung eingeben, müssen Sie definieren, welche vom Benutzer initiierte Aktion die Nachricht Trigger, die angezeigt werden soll. Diese Aktionen werden [!UICONTROL events]. Drei Kategorien von [!UICONTROL events] sind verfügbar: [!UICONTROL Mobile-App-Ereignisse], [!UICONTROL Lebenszyklusereignisse]und [!UICONTROL Analytics-Ereignisse].
+Beim Konfigurieren von [!UICONTROL In-App] -Meldung festlegen, müssen Sie festlegen, welche vom Benutzer initiierte Aktion die Nachricht Trigger, die angezeigt werden soll. Diese Aktionen werden [!UICONTROL events]. Drei Kategorien von [!UICONTROL events] sind verfügbar: [!UICONTROL Mobile-App-Ereignisse], [!UICONTROL Life-Cycle-Ereignisse]und [!UICONTROL Analytics-Ereignisse].
 
 ## [!UICONTROL Mobile-App-Ereignisse] {#mobile-application-events}
 
@@ -36,7 +36,7 @@ Sie müssen diese [!UICONTROL events] in Adobe Campaign. Im folgenden Video wird
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
 
-## [!UICONTROL Lebenszyklusereignisse] {#life-cycle-events}
+## [!UICONTROL Life-Cycle-Ereignisse] {#life-cycle-events}
 
 [!UICONTROL Lebenszyklusereignisse] sind vorkonfiguriert [!UICONTROL events]. Folgendes [!UICONTROL events] sind verfügbar:
 
@@ -48,7 +48,7 @@ Ein Anwendungsbeispiel könnte eine Nachricht sein, die nach einem Upgrade neue 
 
 >[!NOTE]
 >
->Die [!UICONTROL Lebenszyklusmodul] in der Mobile App konfiguriert werden. Weitere Informationen finden Sie hier . [Hinzufügen des Lebenszyklus zu Ihrer App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
+>Die [!UICONTROL Lebenszyklusmodul] muss in der Mobile App konfiguriert werden. Weitere Informationen finden Sie hier . [Hinzufügen des Lebenszyklus zu Ihrer App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
 
 ## [!UICONTROL Analytics-Ereignisse] {#analytics-events}
 
@@ -60,4 +60,4 @@ Je nach der Konfiguration Ihrer App werden die folgenden drei Kategorien unterst
 
 >[!NOTE]
 >
->[!UICONTROL Analytics-Ereignisse] eine Adobe Analytics-Lizenz benötigen. Sobald Sie [[!DNL Analytics] Erweiterung konfiguriert](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) und [Analytics für Ihre App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), werden diese Ereignisse in der Variablen [!UICONTROL In-App] Konfiguration in ACS.
+>[!UICONTROL Analytics-Ereignisse] eine Adobe Analytics-Lizenz benötigen. Sobald Sie [!DNL Analytics] -Erweiterung konfiguriert und Ihrer App Analytics hinzugefügt haben, sind diese Ereignisse im [!UICONTROL In-App] Konfiguration in ACS.
