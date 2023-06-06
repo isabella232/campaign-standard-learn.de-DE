@@ -10,17 +10,15 @@ team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 6%
+source-wordcount: '43'
+ht-degree: 16%
 
 ---
 
 # Nutzer der Zielgruppe auf der Basis ihrer [!DNL Campaign] profile
 
-Sie können Benutzer, die sich mit PII (bekannten Mobile App-Benutzern) bei der App angemeldet haben, mithilfe von in Adobe Campaign Standard verfügbaren CRM-Profilattributen mit personalisierten Nachrichten ansprechen. Diese Vorlage unterstützt Anwendungsfälle für die kanalübergreifende Orchestrierung der Customer Journey, bei denen Sie bereits Kunden auf anderen Kanälen wie E-Mail oder Push angesprochen haben, je nach Antwort darauf und diese Kunden erneut mit einer In-App-Nachricht ansprechen möchten.
+Erfahren Sie, wie Sie bekannte Mobile-App-Benutzer mit Nachrichten ansprechen können, die mit CRM-Profilattributen personalisiert wurden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)
-
-*In-App-Nachricht mit einer [!UICONTROL Kampagnenprofilvorlage]*

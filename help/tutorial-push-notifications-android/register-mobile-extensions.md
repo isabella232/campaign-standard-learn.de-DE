@@ -7,16 +7,16 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 14%
+source-wordcount: '111'
+ht-degree: 12%
 
 ---
 
 # Schritt 3: Registrieren der Erweiterungen für Ihre Mobile App
 
-In diesem Teil fügen wir den Code hinzu, um die Erweiterungen Benutzerprofil, Identität, Lebenszyklus und Signal zu registrieren. Diese Erweiterungen sind Teil von [[!UICONTROL Mobile Core-Erweiterungen]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Außerdem müssen wir die Adobe Campaign Standard-Erweiterung registrieren, wie im folgenden Code dargestellt.
+In diesem Teil fügen wir den Code hinzu, um die Benutzerprofil-, Identitäts-, Lebenszyklus- und Signal-Erweiterungen zu registrieren. Wir müssen auch die Adobe Campaign Standard-Erweiterung registrieren, wie im folgenden Code dargestellt.
 
 Öffnen Sie Ihr Projekt in [!DNL Android] Studio. Den gesamten Code in MainApp löschen **mit Ausnahme der ersten Zeile, die Ihre Paketanweisung ist**.
 

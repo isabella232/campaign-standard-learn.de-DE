@@ -10,15 +10,15 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 7%
+source-wordcount: '54'
+ht-degree: 9%
 
 ---
 
 # Erstellen Sie einen Bericht zu Ihrer [!UICONTROL In-App] delivery {#in-app-message-reporting}
 
-Sie können Ihre [!UICONTROL In-App] Versandbezogene Daten in der Versandzusammenfassung durch Hinzufügen von [!UICONTROL In-App]-spezifische Metriken. Alternativ können Sie die vordefinierte [In-App-Bericht](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
+Erfahren Sie, wie Sie dem Benutzer als Reaktion auf das Echtzeit-Verhalten eines Kunden in der Mobile App kontextuell relevante In-App-Nachrichten präsentieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12&learn=on)
