@@ -2,7 +2,7 @@
 title: Erste Schritte mit E-Mail-Designer
 description: Die allgemeine Funktionalität von E-Mail-Designer verstehen und wie man eine E-Mail von Grund auf entwirft.
 feature: Email Design
-kt: 2391
+jira: KT-2391
 thumbnail: 25912.jpg
 doc-type: feature video
 activity: use
@@ -10,9 +10,9 @@ team: TM
 exl-id: 298fa9c5-153b-4886-9324-82d2651060ab
 role: User, Developer
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: ht
-source-wordcount: '46'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
