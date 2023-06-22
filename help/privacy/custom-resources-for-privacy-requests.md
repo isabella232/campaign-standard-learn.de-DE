@@ -2,15 +2,15 @@
 title: Ändern benutzerdefinierter Ressourcen beim Einrichten von Adobe Campaign Standard für Datenschutzanfragen
 description: Beim Einrichten von Adobe Campaign Standard für die Verarbeitung von Datenschutzanfragen müssen Sie sicherstellen, dass alle benutzerdefinierten Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
 feature: Privacy Tools
-kt: 1243
+jira: KT-1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: ht
-source-wordcount: '198'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
