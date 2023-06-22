@@ -2,7 +2,7 @@
 title: Prädiktive Sendezeitoptimierung
 description: Hier lernen Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe Campaign und dem Journey-KI-Modell erforderlich sind. Erfahren Sie, wie Sendezeitbewertungen auf der Ebene einzelner Profile angezeigt werden und wie E-Mail-Sendungen mithilfe einer Sendezeitformel ausgeführt werden können.
 feature: Send Time Optimization
-kt: 6274
+jira: KT-6274
 thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
@@ -10,9 +10,9 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: ht
-source-wordcount: '209'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
