@@ -2,16 +2,16 @@
 title: Erstellen benutzerdefinierter Ressourcen – Einführung
 description: Dieses mehrteilige Tutorial führt Sie durch die Schritte, die zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen erforderlich sind.
 feature: Data Model
-kt: 2999
+jira: KT-2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: ht
-source-wordcount: '187'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
