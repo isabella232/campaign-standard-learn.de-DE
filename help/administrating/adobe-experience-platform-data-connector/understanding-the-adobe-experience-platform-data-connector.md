@@ -2,13 +2,13 @@
 title: Grundlegendes zum Adobe Experience Platform Data Connector
 description: Adobe Experience Platform Data Connector hilft Bestandskunden, ihre Daten in Adobe Experience Platform verfügbar zu machen, indem XTK-Daten (in Campaign aufgenommene Daten) den XDM-Daten (Experience-Datenmodell) in Adobe Experience Platform zugeordnet werden.
 feature: People Core Service Integration
-kt: 2826
+jira: KT-2826
 thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 16%
@@ -23,7 +23,7 @@ ht-degree: 16%
 >
 >Bitte wenden Sie sich an [!UICONTROL Adobe-Kundensupport] , wenn Sie diese Funktion implementieren möchten.
 
-## Überblick
+## Übersicht
 
 Adobe Experience Platform [!UICONTROL Data Connector] hilft Bestandskunden, ihre Daten in Adobe Experience Platform verfügbar zu machen, indem XTK-Daten (in Adobe Campaign erfasste Daten) zugeordnet werden zu [!DNL Experience Data Model] (XDM)-Daten in Adobe Experience Platform.
 
