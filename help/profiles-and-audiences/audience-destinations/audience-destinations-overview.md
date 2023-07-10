@@ -11,9 +11,9 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '172'
 ht-degree: 4%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 4%
 >
 >Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziele] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Bitte wenden Sie sich an [!UICONTROL Adobe-Kundensupport] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an [!UICONTROL Adobe-Kundensupport] , wenn Sie diese Funktion implementieren möchten.
 >
 
 In diesem Tutorial wird erläutert, wie Sie die zentralisierten und konsolidierten Profildaten aus der Adobe Experience Platform für Marketingkampagnen in Adobe Campaign Standard verwenden können.
 
-Die [!UICONTROL Zielgruppen] -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus dem [Adobe Experience Platform - Datendienste](https://www.adobe.io/apis/experienceplatform/home/services.html) , die in [Echtzeit-Kundenprofil](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+Die [!UICONTROL Zielgruppen] -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus dem [Adobe Experience Platform - Datendienste](https://developer.adobe.com/apis/experienceplatform/home/services.html) , die in [Echtzeit-Kundenprofil](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 Die folgenden Video-Tutorials führen Sie durch die verschiedenen Schritte:
 
