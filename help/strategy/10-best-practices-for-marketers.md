@@ -2,12 +2,13 @@
 title: Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute
 description: Lernen Sie die zehn Best Practices kennen, die Nutzerinnen und Nutzer von Adobe Campaign dabei unterstützen, den digitalen Wandel des Verbraucherverhaltens zu beschleunigen und Kundinnen und Kunden ein besseres Erlebnis zu bieten.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11779
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
 workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 100%
