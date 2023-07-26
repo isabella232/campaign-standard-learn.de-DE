@@ -9,7 +9,7 @@ jira: KT-11779
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
 source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1279'
 ht-degree: 100%
 
@@ -66,13 +66,13 @@ Zustellbarkeitsprobleme können durch verschiedene Faktoren verursacht werden �
 
 ## 8. Einen retrospektiven Prozess für Kampagnen planen und entwickeln
 
-So sehr Sie auch mit dem Versand und der Orchestrierung von Kampagnen beschäftigt sind, es ist oft genauso wichtig, wenn nicht sogar wichtiger, das Erreichte zu überprüfen und Ihre Prozesse sowie die Segmentierung Ihrer Kampagnen neu zu bewerten. Führen Sie je nach Umfang und Geschwindigkeit Ihrer Kampagnenausführungen alle zwei bis vier Wochen Retrospektiven zu den Kampagnen durch.
+So sehr Sie auch mit dem Versand und der Orchestrierung von Kampagnen beschäftigt sind, es ist oft genauso wichtig, wenn nicht sogar wichtiger, das Erreichte zu überprüfen und Ihre Prozesse sowie die Segmentierung Ihrer Kampagnen neu auszuwerten. Führen Sie je nach Umfang und Geschwindigkeit Ihrer Kampagnenausführungen alle zwei bis vier Wochen Retrospektiven zu den Kampagnen durch.
 
 Die Erstellung eines Fragenkatalogs kann Ihnen dabei helfen, detailliert zu besprechen, wie Sie die Vorlaufzeiten von Kampagnen, die kreativen Inhalte oder die Segmentierung verbessern können, um nur einige Themen zu nennen. Sie können sich manchmal nur verbessern und schneller werden, wenn Sie aus dem lernen, was Sie zuvor getan haben.
 
 ## 9. Prüfen und Wiederholen
 
-Wenn neue Dinge ausprobiert werden, funktioniert es nicht immer gleich beim ersten Mal. Daher ist es entscheidend, Ihre Prozesse und Taktiken zu testen und erneut zu durchlaufen. Versuchen Sie es mit einer Gruppe von Personen, die eine lange Perspektive haben oder gut geeignet sein könnten. Werden Sie kreativ. Probieren Sie eine neue Handlungsaufforderung aus. Veränderungen nur um der Veränderung willen sind nicht produktiv – aber viele kleine und präzise Experimente im Laufe der Zeit können zu potenziell großen zukünftigen Gewinnen für Sie und Ihre Kundschaft führen.
+Wenn neue Dinge ausprobiert werden, funktioniert es nicht immer gleich beim ersten Mal. Daher ist es entscheidend, Ihre Prozesse und Taktiken zu testen und erneut zu durchlaufen. Versuchen Sie es mit einer Gruppe von Personen, die eine lange Perspektive haben oder gut geeignet sein könnten. Werden Sie kreativ. Probieren Sie einen neuen Aktionsaufruf aus. Veränderungen nur um der Veränderung willen sind nicht produktiv – aber viele kleine und präzise Experimente im Laufe der Zeit können zu potenziell großen zukünftigen Gewinnen für Sie und Ihre Kundschaft führen.
 
 ## 10. So agil wie möglich bleiben
 
