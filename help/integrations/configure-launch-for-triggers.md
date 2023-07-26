@@ -11,10 +11,10 @@ team: TM
 hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Integration" type="positive"
-source-git-commit: a16aae1f2100be43993e7a0dfbad0002a5604223
+source-git-commit: 7e5910000bf5af9573529f03d3e47f66807a77ed
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 2%
+source-wordcount: '85'
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Erfahren Sie, wie Sie die Adobe Experience Platform-Datenerfassung durchführen und die erforderlichen Eigenschaften zu Ihrer Website hinzufügen, um Ihre Konfiguration zu testen.
 
->[!NHinweis]
+>[!IMPORTANT]
 >
 > Beachten Sie, dass Launch jetzt die Funktion Tags von Adobe Experience Platform ist. Sie finden sie unter **Adobe Experience Platform-Datenerfassungen**.
 
