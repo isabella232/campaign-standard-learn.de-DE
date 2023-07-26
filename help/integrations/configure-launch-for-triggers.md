@@ -8,18 +8,22 @@ doc-type: feature video
 role: Admin
 level: Experienced
 team: TM
-hidefromtoc: true
+hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Integration" type="positive"
-source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
+source-git-commit: a16aae1f2100be43993e7a0dfbad0002a5604223
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 1%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 # Konfigurieren der Adobe Experience Platform-Datenerfassung für Trigger
 
 Erfahren Sie, wie Sie die Adobe Experience Platform-Datenerfassung durchführen und die erforderlichen Eigenschaften zu Ihrer Website hinzufügen, um Ihre Konfiguration zu testen.
+
+>[!NHinweis]
+>
+> Beachten Sie, dass Launch jetzt die Funktion Tags von Adobe Experience Platform ist. Sie finden sie unter **Adobe Experience Platform-Datenerfassungen**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
