@@ -1,5 +1,5 @@
 ---
-title: Die Wirkung von Sendungen in Adobe Analytics verfolgen
+title: Erfolgreiche Sendungen Ihrer Campaign Standard in Adobe Analytics verfolgen
 description: Erfahren Sie, wie Sie die Integration von Campaign Standard und Analytics konfigurieren. Verstehen Sie, wie Sie einen Bericht in Analytics mit den von Campaign Standard erhaltenen Daten erstellen und welche KPIs verfügbar sind.
 feature: Application Settings
 topic: Integrations
@@ -11,14 +11,14 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="Integration" type="positive"
-source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
+source-git-commit: 019060e150a00b2d615b0ad694c664475b00c302
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 79%
 
 ---
 
-# Die Wirkung von Sendungen in Adobe Analytics verfolgen
+# Erfolgreiche Sendungen Ihrer Campaign Standard in Adobe Analytics verfolgen
 
 Erfahren Sie, wie Sie die Integration von Campaign Standard und Analytics konfigurieren. Verstehen Sie, wie Sie einen Bericht in Analytics mit den von Campaign Standard erhaltenen Daten erstellen und welche KPIs verfügbar sind.
 
