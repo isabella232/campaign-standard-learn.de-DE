@@ -3,11 +3,13 @@ title: 'Schritt 5: Verbreiten von Benachrichtigungen'
 description: In diesem Teil propagieren wir die von Adobe Campaign empfangene Nachricht mithilfe von Android Notification Manager.Firebase
 feature: Push
 jira: KT-4829
+user: Admin
+level: Experienced
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 200dcb4d6698c174f7fde508779609b11043d031
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%
@@ -16,7 +18,7 @@ ht-degree: 3%
 
 # Dienst zum Senden von Benachrichtigungen hinzufügen
 
-In diesem Teil werden wir die von Adobe Campaign empfangene Nachricht mithilfe von [!DNL Android Notification Manager]. [!DNL Notification manager] wird verwendet, um den Benutzer über Ereignisse zu informieren, die auftreten.
+In diesem Teil propagieren wir die von Adobe Campaign empfangene Nachricht mithilfe von [!DNL Android Notification Manager]. [!DNL Notification manager] wird verwendet, um den Benutzer über Ereignisse zu benachrichtigen, die auftreten.
 So erzählen Sie dem Benutzer, dass etwas im Hintergrund passiert ist:
 
 * Starten [!DNL Android Studio]
