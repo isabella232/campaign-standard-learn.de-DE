@@ -2,13 +2,15 @@
 title: 'Schritt 2: Integrieren des Mobile SDK'
 description: In diesem Teil integrieren wir die Android-App mit dem Mobile SDK. So integrieren Sie das mobile SDK in die Android-App
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4826
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 913d2c08dc63e2073b3abd1de6b6b16711d817da
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 3%
@@ -17,7 +19,7 @@ ht-degree: 3%
 
 # SCHRITT 2: Integrieren [!UICONTROL Mobile SDK] mit Android-App
 
-In diesem Teil werden wir die [!DNL Android] App mit [!UICONTROL Mobile SDK]. Integration [!UICONTROL Mobile SDK] mit dem [!DNL Android] App verwenden, führen Sie die folgenden Schritte aus:
+In diesem Teil werden wir die [!DNL Android] App mit [!UICONTROL Mobile SDK]. Zur Integration [!UICONTROL Mobile SDK] mit dem [!DNL Android] App verwenden, führen Sie die folgenden Schritte aus:
 
 * Öffnen Sie die *ACSPushTutorial* Projekt in [!DNL Android Studio]
 * Erstellen Sie eine neue Java-Klasse mit dem Namen *MainApp* , die [!DNL android.app.Application]
@@ -56,8 +58,8 @@ Removed `{.line-numbers}` below
 
 Kopieren Sie die folgende Zeile im Anwendungselement
 [!DNL android:name=".MainApp"]
-Speichern Sie Ihre [!DNL AndroidManifest.xml]
-Ihre [!DNL AndroidManifest.xml] sollte wie folgt aussehen:
+Speichern Sie [!DNL AndroidManifest.xml]
+Ihre [!DNL AndroidManifest.xml] sollte wie folgt aussehen
 
 <!--
 Removed `{.line-numbers}` below
