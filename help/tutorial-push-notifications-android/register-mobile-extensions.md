@@ -2,12 +2,14 @@
 title: 'Schritt 3: Registrieren der Erweiterungen für Ihre Mobile App'
 description: In diesem Teil fügen wir den Code zur Registrierung der UserProfile-, Identity-, Lifecycle- und Signal-Erweiterungen hinzu.
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 12%
@@ -16,7 +18,7 @@ ht-degree: 12%
 
 # Schritt 3: Registrieren der Erweiterungen für Ihre Mobile App
 
-In diesem Teil fügen wir den Code hinzu, um die Benutzerprofil-, Identitäts-, Lebenszyklus- und Signal-Erweiterungen zu registrieren. Wir müssen auch die Adobe Campaign Standard-Erweiterung registrieren, wie im folgenden Code dargestellt.
+In diesem Teil fügen wir den Code hinzu, um die Erweiterungen Benutzerprofil, Identität, Lebenszyklus und Signal zu registrieren. Wir müssen auch die Adobe Campaign Standard-Erweiterung registrieren, wie im folgenden Code dargestellt.
 
 Öffnen Sie Ihr Projekt in [!DNL Android] Studio. Den gesamten Code in MainApp löschen **mit Ausnahme der ersten Zeile, die Ihre Paketanweisung ist**.
 
