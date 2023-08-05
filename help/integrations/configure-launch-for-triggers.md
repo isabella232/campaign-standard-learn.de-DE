@@ -12,9 +12,9 @@ hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Integration" type="positive"
 source-git-commit: 7e5910000bf5af9573529f03d3e47f66807a77ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ Erfahren Sie, wie Sie die Adobe Experience Platform-Datenerfassung durchführen 
 
 >[!IMPORTANT]
 >
-> Beachten Sie, dass Launch jetzt die Funktion Tags von Adobe Experience Platform ist. Sie finden sie unter **Adobe Experience Platform-Datenerfassungen**.
+> Beachten Sie, dass Launch jetzt die Funktion Tags von Adobe Experience Platform ist. Diese finden Sie unter **Adobe Experience Platform-Datenerfassung**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
