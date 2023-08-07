@@ -1,5 +1,5 @@
 ---
-title: Fehlerbehebung für Marketingexperten
+title: Fehlerbehebung für Marketing-Fachleute
 description: Das Wissen über die häufigsten Fehler kann bei der schnelleren Problemlösung helfen und Ihre Produktivität steigern. Diese Tipps zur Fehlerbehebung helfen Ihnen dabei, ähnliche Fehler wie sie auftreten effektiv zu beheben.
 version: Standard
 feature: Workflows
@@ -9,19 +9,19 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 3da1b695d56f9deb5747cc89de023f19a5b25bad
+exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
+source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-
-# Fehlerbehebung für Marketingexperten: 5 Allgemeine Workflow- und Bereitstellungsfehler
+# Fehlerbehebung für Marketingexperten: 5 häufige Workflow- und Bereitstellungsfehler
 
 Von: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Senior Consultant, Meijer
 
-Als Senior Engineer und Customer Experte für Adobe Experience Cloud-Produkte in den letzten fünf Jahren habe ich Geschäftsbenutzer bei [Meijer](https://www.meijer.com/){target="_blank"}, eine 1934 gegründete amerikanische Supercenter-Kette, die komplexe Marketing- und Transaktionskampagnen mit ACS durchführt. Zu den Projekten, an denen ich gearbeitet habe, gehören benutzerdefinierte Kampagnen zum Speichern von Angeboten und Bestelldetails für die Personalisierung, die Integration in Adobe Audience Manager und Kundeneinblicke für die Segmentaufnahme.
+Als Senior Engineer und Customer Experte für Adobe Experience Cloud-Produkte in den letzten fünf Jahren habe ich Geschäftsbenutzer bei [Meijer](https://www.meijer.com/){target="_blank"}, eine 1934 gegründete amerikanische Supercenter-Kette, die komplexe Marketing- und Transaktionskampagnen mit ACS durchführt. Zu den Projekten, an denen ich gearbeitet habe, zählen benutzerspezifische Kampagnen zum Speichern von Angeboten und Bestelldetails für die Personalisierung, die Integration in Adobe Audience Manager und Kundeneinblicke für die Segmentaufnahme.
 
 
 In meiner Zeit mit ACS bin ich auf Fehler gestoßen, die zeitaufwendig und frustrierend sein können zu lösen. Das Wissen über die häufigsten Fehler kann bei der schnelleren Problemlösung helfen und Ihre Produktivität steigern. Im Folgenden finden Sie meine Tipps zur Fehlerbehebung, mit denen Sie ähnliche Fehler wirksam beheben können, sobald sie auftreten.
@@ -91,7 +91,7 @@ Es gibt zwei Möglichkeiten, diesen Fehler zu beheben:
 
 **Ursache:**
 
-Fehlerquellen können in einer **Anreicherungsaktivität**. Eine der häufigsten wird unten angezeigt.
+Fehlerquellen können in einer **Anreicherung**. Eine der häufigsten wird unten angezeigt.
 
 ![Fehler bei ausgelassenem Feldnamen](/help/assets/kt-13256/field-name-dropped-error.png)
 
@@ -103,7 +103,7 @@ Sie können diesen Fehler auf drei Arten beheben:
 
 1. Ändern Sie den Namen zurück in den ursprünglich vorhandenen Ausdruck.
 
-2. Wenn Sie einen neuen Namen verwenden möchten, ändern Sie die Werte in der **Anreicherungsaktivität**.
+2. Wenn Sie einen neuen Namen verwenden möchten, ändern Sie die Werte in der **Anreicherung**.
 
 3. Wenn Sie sich nicht erinnern, was sich geändert hat, wäre es am besten, die Aktivität neu zu erstellen.
 

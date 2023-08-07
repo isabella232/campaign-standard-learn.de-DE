@@ -23,4 +23,4 @@ In diesem Video wird gezeigt, wie ein vorhandener E-Mail-, SMS-Versand oder eine
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12&learn=on)
 
-Weitere Informationen finden Sie in der Produktdokumentation zu [Erstellen einer mehrsprachigen E-Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+Weitere Informationen finden Sie in der Produktdokumentation [Erstellen einer mehrsprachigen E-Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)

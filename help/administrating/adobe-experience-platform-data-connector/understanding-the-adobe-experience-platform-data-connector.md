@@ -35,7 +35,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] ist für Dateningenieure g
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12&learn=on)
 
-*In diesem Video erhalten Sie einen Überblick über die Adobe Experience Platform [!UICONTROL Data Connector] (09:35 Min.)*
+*In diesem Video erhalten Sie einen Überblick über Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] ist für Dateningenieure g
 >
 >Bestehend [!UICONTROL Erlebnisereignisse] kann nicht in Adobe Experience Platform aufgenommen werden, aber fortlaufend generiert werden [!UICONTROL Erlebnisereignisse] werden an Adobe Experience Platform gestreamt.
 
-## Wichtige Schritte zum Durchführen eines Daten-Mappings
+## Wichtige Schritte zum Durchführen einer Datenzuordnung
 
 In den folgenden Tutorials werden die wichtigsten Schritte zum Durchführen einer Datenzuordnung zwischen Campaign Standard und Adobe Experience Platform beschrieben:
 

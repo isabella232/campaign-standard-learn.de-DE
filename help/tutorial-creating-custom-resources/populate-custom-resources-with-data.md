@@ -21,4 +21,4 @@ Erfahren Sie, wie Sie benutzerdefinierte Ressourcen mit Daten aus einer [!DNL CS
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
-Weitere Informationen zum Auffüllen benutzerdefinierter Ressourcen über ein [!DNL API], siehe die Dokumentation: [Interagieren mit benutzerdefinierten Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).
+Weitere Informationen zum Auffüllen benutzerdefinierter Ressourcen über ein [!DNL API]finden Sie in der Dokumentation: [Interagieren mit benutzerdefinierten Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).

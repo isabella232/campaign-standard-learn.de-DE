@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Berichts auf der Basis von Workflow-Segmenten
-description: Erfahren Sie, wie Sie in Ihrem Workflow Segmente definieren und diese in dynamische Berichte umwandeln können.
+description: Erfahren Sie, wie Sie in Ihrem Workflow Segmente definieren und diese in dynamische Berichte umwandeln.
 feature: Reporting
 jira: KT-3252
 thumbnail: 28262.jpg
@@ -21,7 +21,7 @@ ht-degree: 50%
 
 Nachdem Sie einen Workflow erstellt und Ihre Population durch Filterung in unterschiedliche Zielgruppen unterteilt haben, können Sie die Effizienz Ihrer Marketing-Kampagnen anhand von den in diesem Zielgruppen-Workflow definierten Segmenten messen.
 
-Erfahren Sie, wie Sie in Ihrem Workflow Segmente definieren und diese in dynamische Berichte umwandeln können.
+Erfahren Sie, wie Sie in Ihrem Workflow Segmente definieren und diese in dynamische Berichte umwandeln.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12&learn=on)
 

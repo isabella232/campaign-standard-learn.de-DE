@@ -25,7 +25,7 @@ ht-degree: 5%
 >
 >Bitte wenden Sie sich an [!UICONTROL Adobe-Kundensupport] , wenn Sie diese Funktion implementieren möchten.
 
-In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Audience] innerhalb eines Workflows mithilfe der [!UICONTROL Audience lesen] Aktivität.
+In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Audience] innerhalb eines Workflows mithilfe der [!UICONTROL Audience lesen] -Aktivität.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
 

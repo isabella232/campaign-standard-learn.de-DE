@@ -1,5 +1,5 @@
 ---
-title: Erstellen berichtsbasierter benutzerdefinierter Profilattribute
+title: Berichtsbasierte benutzerdefinierte Profilattribute erstellen
 description: Erfahren Sie, wie Sie einen Bericht erstellen, der auf benutzerdefinierten Profilattributen basiert.
 feature: Reporting
 jira: KT-1444

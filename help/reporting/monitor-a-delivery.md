@@ -1,5 +1,5 @@
 ---
-title: Überwachen von Sendungen
+title: Überwachen eines Versands
 description: Verstehen Sie Nachrichtenprotokolle, Auftragsprotokolle und Versandlogs.
 feature: Monitoring
 role: User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-27T00:00:00Z
 jira: KT-11926
 thumbnail: 3415815.jpeg
-source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+exl-id: f44fc9f3-ba89-4059-aa6a-3af9bc68a277
+source-git-commit: 0bc0c1de795bb68be0be4818514e79f05c7d29bc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '22'
+ht-degree: 27%
 
 ---
 
-
-# Überwachen von Sendungen
+# Überwachen eines Versands
 
 Verstehen Sie Nachrichtenprotokolle, Auftragsprotokolle und Versandlogs.
 

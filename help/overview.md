@@ -8,7 +8,7 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 100%
 
@@ -24,15 +24,15 @@ Adobe Campaign bietet eine Plattform zur Erstellung kanalübergreifender Kundene
 
 * **[Nachrichtenplanung](/help/communication-channels/email/schedule-messages.md)**
 
-   *Erfahren Sie, wie Sie einen Zeitplan für einen E-Mail-Versand erstellen.*
+  *Erfahren Sie, wie Sie einen Zeitplan für einen E-Mail-Versand erstellen.*
 
 * **[Durchführen eines Testversands](/help/communication-channels/email/send-a-proof.md)**
 
-   *Erfahren Sie, wie Sie eine E-Mail-Nachricht testen können, bevor Sie sie an die endgültigen Empfangenden senden.*
+  *Erfahren Sie, wie Sie eine E-Mail-Nachricht testen können, bevor Sie sie an die endgültigen Empfangenden senden.*
 
 * **[Zehn Best Practices für die erfolgreiche Nutzung von Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Lernen Sie die zehn Best Practices kennen, die Nutzerinnen und Nutzer von Adobe Campaign dabei unterstützen, den digitalen Wandel des Verbraucherverhaltens zu beschleunigen und Kundinnen und Kunden ein besseres Erlebnis zu bieten.*
+  *Lernen Sie die zehn Best Practices kennen, die Nutzerinnen und Nutzer von Adobe Campaign dabei unterstützen, den digitalen Wandel des Verbraucherverhaltens zu beschleunigen und Kundinnen und Kunden ein besseres Erlebnis zu bieten.*
 
 </div>
 
