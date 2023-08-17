@@ -26,7 +26,7 @@ ht-degree: 4%
 >
 >Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziele] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Wenden Sie sich an [!UICONTROL Adobe-Kundensupport] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an [!UICONTROL Adobe-Kundenunterstützung] , wenn Sie diese Funktion implementieren möchten.
 >
 
 In diesem Tutorial wird erläutert, wie Sie die zentralisierten und konsolidierten Profildaten aus der Adobe Experience Platform für Marketingkampagnen in Adobe Campaign Standard verwenden können.

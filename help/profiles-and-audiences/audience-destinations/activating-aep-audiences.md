@@ -23,7 +23,7 @@ ht-degree: 5%
 >
 >Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziele] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Bitte wenden Sie sich an [!UICONTROL Adobe-Kundensupport] , wenn Sie diese Funktion implementieren möchten.
+>Bitte wenden Sie sich an [!UICONTROL Adobe-Kundenunterstützung] , wenn Sie diese Funktion implementieren möchten.
 
 In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Audience] innerhalb eines Workflows mithilfe der [!UICONTROL Audience lesen] -Aktivität.
 
