@@ -10,10 +10,10 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 53%
+source-wordcount: '176'
+ht-degree: 52%
 
 ---
 
@@ -30,7 +30,7 @@ Beispiele für Anwendungsfälle sind:
 
 In diesem Video wird die Verwendung der [!UICONTROL Aktivität &quot;Externe API&quot;] veranschaulicht.
 
->[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
 
 *[!UICONTROL Aktivität &quot;Externe API&quot;] (06:48 min)*
 

@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 100%
+source-wordcount: '175'
+ht-degree: 98%
 
 ---
 
@@ -23,7 +23,7 @@ In diesem Video wird erläutert, wie Sie Ihre E-Mail-Nachrichten mit Hilfe der [
 
 Angenommen, Sie möchten einen personalisierten E-Mail-Newsletter versenden. Vor dem Versand des Newsletters möchte jedoch ein Kollege diesen überprüfen und hat um Testsendungen gebeten. Sie können die [!UICONTROL Profilersetzungsfunktionen] verwenden, um einen Testversand durchzuführen. Sie können damit eine genaue Darstellung der Nachricht senden, die das Zielgruppenprofil empfängt.
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32368?learn=on){transcript=true}
 
 Weitere Informationen finden Sie in der detaillierten [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=de).
 

@@ -10,10 +10,10 @@ team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: User, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 25%
+source-wordcount: '105'
+ht-degree: 24%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 25%
 
 Erfahren Sie, wie Sie Ihre kreativen Inhalte von einer Website abrufen und in Email Designer laden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
 
 ## Kompatibilität vorhandener HTML-Inhalte {#making-existing-html-content-compatible}
 

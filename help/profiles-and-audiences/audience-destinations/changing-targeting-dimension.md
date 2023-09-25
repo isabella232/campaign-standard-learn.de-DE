@@ -10,9 +10,9 @@ team: TM
 exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 3%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 3%
 
 In diesem Video wird erläutert, wie Sie die Zielgruppendimension eines Versands für einen Versand ändern [!UICONTROL Plattform-Zielgruppe] außerhalb der primären Profiltabelle in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}

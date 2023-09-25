@@ -10,9 +10,9 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '185'
 ht-degree: 8%
 
 ---
@@ -31,6 +31,6 @@ Sie können auf die [!UICONTROL Unified Segment Builder] direkt in Adobe Campaig
 
 Im folgenden Video wird erläutert, wie eine neue Zielgruppe mit [!UICONTROL Unified Segment Builder] innerhalb von Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
 *Erstellen einer Zielgruppe in Adobe Campaign Standard mithilfe des Unified Segment Builder (min. 02:47)*

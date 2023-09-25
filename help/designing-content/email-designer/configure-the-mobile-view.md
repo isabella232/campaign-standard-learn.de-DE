@@ -10,10 +10,10 @@ team: TM
 exl-id: 6b1f8b62-fff0-4ef4-8537-a88658e28ab2
 role: User, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 66%
+source-wordcount: '58'
+ht-degree: 63%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 66%
 
 In diesem Video wird erläutert, wie Sie das responsive Design einer E-Mail anpassen, indem Sie alle Stiloptionen für die Anzeige auf Mobilgeräten einzeln bearbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}

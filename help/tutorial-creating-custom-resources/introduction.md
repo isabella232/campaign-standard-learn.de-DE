@@ -9,10 +9,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ Um benutzerdefinierte Ressourcen erstellen zu können, benötigen Sie Administra
 
 Um zusätzliche Informationen zu Bestellungen eines Kunden für Marketing- und Remarketing-Zwecke verwenden zu können, muss das [!DNL Campaign]-Datenmodell durch Hinzufügen benutzerdefinierter Tabellen erweitert werden. Für diesen Anwendungsfall müssen ein Kunde und eine Tabelle mit Bestellungen erstellt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?learn=on){transcript=true}
 
 In diesem Tutorial wird Folgendes erläutert:
 

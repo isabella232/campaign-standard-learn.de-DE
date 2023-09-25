@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 72%
+source-wordcount: '195'
+ht-degree: 71%
 
 ---
 
@@ -28,4 +28,4 @@ Mit [!UICONTROL Journey-KI] kann [!DNL Adobe Campaign] Öffnungsraten, optimale 
 
 Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung von Kundenermüdung erstellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}

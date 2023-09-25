@@ -10,9 +10,9 @@ team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 role: User
 level: Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Mit Adobe Campaign können Sie die betrieblichen Komplexitäten beim Versand meh
 
 In diesem Video wird erläutert, wie Sie einen mehrsprachigen Versand basierend auf einer Vorlage erstellen, der beispielsweise einem E-Mail-Newsletter entspricht. Der in den Videos dargestellte Ansatz gilt sowohl für E-Mail- als auch für SMS-Sendungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23252?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}

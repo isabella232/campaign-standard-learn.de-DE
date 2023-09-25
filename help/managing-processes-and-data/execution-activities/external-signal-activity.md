@@ -10,9 +10,9 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Die [!UICONTROL Aktivität &quot;Externes Signal&quot;] wird verwendet, um versc
 
 Erfahren Sie, wie Sie [!UICONTROL Aktivität &quot;Externes Signal&quot;] um Parameter** von einem externen System zu empfangen, passen Sie einen Workflow mit externen Parametern an und konfigurieren Sie eine Endaktivität, um einen Workflow mit den externen Parametern aufzurufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}

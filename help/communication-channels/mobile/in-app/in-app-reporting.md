@@ -10,10 +10,10 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 9%
+source-wordcount: '56'
+ht-degree: 8%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 9%
 
 Erfahren Sie, wie Sie dem Benutzer als Reaktion auf das Echtzeit-Verhalten eines Kunden in der Mobile App kontextuell relevante In-App-Nachrichten präsentieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}

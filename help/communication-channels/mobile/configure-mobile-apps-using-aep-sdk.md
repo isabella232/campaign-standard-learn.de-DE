@@ -10,9 +10,9 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 7%
 
 ---
@@ -24,7 +24,7 @@ So senden Sie In-App-Nachrichten oder [!UICONTROL Push-Benachrichtigungen] mit d
 
 In den folgenden Videos werden die erforderlichen Schritte zum Konfigurieren einer Mobile App unter Experience Platform Launch gezeigt:
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
 
 >[!NOTE]
 >

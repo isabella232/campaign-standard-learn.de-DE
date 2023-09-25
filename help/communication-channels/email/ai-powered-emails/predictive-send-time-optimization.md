@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
+source-wordcount: '211'
+ht-degree: 99%
 
 ---
 
@@ -28,6 +28,6 @@ Die [!UICONTROL prädiktive Sendezeitoptimierung] sagt für jedes Empfängerprof
 
 Hier lernen Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe Campaign und dem Journey-KI-Modell erforderlich sind. Erfahren Sie, wie Sendezeitbewertungen auf der Ebene einzelner Profile angezeigt werden und wie E-Mail-Sendungen mithilfe einer Sendezeitformel ausgeführt werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
 
 Weitere Informationen zu diesem Thema finden Sie in der Produktdokumentation [Optimierung von Design und Versand mit KI-gestützten E-Mails](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=de)
