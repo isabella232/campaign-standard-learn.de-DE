@@ -4,9 +4,9 @@ user-guide-description: Gestalten Sie Kundenerlebnisse auf unterschiedlichsten K
 breadcrumb-title: Campaign Standard-Tutorials
 auto-video-transcripts: true
 source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '567'
+ht-degree: 100%
 
 ---
 
