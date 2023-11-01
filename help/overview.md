@@ -4,12 +4,10 @@ description: Adobe Campaign bietet eine Plattform zur Erstellung kanalübergreif
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
-role: User, Admin, Developer
-level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
-source-wordcount: '286'
+source-git-commit: fad29341cb352d7d010735d97954de99d5b1686e
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
