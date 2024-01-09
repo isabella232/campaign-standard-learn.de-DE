@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe Campaign Standard – Tutorials
-user-guide-description: Gestalten Sie Kundenerlebnisse auf unterschiedlichsten Kanälen und schaffen Sie eine Umgebung für visuelle Kampagnenorchestrierungen, Interaktionsverwaltung in Echtzeit und kanalübergreifende Ausführung.
+user-guide-description: Videos und Tutorials für Adobe Campaign Standard
 breadcrumb-title: Campaign Standard-Tutorials
 auto-video-transcripts: true
-source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
-workflow-type: ht
-source-wordcount: '567'
-ht-degree: 100%
+source-git-commit: e694b637033066142bdb385a4b64243e9518a0ec
+workflow-type: tm+mt
+source-wordcount: '516'
+ht-degree: 98%
 
 ---
 
