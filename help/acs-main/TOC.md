@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe Campaign Standard – Tutorials
-user-guide-description: Videos und Tutorials für Adobe Campaign Standard.
+user-guide-description: Videos und Tutorials zu Adobe Campaign Standard.
 breadcrumb-title: Campaign Standard-Tutorials
 auto-video-transcripts: true
 source-git-commit: dcbc833ea7dce4821b183f231775b4d4c1eaf8d3
 workflow-type: tm+mt
 source-wordcount: '516'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
