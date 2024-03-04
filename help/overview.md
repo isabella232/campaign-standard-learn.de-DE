@@ -1,20 +1,20 @@
 ---
 title: Adobe Campaign Standard – Tutorials – Übersicht
-description: Adobe Campaign bietet eine Plattform zur Erstellung kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu zahlreichen Funktionen von Adobe Campaign Standard.
+description: Adobe Campaign bietet eine Plattform zur Erstellung kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
-source-git-commit: ff7a80a06eb16a8b30202bec8fc82bf46b19e28a
-workflow-type: ht
+source-git-commit: de9f1bc51e95330b3c6a04426d11de2aea845697
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
 ---
 
-# Adobe Campaign Standard – Übersicht
+# Adobe Campaign Standard – Tutorials
 
-Adobe Campaign bietet eine Plattform zur Erstellung kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
